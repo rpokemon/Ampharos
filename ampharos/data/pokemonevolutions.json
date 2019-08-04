@@ -1,0 +1,1590 @@
+[
+    {
+        "term": "bulbasaur",
+        "evolution": "ivysaur"
+    },
+    {
+        "term": "ivysaur",
+        "evolution": "venusaur"
+    },
+    {
+        "term": "charmander",
+        "evolution": "charmeleon"
+    },
+    {
+        "term": "charmeleon",
+        "evolution": "charizard"
+    },
+    {
+        "term": "squirtle",
+        "evolution": "wartortle"
+    },
+    {
+        "term": "wartortle",
+        "evolution": "blastoise"
+    },
+    {
+        "term": "caterpie",
+        "evolution": "metapod"
+    },
+    {
+        "term": "metapod",
+        "evolution": "butterfree"
+    },
+    {
+        "term": "weedle",
+        "evolution": "kakuna"
+    },
+    {
+        "term": "kakuna",
+        "evolution": "beedrill"
+    },
+    {
+        "term": "pidgey",
+        "evolution": "pidgeotto"
+    },
+    {
+        "term": "pidgeotto",
+        "evolution": "pidgeot"
+    },
+    {
+        "term": "alolan rattata",
+        "evolution": "raticate"
+    },
+    {
+        "term": "spearow",
+        "evolution": "fearow"
+    },
+    {
+        "term": "ekans",
+        "evolution": "arbok"
+    },
+    {
+        "term": "alolan sandshrew",
+        "evolution": "sandslash"
+    },
+    {
+        "term": "nidoran female",
+        "evolution": "nidorina"
+    },
+    {
+        "term": "nidorina",
+        "evolution": "nidoqueen"
+    },
+    {
+        "term": "nidoran male",
+        "evolution": "nidorino"
+    },
+    {
+        "term": "nidorino",
+        "evolution": "nidoking"
+    },
+    {
+        "term": "alolan vulpix",
+        "evolution": "ninetales"
+    },
+    {
+        "term": "zubat",
+        "evolution": "golbat"
+    },
+    {
+        "term": "golbat",
+        "evolution": "crobat"
+    },
+    {
+        "term": "oddish",
+        "evolution": "gloom"
+    },
+    {
+        "term": "gloom",
+        "evolution": "vileplume"
+    },
+    {
+        "term": "gloom",
+        "evolution": "bellossom"
+    },
+    {
+        "term": "paras",
+        "evolution": "parasect"
+    },
+    {
+        "term": "venonat",
+        "evolution": "venomoth"
+    },
+    {
+        "term": "alolan diglett",
+        "evolution": "dugtrio"
+    },
+    {
+        "term": "alolan meowth",
+        "evolution": "persian"
+    },
+    {
+        "term": "psyduck",
+        "evolution": "golduck"
+    },
+    {
+        "term": "mankey",
+        "evolution": "primeape"
+    },
+    {
+        "term": "growlithe",
+        "evolution": "arcanine"
+    },
+    {
+        "term": "poliwag",
+        "evolution": "poliwhirl"
+    },
+    {
+        "term": "poliwhirl",
+        "evolution": "poliwrath"
+    },
+    {
+        "term": "poliwhirl",
+        "evolution": "politoed"
+    },
+    {
+        "term": "abra",
+        "evolution": "kadabra"
+    },
+    {
+        "term": "kadabra",
+        "evolution": "alakazam"
+    },
+    {
+        "term": "machop",
+        "evolution": "machoke"
+    },
+    {
+        "term": "machoke",
+        "evolution": "machamp"
+    },
+    {
+        "term": "bellsprout",
+        "evolution": "weepinbell"
+    },
+    {
+        "term": "weepinbell",
+        "evolution": "victreebel"
+    },
+    {
+        "term": "tentacool",
+        "evolution": "tentacruel"
+    },
+    {
+        "term": "geodude",
+        "evolution": "graveler"
+    },
+    {
+        "term": "alolan geodude",
+        "evolution": "graveler"
+    },
+    {
+        "term": "alolan graveler",
+        "evolution": "golem"
+    },
+    {
+        "term": "ponyta",
+        "evolution": "rapidash"
+    },
+    {
+        "term": "slowpoke",
+        "evolution": "slowbro"
+    },
+    {
+        "term": "slowpoke",
+        "evolution": "slowking"
+    },
+    {
+        "term": "magnemite",
+        "evolution": "magneton"
+    },
+    {
+        "term": "magneton",
+        "evolution": "magnezone"
+    },
+    {
+        "term": "doduo",
+        "evolution": "dodrio"
+    },
+    {
+        "term": "seel",
+        "evolution": "dewgong"
+    },
+    {
+        "term": "alolan grimer",
+        "evolution": "muk"
+    },
+    {
+        "term": "shellder",
+        "evolution": "cloyster"
+    },
+    {
+        "term": "gastly",
+        "evolution": "haunter"
+    },
+    {
+        "term": "haunter",
+        "evolution": "gengar"
+    },
+    {
+        "term": "onix",
+        "evolution": "steelix"
+    },
+    {
+        "term": "drowzee",
+        "evolution": "hypno"
+    },
+    {
+        "term": "krabby",
+        "evolution": "kingler"
+    },
+    {
+        "term": "voltorb",
+        "evolution": "electrode"
+    },
+    {
+        "term": "exeggcute",
+        "evolution": "exeggutor"
+    },
+    {
+        "term": "cubone",
+        "evolution": "marowak"
+    },
+    {
+        "term": "lickitung",
+        "evolution": "lickilicky"
+    },
+    {
+        "term": "koffing",
+        "evolution": "weezing"
+    },
+    {
+        "term": "rhyhorn",
+        "evolution": "rhydon"
+    },
+    {
+        "term": "rhydon",
+        "evolution": "rhyperior"
+    },
+    {
+        "term": "tangela",
+        "evolution": "tangrowth"
+    },
+    {
+        "term": "horsea",
+        "evolution": "seadra"
+    },
+    {
+        "term": "seadra",
+        "evolution": "kingdra"
+    },
+    {
+        "term": "goldeen",
+        "evolution": "seaking"
+    },
+    {
+        "term": "staryu",
+        "evolution": "starmie"
+    },
+    {
+        "term": "scyther",
+        "evolution": "scizor"
+    },
+    {
+        "term": "magikarp",
+        "evolution": "gyarados"
+    },
+    {
+        "term": "eevee",
+        "evolution": "vaporeon"
+    },
+    {
+        "term": "eevee",
+        "evolution": "jolteon"
+    },
+    {
+        "term": "eevee",
+        "evolution": "flareon"
+    },
+    {
+        "term": "eevee",
+        "evolution": "espeon"
+    },
+    {
+        "term": "eevee",
+        "evolution": "umbreon"
+    },
+    {
+        "term": "eevee",
+        "evolution": "leafeon"
+    },
+    {
+        "term": "eevee",
+        "evolution": "glaceon"
+    },
+    {
+        "term": "porygon",
+        "evolution": "porygon 2"
+    },
+    {
+        "term": "omanyte",
+        "evolution": "omastar"
+    },
+    {
+        "term": "kabuto",
+        "evolution": "kabutops"
+    },
+    {
+        "term": "dratini",
+        "evolution": "dragonair"
+    },
+    {
+        "term": "dragonair",
+        "evolution": "dragonite"
+    },
+    {
+        "term": "chikorita",
+        "evolution": "bayleef"
+    },
+    {
+        "term": "bayleef",
+        "evolution": "meganium"
+    },
+    {
+        "term": "cyndaquil",
+        "evolution": "quilava"
+    },
+    {
+        "term": "quilava",
+        "evolution": "typhlosion"
+    },
+    {
+        "term": "totodile",
+        "evolution": "croconaw"
+    },
+    {
+        "term": "croconaw",
+        "evolution": "feraligatr"
+    },
+    {
+        "term": "sentret",
+        "evolution": "furret"
+    },
+    {
+        "term": "hoothoot",
+        "evolution": "noctowl"
+    },
+    {
+        "term": "ledyba",
+        "evolution": "ledian"
+    },
+    {
+        "term": "spinarak",
+        "evolution": "ariados"
+    },
+    {
+        "term": "chinchou",
+        "evolution": "lanturn"
+    },
+    {
+        "term": "pichu",
+        "evolution": "pikachu"
+    },
+    {
+        "term": "pichu",
+        "evolution": "raichu"
+    },
+    {
+        "term": "cleffa",
+        "evolution": "clefairy"
+    },
+    {
+        "term": "cleffa",
+        "evolution": "clefable"
+    },
+    {
+        "term": "igglybuff",
+        "evolution": "jigglypuff"
+    },
+    {
+        "term": "igglybuff",
+        "evolution": "wigglytuff"
+    },
+    {
+        "term": "togepi",
+        "evolution": "togetic"
+    },
+    {
+        "term": "togetic",
+        "evolution": "togekiss"
+    },
+    {
+        "term": "natu",
+        "evolution": "xatu"
+    },
+    {
+        "term": "mareep",
+        "evolution": "flaaffy"
+    },
+    {
+        "term": "flaaffy",
+        "evolution": "ampharos"
+    },
+    {
+        "term": "hoppip",
+        "evolution": "skiploom"
+    },
+    {
+        "term": "skiploom",
+        "evolution": "jumpluff"
+    },
+    {
+        "term": "aipom",
+        "evolution": "ambipom"
+    },
+    {
+        "term": "sunkern",
+        "evolution": "sunflora"
+    },
+    {
+        "term": "yanma",
+        "evolution": "yanmega"
+    },
+    {
+        "term": "wooper",
+        "evolution": "quagsire"
+    },
+    {
+        "term": "murkrow",
+        "evolution": "honchkrow"
+    },
+    {
+        "term": "misdreavus",
+        "evolution": "mismagius"
+    },
+    {
+        "term": "pineco",
+        "evolution": "forretress"
+    },
+    {
+        "term": "gligar",
+        "evolution": "gliscor"
+    },
+    {
+        "term": "snubbull",
+        "evolution": "granbull"
+    },
+    {
+        "term": "sneasel",
+        "evolution": "weavile"
+    },
+    {
+        "term": "teddiursa",
+        "evolution": "ursaring"
+    },
+    {
+        "term": "slugma",
+        "evolution": "magcargo"
+    },
+    {
+        "term": "swinub",
+        "evolution": "piloswine"
+    },
+    {
+        "term": "piloswine",
+        "evolution": "mamoswine"
+    },
+    {
+        "term": "remoraid",
+        "evolution": "octillery"
+    },
+    {
+        "term": "houndour",
+        "evolution": "houndoom"
+    },
+    {
+        "term": "phanpy",
+        "evolution": "donphan"
+    },
+    {
+        "term": "porygon 2",
+        "evolution": "porygon z"
+    },
+    {
+        "term": "tyrogue",
+        "evolution": "hitmonlee"
+    },
+    {
+        "term": "tyrogue",
+        "evolution": "hitmonchan"
+    },
+    {
+        "term": "tyrogue",
+        "evolution": "hitmontop"
+    },
+    {
+        "term": "smoochum",
+        "evolution": "jynx"
+    },
+    {
+        "term": "elekid",
+        "evolution": "electabuzz"
+    },
+    {
+        "term": "elekid",
+        "evolution": "electivire"
+    },
+    {
+        "term": "magby",
+        "evolution": "magmar"
+    },
+    {
+        "term": "magby",
+        "evolution": "magmortar"
+    },
+    {
+        "term": "larvitar",
+        "evolution": "pupitar"
+    },
+    {
+        "term": "pupitar",
+        "evolution": "tyranitar"
+    },
+    {
+        "term": "treecko",
+        "evolution": "grovyle"
+    },
+    {
+        "term": "grovyle",
+        "evolution": "sceptile"
+    },
+    {
+        "term": "torchic",
+        "evolution": "combusken"
+    },
+    {
+        "term": "combusken",
+        "evolution": "blaziken"
+    },
+    {
+        "term": "mudkip",
+        "evolution": "marshtomp"
+    },
+    {
+        "term": "marshtomp",
+        "evolution": "swampert"
+    },
+    {
+        "term": "poochyena",
+        "evolution": "mightyena"
+    },
+    {
+        "term": "zigzagoon",
+        "evolution": "linoone"
+    },
+    {
+        "term": "wurmple",
+        "evolution": "silcoon"
+    },
+    {
+        "term": "wurmple",
+        "evolution": "cascoon"
+    },
+    {
+        "term": "cascoon",
+        "evolution": "dustox"
+    },
+    {
+        "term": "lotad",
+        "evolution": "lombre"
+    },
+    {
+        "term": "lombre",
+        "evolution": "ludicolo"
+    },
+    {
+        "term": "seedot",
+        "evolution": "nuzleaf"
+    },
+    {
+        "term": "nuzleaf",
+        "evolution": "shiftry"
+    },
+    {
+        "term": "taillow",
+        "evolution": "swellow"
+    },
+    {
+        "term": "wingull",
+        "evolution": "pelipper"
+    },
+    {
+        "term": "ralts",
+        "evolution": "kirlia"
+    },
+    {
+        "term": "kirlia",
+        "evolution": "gardevoir"
+    },
+    {
+        "term": "kirlia",
+        "evolution": "gallade"
+    },
+    {
+        "term": "surskit",
+        "evolution": "masquerain"
+    },
+    {
+        "term": "shroomish",
+        "evolution": "breloom"
+    },
+    {
+        "term": "slakoth",
+        "evolution": "vigoroth"
+    },
+    {
+        "term": "vigoroth",
+        "evolution": "slaking"
+    },
+    {
+        "term": "nincada",
+        "evolution": "ninjask"
+    },
+    {
+        "term": "nincada",
+        "evolution": "shedinja"
+    },
+    {
+        "term": "whismur",
+        "evolution": "loudred"
+    },
+    {
+        "term": "loudred",
+        "evolution": "exploud"
+    },
+    {
+        "term": "makuhita",
+        "evolution": "hariyama"
+    },
+    {
+        "term": "azurill",
+        "evolution": "marill"
+    },
+    {
+        "term": "azurill",
+        "evolution": "azumarill"
+    },
+    {
+        "term": "nosepass",
+        "evolution": "probopass"
+    },
+    {
+        "term": "skitty",
+        "evolution": "delcatty"
+    },
+    {
+        "term": "aron",
+        "evolution": "lairon"
+    },
+    {
+        "term": "lairon",
+        "evolution": "aggron"
+    },
+    {
+        "term": "meditite",
+        "evolution": "medicham"
+    },
+    {
+        "term": "electrike",
+        "evolution": "manectric"
+    },
+    {
+        "term": "volbeat",
+        "evolution": "illumise"
+    },
+    {
+        "term": "gulpin",
+        "evolution": "swalot"
+    },
+    {
+        "term": "carvanha",
+        "evolution": "sharpedo"
+    },
+    {
+        "term": "wailmer",
+        "evolution": "wailord"
+    },
+    {
+        "term": "numel",
+        "evolution": "camerupt"
+    },
+    {
+        "term": "spoink",
+        "evolution": "grumpig"
+    },
+    {
+        "term": "trapinch",
+        "evolution": "vibrava"
+    },
+    {
+        "term": "vibrava",
+        "evolution": "flygon"
+    },
+    {
+        "term": "cacnea",
+        "evolution": "cacturne"
+    },
+    {
+        "term": "swablu",
+        "evolution": "altaria"
+    },
+    {
+        "term": "barboach",
+        "evolution": "whiscash"
+    },
+    {
+        "term": "corphish",
+        "evolution": "crawdaunt"
+    },
+    {
+        "term": "baltoy",
+        "evolution": "claydol"
+    },
+    {
+        "term": "lileep",
+        "evolution": "cradily"
+    },
+    {
+        "term": "anorith",
+        "evolution": "armaldo"
+    },
+    {
+        "term": "feebas",
+        "evolution": "milotic"
+    },
+    {
+        "term": "shuppet",
+        "evolution": "banette"
+    },
+    {
+        "term": "duskull",
+        "evolution": "dusclops"
+    },
+    {
+        "term": "dusclops",
+        "evolution": "dusknoir"
+    },
+    {
+        "term": "wynaut",
+        "evolution": "wobbuffet"
+    },
+    {
+        "term": "snorunt",
+        "evolution": "glalie"
+    },
+    {
+        "term": "snorunt",
+        "evolution": "froslass"
+    },
+    {
+        "term": "spheal",
+        "evolution": "sealeo"
+    },
+    {
+        "term": "sealeo",
+        "evolution": "walrein"
+    },
+    {
+        "term": "clamperl",
+        "evolution": "huntail"
+    },
+    {
+        "term": "clamperl",
+        "evolution": "gorebyss"
+    },
+    {
+        "term": "bagon",
+        "evolution": "shelgon"
+    },
+    {
+        "term": "shelgon",
+        "evolution": "salamence"
+    },
+    {
+        "term": "beldum",
+        "evolution": "metang"
+    },
+    {
+        "term": "metang",
+        "evolution": "metagross"
+    },
+    {
+        "term": "turtwig",
+        "evolution": "grotle"
+    },
+    {
+        "term": "grotle",
+        "evolution": "torterra"
+    },
+    {
+        "term": "chimchar",
+        "evolution": "monferno"
+    },
+    {
+        "term": "monferno",
+        "evolution": "infernape"
+    },
+    {
+        "term": "piplup",
+        "evolution": "prinplup"
+    },
+    {
+        "term": "prinplup",
+        "evolution": "empoleon"
+    },
+    {
+        "term": "starly",
+        "evolution": "staravia"
+    },
+    {
+        "term": "staravia",
+        "evolution": "staraptor"
+    },
+    {
+        "term": "bidoof",
+        "evolution": "bibarel"
+    },
+    {
+        "term": "kricketot",
+        "evolution": "kricketune"
+    },
+    {
+        "term": "shinx",
+        "evolution": "luxio"
+    },
+    {
+        "term": "luxio",
+        "evolution": "luxray"
+    },
+    {
+        "term": "budew",
+        "evolution": "roselia"
+    },
+    {
+        "term": "budew",
+        "evolution": "roserade"
+    },
+    {
+        "term": "cranidos",
+        "evolution": "rampardos"
+    },
+    {
+        "term": "shieldon",
+        "evolution": "bastiodon"
+    },
+    {
+        "term": "burmy",
+        "evolution": "wormadam plant cloak"
+    },
+    {
+        "term": "burmy",
+        "evolution": "wormadam sandy cloak"
+    },
+    {
+        "term": "burmy",
+        "evolution": "wormadam trash cloak"
+    },
+    {
+        "term": "burmy",
+        "evolution": "mothim"
+    },
+    {
+        "term": "combee",
+        "evolution": "vespiquen"
+    },
+    {
+        "term": "buizel",
+        "evolution": "floatzel"
+    },
+    {
+        "term": "cherubi",
+        "evolution": "cherrim"
+    },
+    {
+        "term": "shellos",
+        "evolution": "gastrodon"
+    },
+    {
+        "term": "drifloon",
+        "evolution": "drifblim"
+    },
+    {
+        "term": "buneary",
+        "evolution": "lopunny"
+    },
+    {
+        "term": "glameow",
+        "evolution": "purugly"
+    },
+    {
+        "term": "chingling",
+        "evolution": "chimecho"
+    },
+    {
+        "term": "stunky",
+        "evolution": "skuntank"
+    },
+    {
+        "term": "bronzor",
+        "evolution": "bronzong"
+    },
+    {
+        "term": "bonsly",
+        "evolution": "sudowoodo"
+    },
+    {
+        "term": "mime jr.",
+        "evolution": "mr. mime"
+    },
+    {
+        "term": "happiny",
+        "evolution": "chansey"
+    },
+    {
+        "term": "happiny",
+        "evolution": "blissey"
+    },
+    {
+        "term": "gible",
+        "evolution": "gabite"
+    },
+    {
+        "term": "gabite",
+        "evolution": "garchomp"
+    },
+    {
+        "term": "munchlax",
+        "evolution": "snorlax"
+    },
+    {
+        "term": "riolu",
+        "evolution": "lucario"
+    },
+    {
+        "term": "hippopotas",
+        "evolution": "hippowdon"
+    },
+    {
+        "term": "skorupi",
+        "evolution": "drapion"
+    },
+    {
+        "term": "croagunk",
+        "evolution": "toxicroak"
+    },
+    {
+        "term": "finneon",
+        "evolution": "lumineon"
+    },
+    {
+        "term": "mantyke",
+        "evolution": "mantine"
+    },
+    {
+        "term": "snover",
+        "evolution": "abomasnow"
+    },
+    {
+        "term": "phione",
+        "evolution": "manaphy"
+    },
+    {
+        "term": "snivy",
+        "evolution": "servine"
+    },
+    {
+        "term": "servine",
+        "evolution": "serperior"
+    },
+    {
+        "term": "tepig",
+        "evolution": "pignite"
+    },
+    {
+        "term": "pignite",
+        "evolution": "emboar"
+    },
+    {
+        "term": "oshawott",
+        "evolution": "dewott"
+    },
+    {
+        "term": "dewott",
+        "evolution": "samurott"
+    },
+    {
+        "term": "patrat",
+        "evolution": "watchog"
+    },
+    {
+        "term": "lillipup",
+        "evolution": "herdier"
+    },
+    {
+        "term": "herdier",
+        "evolution": "stoutland"
+    },
+    {
+        "term": "purrloin",
+        "evolution": "liepard"
+    },
+    {
+        "term": "pansage",
+        "evolution": "simisage"
+    },
+    {
+        "term": "pansear",
+        "evolution": "simisear"
+    },
+    {
+        "term": "panpour",
+        "evolution": "simipour"
+    },
+    {
+        "term": "munna",
+        "evolution": "musharna"
+    },
+    {
+        "term": "pidove",
+        "evolution": "tranquill"
+    },
+    {
+        "term": "tranquill",
+        "evolution": "unfezant"
+    },
+    {
+        "term": "blitzle",
+        "evolution": "zebstrika"
+    },
+    {
+        "term": "roggenrola",
+        "evolution": "boldore"
+    },
+    {
+        "term": "boldore",
+        "evolution": "gigalith"
+    },
+    {
+        "term": "woobat",
+        "evolution": "swoobat"
+    },
+    {
+        "term": "drilbur",
+        "evolution": "excadrill"
+    },
+    {
+        "term": "timburr",
+        "evolution": "gurdurr"
+    },
+    {
+        "term": "gurdurr",
+        "evolution": "conkeldurr"
+    },
+    {
+        "term": "tympole",
+        "evolution": "palpitoad"
+    },
+    {
+        "term": "palpitoad",
+        "evolution": "seismitoad"
+    },
+    {
+        "term": "sewaddle",
+        "evolution": "swadloon"
+    },
+    {
+        "term": "swadloon",
+        "evolution": "leavanny"
+    },
+    {
+        "term": "venipede",
+        "evolution": "whirlipede"
+    },
+    {
+        "term": "whirlipede",
+        "evolution": "scolipede"
+    },
+    {
+        "term": "cottonee",
+        "evolution": "whimsicott"
+    },
+    {
+        "term": "petilil",
+        "evolution": "lilligant"
+    },
+    {
+        "term": "sandile",
+        "evolution": "krokorok"
+    },
+    {
+        "term": "krokorok",
+        "evolution": "krookodile"
+    },
+    {
+        "term": "darumaka",
+        "evolution": "darmanitan"
+    },
+    {
+        "term": "dwebble",
+        "evolution": "crustle"
+    },
+    {
+        "term": "scraggy",
+        "evolution": "scrafty"
+    },
+    {
+        "term": "yamask",
+        "evolution": "cofagrigus"
+    },
+    {
+        "term": "tirtouga",
+        "evolution": "carracosta"
+    },
+    {
+        "term": "archen",
+        "evolution": "archeops"
+    },
+    {
+        "term": "trubbish",
+        "evolution": "garbodor"
+    },
+    {
+        "term": "zorua",
+        "evolution": "zoroark"
+    },
+    {
+        "term": "minccino",
+        "evolution": "cinccino"
+    },
+    {
+        "term": "gothita",
+        "evolution": "gothorita"
+    },
+    {
+        "term": "gothorita",
+        "evolution": "gothitelle"
+    },
+    {
+        "term": "solosis",
+        "evolution": "duosion"
+    },
+    {
+        "term": "duosion",
+        "evolution": "reuniclus"
+    },
+    {
+        "term": "ducklett",
+        "evolution": "swanna"
+    },
+    {
+        "term": "vanillite",
+        "evolution": "vanillish"
+    },
+    {
+        "term": "vanillish",
+        "evolution": "vanilluxe"
+    },
+    {
+        "term": "deerling",
+        "evolution": "sawsbuck"
+    },
+    {
+        "term": "karrablast",
+        "evolution": "escavalier"
+    },
+    {
+        "term": "foongus",
+        "evolution": "amoonguss"
+    },
+    {
+        "term": "frillish",
+        "evolution": "jellicent"
+    },
+    {
+        "term": "joltik",
+        "evolution": "galvantula"
+    },
+    {
+        "term": "ferroseed",
+        "evolution": "ferrothorn"
+    },
+    {
+        "term": "klink",
+        "evolution": "klang"
+    },
+    {
+        "term": "klang",
+        "evolution": "klinklang"
+    },
+    {
+        "term": "tynamo",
+        "evolution": "eelektrik"
+    },
+    {
+        "term": "eelektrik",
+        "evolution": "eelektross"
+    },
+    {
+        "term": "elgyem",
+        "evolution": "beheeyem"
+    },
+    {
+        "term": "litwick",
+        "evolution": "lampent"
+    },
+    {
+        "term": "lampent",
+        "evolution": "chandelure"
+    },
+    {
+        "term": "axew",
+        "evolution": "fraxure"
+    },
+    {
+        "term": "fraxure",
+        "evolution": "haxorus"
+    },
+    {
+        "term": "cubchoo",
+        "evolution": "beartic"
+    },
+    {
+        "term": "shelmet",
+        "evolution": "accelgor"
+    },
+    {
+        "term": "mienfoo",
+        "evolution": "mienshao"
+    },
+    {
+        "term": "golett",
+        "evolution": "golurk"
+    },
+    {
+        "term": "pawniard",
+        "evolution": "bisharp"
+    },
+    {
+        "term": "rufflet",
+        "evolution": "braviary"
+    },
+    {
+        "term": "vullaby",
+        "evolution": "mandibuzz"
+    },
+    {
+        "term": "deino",
+        "evolution": "zweilous"
+    },
+    {
+        "term": "zweilous",
+        "evolution": "hydreigon"
+    },
+    {
+        "term": "larvesta",
+        "evolution": "volcarona"
+    },
+    {
+        "term": "chespin",
+        "evolution": "quilladin"
+    },
+    {
+        "term": "quilladin",
+        "evolution": "chesnaught"
+    },
+    {
+        "term": "fennekin",
+        "evolution": "braixen"
+    },
+    {
+        "term": "braixen",
+        "evolution": "delphox"
+    },
+    {
+        "term": "froakie",
+        "evolution": "frogadier"
+    },
+    {
+        "term": "frogadier",
+        "evolution": "greninja"
+    },
+    {
+        "term": "bunnelby",
+        "evolution": "diggersby"
+    },
+    {
+        "term": "fletchling",
+        "evolution": "fletchinder"
+    },
+    {
+        "term": "fletchinder",
+        "evolution": "talonflame"
+    },
+    {
+        "term": "scatterbug",
+        "evolution": "spewpa"
+    },
+    {
+        "term": "spewpa",
+        "evolution": "vivillon"
+    },
+    {
+        "term": "litleo",
+        "evolution": "pyroar"
+    },
+    {
+        "term": "flabebe",
+        "evolution": "floette"
+    },
+    {
+        "term": "floette",
+        "evolution": "florges"
+    },
+    {
+        "term": "floette eternal",
+        "evolution": "florges"
+    },
+    {
+        "term": "skiddo",
+        "evolution": "gogoat"
+    },
+    {
+        "term": "pancham",
+        "evolution": "pangoro"
+    },
+    {
+        "term": "espurr",
+        "evolution": "meowstic male"
+    },
+    {
+        "term": "espurr",
+        "evolution": "meowstic female"
+    },
+    {
+        "term": "honedge",
+        "evolution": "doublade"
+    },
+    {
+        "term": "doublade",
+        "evolution": "aegislash shield"
+    },
+    {
+        "term": "spritzee",
+        "evolution": "aromatisse"
+    },
+    {
+        "term": "swirlix",
+        "evolution": "slurpuff"
+    },
+    {
+        "term": "inkay",
+        "evolution": "malamar"
+    },
+    {
+        "term": "binacle",
+        "evolution": "barbaracle"
+    },
+    {
+        "term": "skrelp",
+        "evolution": "dragalge"
+    },
+    {
+        "term": "clauncher",
+        "evolution": "clawitzer"
+    },
+    {
+        "term": "helioptile",
+        "evolution": "heliolisk"
+    },
+    {
+        "term": "tyrunt",
+        "evolution": "tyrantrum"
+    },
+    {
+        "term": "amaura",
+        "evolution": "aurorus"
+    },
+    {
+        "term": "goomy",
+        "evolution": "sliggoo"
+    },
+    {
+        "term": "sliggoo",
+        "evolution": "goodra"
+    },
+    {
+        "term": "phantump",
+        "evolution": "trevenant"
+    },
+    {
+        "term": "pumpkaboo small",
+        "evolution": "gourgeist small"
+    },
+    {
+        "term": "pumpkaboo average",
+        "evolution": "gourgeist average"
+    },
+    {
+        "term": "pumpkaboo large",
+        "evolution": "gourgeist large"
+    },
+    {
+        "term": "pumpkaboo super",
+        "evolution": "gourgeist super"
+    },
+    {
+        "term": "bergmite",
+        "evolution": "avalugg"
+    },
+    {
+        "term": "noibat",
+        "evolution": "noivern"
+    },
+    {
+        "term": "rowlet",
+        "evolution": "dartrix"
+    },
+    {
+        "term": "dartrix",
+        "evolution": "decidueye"
+    },
+    {
+        "term": "litten",
+        "evolution": "torracat"
+    },
+    {
+        "term": "torracat",
+        "evolution": "incineroar"
+    },
+    {
+        "term": "popplio",
+        "evolution": "brionne"
+    },
+    {
+        "term": "brionne",
+        "evolution": "primarina"
+    },
+    {
+        "term": "pikipek",
+        "evolution": "trumbeak"
+    },
+    {
+        "term": "trumbeak",
+        "evolution": "toucannon"
+    },
+    {
+        "term": "yungoos",
+        "evolution": "gumshoos"
+    },
+    {
+        "term": "grubbin",
+        "evolution": "charjabug"
+    },
+    {
+        "term": "charjabug",
+        "evolution": "vikavolt"
+    },
+    {
+        "term": "crabrawler",
+        "evolution": "crabominable"
+    },
+    {
+        "term": "cutiefly",
+        "evolution": "ribombee"
+    },
+    {
+        "term": "rockruff",
+        "evolution": "lycanroc midday"
+    },
+    {
+        "term": "rockruff",
+        "evolution": "lycanroc midnight"
+    },
+    {
+        "term": "rockruff",
+        "evolution": "lycanroc dusk"
+    },
+    {
+        "term": "mareanie",
+        "evolution": "toxapex"
+    },
+    {
+        "term": "mudbray",
+        "evolution": "mudsdale"
+    },
+    {
+        "term": "dewpider",
+        "evolution": "araquanid"
+    },
+    {
+        "term": "fomantis",
+        "evolution": "lurantis"
+    },
+    {
+        "term": "morelull",
+        "evolution": "shiinotic"
+    },
+    {
+        "term": "salandit",
+        "evolution": "salazzle"
+    },
+    {
+        "term": "stufful",
+        "evolution": "bewear"
+    },
+    {
+        "term": "bounsweet",
+        "evolution": "steenee"
+    },
+    {
+        "term": "steenee",
+        "evolution": "tsareena"
+    },
+    {
+        "term": "wimpod",
+        "evolution": "golisopod"
+    },
+    {
+        "term": "sandygast",
+        "evolution": "palossand"
+    },
+    {
+        "term": "type: null",
+        "evolution": "silvally"
+    },
+    {
+        "term": "jangmo o",
+        "evolution": "hakamo o"
+    },
+    {
+        "term": "hakamo o",
+        "evolution": "kommo o"
+    },
+    {
+        "term": "cosmog",
+        "evolution": "cosmoem"
+    },
+    {
+        "term": "cosmoem",
+        "evolution": "solgaleo"
+    },
+    {
+        "term": "cosmoem",
+        "evolution": "lunala"
+    },
+    {
+        "term": "poipole",
+        "evolution": "naganadel"
+    }
+]

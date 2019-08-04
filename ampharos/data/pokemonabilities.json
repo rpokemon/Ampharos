@@ -1,0 +1,5654 @@
+[
+    {
+        "term": "bulbasaur",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "chlorophyll"
+    },
+    {
+        "term": "ivysaur",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "chlorophyll"
+    },
+    {
+        "term": "venusaur",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "chlorophyll"
+    },
+    {
+        "term": "mega venusaur",
+        "first": "thick fat",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "charmander",
+        "first": "blaze",
+        "second": null,
+        "hidden": "solar power"
+    },
+    {
+        "term": "charmeleon",
+        "first": "blaze",
+        "second": null,
+        "hidden": "solar power"
+    },
+    {
+        "term": "charizard",
+        "first": "blaze",
+        "second": null,
+        "hidden": "solar power"
+    },
+    {
+        "term": "mega charizard x",
+        "first": "tough claws",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mega charizard y",
+        "first": "drought",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "squirtle",
+        "first": "torrent",
+        "second": null,
+        "hidden": "rain dish"
+    },
+    {
+        "term": "wartortle",
+        "first": "torrent",
+        "second": null,
+        "hidden": "rain dish"
+    },
+    {
+        "term": "blastoise",
+        "first": "torrent",
+        "second": null,
+        "hidden": "rain dish"
+    },
+    {
+        "term": "mega blastoise",
+        "first": "mega launcher",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "caterpie",
+        "first": "shield dust",
+        "second": null,
+        "hidden": "run away"
+    },
+    {
+        "term": "metapod",
+        "first": "shed skin",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "butterfree",
+        "first": "compound eyes",
+        "second": null,
+        "hidden": "tinted lens"
+    },
+    {
+        "term": "weedle",
+        "first": "shield dust",
+        "second": null,
+        "hidden": "run away"
+    },
+    {
+        "term": "kakuna",
+        "first": "shed skin",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "beedrill",
+        "first": "swarm",
+        "second": null,
+        "hidden": "sniper"
+    },
+    {
+        "term": "mega beedrill",
+        "first": "adaptability",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "pidgey",
+        "first": "keen eye",
+        "second": "tangled feet",
+        "hidden": "big pecks"
+    },
+    {
+        "term": "pidgeotto",
+        "first": "keen eye",
+        "second": "tangled feet",
+        "hidden": "big pecks"
+    },
+    {
+        "term": "pidgeot",
+        "first": "keen eye",
+        "second": "tangled feet",
+        "hidden": "big pecks"
+    },
+    {
+        "term": "mega pidgeot",
+        "first": "no guard",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "rattata",
+        "first": "run away",
+        "second": "guts",
+        "hidden": "hustle"
+    },
+    {
+        "term": "alolan rattata",
+        "first": "gluttony",
+        "second": "hustle",
+        "hidden": "thick fat"
+    },
+    {
+        "term": "raticate",
+        "first": "run away",
+        "second": "guts",
+        "hidden": "hustle"
+    },
+    {
+        "term": "alolan raticate",
+        "first": "gluttony",
+        "second": "hustle",
+        "hidden": "thick fat"
+    },
+    {
+        "term": "spearow",
+        "first": "keen eye",
+        "second": null,
+        "hidden": "sniper"
+    },
+    {
+        "term": "fearow",
+        "first": "keen eye",
+        "second": null,
+        "hidden": "sniper"
+    },
+    {
+        "term": "ekans",
+        "first": "intimidate",
+        "second": "shed skin",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "arbok",
+        "first": "intimidate",
+        "second": "shed skin",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "pikachu",
+        "first": "static",
+        "second": null,
+        "hidden": "lightning rod"
+    },
+    {
+        "term": "raichu",
+        "first": "static",
+        "second": null,
+        "hidden": "lightning rod"
+    },
+    {
+        "term": "alolan raichu",
+        "first": "surge surfer",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "sandshrew",
+        "first": "sand veil",
+        "second": null,
+        "hidden": "sand rush"
+    },
+    {
+        "term": "alolan sandshrew",
+        "first": "snow cloak",
+        "second": null,
+        "hidden": "slush rush"
+    },
+    {
+        "term": "sandslash",
+        "first": "sand veil",
+        "second": null,
+        "hidden": "sand rush"
+    },
+    {
+        "term": "alolan sandslash",
+        "first": "snow cloak",
+        "second": null,
+        "hidden": "slush rush"
+    },
+    {
+        "term": "nidoran female",
+        "first": "poison point",
+        "second": "rivalry",
+        "hidden": "hustle"
+    },
+    {
+        "term": "nidorina",
+        "first": "poison point",
+        "second": "rivalry",
+        "hidden": "hustle"
+    },
+    {
+        "term": "nidoqueen",
+        "first": "poison point",
+        "second": "rivalry",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "nidoran male",
+        "first": "poison point",
+        "second": "rivalry",
+        "hidden": "hustle"
+    },
+    {
+        "term": "nidorino",
+        "first": "poison point",
+        "second": "rivalry",
+        "hidden": "hustle"
+    },
+    {
+        "term": "nidoking",
+        "first": "poison point",
+        "second": "rivalry",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "clefairy",
+        "first": "cute charm",
+        "second": "magic guard",
+        "hidden": "friend guard"
+    },
+    {
+        "term": "clefable",
+        "first": "cute charm",
+        "second": "magic guard",
+        "hidden": "unaware"
+    },
+    {
+        "term": "vulpix",
+        "first": "flash fire",
+        "second": null,
+        "hidden": "drought"
+    },
+    {
+        "term": "alolan vulpix",
+        "first": "snow cloak",
+        "second": null,
+        "hidden": "snow warning"
+    },
+    {
+        "term": "ninetales",
+        "first": "flash fire",
+        "second": null,
+        "hidden": "drought"
+    },
+    {
+        "term": "alolan ninetales",
+        "first": "snow cloak",
+        "second": null,
+        "hidden": "snow warning"
+    },
+    {
+        "term": "jigglypuff",
+        "first": "cute charm",
+        "second": "competitive",
+        "hidden": "friend guard"
+    },
+    {
+        "term": "wigglytuff",
+        "first": "cute charm",
+        "second": "competitive",
+        "hidden": "frisk"
+    },
+    {
+        "term": "zubat",
+        "first": "inner focus",
+        "second": null,
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "golbat",
+        "first": "inner focus",
+        "second": null,
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "oddish",
+        "first": "chlorophyll",
+        "second": null,
+        "hidden": "run away"
+    },
+    {
+        "term": "gloom",
+        "first": "chlorophyll",
+        "second": null,
+        "hidden": "stench"
+    },
+    {
+        "term": "vileplume",
+        "first": "chlorophyll",
+        "second": null,
+        "hidden": "effect spore"
+    },
+    {
+        "term": "paras",
+        "first": "effect spore",
+        "second": "dry skin",
+        "hidden": "damp"
+    },
+    {
+        "term": "parasect",
+        "first": "effect spore",
+        "second": "dry skin",
+        "hidden": "damp"
+    },
+    {
+        "term": "venonat",
+        "first": "compound eyes",
+        "second": "tinted lens",
+        "hidden": "run away"
+    },
+    {
+        "term": "venomoth",
+        "first": "shield dust",
+        "second": "tinted lens",
+        "hidden": "wonder skin"
+    },
+    {
+        "term": "diglett",
+        "first": "sand veil",
+        "second": "arena trap",
+        "hidden": "sand force"
+    },
+    {
+        "term": "alolan diglett",
+        "first": "sand veil",
+        "second": "tangling hair",
+        "hidden": "sand force"
+    },
+    {
+        "term": "dugtrio",
+        "first": "sand veil",
+        "second": "arena trap",
+        "hidden": "sand force"
+    },
+    {
+        "term": "alolan dugtrio",
+        "first": "sand veil",
+        "second": "tangling hair",
+        "hidden": "sand force"
+    },
+    {
+        "term": "meowth",
+        "first": "pickup",
+        "second": "technician",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "alolan meowth",
+        "first": "pickup",
+        "second": "technician",
+        "hidden": "rattled"
+    },
+    {
+        "term": "persian",
+        "first": "limber",
+        "second": "technician",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "alolan persian",
+        "first": "fur coat",
+        "second": "technician",
+        "hidden": "rattled"
+    },
+    {
+        "term": "psyduck",
+        "first": "damp",
+        "second": "cloud nine",
+        "hidden": "swift swim"
+    },
+    {
+        "term": "golduck",
+        "first": "damp",
+        "second": "cloud nine",
+        "hidden": "swift swim"
+    },
+    {
+        "term": "mankey",
+        "first": "vital spirit",
+        "second": "anger point",
+        "hidden": "defiant"
+    },
+    {
+        "term": "primeape",
+        "first": "vital spirit",
+        "second": "anger point",
+        "hidden": "defiant"
+    },
+    {
+        "term": "growlithe",
+        "first": "intimidate",
+        "second": "flash fire",
+        "hidden": "justified"
+    },
+    {
+        "term": "arcanine",
+        "first": "intimidate",
+        "second": "flash fire",
+        "hidden": "justified"
+    },
+    {
+        "term": "poliwag",
+        "first": "water absorb",
+        "second": "damp",
+        "hidden": "swift swim"
+    },
+    {
+        "term": "poliwhirl",
+        "first": "water absorb",
+        "second": "damp",
+        "hidden": "swift swim"
+    },
+    {
+        "term": "poliwrath",
+        "first": "water absorb",
+        "second": "damp",
+        "hidden": "swift swim"
+    },
+    {
+        "term": "abra",
+        "first": "synchronize",
+        "second": "inner focus",
+        "hidden": "magic guard"
+    },
+    {
+        "term": "kadabra",
+        "first": "synchronize",
+        "second": "inner focus",
+        "hidden": "magic guard"
+    },
+    {
+        "term": "alakazam",
+        "first": "synchronize",
+        "second": "inner focus",
+        "hidden": "magic guard"
+    },
+    {
+        "term": "mega alakazam",
+        "first": "trace",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "machop",
+        "first": "guts",
+        "second": "no guard",
+        "hidden": "steadfast"
+    },
+    {
+        "term": "machoke",
+        "first": "guts",
+        "second": "no guard",
+        "hidden": "steadfast"
+    },
+    {
+        "term": "machamp",
+        "first": "guts",
+        "second": "no guard",
+        "hidden": "steadfast"
+    },
+    {
+        "term": "bellsprout",
+        "first": "chlorophyll",
+        "second": null,
+        "hidden": "gluttony"
+    },
+    {
+        "term": "weepinbell",
+        "first": "chlorophyll",
+        "second": null,
+        "hidden": "gluttony"
+    },
+    {
+        "term": "victreebel",
+        "first": "chlorophyll",
+        "second": null,
+        "hidden": "gluttony"
+    },
+    {
+        "term": "tentacool",
+        "first": "clear body",
+        "second": "liquid ooze",
+        "hidden": "rain dish"
+    },
+    {
+        "term": "tentacruel",
+        "first": "clear body",
+        "second": "liquid ooze",
+        "hidden": "rain dish"
+    },
+    {
+        "term": "geodude",
+        "first": "rock head",
+        "second": "sturdy",
+        "hidden": "sand veil"
+    },
+    {
+        "term": "alolan geodude",
+        "first": "magnet pull",
+        "second": "sturdy",
+        "hidden": "galvanize"
+    },
+    {
+        "term": "graveler",
+        "first": "rock head",
+        "second": "sturdy",
+        "hidden": "sand veil"
+    },
+    {
+        "term": "alolan graveler",
+        "first": "magnet pull",
+        "second": "sturdy",
+        "hidden": "galvanize"
+    },
+    {
+        "term": "golem",
+        "first": "rock head",
+        "second": "sturdy",
+        "hidden": "sand veil"
+    },
+    {
+        "term": "alolan golem",
+        "first": "magnet pull",
+        "second": "sturdy",
+        "hidden": "galvanize"
+    },
+    {
+        "term": "ponyta",
+        "first": "run away",
+        "second": "flash fire",
+        "hidden": "flame body"
+    },
+    {
+        "term": "rapidash",
+        "first": "run away",
+        "second": "flash fire",
+        "hidden": "flame body"
+    },
+    {
+        "term": "slowpoke",
+        "first": "oblivious",
+        "second": "own tempo",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "slowbro",
+        "first": "oblivious",
+        "second": "own tempo",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "mega slowbro",
+        "first": "shell armor",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "magnemite",
+        "first": "magnet pull",
+        "second": "sturdy",
+        "hidden": "analytic"
+    },
+    {
+        "term": "magneton",
+        "first": "magnet pull",
+        "second": "sturdy",
+        "hidden": "analytic"
+    },
+    {
+        "term": "farfetch'd",
+        "first": "keen eye",
+        "second": "inner focus",
+        "hidden": "defiant"
+    },
+    {
+        "term": "doduo",
+        "first": "run away",
+        "second": "early bird",
+        "hidden": "tangled feet"
+    },
+    {
+        "term": "dodrio",
+        "first": "run away",
+        "second": "early bird",
+        "hidden": "tangled feet"
+    },
+    {
+        "term": "seel",
+        "first": "thick fat",
+        "second": "hydration",
+        "hidden": "ice body"
+    },
+    {
+        "term": "dewgong",
+        "first": "thick fat",
+        "second": "hydration",
+        "hidden": "ice body"
+    },
+    {
+        "term": "grimer",
+        "first": "stench",
+        "second": "sticky hold",
+        "hidden": "poison touch"
+    },
+    {
+        "term": "alolan grimer",
+        "first": "poison touch",
+        "second": "gluttony",
+        "hidden": "power of alchemy"
+    },
+    {
+        "term": "muk",
+        "first": "stench",
+        "second": "sticky hold",
+        "hidden": "poison touch"
+    },
+    {
+        "term": "alolan muk",
+        "first": "poison touch",
+        "second": "gluttony",
+        "hidden": "power of alchemy"
+    },
+    {
+        "term": "shellder",
+        "first": "shell armor",
+        "second": "skill link",
+        "hidden": "overcoat"
+    },
+    {
+        "term": "cloyster",
+        "first": "shell armor",
+        "second": "skill link",
+        "hidden": "overcoat"
+    },
+    {
+        "term": "gastly",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "haunter",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "gengar",
+        "first": "cursed body",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mega gengar",
+        "first": "shadow tag",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "onix",
+        "first": "rock head",
+        "second": "sturdy",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "drowzee",
+        "first": "insomnia",
+        "second": "forewarn",
+        "hidden": "inner focus"
+    },
+    {
+        "term": "hypno",
+        "first": "insomnia",
+        "second": "forewarn",
+        "hidden": "inner focus"
+    },
+    {
+        "term": "krabby",
+        "first": "hyper cutter",
+        "second": "shell armor",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "kingler",
+        "first": "hyper cutter",
+        "second": "shell armor",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "voltorb",
+        "first": "soundproof",
+        "second": "static",
+        "hidden": "aftermath"
+    },
+    {
+        "term": "electrode",
+        "first": "soundproof",
+        "second": "static",
+        "hidden": "aftermath"
+    },
+    {
+        "term": "exeggcute",
+        "first": "chlorophyll",
+        "second": null,
+        "hidden": "harvest"
+    },
+    {
+        "term": "exeggutor",
+        "first": "chlorophyll",
+        "second": null,
+        "hidden": "harvest"
+    },
+    {
+        "term": "alolan exeggutor",
+        "first": "frisk",
+        "second": null,
+        "hidden": "harvest"
+    },
+    {
+        "term": "cubone",
+        "first": "rock head",
+        "second": "lightning rod",
+        "hidden": "battle armor"
+    },
+    {
+        "term": "marowak",
+        "first": "rock head",
+        "second": "lightning rod",
+        "hidden": "battle armor"
+    },
+    {
+        "term": "alolan marowak",
+        "first": "cursed body",
+        "second": "lightning rod",
+        "hidden": "rock head"
+    },
+    {
+        "term": "hitmonlee",
+        "first": "limber",
+        "second": "reckless",
+        "hidden": "unburden"
+    },
+    {
+        "term": "hitmonchan",
+        "first": "keen eye",
+        "second": "iron fist",
+        "hidden": "inner focus"
+    },
+    {
+        "term": "lickitung",
+        "first": "own tempo",
+        "second": "oblivious",
+        "hidden": "cloud nine"
+    },
+    {
+        "term": "koffing",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "weezing",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "rhyhorn",
+        "first": "lightning rod",
+        "second": "rock head",
+        "hidden": "reckless"
+    },
+    {
+        "term": "rhydon",
+        "first": "lightning rod",
+        "second": "rock head",
+        "hidden": "reckless"
+    },
+    {
+        "term": "chansey",
+        "first": "natural cure",
+        "second": "serene grace",
+        "hidden": "healer"
+    },
+    {
+        "term": "tangela",
+        "first": "chlorophyll",
+        "second": "leaf guard",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "kangaskhan",
+        "first": "early bird",
+        "second": "scrappy",
+        "hidden": "inner focus"
+    },
+    {
+        "term": "mega kangaskhan",
+        "first": "parental bond",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "horsea",
+        "first": "swift swim",
+        "second": "sniper",
+        "hidden": "damp"
+    },
+    {
+        "term": "seadra",
+        "first": "poison point",
+        "second": "sniper",
+        "hidden": "damp"
+    },
+    {
+        "term": "goldeen",
+        "first": "swift swim",
+        "second": "water veil",
+        "hidden": "lightning rod"
+    },
+    {
+        "term": "seaking",
+        "first": "swift swim",
+        "second": "water veil",
+        "hidden": "lightning rod"
+    },
+    {
+        "term": "staryu",
+        "first": "illuminate",
+        "second": "natural cure",
+        "hidden": "analytic"
+    },
+    {
+        "term": "starmie",
+        "first": "illuminate",
+        "second": "natural cure",
+        "hidden": "analytic"
+    },
+    {
+        "term": "mr. mime",
+        "first": "soundproof",
+        "second": "filter",
+        "hidden": "technician"
+    },
+    {
+        "term": "scyther",
+        "first": "swarm",
+        "second": "technician",
+        "hidden": "steadfast"
+    },
+    {
+        "term": "jynx",
+        "first": "oblivious",
+        "second": "forewarn",
+        "hidden": "dry skin"
+    },
+    {
+        "term": "electabuzz",
+        "first": "static",
+        "second": null,
+        "hidden": "vital spirit"
+    },
+    {
+        "term": "magmar",
+        "first": "flame body",
+        "second": null,
+        "hidden": "vital spirit"
+    },
+    {
+        "term": "pinsir",
+        "first": "hyper cutter",
+        "second": "mold breaker",
+        "hidden": "moxie"
+    },
+    {
+        "term": "mega pinsir",
+        "first": "aerilate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "tauros",
+        "first": "intimidate",
+        "second": "anger point",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "magikarp",
+        "first": "swift swim",
+        "second": null,
+        "hidden": "rattled"
+    },
+    {
+        "term": "gyarados",
+        "first": "intimidate",
+        "second": null,
+        "hidden": "moxie"
+    },
+    {
+        "term": "mega gyarados",
+        "first": "mold breaker",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "lapras",
+        "first": "water absorb",
+        "second": "shell armor",
+        "hidden": "hydration"
+    },
+    {
+        "term": "ditto",
+        "first": "limber",
+        "second": null,
+        "hidden": "imposter"
+    },
+    {
+        "term": "eevee",
+        "first": "run away",
+        "second": "adaptability",
+        "hidden": "anticipation"
+    },
+    {
+        "term": "vaporeon",
+        "first": "water absorb",
+        "second": null,
+        "hidden": "hydration"
+    },
+    {
+        "term": "jolteon",
+        "first": "volt absorb",
+        "second": null,
+        "hidden": "quick feet"
+    },
+    {
+        "term": "flareon",
+        "first": "flash fire",
+        "second": null,
+        "hidden": "guts"
+    },
+    {
+        "term": "porygon",
+        "first": "trace",
+        "second": "download",
+        "hidden": "analytic"
+    },
+    {
+        "term": "omanyte",
+        "first": "swift swim",
+        "second": "shell armor",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "omastar",
+        "first": "swift swim",
+        "second": "shell armor",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "kabuto",
+        "first": "swift swim",
+        "second": "battle armor",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "kabutops",
+        "first": "swift swim",
+        "second": "battle armor",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "aerodactyl",
+        "first": "rock head",
+        "second": "pressure",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "mega aerodactyl",
+        "first": "tough claws",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "snorlax",
+        "first": "immunity",
+        "second": "thick fat",
+        "hidden": "gluttony"
+    },
+    {
+        "term": "articuno",
+        "first": "pressure",
+        "second": null,
+        "hidden": "snow cloak"
+    },
+    {
+        "term": "zapdos",
+        "first": "pressure",
+        "second": null,
+        "hidden": "static"
+    },
+    {
+        "term": "moltres",
+        "first": "pressure",
+        "second": null,
+        "hidden": "flame body"
+    },
+    {
+        "term": "dratini",
+        "first": "shed skin",
+        "second": null,
+        "hidden": "marvel scale"
+    },
+    {
+        "term": "dragonair",
+        "first": "shed skin",
+        "second": null,
+        "hidden": "marvel scale"
+    },
+    {
+        "term": "dragonite",
+        "first": "inner focus",
+        "second": null,
+        "hidden": "multiscale"
+    },
+    {
+        "term": "mewtwo",
+        "first": "pressure",
+        "second": null,
+        "hidden": "unnerve"
+    },
+    {
+        "term": "mega mewtwo x",
+        "first": "steadfast",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mega mewtwo y",
+        "first": "insomnia",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mew",
+        "first": "synchronize",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "chikorita",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "leaf guard"
+    },
+    {
+        "term": "bayleef",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "leaf guard"
+    },
+    {
+        "term": "meganium",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "leaf guard"
+    },
+    {
+        "term": "cyndaquil",
+        "first": "blaze",
+        "second": null,
+        "hidden": "flash fire"
+    },
+    {
+        "term": "quilava",
+        "first": "blaze",
+        "second": null,
+        "hidden": "flash fire"
+    },
+    {
+        "term": "typhlosion",
+        "first": "blaze",
+        "second": null,
+        "hidden": "flash fire"
+    },
+    {
+        "term": "totodile",
+        "first": "torrent",
+        "second": null,
+        "hidden": "sheer force"
+    },
+    {
+        "term": "croconaw",
+        "first": "torrent",
+        "second": null,
+        "hidden": "sheer force"
+    },
+    {
+        "term": "feraligatr",
+        "first": "torrent",
+        "second": null,
+        "hidden": "sheer force"
+    },
+    {
+        "term": "sentret",
+        "first": "run away",
+        "second": "keen eye",
+        "hidden": "frisk"
+    },
+    {
+        "term": "furret",
+        "first": "run away",
+        "second": "keen eye",
+        "hidden": "frisk"
+    },
+    {
+        "term": "hoothoot",
+        "first": "insomnia",
+        "second": "keen eye",
+        "hidden": "tinted lens"
+    },
+    {
+        "term": "noctowl",
+        "first": "insomnia",
+        "second": "keen eye",
+        "hidden": "tinted lens"
+    },
+    {
+        "term": "ledyba",
+        "first": "swarm",
+        "second": "early bird",
+        "hidden": "rattled"
+    },
+    {
+        "term": "ledian",
+        "first": "swarm",
+        "second": "early bird",
+        "hidden": "iron fist"
+    },
+    {
+        "term": "spinarak",
+        "first": "swarm",
+        "second": "insomnia",
+        "hidden": "sniper"
+    },
+    {
+        "term": "ariados",
+        "first": "swarm",
+        "second": "insomnia",
+        "hidden": "sniper"
+    },
+    {
+        "term": "crobat",
+        "first": "inner focus",
+        "second": null,
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "chinchou",
+        "first": "volt absorb",
+        "second": "illuminate",
+        "hidden": "water absorb"
+    },
+    {
+        "term": "lanturn",
+        "first": "volt absorb",
+        "second": "illuminate",
+        "hidden": "water absorb"
+    },
+    {
+        "term": "pichu",
+        "first": "static",
+        "second": null,
+        "hidden": "lightning rod"
+    },
+    {
+        "term": "cleffa",
+        "first": "cute charm",
+        "second": "magic guard",
+        "hidden": "friend guard"
+    },
+    {
+        "term": "igglybuff",
+        "first": "cute charm",
+        "second": "competitive",
+        "hidden": "friend guard"
+    },
+    {
+        "term": "togepi",
+        "first": "hustle",
+        "second": "serene grace",
+        "hidden": "super luck"
+    },
+    {
+        "term": "togetic",
+        "first": "hustle",
+        "second": "serene grace",
+        "hidden": "super luck"
+    },
+    {
+        "term": "natu",
+        "first": "synchronize",
+        "second": "early bird",
+        "hidden": "magic bounce"
+    },
+    {
+        "term": "xatu",
+        "first": "synchronize",
+        "second": "early bird",
+        "hidden": "magic bounce"
+    },
+    {
+        "term": "mareep",
+        "first": "static",
+        "second": null,
+        "hidden": "plus"
+    },
+    {
+        "term": "flaaffy",
+        "first": "static",
+        "second": null,
+        "hidden": "plus"
+    },
+    {
+        "term": "ampharos",
+        "first": "static",
+        "second": null,
+        "hidden": "plus"
+    },
+    {
+        "term": "mega ampharos",
+        "first": "mold breaker",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "bellossom",
+        "first": "chlorophyll",
+        "second": null,
+        "hidden": "healer"
+    },
+    {
+        "term": "marill",
+        "first": "thick fat",
+        "second": "huge power",
+        "hidden": "sap sipper"
+    },
+    {
+        "term": "azumarill",
+        "first": "thick fat",
+        "second": "huge power",
+        "hidden": "sap sipper"
+    },
+    {
+        "term": "sudowoodo",
+        "first": "sturdy",
+        "second": "rock head",
+        "hidden": "rattled"
+    },
+    {
+        "term": "politoed",
+        "first": "water absorb",
+        "second": "damp",
+        "hidden": "drizzle"
+    },
+    {
+        "term": "hoppip",
+        "first": "chlorophyll",
+        "second": "leaf guard",
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "skiploom",
+        "first": "chlorophyll",
+        "second": "leaf guard",
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "jumpluff",
+        "first": "chlorophyll",
+        "second": "leaf guard",
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "aipom",
+        "first": "run away",
+        "second": "pickup",
+        "hidden": "skill link"
+    },
+    {
+        "term": "sunkern",
+        "first": "chlorophyll",
+        "second": "solar power",
+        "hidden": "early bird"
+    },
+    {
+        "term": "sunflora",
+        "first": "chlorophyll",
+        "second": "solar power",
+        "hidden": "early bird"
+    },
+    {
+        "term": "yanma",
+        "first": "speed boost",
+        "second": "compound eyes",
+        "hidden": "frisk"
+    },
+    {
+        "term": "wooper",
+        "first": "damp",
+        "second": "water absorb",
+        "hidden": "unaware"
+    },
+    {
+        "term": "quagsire",
+        "first": "damp",
+        "second": "water absorb",
+        "hidden": "unaware"
+    },
+    {
+        "term": "espeon",
+        "first": "synchronize",
+        "second": null,
+        "hidden": "magic bounce"
+    },
+    {
+        "term": "umbreon",
+        "first": "synchronize",
+        "second": null,
+        "hidden": "inner focus"
+    },
+    {
+        "term": "murkrow",
+        "first": "insomnia",
+        "second": "super luck",
+        "hidden": "prankster"
+    },
+    {
+        "term": "slowking",
+        "first": "oblivious",
+        "second": "own tempo",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "misdreavus",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown a",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown b",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown c",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown d",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown e",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown f",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown g",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown h",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown i",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown j",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown k",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown l",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown m",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown n",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown o",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown p",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown q",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown r",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown s",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown t",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown u",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown v",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown w",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown x",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown y",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown z",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown !",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "unown ?",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "wobbuffet",
+        "first": "shadow tag",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "girafarig",
+        "first": "inner focus",
+        "second": "early bird",
+        "hidden": "sap sipper"
+    },
+    {
+        "term": "pineco",
+        "first": "sturdy",
+        "second": null,
+        "hidden": "overcoat"
+    },
+    {
+        "term": "forretress",
+        "first": "sturdy",
+        "second": null,
+        "hidden": "overcoat"
+    },
+    {
+        "term": "dunsparce",
+        "first": "serene grace",
+        "second": "run away",
+        "hidden": "rattled"
+    },
+    {
+        "term": "gligar",
+        "first": "hyper cutter",
+        "second": "sand veil",
+        "hidden": "immunity"
+    },
+    {
+        "term": "steelix",
+        "first": "rock head",
+        "second": "sturdy",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "mega steelix",
+        "first": "sand force",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "snubbull",
+        "first": "intimidate",
+        "second": "run away",
+        "hidden": "rattled"
+    },
+    {
+        "term": "granbull",
+        "first": "intimidate",
+        "second": "quick feet",
+        "hidden": "rattled"
+    },
+    {
+        "term": "qwilfish",
+        "first": "poison point",
+        "second": "swift swim",
+        "hidden": "intimidate"
+    },
+    {
+        "term": "scizor",
+        "first": "swarm",
+        "second": "technician",
+        "hidden": "light metal"
+    },
+    {
+        "term": "mega scizor",
+        "first": "technician",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "shuckle",
+        "first": "sturdy",
+        "second": "gluttony",
+        "hidden": "contrary"
+    },
+    {
+        "term": "heracross",
+        "first": "swarm",
+        "second": "guts",
+        "hidden": "moxie"
+    },
+    {
+        "term": "mega heracross",
+        "first": "skill link",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "sneasel",
+        "first": "inner focus",
+        "second": "keen eye",
+        "hidden": "pickpocket"
+    },
+    {
+        "term": "teddiursa",
+        "first": "pickup",
+        "second": "quick feet",
+        "hidden": "honey gather"
+    },
+    {
+        "term": "ursaring",
+        "first": "guts",
+        "second": "quick feet",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "slugma",
+        "first": "magma armor",
+        "second": "flame body",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "magcargo",
+        "first": "magma armor",
+        "second": "flame body",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "swinub",
+        "first": "oblivious",
+        "second": "snow cloak",
+        "hidden": "thick fat"
+    },
+    {
+        "term": "piloswine",
+        "first": "oblivious",
+        "second": "snow cloak",
+        "hidden": "thick fat"
+    },
+    {
+        "term": "corsola",
+        "first": "hustle",
+        "second": "natural cure",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "remoraid",
+        "first": "hustle",
+        "second": "sniper",
+        "hidden": "moody"
+    },
+    {
+        "term": "octillery",
+        "first": "suction cups",
+        "second": "sniper",
+        "hidden": "moody"
+    },
+    {
+        "term": "delibird",
+        "first": "vital spirit",
+        "second": "hustle",
+        "hidden": "insomnia"
+    },
+    {
+        "term": "mantine",
+        "first": "swift swim",
+        "second": "water absorb",
+        "hidden": "water veil"
+    },
+    {
+        "term": "skarmory",
+        "first": "keen eye",
+        "second": "sturdy",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "houndour",
+        "first": "early bird",
+        "second": "flash fire",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "houndoom",
+        "first": "early bird",
+        "second": "flash fire",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "mega houndoom",
+        "first": "solar power",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "kingdra",
+        "first": "swift swim",
+        "second": "sniper",
+        "hidden": "damp"
+    },
+    {
+        "term": "phanpy",
+        "first": "pickup",
+        "second": null,
+        "hidden": "sand veil"
+    },
+    {
+        "term": "donphan",
+        "first": "sturdy",
+        "second": null,
+        "hidden": "sand veil"
+    },
+    {
+        "term": "porygon 2",
+        "first": "trace",
+        "second": "download",
+        "hidden": "analytic"
+    },
+    {
+        "term": "stantler",
+        "first": "intimidate",
+        "second": "frisk",
+        "hidden": "sap sipper"
+    },
+    {
+        "term": "smeargle",
+        "first": "own tempo",
+        "second": "technician",
+        "hidden": "moody"
+    },
+    {
+        "term": "tyrogue",
+        "first": "guts",
+        "second": "steadfast",
+        "hidden": "vital spirit"
+    },
+    {
+        "term": "hitmontop",
+        "first": "intimidate",
+        "second": "technician",
+        "hidden": "steadfast"
+    },
+    {
+        "term": "smoochum",
+        "first": "oblivious",
+        "second": "forewarn",
+        "hidden": "hydration"
+    },
+    {
+        "term": "elekid",
+        "first": "static",
+        "second": null,
+        "hidden": "vital spirit"
+    },
+    {
+        "term": "magby",
+        "first": "flame body",
+        "second": null,
+        "hidden": "vital spirit"
+    },
+    {
+        "term": "miltank",
+        "first": "thick fat",
+        "second": "scrappy",
+        "hidden": "sap sipper"
+    },
+    {
+        "term": "blissey",
+        "first": "natural cure",
+        "second": "serene grace",
+        "hidden": "healer"
+    },
+    {
+        "term": "raikou",
+        "first": "pressure",
+        "second": null,
+        "hidden": "inner focus"
+    },
+    {
+        "term": "entei",
+        "first": "pressure",
+        "second": null,
+        "hidden": "inner focus"
+    },
+    {
+        "term": "suicune",
+        "first": "pressure",
+        "second": null,
+        "hidden": "inner focus"
+    },
+    {
+        "term": "larvitar",
+        "first": "guts",
+        "second": null,
+        "hidden": "sand veil"
+    },
+    {
+        "term": "pupitar",
+        "first": "shed skin",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "tyranitar",
+        "first": "sand stream",
+        "second": null,
+        "hidden": "unnerve"
+    },
+    {
+        "term": "mega tyranitar",
+        "first": "sand stream",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "lugia",
+        "first": "pressure",
+        "second": null,
+        "hidden": "multiscale"
+    },
+    {
+        "term": "ho-oh",
+        "first": "pressure",
+        "second": null,
+        "hidden": "regenerator"
+    },
+    {
+        "term": "celebi",
+        "first": "natural cure",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "treecko",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "unburden"
+    },
+    {
+        "term": "grovyle",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "unburden"
+    },
+    {
+        "term": "sceptile",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "unburden"
+    },
+    {
+        "term": "mega sceptile",
+        "first": "lightning rod",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "torchic",
+        "first": "blaze",
+        "second": null,
+        "hidden": "speed boost"
+    },
+    {
+        "term": "combusken",
+        "first": "blaze",
+        "second": null,
+        "hidden": "speed boost"
+    },
+    {
+        "term": "blaziken",
+        "first": "blaze",
+        "second": null,
+        "hidden": "speed boost"
+    },
+    {
+        "term": "mega blaziken",
+        "first": "speed boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mudkip",
+        "first": "torrent",
+        "second": null,
+        "hidden": "damp"
+    },
+    {
+        "term": "marshtomp",
+        "first": "torrent",
+        "second": null,
+        "hidden": "damp"
+    },
+    {
+        "term": "swampert",
+        "first": "torrent",
+        "second": null,
+        "hidden": "damp"
+    },
+    {
+        "term": "mega swampert",
+        "first": "swift swim",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "poochyena",
+        "first": "run away",
+        "second": "quick feet",
+        "hidden": "rattled"
+    },
+    {
+        "term": "mightyena",
+        "first": "intimidate",
+        "second": "quick feet",
+        "hidden": "moxie"
+    },
+    {
+        "term": "zigzagoon",
+        "first": "pickup",
+        "second": "gluttony",
+        "hidden": "quick feet"
+    },
+    {
+        "term": "linoone",
+        "first": "pickup",
+        "second": "gluttony",
+        "hidden": "quick feet"
+    },
+    {
+        "term": "wurmple",
+        "first": "shield dust",
+        "second": null,
+        "hidden": "run away"
+    },
+    {
+        "term": "silcoon",
+        "first": "shed skin",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "beautifly",
+        "first": "swarm",
+        "second": null,
+        "hidden": "rivalry"
+    },
+    {
+        "term": "cascoon",
+        "first": "shed skin",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "dustox",
+        "first": "shield dust",
+        "second": null,
+        "hidden": "compound eyes"
+    },
+    {
+        "term": "lotad",
+        "first": "swift swim",
+        "second": "rain dish",
+        "hidden": "own tempo"
+    },
+    {
+        "term": "lombre",
+        "first": "swift swim",
+        "second": "rain dish",
+        "hidden": "own tempo"
+    },
+    {
+        "term": "ludicolo",
+        "first": "swift swim",
+        "second": "rain dish",
+        "hidden": "own tempo"
+    },
+    {
+        "term": "seedot",
+        "first": "chlorophyll",
+        "second": "early bird",
+        "hidden": "pickpocket"
+    },
+    {
+        "term": "nuzleaf",
+        "first": "chlorophyll",
+        "second": "early bird",
+        "hidden": "pickpocket"
+    },
+    {
+        "term": "shiftry",
+        "first": "chlorophyll",
+        "second": "early bird",
+        "hidden": "pickpocket"
+    },
+    {
+        "term": "taillow",
+        "first": "guts",
+        "second": null,
+        "hidden": "scrappy"
+    },
+    {
+        "term": "swellow",
+        "first": "guts",
+        "second": null,
+        "hidden": "scrappy"
+    },
+    {
+        "term": "wingull",
+        "first": "keen eye",
+        "second": "hydration",
+        "hidden": "rain dish"
+    },
+    {
+        "term": "pelipper",
+        "first": "keen eye",
+        "second": "drizzle",
+        "hidden": "rain dish"
+    },
+    {
+        "term": "ralts",
+        "first": "synchronize",
+        "second": "trace",
+        "hidden": "telepathy"
+    },
+    {
+        "term": "kirlia",
+        "first": "synchronize",
+        "second": "trace",
+        "hidden": "telepathy"
+    },
+    {
+        "term": "gardevoir",
+        "first": "synchronize",
+        "second": "trace",
+        "hidden": "telepathy"
+    },
+    {
+        "term": "mega gardevoir",
+        "first": "pixilate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "surskit",
+        "first": "swift swim",
+        "second": null,
+        "hidden": "rain dish"
+    },
+    {
+        "term": "masquerain",
+        "first": "intimidate",
+        "second": null,
+        "hidden": "unnerve"
+    },
+    {
+        "term": "shroomish",
+        "first": "effect spore",
+        "second": "poison heal",
+        "hidden": "quick feet"
+    },
+    {
+        "term": "breloom",
+        "first": "effect spore",
+        "second": "poison heal",
+        "hidden": "technician"
+    },
+    {
+        "term": "slakoth",
+        "first": "truant",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "vigoroth",
+        "first": "vital spirit",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "slaking",
+        "first": "truant",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "nincada",
+        "first": "compound eyes",
+        "second": null,
+        "hidden": "run away"
+    },
+    {
+        "term": "ninjask",
+        "first": "speed boost",
+        "second": null,
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "shedinja",
+        "first": "wonder guard",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "whismur",
+        "first": "soundproof",
+        "second": null,
+        "hidden": "rattled"
+    },
+    {
+        "term": "loudred",
+        "first": "soundproof",
+        "second": null,
+        "hidden": "scrappy"
+    },
+    {
+        "term": "exploud",
+        "first": "soundproof",
+        "second": null,
+        "hidden": "scrappy"
+    },
+    {
+        "term": "makuhita",
+        "first": "thick fat",
+        "second": "guts",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "hariyama",
+        "first": "thick fat",
+        "second": "guts",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "azurill",
+        "first": "thick fat",
+        "second": "huge power",
+        "hidden": "sap sipper"
+    },
+    {
+        "term": "nosepass",
+        "first": "sturdy",
+        "second": "magnet pull",
+        "hidden": "sand force"
+    },
+    {
+        "term": "skitty",
+        "first": "cute charm",
+        "second": "normalize",
+        "hidden": "wonder skin"
+    },
+    {
+        "term": "delcatty",
+        "first": "cute charm",
+        "second": "normalize",
+        "hidden": "wonder skin"
+    },
+    {
+        "term": "sableye",
+        "first": "keen eye",
+        "second": "stall",
+        "hidden": "prankster"
+    },
+    {
+        "term": "mega sableye",
+        "first": "magic bounce",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mawile",
+        "first": "hyper cutter",
+        "second": "intimidate",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "mega mawile",
+        "first": "huge power",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "aron",
+        "first": "sturdy",
+        "second": "rock head",
+        "hidden": "heavy metal"
+    },
+    {
+        "term": "lairon",
+        "first": "sturdy",
+        "second": "rock head",
+        "hidden": "heavy metal"
+    },
+    {
+        "term": "aggron",
+        "first": "sturdy",
+        "second": "rock head",
+        "hidden": "heavy metal"
+    },
+    {
+        "term": "mega aggron",
+        "first": "filter",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "meditite",
+        "first": "pure power",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "medicham",
+        "first": "pure power",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "mega medicham",
+        "first": "pure power",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "electrike",
+        "first": "static",
+        "second": "lightning rod",
+        "hidden": "minus"
+    },
+    {
+        "term": "manectric",
+        "first": "static",
+        "second": "lightning rod",
+        "hidden": "minus"
+    },
+    {
+        "term": "mega manectric",
+        "first": "intimidate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "plusle",
+        "first": "plus",
+        "second": null,
+        "hidden": "lightning rod"
+    },
+    {
+        "term": "minun",
+        "first": "minus",
+        "second": null,
+        "hidden": "volt absorb"
+    },
+    {
+        "term": "volbeat",
+        "first": "illuminate",
+        "second": "swarm",
+        "hidden": "prankster"
+    },
+    {
+        "term": "illumise",
+        "first": "oblivious",
+        "second": "tinted lens",
+        "hidden": "prankster"
+    },
+    {
+        "term": "roselia",
+        "first": "natural cure",
+        "second": "poison point",
+        "hidden": "leaf guard"
+    },
+    {
+        "term": "gulpin",
+        "first": "liquid ooze",
+        "second": "sticky hold",
+        "hidden": "gluttony"
+    },
+    {
+        "term": "swalot",
+        "first": "liquid ooze",
+        "second": "sticky hold",
+        "hidden": "gluttony"
+    },
+    {
+        "term": "carvanha",
+        "first": "rough skin",
+        "second": null,
+        "hidden": "speed boost"
+    },
+    {
+        "term": "sharpedo",
+        "first": "rough skin",
+        "second": null,
+        "hidden": "speed boost"
+    },
+    {
+        "term": "mega sharpedo",
+        "first": "strong jaw",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "wailmer",
+        "first": "water veil",
+        "second": "oblivious",
+        "hidden": "pressure"
+    },
+    {
+        "term": "wailord",
+        "first": "water veil",
+        "second": "oblivious",
+        "hidden": "pressure"
+    },
+    {
+        "term": "numel",
+        "first": "oblivious",
+        "second": "simple",
+        "hidden": "own tempo"
+    },
+    {
+        "term": "camerupt",
+        "first": "magma armor",
+        "second": "solid rock",
+        "hidden": "anger point"
+    },
+    {
+        "term": "mega camerupt",
+        "first": "sheer force",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "torkoal",
+        "first": "white smoke",
+        "second": "drought",
+        "hidden": "shell armor"
+    },
+    {
+        "term": "spoink",
+        "first": "thick fat",
+        "second": "own tempo",
+        "hidden": "gluttony"
+    },
+    {
+        "term": "grumpig",
+        "first": "thick fat",
+        "second": "own tempo",
+        "hidden": "gluttony"
+    },
+    {
+        "term": "spinda",
+        "first": "own tempo",
+        "second": "tangled feet",
+        "hidden": "contrary"
+    },
+    {
+        "term": "trapinch",
+        "first": "hyper cutter",
+        "second": "arena trap",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "vibrava",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "flygon",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "cacnea",
+        "first": "sand veil",
+        "second": null,
+        "hidden": "water absorb"
+    },
+    {
+        "term": "cacturne",
+        "first": "sand veil",
+        "second": null,
+        "hidden": "water absorb"
+    },
+    {
+        "term": "swablu",
+        "first": "natural cure",
+        "second": null,
+        "hidden": "cloud nine"
+    },
+    {
+        "term": "altaria",
+        "first": "natural cure",
+        "second": null,
+        "hidden": "cloud nine"
+    },
+    {
+        "term": "mega altaria",
+        "first": "pixilate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "zangoose",
+        "first": "immunity",
+        "second": null,
+        "hidden": "toxic boost"
+    },
+    {
+        "term": "seviper",
+        "first": "shed skin",
+        "second": null,
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "lunatone",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "solrock",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "barboach",
+        "first": "oblivious",
+        "second": "anticipation",
+        "hidden": "hydration"
+    },
+    {
+        "term": "whiscash",
+        "first": "oblivious",
+        "second": "anticipation",
+        "hidden": "hydration"
+    },
+    {
+        "term": "corphish",
+        "first": "hyper cutter",
+        "second": "shell armor",
+        "hidden": "adaptability"
+    },
+    {
+        "term": "crawdaunt",
+        "first": "hyper cutter",
+        "second": "shell armor",
+        "hidden": "adaptability"
+    },
+    {
+        "term": "baltoy",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "claydol",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "lileep",
+        "first": "suction cups",
+        "second": null,
+        "hidden": "storm drain"
+    },
+    {
+        "term": "cradily",
+        "first": "suction cups",
+        "second": null,
+        "hidden": "storm drain"
+    },
+    {
+        "term": "anorith",
+        "first": "battle armor",
+        "second": null,
+        "hidden": "swift swim"
+    },
+    {
+        "term": "armaldo",
+        "first": "battle armor",
+        "second": null,
+        "hidden": "swift swim"
+    },
+    {
+        "term": "feebas",
+        "first": "swift swim",
+        "second": "oblivious",
+        "hidden": "adaptability"
+    },
+    {
+        "term": "milotic",
+        "first": "marvel scale",
+        "second": "competitive",
+        "hidden": "cute charm"
+    },
+    {
+        "term": "castform",
+        "first": "forecast",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "kecleon",
+        "first": "color change",
+        "second": null,
+        "hidden": "protean"
+    },
+    {
+        "term": "shuppet",
+        "first": "insomnia",
+        "second": "frisk",
+        "hidden": "cursed body"
+    },
+    {
+        "term": "banette",
+        "first": "insomnia",
+        "second": "frisk",
+        "hidden": "cursed body"
+    },
+    {
+        "term": "mega banette",
+        "first": "prankster",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "duskull",
+        "first": "levitate",
+        "second": null,
+        "hidden": "frisk"
+    },
+    {
+        "term": "dusclops",
+        "first": "pressure",
+        "second": null,
+        "hidden": "frisk"
+    },
+    {
+        "term": "tropius",
+        "first": "chlorophyll",
+        "second": "solar power",
+        "hidden": "harvest"
+    },
+    {
+        "term": "chimecho",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "absol",
+        "first": "pressure",
+        "second": "super luck",
+        "hidden": "justified"
+    },
+    {
+        "term": "mega absol",
+        "first": "magic bounce",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "wynaut",
+        "first": "shadow tag",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "snorunt",
+        "first": "inner focus",
+        "second": "ice body",
+        "hidden": "moody"
+    },
+    {
+        "term": "glalie",
+        "first": "inner focus",
+        "second": "ice body",
+        "hidden": "moody"
+    },
+    {
+        "term": "mega glalie",
+        "first": "refrigerate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "spheal",
+        "first": "thick fat",
+        "second": "ice body",
+        "hidden": "oblivious"
+    },
+    {
+        "term": "sealeo",
+        "first": "thick fat",
+        "second": "ice body",
+        "hidden": "oblivious"
+    },
+    {
+        "term": "walrein",
+        "first": "thick fat",
+        "second": "ice body",
+        "hidden": "oblivious"
+    },
+    {
+        "term": "clamperl",
+        "first": "shell armor",
+        "second": null,
+        "hidden": "rattled"
+    },
+    {
+        "term": "huntail",
+        "first": "swift swim",
+        "second": null,
+        "hidden": "water veil"
+    },
+    {
+        "term": "gorebyss",
+        "first": "swift swim",
+        "second": null,
+        "hidden": "hydration"
+    },
+    {
+        "term": "relicanth",
+        "first": "swift swim",
+        "second": "rock head",
+        "hidden": "sturdy"
+    },
+    {
+        "term": "luvdisc",
+        "first": "swift swim",
+        "second": null,
+        "hidden": "hydration"
+    },
+    {
+        "term": "bagon",
+        "first": "rock head",
+        "second": null,
+        "hidden": "sheer force"
+    },
+    {
+        "term": "shelgon",
+        "first": "rock head",
+        "second": null,
+        "hidden": "overcoat"
+    },
+    {
+        "term": "salamence",
+        "first": "intimidate",
+        "second": null,
+        "hidden": "moxie"
+    },
+    {
+        "term": "mega salamence",
+        "first": "aerilate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "beldum",
+        "first": "clear body",
+        "second": null,
+        "hidden": "light metal"
+    },
+    {
+        "term": "metang",
+        "first": "clear body",
+        "second": null,
+        "hidden": "light metal"
+    },
+    {
+        "term": "metagross",
+        "first": "clear body",
+        "second": null,
+        "hidden": "light metal"
+    },
+    {
+        "term": "mega metagross",
+        "first": "tough claws",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "regirock",
+        "first": "clear body",
+        "second": null,
+        "hidden": "sturdy"
+    },
+    {
+        "term": "regice",
+        "first": "clear body",
+        "second": null,
+        "hidden": "ice body"
+    },
+    {
+        "term": "registeel",
+        "first": "clear body",
+        "second": null,
+        "hidden": "light metal"
+    },
+    {
+        "term": "latias",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mega latias",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "latios",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mega latios",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "kyogre",
+        "first": "drizzle",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "primal kyogre",
+        "first": "primordial sea",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "groudon",
+        "first": "drought",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "primal groudon",
+        "first": "desolate land",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "rayquaza",
+        "first": "air lock",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mega rayquaza",
+        "first": "delta stream",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "jirachi",
+        "first": "serene grace",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "deoxys normal",
+        "first": "pressure",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "deoxys attack",
+        "first": "pressure",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "deoxys defense",
+        "first": "pressure",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "deoxys speed",
+        "first": "pressure",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "turtwig",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "shell armor"
+    },
+    {
+        "term": "grotle",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "shell armor"
+    },
+    {
+        "term": "torterra",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "shell armor"
+    },
+    {
+        "term": "chimchar",
+        "first": "blaze",
+        "second": null,
+        "hidden": "iron fist"
+    },
+    {
+        "term": "monferno",
+        "first": "blaze",
+        "second": null,
+        "hidden": "iron fist"
+    },
+    {
+        "term": "infernape",
+        "first": "blaze",
+        "second": null,
+        "hidden": "iron fist"
+    },
+    {
+        "term": "piplup",
+        "first": "torrent",
+        "second": null,
+        "hidden": "defiant"
+    },
+    {
+        "term": "prinplup",
+        "first": "torrent",
+        "second": null,
+        "hidden": "defiant"
+    },
+    {
+        "term": "empoleon",
+        "first": "torrent",
+        "second": null,
+        "hidden": "defiant"
+    },
+    {
+        "term": "starly",
+        "first": "keen eye",
+        "second": null,
+        "hidden": "reckless"
+    },
+    {
+        "term": "staravia",
+        "first": "intimidate",
+        "second": null,
+        "hidden": "reckless"
+    },
+    {
+        "term": "staraptor",
+        "first": "intimidate",
+        "second": null,
+        "hidden": "reckless"
+    },
+    {
+        "term": "bidoof",
+        "first": "simple",
+        "second": "unaware",
+        "hidden": "moody"
+    },
+    {
+        "term": "bibarel",
+        "first": "simple",
+        "second": "unaware",
+        "hidden": "moody"
+    },
+    {
+        "term": "kricketot",
+        "first": "shed skin",
+        "second": null,
+        "hidden": "run away"
+    },
+    {
+        "term": "kricketune",
+        "first": "swarm",
+        "second": null,
+        "hidden": "technician"
+    },
+    {
+        "term": "shinx",
+        "first": "rivalry",
+        "second": "intimidate",
+        "hidden": "guts"
+    },
+    {
+        "term": "luxio",
+        "first": "rivalry",
+        "second": "intimidate",
+        "hidden": "guts"
+    },
+    {
+        "term": "luxray",
+        "first": "rivalry",
+        "second": "intimidate",
+        "hidden": "guts"
+    },
+    {
+        "term": "budew",
+        "first": "natural cure",
+        "second": "poison point",
+        "hidden": "leaf guard"
+    },
+    {
+        "term": "roserade",
+        "first": "natural cure",
+        "second": "poison point",
+        "hidden": "technician"
+    },
+    {
+        "term": "cranidos",
+        "first": "mold breaker",
+        "second": null,
+        "hidden": "sheer force"
+    },
+    {
+        "term": "rampardos",
+        "first": "mold breaker",
+        "second": null,
+        "hidden": "sheer force"
+    },
+    {
+        "term": "shieldon",
+        "first": "sturdy",
+        "second": null,
+        "hidden": "soundproof"
+    },
+    {
+        "term": "bastiodon",
+        "first": "sturdy",
+        "second": null,
+        "hidden": "soundproof"
+    },
+    {
+        "term": "burmy",
+        "first": "shed skin",
+        "second": null,
+        "hidden": "overcoat"
+    },
+    {
+        "term": "wormadam plant cloak",
+        "first": "anticipation",
+        "second": null,
+        "hidden": "overcoat"
+    },
+    {
+        "term": "wormadam sandy cloak",
+        "first": "anticipation",
+        "second": null,
+        "hidden": "overcoat"
+    },
+    {
+        "term": "wormadam trash cloak",
+        "first": "anticipation",
+        "second": null,
+        "hidden": "overcoat"
+    },
+    {
+        "term": "mothim",
+        "first": "swarm",
+        "second": null,
+        "hidden": "tinted lens"
+    },
+    {
+        "term": "combee",
+        "first": "honey gather",
+        "second": null,
+        "hidden": "hustle"
+    },
+    {
+        "term": "vespiquen",
+        "first": "pressure",
+        "second": null,
+        "hidden": "unnerve"
+    },
+    {
+        "term": "pachirisu",
+        "first": "run away",
+        "second": "pickup",
+        "hidden": "volt absorb"
+    },
+    {
+        "term": "buizel",
+        "first": "swift swim",
+        "second": null,
+        "hidden": "water veil"
+    },
+    {
+        "term": "floatzel",
+        "first": "swift swim",
+        "second": null,
+        "hidden": "water veil"
+    },
+    {
+        "term": "cherubi",
+        "first": "chlorophyll",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "cherrim",
+        "first": "flower gift",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "shellos",
+        "first": "sticky hold",
+        "second": "storm drain",
+        "hidden": "sand force"
+    },
+    {
+        "term": "gastrodon",
+        "first": "sticky hold",
+        "second": "storm drain",
+        "hidden": "sand force"
+    },
+    {
+        "term": "ambipom",
+        "first": "technician",
+        "second": "pickup",
+        "hidden": "skill link"
+    },
+    {
+        "term": "drifloon",
+        "first": "aftermath",
+        "second": "unburden",
+        "hidden": "flare boost"
+    },
+    {
+        "term": "drifblim",
+        "first": "aftermath",
+        "second": "unburden",
+        "hidden": "flare boost"
+    },
+    {
+        "term": "buneary",
+        "first": "run away",
+        "second": "klutz",
+        "hidden": "limber"
+    },
+    {
+        "term": "lopunny",
+        "first": "cute charm",
+        "second": "klutz",
+        "hidden": "limber"
+    },
+    {
+        "term": "mega lopunny",
+        "first": "scrappy",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mismagius",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "honchkrow",
+        "first": "insomnia",
+        "second": "super luck",
+        "hidden": "moxie"
+    },
+    {
+        "term": "glameow",
+        "first": "limber",
+        "second": "own tempo",
+        "hidden": "keen eye"
+    },
+    {
+        "term": "purugly",
+        "first": "thick fat",
+        "second": "own tempo",
+        "hidden": "defiant"
+    },
+    {
+        "term": "chingling",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "stunky",
+        "first": "stench",
+        "second": "aftermath",
+        "hidden": "keen eye"
+    },
+    {
+        "term": "skuntank",
+        "first": "stench",
+        "second": "aftermath",
+        "hidden": "keen eye"
+    },
+    {
+        "term": "bronzor",
+        "first": "levitate",
+        "second": "heatproof",
+        "hidden": "heavy metal"
+    },
+    {
+        "term": "bronzong",
+        "first": "levitate",
+        "second": "heatproof",
+        "hidden": "heavy metal"
+    },
+    {
+        "term": "bonsly",
+        "first": "sturdy",
+        "second": "rock head",
+        "hidden": "rattled"
+    },
+    {
+        "term": "mime jr.",
+        "first": "soundproof",
+        "second": "filter",
+        "hidden": "technician"
+    },
+    {
+        "term": "happiny",
+        "first": "natural cure",
+        "second": "serene grace",
+        "hidden": "friend guard"
+    },
+    {
+        "term": "chatot",
+        "first": "keen eye",
+        "second": "tangled feet",
+        "hidden": "big pecks"
+    },
+    {
+        "term": "spiritomb",
+        "first": "pressure",
+        "second": null,
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "gible",
+        "first": "sand veil",
+        "second": null,
+        "hidden": "rough skin"
+    },
+    {
+        "term": "gabite",
+        "first": "sand veil",
+        "second": null,
+        "hidden": "rough skin"
+    },
+    {
+        "term": "garchomp",
+        "first": "sand veil",
+        "second": null,
+        "hidden": "rough skin"
+    },
+    {
+        "term": "mega garchomp",
+        "first": "sand force",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "munchlax",
+        "first": "pickup",
+        "second": "thick fat",
+        "hidden": "gluttony"
+    },
+    {
+        "term": "riolu",
+        "first": "steadfast",
+        "second": "inner focus",
+        "hidden": "prankster"
+    },
+    {
+        "term": "lucario",
+        "first": "steadfast",
+        "second": "inner focus",
+        "hidden": "justified"
+    },
+    {
+        "term": "mega lucario",
+        "first": "adaptability",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "hippopotas",
+        "first": "sand stream",
+        "second": null,
+        "hidden": "sand force"
+    },
+    {
+        "term": "hippowdon",
+        "first": "sand stream",
+        "second": null,
+        "hidden": "sand force"
+    },
+    {
+        "term": "skorupi",
+        "first": "battle armor",
+        "second": "sniper",
+        "hidden": "keen eye"
+    },
+    {
+        "term": "drapion",
+        "first": "battle armor",
+        "second": "sniper",
+        "hidden": "keen eye"
+    },
+    {
+        "term": "croagunk",
+        "first": "anticipation",
+        "second": "dry skin",
+        "hidden": "poison touch"
+    },
+    {
+        "term": "toxicroak",
+        "first": "anticipation",
+        "second": "dry skin",
+        "hidden": "poison touch"
+    },
+    {
+        "term": "carnivine",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "finneon",
+        "first": "swift swim",
+        "second": "storm drain",
+        "hidden": "water veil"
+    },
+    {
+        "term": "lumineon",
+        "first": "swift swim",
+        "second": "storm drain",
+        "hidden": "water veil"
+    },
+    {
+        "term": "mantyke",
+        "first": "swift swim",
+        "second": "water absorb",
+        "hidden": "water veil"
+    },
+    {
+        "term": "snover",
+        "first": "snow warning",
+        "second": null,
+        "hidden": "soundproof"
+    },
+    {
+        "term": "abomasnow",
+        "first": "snow warning",
+        "second": null,
+        "hidden": "soundproof"
+    },
+    {
+        "term": "mega abomasnow",
+        "first": "snow warning",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "weavile",
+        "first": "pressure",
+        "second": null,
+        "hidden": "pickpocket"
+    },
+    {
+        "term": "magnezone",
+        "first": "magnet pull",
+        "second": "sturdy",
+        "hidden": "analytic"
+    },
+    {
+        "term": "lickilicky",
+        "first": "own tempo",
+        "second": "oblivious",
+        "hidden": "cloud nine"
+    },
+    {
+        "term": "rhyperior",
+        "first": "lightning rod",
+        "second": "solid rock",
+        "hidden": "reckless"
+    },
+    {
+        "term": "tangrowth",
+        "first": "chlorophyll",
+        "second": "leaf guard",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "electivire",
+        "first": "motor drive",
+        "second": null,
+        "hidden": "vital spirit"
+    },
+    {
+        "term": "magmortar",
+        "first": "flame body",
+        "second": null,
+        "hidden": "vital spirit"
+    },
+    {
+        "term": "togekiss",
+        "first": "hustle",
+        "second": "serene grace",
+        "hidden": "super luck"
+    },
+    {
+        "term": "yanmega",
+        "first": "speed boost",
+        "second": "tinted lens",
+        "hidden": "frisk"
+    },
+    {
+        "term": "leafeon",
+        "first": "leaf guard",
+        "second": null,
+        "hidden": "chlorophyll"
+    },
+    {
+        "term": "glaceon",
+        "first": "snow cloak",
+        "second": null,
+        "hidden": "ice body"
+    },
+    {
+        "term": "gliscor",
+        "first": "hyper cutter",
+        "second": "sand veil",
+        "hidden": "poison heal"
+    },
+    {
+        "term": "mamoswine",
+        "first": "oblivious",
+        "second": "snow cloak",
+        "hidden": "thick fat"
+    },
+    {
+        "term": "porygon z",
+        "first": "adaptability",
+        "second": "download",
+        "hidden": "analytic"
+    },
+    {
+        "term": "gallade",
+        "first": "steadfast",
+        "second": null,
+        "hidden": "justified"
+    },
+    {
+        "term": "mega gallade",
+        "first": "inner focus",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "probopass",
+        "first": "sturdy",
+        "second": "magnet pull",
+        "hidden": "sand force"
+    },
+    {
+        "term": "dusknoir",
+        "first": "pressure",
+        "second": null,
+        "hidden": "frisk"
+    },
+    {
+        "term": "froslass",
+        "first": "snow cloak",
+        "second": null,
+        "hidden": "cursed body"
+    },
+    {
+        "term": "rotom",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "rotom heat",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "rotom wash",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "rotom frost",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "rotom fan",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "rotom mow",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "uxie",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mesprit",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "azelf",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "dialga",
+        "first": "pressure",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "palkia",
+        "first": "pressure",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "heatran",
+        "first": "flash fire",
+        "second": null,
+        "hidden": "flame body"
+    },
+    {
+        "term": "regigigas",
+        "first": "slow start",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "giratina altered",
+        "first": "pressure",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "giratina origin",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "cresselia",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "phione",
+        "first": "hydration",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "manaphy",
+        "first": "hydration",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "darkrai",
+        "first": "bad dreams",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "shaymin land",
+        "first": "natural cure",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "shaymin sky",
+        "first": "serene grace",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "arceus",
+        "first": "multitype",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "victini",
+        "first": "victory star",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "snivy",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "contrary"
+    },
+    {
+        "term": "servine",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "contrary"
+    },
+    {
+        "term": "serperior",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "contrary"
+    },
+    {
+        "term": "tepig",
+        "first": "blaze",
+        "second": null,
+        "hidden": "thick fat"
+    },
+    {
+        "term": "pignite",
+        "first": "blaze",
+        "second": null,
+        "hidden": "thick fat"
+    },
+    {
+        "term": "emboar",
+        "first": "blaze",
+        "second": null,
+        "hidden": "reckless"
+    },
+    {
+        "term": "oshawott",
+        "first": "torrent",
+        "second": null,
+        "hidden": "shell armor"
+    },
+    {
+        "term": "dewott",
+        "first": "torrent",
+        "second": null,
+        "hidden": "shell armor"
+    },
+    {
+        "term": "samurott",
+        "first": "torrent",
+        "second": null,
+        "hidden": "shell armor"
+    },
+    {
+        "term": "patrat",
+        "first": "run away",
+        "second": "keen eye",
+        "hidden": "analytic"
+    },
+    {
+        "term": "watchog",
+        "first": "illuminate",
+        "second": "keen eye",
+        "hidden": "analytic"
+    },
+    {
+        "term": "lillipup",
+        "first": "vital spirit",
+        "second": "pickup",
+        "hidden": "run away"
+    },
+    {
+        "term": "herdier",
+        "first": "intimidate",
+        "second": "sand rush",
+        "hidden": "scrappy"
+    },
+    {
+        "term": "stoutland",
+        "first": "intimidate",
+        "second": "sand rush",
+        "hidden": "scrappy"
+    },
+    {
+        "term": "purrloin",
+        "first": "limber",
+        "second": "unburden",
+        "hidden": "prankster"
+    },
+    {
+        "term": "liepard",
+        "first": "limber",
+        "second": "unburden",
+        "hidden": "prankster"
+    },
+    {
+        "term": "pansage",
+        "first": "gluttony",
+        "second": null,
+        "hidden": "overgrow"
+    },
+    {
+        "term": "simisage",
+        "first": "gluttony",
+        "second": null,
+        "hidden": "overgrow"
+    },
+    {
+        "term": "pansear",
+        "first": "gluttony",
+        "second": null,
+        "hidden": "blaze"
+    },
+    {
+        "term": "simisear",
+        "first": "gluttony",
+        "second": null,
+        "hidden": "blaze"
+    },
+    {
+        "term": "panpour",
+        "first": "gluttony",
+        "second": null,
+        "hidden": "torrent"
+    },
+    {
+        "term": "simipour",
+        "first": "gluttony",
+        "second": null,
+        "hidden": "torrent"
+    },
+    {
+        "term": "munna",
+        "first": "forewarn",
+        "second": "synchronize",
+        "hidden": "telepathy"
+    },
+    {
+        "term": "musharna",
+        "first": "forewarn",
+        "second": "synchronize",
+        "hidden": "telepathy"
+    },
+    {
+        "term": "pidove",
+        "first": "big pecks",
+        "second": "super luck",
+        "hidden": "rivalry"
+    },
+    {
+        "term": "tranquill",
+        "first": "big pecks",
+        "second": "super luck",
+        "hidden": "rivalry"
+    },
+    {
+        "term": "unfezant",
+        "first": "big pecks",
+        "second": "super luck",
+        "hidden": "rivalry"
+    },
+    {
+        "term": "blitzle",
+        "first": "lightning rod",
+        "second": "motor drive",
+        "hidden": "sap sipper"
+    },
+    {
+        "term": "zebstrika",
+        "first": "lightning rod",
+        "second": "motor drive",
+        "hidden": "sap sipper"
+    },
+    {
+        "term": "roggenrola",
+        "first": "sturdy",
+        "second": "weak armor",
+        "hidden": "sand force"
+    },
+    {
+        "term": "boldore",
+        "first": "sturdy",
+        "second": "weak armor",
+        "hidden": "sand force"
+    },
+    {
+        "term": "gigalith",
+        "first": "sturdy",
+        "second": "sand stream",
+        "hidden": "sand force"
+    },
+    {
+        "term": "woobat",
+        "first": "unaware",
+        "second": "klutz",
+        "hidden": "simple"
+    },
+    {
+        "term": "swoobat",
+        "first": "unaware",
+        "second": "klutz",
+        "hidden": "simple"
+    },
+    {
+        "term": "drilbur",
+        "first": "sand rush",
+        "second": "sand force",
+        "hidden": "mold breaker"
+    },
+    {
+        "term": "excadrill",
+        "first": "sand rush",
+        "second": "sand force",
+        "hidden": "mold breaker"
+    },
+    {
+        "term": "audino",
+        "first": "healer",
+        "second": "regenerator",
+        "hidden": "klutz"
+    },
+    {
+        "term": "mega audino",
+        "first": "healer",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "timburr",
+        "first": "guts",
+        "second": "sheer force",
+        "hidden": "iron fist"
+    },
+    {
+        "term": "gurdurr",
+        "first": "guts",
+        "second": "sheer force",
+        "hidden": "iron fist"
+    },
+    {
+        "term": "conkeldurr",
+        "first": "guts",
+        "second": "sheer force",
+        "hidden": "iron fist"
+    },
+    {
+        "term": "tympole",
+        "first": "swift swim",
+        "second": "hydration",
+        "hidden": "water absorb"
+    },
+    {
+        "term": "palpitoad",
+        "first": "swift swim",
+        "second": "hydration",
+        "hidden": "water absorb"
+    },
+    {
+        "term": "seismitoad",
+        "first": "swift swim",
+        "second": "poison touch",
+        "hidden": "water absorb"
+    },
+    {
+        "term": "throh",
+        "first": "guts",
+        "second": "inner focus",
+        "hidden": "mold breaker"
+    },
+    {
+        "term": "sawk",
+        "first": "sturdy",
+        "second": "inner focus",
+        "hidden": "mold breaker"
+    },
+    {
+        "term": "sewaddle",
+        "first": "swarm",
+        "second": "chlorophyll",
+        "hidden": "overcoat"
+    },
+    {
+        "term": "swadloon",
+        "first": "leaf guard",
+        "second": "chlorophyll",
+        "hidden": "overcoat"
+    },
+    {
+        "term": "leavanny",
+        "first": "swarm",
+        "second": "chlorophyll",
+        "hidden": "overcoat"
+    },
+    {
+        "term": "venipede",
+        "first": "poison point",
+        "second": "swarm",
+        "hidden": "speed boost"
+    },
+    {
+        "term": "whirlipede",
+        "first": "poison point",
+        "second": "swarm",
+        "hidden": "speed boost"
+    },
+    {
+        "term": "scolipede",
+        "first": "poison point",
+        "second": "swarm",
+        "hidden": "speed boost"
+    },
+    {
+        "term": "cottonee",
+        "first": "prankster",
+        "second": "infiltrator",
+        "hidden": "chlorophyll"
+    },
+    {
+        "term": "whimsicott",
+        "first": "prankster",
+        "second": "infiltrator",
+        "hidden": "chlorophyll"
+    },
+    {
+        "term": "petilil",
+        "first": "chlorophyll",
+        "second": "own tempo",
+        "hidden": "leaf guard"
+    },
+    {
+        "term": "lilligant",
+        "first": "chlorophyll",
+        "second": "own tempo",
+        "hidden": "leaf guard"
+    },
+    {
+        "term": "basculin red striped",
+        "first": "reckless",
+        "second": "adaptability",
+        "hidden": "mold breaker"
+    },
+    {
+        "term": "basculin blue striped",
+        "first": "rock head",
+        "second": "adaptability",
+        "hidden": "mold breaker"
+    },
+    {
+        "term": "sandile",
+        "first": "intimidate",
+        "second": "moxie",
+        "hidden": "anger point"
+    },
+    {
+        "term": "krokorok",
+        "first": "intimidate",
+        "second": "moxie",
+        "hidden": "anger point"
+    },
+    {
+        "term": "krookodile",
+        "first": "intimidate",
+        "second": "moxie",
+        "hidden": "anger point"
+    },
+    {
+        "term": "darumaka",
+        "first": "hustle",
+        "second": null,
+        "hidden": "inner focus"
+    },
+    {
+        "term": "darmanitan",
+        "first": "sheer force",
+        "second": null,
+        "hidden": "zen mode"
+    },
+    {
+        "term": "darmanitan zen mode",
+        "first": "zen mode",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "maractus",
+        "first": "water absorb",
+        "second": "chlorophyll",
+        "hidden": "storm drain"
+    },
+    {
+        "term": "dwebble",
+        "first": "sturdy",
+        "second": "shell armor",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "crustle",
+        "first": "sturdy",
+        "second": "shell armor",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "scraggy",
+        "first": "shed skin",
+        "second": "moxie",
+        "hidden": "intimidate"
+    },
+    {
+        "term": "scrafty",
+        "first": "shed skin",
+        "second": "moxie",
+        "hidden": "intimidate"
+    },
+    {
+        "term": "sigilyph",
+        "first": "wonder skin",
+        "second": "magic guard",
+        "hidden": "tinted lens"
+    },
+    {
+        "term": "yamask",
+        "first": "mummy",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "cofagrigus",
+        "first": "mummy",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "tirtouga",
+        "first": "solid rock",
+        "second": "sturdy",
+        "hidden": "swift swim"
+    },
+    {
+        "term": "carracosta",
+        "first": "solid rock",
+        "second": "sturdy",
+        "hidden": "swift swim"
+    },
+    {
+        "term": "archen",
+        "first": "defeatist",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "archeops",
+        "first": "defeatist",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "trubbish",
+        "first": "stench",
+        "second": "sticky hold",
+        "hidden": "aftermath"
+    },
+    {
+        "term": "garbodor",
+        "first": "stench",
+        "second": "weak armor",
+        "hidden": "aftermath"
+    },
+    {
+        "term": "zorua",
+        "first": "illusion",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "zoroark",
+        "first": "illusion",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "minccino",
+        "first": "cute charm",
+        "second": "technician",
+        "hidden": "skill link"
+    },
+    {
+        "term": "cinccino",
+        "first": "cute charm",
+        "second": "technician",
+        "hidden": "skill link"
+    },
+    {
+        "term": "gothita",
+        "first": "frisk",
+        "second": "competitive",
+        "hidden": "shadow tag"
+    },
+    {
+        "term": "gothorita",
+        "first": "frisk",
+        "second": "competitive",
+        "hidden": "shadow tag"
+    },
+    {
+        "term": "gothitelle",
+        "first": "frisk",
+        "second": "competitive",
+        "hidden": "shadow tag"
+    },
+    {
+        "term": "solosis",
+        "first": "overcoat",
+        "second": "magic guard",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "duosion",
+        "first": "overcoat",
+        "second": "magic guard",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "reuniclus",
+        "first": "overcoat",
+        "second": "magic guard",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "ducklett",
+        "first": "keen eye",
+        "second": "big pecks",
+        "hidden": "hydration"
+    },
+    {
+        "term": "swanna",
+        "first": "keen eye",
+        "second": "big pecks",
+        "hidden": "hydration"
+    },
+    {
+        "term": "vanillite",
+        "first": "ice body",
+        "second": "snow cloak",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "vanillish",
+        "first": "ice body",
+        "second": "snow cloak",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "vanilluxe",
+        "first": "ice body",
+        "second": "snow warning",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "deerling",
+        "first": "chlorophyll",
+        "second": "sap sipper",
+        "hidden": "serene grace"
+    },
+    {
+        "term": "sawsbuck",
+        "first": "chlorophyll",
+        "second": "sap sipper",
+        "hidden": "serene grace"
+    },
+    {
+        "term": "emolga",
+        "first": "static",
+        "second": null,
+        "hidden": "motor drive"
+    },
+    {
+        "term": "karrablast",
+        "first": "swarm",
+        "second": "shed skin",
+        "hidden": "no guard"
+    },
+    {
+        "term": "escavalier",
+        "first": "swarm",
+        "second": "shell armor",
+        "hidden": "overcoat"
+    },
+    {
+        "term": "foongus",
+        "first": "effect spore",
+        "second": null,
+        "hidden": "regenerator"
+    },
+    {
+        "term": "amoonguss",
+        "first": "effect spore",
+        "second": null,
+        "hidden": "regenerator"
+    },
+    {
+        "term": "frillish",
+        "first": "water absorb",
+        "second": "cursed body",
+        "hidden": "damp"
+    },
+    {
+        "term": "jellicent",
+        "first": "water absorb",
+        "second": "cursed body",
+        "hidden": "damp"
+    },
+    {
+        "term": "alomomola",
+        "first": "healer",
+        "second": "hydration",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "joltik",
+        "first": "compound eyes",
+        "second": "unnerve",
+        "hidden": "swarm"
+    },
+    {
+        "term": "galvantula",
+        "first": "compound eyes",
+        "second": "unnerve",
+        "hidden": "swarm"
+    },
+    {
+        "term": "ferroseed",
+        "first": "iron barbs",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "ferrothorn",
+        "first": "iron barbs",
+        "second": null,
+        "hidden": "anticipation"
+    },
+    {
+        "term": "klink",
+        "first": "plus",
+        "second": "minus",
+        "hidden": "clear body"
+    },
+    {
+        "term": "klang",
+        "first": "plus",
+        "second": "minus",
+        "hidden": "clear body"
+    },
+    {
+        "term": "klinklang",
+        "first": "plus",
+        "second": "minus",
+        "hidden": "clear body"
+    },
+    {
+        "term": "tynamo",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "eelektrik",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "eelektross",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "elgyem",
+        "first": "telepathy",
+        "second": "synchronize",
+        "hidden": "analytic"
+    },
+    {
+        "term": "beheeyem",
+        "first": "telepathy",
+        "second": "synchronize",
+        "hidden": "analytic"
+    },
+    {
+        "term": "litwick",
+        "first": "flash fire",
+        "second": "flame body",
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "lampent",
+        "first": "flash fire",
+        "second": "flame body",
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "chandelure",
+        "first": "flash fire",
+        "second": "flame body",
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "axew",
+        "first": "rivalry",
+        "second": "mold breaker",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "fraxure",
+        "first": "rivalry",
+        "second": "mold breaker",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "haxorus",
+        "first": "rivalry",
+        "second": "mold breaker",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "cubchoo",
+        "first": "snow cloak",
+        "second": "slush rush",
+        "hidden": "rattled"
+    },
+    {
+        "term": "beartic",
+        "first": "snow cloak",
+        "second": "slush rush",
+        "hidden": "swift swim"
+    },
+    {
+        "term": "cryogonal",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "shelmet",
+        "first": "hydration",
+        "second": "shell armor",
+        "hidden": "overcoat"
+    },
+    {
+        "term": "accelgor",
+        "first": "hydration",
+        "second": "sticky hold",
+        "hidden": "unburden"
+    },
+    {
+        "term": "stunfisk",
+        "first": "static",
+        "second": "limber",
+        "hidden": "sand veil"
+    },
+    {
+        "term": "mienfoo",
+        "first": "inner focus",
+        "second": "regenerator",
+        "hidden": "reckless"
+    },
+    {
+        "term": "mienshao",
+        "first": "inner focus",
+        "second": "regenerator",
+        "hidden": "reckless"
+    },
+    {
+        "term": "druddigon",
+        "first": "rough skin",
+        "second": "sheer force",
+        "hidden": "mold breaker"
+    },
+    {
+        "term": "golett",
+        "first": "iron fist",
+        "second": "klutz",
+        "hidden": "no guard"
+    },
+    {
+        "term": "golurk",
+        "first": "iron fist",
+        "second": "klutz",
+        "hidden": "no guard"
+    },
+    {
+        "term": "pawniard",
+        "first": "defiant",
+        "second": "inner focus",
+        "hidden": "pressure"
+    },
+    {
+        "term": "bisharp",
+        "first": "defiant",
+        "second": "inner focus",
+        "hidden": "pressure"
+    },
+    {
+        "term": "bouffalant",
+        "first": "reckless",
+        "second": "sap sipper",
+        "hidden": "soundproof"
+    },
+    {
+        "term": "rufflet",
+        "first": "keen eye",
+        "second": "sheer force",
+        "hidden": "hustle"
+    },
+    {
+        "term": "braviary",
+        "first": "keen eye",
+        "second": "sheer force",
+        "hidden": "defiant"
+    },
+    {
+        "term": "vullaby",
+        "first": "big pecks",
+        "second": "overcoat",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "mandibuzz",
+        "first": "big pecks",
+        "second": "overcoat",
+        "hidden": "weak armor"
+    },
+    {
+        "term": "heatmor",
+        "first": "gluttony",
+        "second": "flash fire",
+        "hidden": "white smoke"
+    },
+    {
+        "term": "durant",
+        "first": "swarm",
+        "second": "hustle",
+        "hidden": "truant"
+    },
+    {
+        "term": "deino",
+        "first": "hustle",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "zweilous",
+        "first": "hustle",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "hydreigon",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "larvesta",
+        "first": "flame body",
+        "second": null,
+        "hidden": "swarm"
+    },
+    {
+        "term": "volcarona",
+        "first": "flame body",
+        "second": null,
+        "hidden": "swarm"
+    },
+    {
+        "term": "cobalion",
+        "first": "justified",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "terrakion",
+        "first": "justified",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "virizion",
+        "first": "justified",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "tornadus incarnate",
+        "first": "prankster",
+        "second": null,
+        "hidden": "defiant"
+    },
+    {
+        "term": "tornadus therian",
+        "first": "regenerator",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "thundurus incarnate",
+        "first": "prankster",
+        "second": null,
+        "hidden": "defiant"
+    },
+    {
+        "term": "thundurus therian",
+        "first": "volt absorb",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "reshiram",
+        "first": "turboblaze",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "zekrom",
+        "first": "teravolt",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "landorus incarnate",
+        "first": "sand force",
+        "second": null,
+        "hidden": "sheer force"
+    },
+    {
+        "term": "landorus therian",
+        "first": "intimidate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "kyurem",
+        "first": "pressure",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "kyurem black",
+        "first": "teravolt",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "kyurem white",
+        "first": "turboblaze",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "keldeo",
+        "first": "justified",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "meloetta aria",
+        "first": "serene grace",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "meloetta pirouette",
+        "first": "serene grace",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "genesect",
+        "first": "download",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "chespin",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "bulletproof"
+    },
+    {
+        "term": "quilladin",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "bulletproof"
+    },
+    {
+        "term": "chesnaught",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "bulletproof"
+    },
+    {
+        "term": "fennekin",
+        "first": "blaze",
+        "second": null,
+        "hidden": "magician"
+    },
+    {
+        "term": "braixen",
+        "first": "blaze",
+        "second": null,
+        "hidden": "magician"
+    },
+    {
+        "term": "delphox",
+        "first": "blaze",
+        "second": null,
+        "hidden": "magician"
+    },
+    {
+        "term": "froakie",
+        "first": "torrent",
+        "second": null,
+        "hidden": "protean"
+    },
+    {
+        "term": "frogadier",
+        "first": "torrent",
+        "second": null,
+        "hidden": "protean"
+    },
+    {
+        "term": "greninja",
+        "first": "torrent",
+        "second": null,
+        "hidden": "protean"
+    },
+    {
+        "term": "greninja ash",
+        "first": "battle bond",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "bunnelby",
+        "first": "pickup",
+        "second": "cheek pouch",
+        "hidden": "huge power"
+    },
+    {
+        "term": "diggersby",
+        "first": "pickup",
+        "second": "cheek pouch",
+        "hidden": "huge power"
+    },
+    {
+        "term": "fletchling",
+        "first": "big pecks",
+        "second": null,
+        "hidden": "gale wings"
+    },
+    {
+        "term": "fletchinder",
+        "first": "flame body",
+        "second": null,
+        "hidden": "gale wings"
+    },
+    {
+        "term": "talonflame",
+        "first": "flame body",
+        "second": null,
+        "hidden": "gale wings"
+    },
+    {
+        "term": "scatterbug",
+        "first": "shield dust",
+        "second": "compound eyes",
+        "hidden": "friend guard"
+    },
+    {
+        "term": "spewpa",
+        "first": "shed skin",
+        "second": null,
+        "hidden": "friend guard"
+    },
+    {
+        "term": "vivillon",
+        "first": "shield dust",
+        "second": "compound eyes",
+        "hidden": "friend guard"
+    },
+    {
+        "term": "litleo",
+        "first": "rivalry",
+        "second": "unnerve",
+        "hidden": "moxie"
+    },
+    {
+        "term": "pyroar",
+        "first": "rivalry",
+        "second": "unnerve",
+        "hidden": "moxie"
+    },
+    {
+        "term": "flabebe",
+        "first": "flower veil",
+        "second": null,
+        "hidden": "symbiosis"
+    },
+    {
+        "term": "floette",
+        "first": "flower veil",
+        "second": null,
+        "hidden": "symbiosis"
+    },
+    {
+        "term": "floette eternal",
+        "first": "flower veil",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "florges",
+        "first": "flower veil",
+        "second": null,
+        "hidden": "symbiosis"
+    },
+    {
+        "term": "skiddo",
+        "first": "sap sipper",
+        "second": null,
+        "hidden": "grass pelt"
+    },
+    {
+        "term": "gogoat",
+        "first": "sap sipper",
+        "second": null,
+        "hidden": "grass pelt"
+    },
+    {
+        "term": "pancham",
+        "first": "iron fist",
+        "second": "mold breaker",
+        "hidden": "scrappy"
+    },
+    {
+        "term": "pangoro",
+        "first": "iron fist",
+        "second": "mold breaker",
+        "hidden": "scrappy"
+    },
+    {
+        "term": "furfrou",
+        "first": "fur coat",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "espurr",
+        "first": "keen eye",
+        "second": "infiltrator",
+        "hidden": "own tempo"
+    },
+    {
+        "term": "meowstic male",
+        "first": "keen eye",
+        "second": "infiltrator",
+        "hidden": "prankster"
+    },
+    {
+        "term": "meowstic female",
+        "first": "keen eye",
+        "second": "infiltrator",
+        "hidden": "competitive"
+    },
+    {
+        "term": "honedge",
+        "first": "no guard",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "doublade",
+        "first": "no guard",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "aegislash shield",
+        "first": "stance change",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "aegislash blade",
+        "first": "stance change",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "spritzee",
+        "first": "healer",
+        "second": null,
+        "hidden": "aroma veil"
+    },
+    {
+        "term": "aromatisse",
+        "first": "healer",
+        "second": null,
+        "hidden": "aroma veil"
+    },
+    {
+        "term": "swirlix",
+        "first": "sweet veil",
+        "second": null,
+        "hidden": "unburden"
+    },
+    {
+        "term": "slurpuff",
+        "first": "sweet veil",
+        "second": null,
+        "hidden": "unburden"
+    },
+    {
+        "term": "inkay",
+        "first": "contrary",
+        "second": "suction cups",
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "malamar",
+        "first": "contrary",
+        "second": "suction cups",
+        "hidden": "infiltrator"
+    },
+    {
+        "term": "binacle",
+        "first": "sniper",
+        "second": "tough claws",
+        "hidden": "pickpocket"
+    },
+    {
+        "term": "barbaracle",
+        "first": "sniper",
+        "second": "tough claws",
+        "hidden": "pickpocket"
+    },
+    {
+        "term": "skrelp",
+        "first": "poison point",
+        "second": "poison touch",
+        "hidden": "adaptability"
+    },
+    {
+        "term": "dragalge",
+        "first": "poison point",
+        "second": "poison touch",
+        "hidden": "adaptability"
+    },
+    {
+        "term": "clauncher",
+        "first": "mega launcher",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "clawitzer",
+        "first": "mega launcher",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "helioptile",
+        "first": "dry skin",
+        "second": "sand veil",
+        "hidden": "solar power"
+    },
+    {
+        "term": "heliolisk",
+        "first": "dry skin",
+        "second": "sand veil",
+        "hidden": "solar power"
+    },
+    {
+        "term": "tyrunt",
+        "first": "strong jaw",
+        "second": null,
+        "hidden": "sturdy"
+    },
+    {
+        "term": "tyrantrum",
+        "first": "strong jaw",
+        "second": null,
+        "hidden": "rock head"
+    },
+    {
+        "term": "amaura",
+        "first": "refrigerate",
+        "second": null,
+        "hidden": "snow warning"
+    },
+    {
+        "term": "aurorus",
+        "first": "refrigerate",
+        "second": null,
+        "hidden": "snow warning"
+    },
+    {
+        "term": "sylveon",
+        "first": "cute charm",
+        "second": null,
+        "hidden": "pixilate"
+    },
+    {
+        "term": "hawlucha",
+        "first": "limber",
+        "second": "unburden",
+        "hidden": "mold breaker"
+    },
+    {
+        "term": "dedenne",
+        "first": "cheek pouch",
+        "second": "pickup",
+        "hidden": "plus"
+    },
+    {
+        "term": "carbink",
+        "first": "clear body",
+        "second": null,
+        "hidden": "sturdy"
+    },
+    {
+        "term": "goomy",
+        "first": "sap sipper",
+        "second": "hydration",
+        "hidden": "gooey"
+    },
+    {
+        "term": "sliggoo",
+        "first": "sap sipper",
+        "second": "hydration",
+        "hidden": "gooey"
+    },
+    {
+        "term": "goodra",
+        "first": "sap sipper",
+        "second": "hydration",
+        "hidden": "gooey"
+    },
+    {
+        "term": "klefki",
+        "first": "prankster",
+        "second": null,
+        "hidden": "magician"
+    },
+    {
+        "term": "phantump",
+        "first": "natural cure",
+        "second": "frisk",
+        "hidden": "harvest"
+    },
+    {
+        "term": "trevenant",
+        "first": "natural cure",
+        "second": "frisk",
+        "hidden": "harvest"
+    },
+    {
+        "term": "pumpkaboo small",
+        "first": "pickup",
+        "second": "frisk",
+        "hidden": "insomnia"
+    },
+    {
+        "term": "pumpkaboo average",
+        "first": "pickup",
+        "second": "frisk",
+        "hidden": "insomnia"
+    },
+    {
+        "term": "pumpkaboo large",
+        "first": "pickup",
+        "second": "frisk",
+        "hidden": "insomnia"
+    },
+    {
+        "term": "pumpkaboo super",
+        "first": "pickup",
+        "second": "frisk",
+        "hidden": "insomnia"
+    },
+    {
+        "term": "gourgeist small",
+        "first": "pickup",
+        "second": "frisk",
+        "hidden": "insomnia"
+    },
+    {
+        "term": "gourgeist average",
+        "first": "pickup",
+        "second": "frisk",
+        "hidden": "insomnia"
+    },
+    {
+        "term": "gourgeist large",
+        "first": "pickup",
+        "second": "frisk",
+        "hidden": "insomnia"
+    },
+    {
+        "term": "gourgeist super",
+        "first": "pickup",
+        "second": "frisk",
+        "hidden": "insomnia"
+    },
+    {
+        "term": "bergmite",
+        "first": "own tempo",
+        "second": "ice body",
+        "hidden": "sturdy"
+    },
+    {
+        "term": "avalugg",
+        "first": "own tempo",
+        "second": "ice body",
+        "hidden": "sturdy"
+    },
+    {
+        "term": "noibat",
+        "first": "frisk",
+        "second": "infiltrator",
+        "hidden": "telepathy"
+    },
+    {
+        "term": "noivern",
+        "first": "frisk",
+        "second": "infiltrator",
+        "hidden": "telepathy"
+    },
+    {
+        "term": "xerneas",
+        "first": "fairy aura",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "yveltal",
+        "first": "dark aura",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "zygarde 50% 50 normal",
+        "first": "aura break",
+        "second": "power construct",
+        "hidden": null
+    },
+    {
+        "term": "zygarde 10% 10 dog",
+        "first": "aura break",
+        "second": "power construct",
+        "hidden": null
+    },
+    {
+        "term": "zygarde complete 100% 100",
+        "first": "power construct",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "diancie",
+        "first": "clear body",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mega diancie",
+        "first": "magic bounce",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "hoopa confined",
+        "first": "magician",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "hoopa unbound",
+        "first": "magician",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "volcanion",
+        "first": "water absorb",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "rowlet",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "long reach"
+    },
+    {
+        "term": "dartrix",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "long reach"
+    },
+    {
+        "term": "decidueye",
+        "first": "overgrow",
+        "second": null,
+        "hidden": "long reach"
+    },
+    {
+        "term": "litten",
+        "first": "blaze",
+        "second": null,
+        "hidden": "intimidate"
+    },
+    {
+        "term": "torracat",
+        "first": "blaze",
+        "second": null,
+        "hidden": "intimidate"
+    },
+    {
+        "term": "incineroar",
+        "first": "blaze",
+        "second": null,
+        "hidden": "intimidate"
+    },
+    {
+        "term": "popplio",
+        "first": "torrent",
+        "second": null,
+        "hidden": "liquid voice"
+    },
+    {
+        "term": "brionne",
+        "first": "torrent",
+        "second": null,
+        "hidden": "liquid voice"
+    },
+    {
+        "term": "primarina",
+        "first": "torrent",
+        "second": null,
+        "hidden": "liquid voice"
+    },
+    {
+        "term": "pikipek",
+        "first": "keen eye",
+        "second": "skill link",
+        "hidden": "pickup"
+    },
+    {
+        "term": "trumbeak",
+        "first": "keen eye",
+        "second": "skill link",
+        "hidden": "pickup"
+    },
+    {
+        "term": "toucannon",
+        "first": "keen eye",
+        "second": "skill link",
+        "hidden": "sheer force"
+    },
+    {
+        "term": "yungoos",
+        "first": "stakeout",
+        "second": "strong jaw",
+        "hidden": "adaptability"
+    },
+    {
+        "term": "gumshoos",
+        "first": "stakeout",
+        "second": "strong jaw",
+        "hidden": "adaptability"
+    },
+    {
+        "term": "grubbin",
+        "first": "swarm",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "charjabug",
+        "first": "battery",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "vikavolt",
+        "first": "levitate",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "crabrawler",
+        "first": "hyper cutter",
+        "second": "iron fist",
+        "hidden": "anger point"
+    },
+    {
+        "term": "crabominable",
+        "first": "hyper cutter",
+        "second": "iron fist",
+        "hidden": "anger point"
+    },
+    {
+        "term": "oricorio",
+        "first": "dancer",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "cutiefly",
+        "first": "honey gather",
+        "second": "shield dust",
+        "hidden": "sweet veil"
+    },
+    {
+        "term": "ribombee",
+        "first": "honey gather",
+        "second": "shield dust",
+        "hidden": "sweet veil"
+    },
+    {
+        "term": "rockruff",
+        "first": "keen eye",
+        "second": "vital spirit",
+        "hidden": "steadfast"
+    },
+    {
+        "term": "lycanroc midday",
+        "first": "keen eye",
+        "second": "sand rush",
+        "hidden": "steadfast"
+    },
+    {
+        "term": "lycanroc midnight",
+        "first": "keen eye",
+        "second": "vital spirit",
+        "hidden": "no guard"
+    },
+    {
+        "term": "lycanroc dusk",
+        "first": "tough claws",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "wishiwashi solo",
+        "first": "schooling",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "wishiwashi school",
+        "first": "schooling",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "mareanie",
+        "first": "merciless",
+        "second": "limber",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "toxapex",
+        "first": "merciless",
+        "second": "limber",
+        "hidden": "regenerator"
+    },
+    {
+        "term": "mudbray",
+        "first": "own tempo",
+        "second": "stamina",
+        "hidden": "inner focus"
+    },
+    {
+        "term": "mudsdale",
+        "first": "own tempo",
+        "second": "stamina",
+        "hidden": "inner focus"
+    },
+    {
+        "term": "dewpider",
+        "first": "water bubble",
+        "second": null,
+        "hidden": "water absorb"
+    },
+    {
+        "term": "araquanid",
+        "first": "water bubble",
+        "second": null,
+        "hidden": "water absorb"
+    },
+    {
+        "term": "fomantis",
+        "first": "leaf guard",
+        "second": null,
+        "hidden": "contrary"
+    },
+    {
+        "term": "lurantis",
+        "first": "leaf guard",
+        "second": null,
+        "hidden": "contrary"
+    },
+    {
+        "term": "morelull",
+        "first": "illuminate",
+        "second": "effect spore",
+        "hidden": "rain dish"
+    },
+    {
+        "term": "shiinotic",
+        "first": "illuminate",
+        "second": "effect spore",
+        "hidden": "rain dish"
+    },
+    {
+        "term": "salandit",
+        "first": "corrosion",
+        "second": null,
+        "hidden": "oblivious"
+    },
+    {
+        "term": "salazzle",
+        "first": "corrosion",
+        "second": null,
+        "hidden": "oblivious"
+    },
+    {
+        "term": "stufful",
+        "first": "fluffy",
+        "second": "klutz",
+        "hidden": "cute charm"
+    },
+    {
+        "term": "bewear",
+        "first": "fluffy",
+        "second": "klutz",
+        "hidden": "unnerve"
+    },
+    {
+        "term": "bounsweet",
+        "first": "leaf guard",
+        "second": "oblivious",
+        "hidden": "sweet veil"
+    },
+    {
+        "term": "steenee",
+        "first": "leaf guard",
+        "second": "oblivious",
+        "hidden": "sweet veil"
+    },
+    {
+        "term": "tsareena",
+        "first": "leaf guard",
+        "second": "queenly majesty",
+        "hidden": "sweet veil"
+    },
+    {
+        "term": "comfey",
+        "first": "flower veil",
+        "second": "triage",
+        "hidden": "natural cure"
+    },
+    {
+        "term": "oranguru",
+        "first": "inner focus",
+        "second": "telepathy",
+        "hidden": "symbiosis"
+    },
+    {
+        "term": "passimian",
+        "first": "receiver",
+        "second": null,
+        "hidden": "defiant"
+    },
+    {
+        "term": "wimpod",
+        "first": "wimp out",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "golisopod",
+        "first": "emergency exit",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "sandygast",
+        "first": "water compaction",
+        "second": null,
+        "hidden": "sand veil"
+    },
+    {
+        "term": "palossand",
+        "first": "water compaction",
+        "second": null,
+        "hidden": "sand veil"
+    },
+    {
+        "term": "pyukumuku",
+        "first": "innards out",
+        "second": null,
+        "hidden": "unaware"
+    },
+    {
+        "term": "type: null",
+        "first": "battle armor",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "silvally",
+        "first": "rks system",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "minior meteor",
+        "first": "shields down",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "minior core",
+        "first": "shields down",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "komala",
+        "first": "comatose",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "turtonator",
+        "first": "shell armor",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "togedemaru",
+        "first": "iron barbs",
+        "second": "lightning rod",
+        "hidden": "sturdy"
+    },
+    {
+        "term": "mimikyu",
+        "first": "disguise",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "bruxish",
+        "first": "dazzling",
+        "second": "strong jaw",
+        "hidden": "wonder skin"
+    },
+    {
+        "term": "drampa",
+        "first": "berserk",
+        "second": "sap sipper",
+        "hidden": "cloud nine"
+    },
+    {
+        "term": "dhelmise",
+        "first": "steelworker",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "jangmo o",
+        "first": "bulletproof",
+        "second": "soundproof",
+        "hidden": "overcoat"
+    },
+    {
+        "term": "hakamo o",
+        "first": "bulletproof",
+        "second": "soundproof",
+        "hidden": "overcoat"
+    },
+    {
+        "term": "kommo o",
+        "first": "bulletproof",
+        "second": "soundproof",
+        "hidden": "overcoat"
+    },
+    {
+        "term": "tapu koko",
+        "first": "electric surge",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "tapu lele",
+        "first": "psychic surge",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "tapu bulu",
+        "first": "grassy surge",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "tapu fini",
+        "first": "misty surge",
+        "second": null,
+        "hidden": "telepathy"
+    },
+    {
+        "term": "cosmog",
+        "first": "unaware",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "cosmoem",
+        "first": "sturdy",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "solgaleo",
+        "first": "full metal body",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "lunala",
+        "first": "shadow shield",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "nihilego",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "buzzwole",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "pheromosa",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "xurkitree",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "celesteela",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "kartana",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "guzzlord",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "necrozma",
+        "first": "prism armor",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "dusk mane necrozma",
+        "first": "prism armor",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "dawn wings necrozma",
+        "first": "prism armor",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "ultra necrozma",
+        "first": "neuroforce",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "magearna",
+        "first": "soul-heart",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "marshadow",
+        "first": "technician",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "poipole",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "naganadel",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "stakataka",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "blacephalon",
+        "first": "beast boost",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "zeraora",
+        "first": "volt absorb",
+        "second": null,
+        "hidden": null
+    }
+]

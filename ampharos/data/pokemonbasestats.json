@@ -1,0 +1,8480 @@
+[
+    {
+        "term": "bulbasaur",
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 45
+    },
+    {
+        "term": "ivysaur",
+        "hp": 60,
+        "attack": 62,
+        "defense": 63,
+        "special_attack": 80,
+        "special_defense": 80,
+        "speed": 60
+    },
+    {
+        "term": "venusaur",
+        "hp": 80,
+        "attack": 82,
+        "defense": 83,
+        "special_attack": 100,
+        "special_defense": 100,
+        "speed": 80
+    },
+    {
+        "term": "mega venusaur",
+        "hp": 80,
+        "attack": 100,
+        "defense": 123,
+        "special_attack": 122,
+        "special_defense": 120,
+        "speed": 80
+    },
+    {
+        "term": "charmander",
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "special_attack": 60,
+        "special_defense": 50,
+        "speed": 65
+    },
+    {
+        "term": "charmeleon",
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "special_attack": 80,
+        "special_defense": 65,
+        "speed": 80
+    },
+    {
+        "term": "charizard",
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "special_attack": 109,
+        "special_defense": 85,
+        "speed": 100
+    },
+    {
+        "term": "mega charizard x",
+        "hp": 78,
+        "attack": 130,
+        "defense": 111,
+        "special_attack": 130,
+        "special_defense": 85,
+        "speed": 100
+    },
+    {
+        "term": "mega charizard y",
+        "hp": 78,
+        "attack": 104,
+        "defense": 78,
+        "special_attack": 159,
+        "special_defense": 115,
+        "speed": 100
+    },
+    {
+        "term": "squirtle",
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "special_attack": 50,
+        "special_defense": 64,
+        "speed": 43
+    },
+    {
+        "term": "wartortle",
+        "hp": 59,
+        "attack": 63,
+        "defense": 80,
+        "special_attack": 65,
+        "special_defense": 80,
+        "speed": 58
+    },
+    {
+        "term": "blastoise",
+        "hp": 79,
+        "attack": 83,
+        "defense": 100,
+        "special_attack": 85,
+        "special_defense": 105,
+        "speed": 78
+    },
+    {
+        "term": "mega blastoise",
+        "hp": 79,
+        "attack": 103,
+        "defense": 120,
+        "special_attack": 135,
+        "special_defense": 115,
+        "speed": 78
+    },
+    {
+        "term": "caterpie",
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 20,
+        "speed": 45
+    },
+    {
+        "term": "metapod",
+        "hp": 50,
+        "attack": 20,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 30
+    },
+    {
+        "term": "butterfree",
+        "hp": 60,
+        "attack": 45,
+        "defense": 50,
+        "special_attack": 90,
+        "special_defense": 80,
+        "speed": 70
+    },
+    {
+        "term": "weedle",
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "special_attack": 20,
+        "special_defense": 20,
+        "speed": 50
+    },
+    {
+        "term": "kakuna",
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 35
+    },
+    {
+        "term": "beedrill",
+        "hp": 65,
+        "attack": 90,
+        "defense": 40,
+        "special_attack": 45,
+        "special_defense": 80,
+        "speed": 75
+    },
+    {
+        "term": "mega beedrill",
+        "hp": 65,
+        "attack": 150,
+        "defense": 40,
+        "special_attack": 15,
+        "special_defense": 80,
+        "speed": 145
+    },
+    {
+        "term": "pidgey",
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special_attack": 35,
+        "special_defense": 35,
+        "speed": 56
+    },
+    {
+        "term": "pidgeotto",
+        "hp": 63,
+        "attack": 60,
+        "defense": 55,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 71
+    },
+    {
+        "term": "pidgeot",
+        "hp": 83,
+        "attack": 80,
+        "defense": 75,
+        "special_attack": 70,
+        "special_defense": 70,
+        "speed": 101
+    },
+    {
+        "term": "mega pidgeot",
+        "hp": 83,
+        "attack": 80,
+        "defense": 80,
+        "special_attack": 135,
+        "special_defense": 80,
+        "speed": 121
+    },
+    {
+        "term": "rattata",
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "special_attack": 25,
+        "special_defense": 35,
+        "speed": 72
+    },
+    {
+        "term": "alolan rattata",
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "special_attack": 25,
+        "special_defense": 35,
+        "speed": 72
+    },
+    {
+        "term": "raticate",
+        "hp": 55,
+        "attack": 81,
+        "defense": 60,
+        "special_attack": 50,
+        "special_defense": 70,
+        "speed": 97
+    },
+    {
+        "term": "alolan raticate",
+        "hp": 75,
+        "attack": 71,
+        "defense": 70,
+        "special_attack": 40,
+        "special_defense": 80,
+        "speed": 77
+    },
+    {
+        "term": "spearow",
+        "hp": 40,
+        "attack": 60,
+        "defense": 30,
+        "special_attack": 31,
+        "special_defense": 31,
+        "speed": 70
+    },
+    {
+        "term": "fearow",
+        "hp": 65,
+        "attack": 90,
+        "defense": 65,
+        "special_attack": 61,
+        "special_defense": 61,
+        "speed": 100
+    },
+    {
+        "term": "ekans",
+        "hp": 35,
+        "attack": 60,
+        "defense": 44,
+        "special_attack": 40,
+        "special_defense": 54,
+        "speed": 55
+    },
+    {
+        "term": "arbok",
+        "hp": 60,
+        "attack": 95,
+        "defense": 69,
+        "special_attack": 65,
+        "special_defense": 79,
+        "speed": 80
+    },
+    {
+        "term": "pikachu",
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 90
+    },
+    {
+        "term": "raichu",
+        "hp": 60,
+        "attack": 90,
+        "defense": 55,
+        "special_attack": 90,
+        "special_defense": 80,
+        "speed": 110
+    },
+    {
+        "term": "alolan raichu",
+        "hp": 60,
+        "attack": 85,
+        "defense": 50,
+        "special_attack": 95,
+        "special_defense": 85,
+        "speed": 110
+    },
+    {
+        "term": "sandshrew",
+        "hp": 50,
+        "attack": 75,
+        "defense": 85,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 40
+    },
+    {
+        "term": "alolan sandshrew",
+        "hp": 50,
+        "attack": 75,
+        "defense": 90,
+        "special_attack": 10,
+        "special_defense": 35,
+        "speed": 40
+    },
+    {
+        "term": "sandslash",
+        "hp": 75,
+        "attack": 100,
+        "defense": 110,
+        "special_attack": 45,
+        "special_defense": 55,
+        "speed": 65
+    },
+    {
+        "term": "alolan sandslash",
+        "hp": 75,
+        "attack": 100,
+        "defense": 120,
+        "special_attack": 25,
+        "special_defense": 65,
+        "speed": 65
+    },
+    {
+        "term": "nidoran female",
+        "hp": 55,
+        "attack": 47,
+        "defense": 52,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 41
+    },
+    {
+        "term": "nidorina",
+        "hp": 70,
+        "attack": 62,
+        "defense": 67,
+        "special_attack": 55,
+        "special_defense": 55,
+        "speed": 56
+    },
+    {
+        "term": "nidoqueen",
+        "hp": 90,
+        "attack": 92,
+        "defense": 87,
+        "special_attack": 75,
+        "special_defense": 85,
+        "speed": 76
+    },
+    {
+        "term": "nidoran male",
+        "hp": 46,
+        "attack": 57,
+        "defense": 40,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 50
+    },
+    {
+        "term": "nidorino",
+        "hp": 61,
+        "attack": 72,
+        "defense": 57,
+        "special_attack": 55,
+        "special_defense": 55,
+        "speed": 65
+    },
+    {
+        "term": "nidoking",
+        "hp": 81,
+        "attack": 102,
+        "defense": 77,
+        "special_attack": 85,
+        "special_defense": 75,
+        "speed": 85
+    },
+    {
+        "term": "clefairy",
+        "hp": 70,
+        "attack": 45,
+        "defense": 48,
+        "special_attack": 60,
+        "special_defense": 65,
+        "speed": 35
+    },
+    {
+        "term": "clefable",
+        "hp": 95,
+        "attack": 70,
+        "defense": 73,
+        "special_attack": 95,
+        "special_defense": 90,
+        "speed": 60
+    },
+    {
+        "term": "vulpix",
+        "hp": 38,
+        "attack": 41,
+        "defense": 40,
+        "special_attack": 50,
+        "special_defense": 65,
+        "speed": 65
+    },
+    {
+        "term": "alolan vulpix",
+        "hp": 38,
+        "attack": 41,
+        "defense": 40,
+        "special_attack": 50,
+        "special_defense": 65,
+        "speed": 65
+    },
+    {
+        "term": "ninetales",
+        "hp": 73,
+        "attack": 76,
+        "defense": 75,
+        "special_attack": 81,
+        "special_defense": 100,
+        "speed": 100
+    },
+    {
+        "term": "alolan ninetales",
+        "hp": 73,
+        "attack": 67,
+        "defense": 75,
+        "special_attack": 81,
+        "special_defense": 100,
+        "speed": 109
+    },
+    {
+        "term": "jigglypuff",
+        "hp": 115,
+        "attack": 45,
+        "defense": 20,
+        "special_attack": 45,
+        "special_defense": 25,
+        "speed": 20
+    },
+    {
+        "term": "wigglytuff",
+        "hp": 140,
+        "attack": 70,
+        "defense": 45,
+        "special_attack": 85,
+        "special_defense": 50,
+        "speed": 45
+    },
+    {
+        "term": "zubat",
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 30,
+        "special_defense": 40,
+        "speed": 55
+    },
+    {
+        "term": "golbat",
+        "hp": 75,
+        "attack": 80,
+        "defense": 70,
+        "special_attack": 65,
+        "special_defense": 75,
+        "speed": 90
+    },
+    {
+        "term": "oddish",
+        "hp": 45,
+        "attack": 50,
+        "defense": 55,
+        "special_attack": 75,
+        "special_defense": 65,
+        "speed": 30
+    },
+    {
+        "term": "gloom",
+        "hp": 60,
+        "attack": 65,
+        "defense": 70,
+        "special_attack": 85,
+        "special_defense": 75,
+        "speed": 40
+    },
+    {
+        "term": "vileplume",
+        "hp": 75,
+        "attack": 80,
+        "defense": 85,
+        "special_attack": 110,
+        "special_defense": 90,
+        "speed": 50
+    },
+    {
+        "term": "paras",
+        "hp": 35,
+        "attack": 70,
+        "defense": 55,
+        "special_attack": 45,
+        "special_defense": 55,
+        "speed": 25
+    },
+    {
+        "term": "parasect",
+        "hp": 60,
+        "attack": 95,
+        "defense": 80,
+        "special_attack": 60,
+        "special_defense": 80,
+        "speed": 30
+    },
+    {
+        "term": "venonat",
+        "hp": 60,
+        "attack": 55,
+        "defense": 50,
+        "special_attack": 40,
+        "special_defense": 55,
+        "speed": 45
+    },
+    {
+        "term": "venomoth",
+        "hp": 70,
+        "attack": 65,
+        "defense": 60,
+        "special_attack": 90,
+        "special_defense": 75,
+        "speed": 90
+    },
+    {
+        "term": "diglett",
+        "hp": 10,
+        "attack": 55,
+        "defense": 25,
+        "special_attack": 35,
+        "special_defense": 45,
+        "speed": 95
+    },
+    {
+        "term": "alolan diglett",
+        "hp": 10,
+        "attack": 55,
+        "defense": 30,
+        "special_attack": 35,
+        "special_defense": 45,
+        "speed": 90
+    },
+    {
+        "term": "dugtrio",
+        "hp": 35,
+        "attack": 100,
+        "defense": 50,
+        "special_attack": 50,
+        "special_defense": 70,
+        "speed": 120
+    },
+    {
+        "term": "alolan dugtrio",
+        "hp": 35,
+        "attack": 100,
+        "defense": 60,
+        "special_attack": 50,
+        "special_defense": 70,
+        "speed": 110
+    },
+    {
+        "term": "meowth",
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 90
+    },
+    {
+        "term": "alolan meowth",
+        "hp": 40,
+        "attack": 35,
+        "defense": 35,
+        "special_attack": 50,
+        "special_defense": 40,
+        "speed": 90
+    },
+    {
+        "term": "persian",
+        "hp": 65,
+        "attack": 70,
+        "defense": 60,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 115
+    },
+    {
+        "term": "alolan persian",
+        "hp": 65,
+        "attack": 60,
+        "defense": 60,
+        "special_attack": 75,
+        "special_defense": 65,
+        "speed": 115
+    },
+    {
+        "term": "psyduck",
+        "hp": 50,
+        "attack": 52,
+        "defense": 48,
+        "special_attack": 65,
+        "special_defense": 50,
+        "speed": 55
+    },
+    {
+        "term": "golduck",
+        "hp": 80,
+        "attack": 82,
+        "defense": 78,
+        "special_attack": 95,
+        "special_defense": 80,
+        "speed": 85
+    },
+    {
+        "term": "mankey",
+        "hp": 40,
+        "attack": 80,
+        "defense": 35,
+        "special_attack": 35,
+        "special_defense": 45,
+        "speed": 70
+    },
+    {
+        "term": "primeape",
+        "hp": 65,
+        "attack": 105,
+        "defense": 60,
+        "special_attack": 60,
+        "special_defense": 70,
+        "speed": 95
+    },
+    {
+        "term": "growlithe",
+        "hp": 55,
+        "attack": 70,
+        "defense": 45,
+        "special_attack": 70,
+        "special_defense": 50,
+        "speed": 60
+    },
+    {
+        "term": "arcanine",
+        "hp": 90,
+        "attack": 110,
+        "defense": 80,
+        "special_attack": 100,
+        "special_defense": 80,
+        "speed": 95
+    },
+    {
+        "term": "poliwag",
+        "hp": 40,
+        "attack": 50,
+        "defense": 40,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 90
+    },
+    {
+        "term": "poliwhirl",
+        "hp": 65,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 90
+    },
+    {
+        "term": "poliwrath",
+        "hp": 90,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 70,
+        "special_defense": 90,
+        "speed": 70
+    },
+    {
+        "term": "abra",
+        "hp": 25,
+        "attack": 20,
+        "defense": 15,
+        "special_attack": 105,
+        "special_defense": 55,
+        "speed": 90
+    },
+    {
+        "term": "kadabra",
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "special_attack": 120,
+        "special_defense": 70,
+        "speed": 105
+    },
+    {
+        "term": "alakazam",
+        "hp": 55,
+        "attack": 50,
+        "defense": 45,
+        "special_attack": 135,
+        "special_defense": 95,
+        "speed": 120
+    },
+    {
+        "term": "mega alakazam",
+        "hp": 55,
+        "attack": 50,
+        "defense": 65,
+        "special_attack": 175,
+        "special_defense": 105,
+        "speed": 150
+    },
+    {
+        "term": "machop",
+        "hp": 70,
+        "attack": 80,
+        "defense": 50,
+        "special_attack": 35,
+        "special_defense": 35,
+        "speed": 35
+    },
+    {
+        "term": "machoke",
+        "hp": 80,
+        "attack": 100,
+        "defense": 70,
+        "special_attack": 50,
+        "special_defense": 60,
+        "speed": 45
+    },
+    {
+        "term": "machamp",
+        "hp": 90,
+        "attack": 130,
+        "defense": 80,
+        "special_attack": 65,
+        "special_defense": 85,
+        "speed": 55
+    },
+    {
+        "term": "bellsprout",
+        "hp": 50,
+        "attack": 75,
+        "defense": 35,
+        "special_attack": 70,
+        "special_defense": 30,
+        "speed": 40
+    },
+    {
+        "term": "weepinbell",
+        "hp": 65,
+        "attack": 90,
+        "defense": 50,
+        "special_attack": 85,
+        "special_defense": 45,
+        "speed": 55
+    },
+    {
+        "term": "victreebel",
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "special_attack": 100,
+        "special_defense": 70,
+        "speed": 70
+    },
+    {
+        "term": "tentacool",
+        "hp": 40,
+        "attack": 40,
+        "defense": 35,
+        "special_attack": 50,
+        "special_defense": 100,
+        "speed": 70
+    },
+    {
+        "term": "tentacruel",
+        "hp": 80,
+        "attack": 70,
+        "defense": 65,
+        "special_attack": 80,
+        "special_defense": 120,
+        "speed": 100
+    },
+    {
+        "term": "geodude",
+        "hp": 40,
+        "attack": 80,
+        "defense": 100,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 20
+    },
+    {
+        "term": "alolan geodude",
+        "hp": 40,
+        "attack": 80,
+        "defense": 100,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 20
+    },
+    {
+        "term": "graveler",
+        "hp": 55,
+        "attack": 95,
+        "defense": 115,
+        "special_attack": 45,
+        "special_defense": 45,
+        "speed": 35
+    },
+    {
+        "term": "alolan graveler",
+        "hp": 55,
+        "attack": 95,
+        "defense": 115,
+        "special_attack": 45,
+        "special_defense": 45,
+        "speed": 35
+    },
+    {
+        "term": "golem",
+        "hp": 80,
+        "attack": 120,
+        "defense": 130,
+        "special_attack": 55,
+        "special_defense": 65,
+        "speed": 45
+    },
+    {
+        "term": "alolan golem",
+        "hp": 80,
+        "attack": 120,
+        "defense": 130,
+        "special_attack": 55,
+        "special_defense": 65,
+        "speed": 45
+    },
+    {
+        "term": "ponyta",
+        "hp": 50,
+        "attack": 85,
+        "defense": 55,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 90
+    },
+    {
+        "term": "rapidash",
+        "hp": 65,
+        "attack": 100,
+        "defense": 70,
+        "special_attack": 80,
+        "special_defense": 80,
+        "speed": 105
+    },
+    {
+        "term": "slowpoke",
+        "hp": 90,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 15
+    },
+    {
+        "term": "slowbro",
+        "hp": 95,
+        "attack": 75,
+        "defense": 110,
+        "special_attack": 100,
+        "special_defense": 80,
+        "speed": 30
+    },
+    {
+        "term": "mega slowbro",
+        "hp": 95,
+        "attack": 75,
+        "defense": 180,
+        "special_attack": 130,
+        "special_defense": 80,
+        "speed": 30
+    },
+    {
+        "term": "magnemite",
+        "hp": 25,
+        "attack": 35,
+        "defense": 70,
+        "special_attack": 95,
+        "special_defense": 55,
+        "speed": 45
+    },
+    {
+        "term": "magneton",
+        "hp": 50,
+        "attack": 60,
+        "defense": 95,
+        "special_attack": 120,
+        "special_defense": 70,
+        "speed": 70
+    },
+    {
+        "term": "farfetch'd",
+        "hp": 52,
+        "attack": 90,
+        "defense": 55,
+        "special_attack": 58,
+        "special_defense": 62,
+        "speed": 60
+    },
+    {
+        "term": "doduo",
+        "hp": 35,
+        "attack": 85,
+        "defense": 45,
+        "special_attack": 35,
+        "special_defense": 35,
+        "speed": 75
+    },
+    {
+        "term": "dodrio",
+        "hp": 60,
+        "attack": 110,
+        "defense": 70,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 110
+    },
+    {
+        "term": "seel",
+        "hp": 65,
+        "attack": 45,
+        "defense": 55,
+        "special_attack": 45,
+        "special_defense": 70,
+        "speed": 45
+    },
+    {
+        "term": "dewgong",
+        "hp": 90,
+        "attack": 70,
+        "defense": 80,
+        "special_attack": 70,
+        "special_defense": 95,
+        "speed": 70
+    },
+    {
+        "term": "grimer",
+        "hp": 80,
+        "attack": 80,
+        "defense": 50,
+        "special_attack": 40,
+        "special_defense": 50,
+        "speed": 25
+    },
+    {
+        "term": "alolan grimer",
+        "hp": 80,
+        "attack": 80,
+        "defense": 50,
+        "special_attack": 40,
+        "special_defense": 50,
+        "speed": 25
+    },
+    {
+        "term": "muk",
+        "hp": 105,
+        "attack": 105,
+        "defense": 75,
+        "special_attack": 65,
+        "special_defense": 100,
+        "speed": 50
+    },
+    {
+        "term": "alolan muk",
+        "hp": 105,
+        "attack": 105,
+        "defense": 75,
+        "special_attack": 65,
+        "special_defense": 100,
+        "speed": 50
+    },
+    {
+        "term": "shellder",
+        "hp": 30,
+        "attack": 65,
+        "defense": 100,
+        "special_attack": 45,
+        "special_defense": 25,
+        "speed": 40
+    },
+    {
+        "term": "cloyster",
+        "hp": 50,
+        "attack": 95,
+        "defense": 180,
+        "special_attack": 85,
+        "special_defense": 45,
+        "speed": 70
+    },
+    {
+        "term": "gastly",
+        "hp": 30,
+        "attack": 35,
+        "defense": 30,
+        "special_attack": 100,
+        "special_defense": 35,
+        "speed": 80
+    },
+    {
+        "term": "haunter",
+        "hp": 45,
+        "attack": 50,
+        "defense": 45,
+        "special_attack": 115,
+        "special_defense": 55,
+        "speed": 95
+    },
+    {
+        "term": "gengar",
+        "hp": 60,
+        "attack": 65,
+        "defense": 60,
+        "special_attack": 130,
+        "special_defense": 75,
+        "speed": 110
+    },
+    {
+        "term": "mega gengar",
+        "hp": 60,
+        "attack": 65,
+        "defense": 80,
+        "special_attack": 170,
+        "special_defense": 95,
+        "speed": 130
+    },
+    {
+        "term": "onix",
+        "hp": 35,
+        "attack": 45,
+        "defense": 160,
+        "special_attack": 30,
+        "special_defense": 45,
+        "speed": 70
+    },
+    {
+        "term": "drowzee",
+        "hp": 60,
+        "attack": 48,
+        "defense": 45,
+        "special_attack": 43,
+        "special_defense": 90,
+        "speed": 42
+    },
+    {
+        "term": "hypno",
+        "hp": 85,
+        "attack": 73,
+        "defense": 70,
+        "special_attack": 73,
+        "special_defense": 115,
+        "speed": 67
+    },
+    {
+        "term": "krabby",
+        "hp": 30,
+        "attack": 105,
+        "defense": 90,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 50
+    },
+    {
+        "term": "kingler",
+        "hp": 55,
+        "attack": 130,
+        "defense": 115,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 75
+    },
+    {
+        "term": "voltorb",
+        "hp": 40,
+        "attack": 30,
+        "defense": 50,
+        "special_attack": 55,
+        "special_defense": 55,
+        "speed": 100
+    },
+    {
+        "term": "electrode",
+        "hp": 60,
+        "attack": 50,
+        "defense": 70,
+        "special_attack": 80,
+        "special_defense": 80,
+        "speed": 150
+    },
+    {
+        "term": "exeggcute",
+        "hp": 60,
+        "attack": 40,
+        "defense": 80,
+        "special_attack": 60,
+        "special_defense": 45,
+        "speed": 40
+    },
+    {
+        "term": "exeggutor",
+        "hp": 95,
+        "attack": 95,
+        "defense": 85,
+        "special_attack": 125,
+        "special_defense": 75,
+        "speed": 55
+    },
+    {
+        "term": "alolan exeggutor",
+        "hp": 95,
+        "attack": 105,
+        "defense": 85,
+        "special_attack": 125,
+        "special_defense": 75,
+        "speed": 45
+    },
+    {
+        "term": "cubone",
+        "hp": 50,
+        "attack": 50,
+        "defense": 95,
+        "special_attack": 40,
+        "special_defense": 50,
+        "speed": 35
+    },
+    {
+        "term": "marowak",
+        "hp": 60,
+        "attack": 80,
+        "defense": 110,
+        "special_attack": 50,
+        "special_defense": 80,
+        "speed": 45
+    },
+    {
+        "term": "alolan marowak",
+        "hp": 60,
+        "attack": 80,
+        "defense": 110,
+        "special_attack": 50,
+        "special_defense": 80,
+        "speed": 45
+    },
+    {
+        "term": "hitmonlee",
+        "hp": 50,
+        "attack": 120,
+        "defense": 53,
+        "special_attack": 35,
+        "special_defense": 110,
+        "speed": 87
+    },
+    {
+        "term": "hitmonchan",
+        "hp": 50,
+        "attack": 105,
+        "defense": 79,
+        "special_attack": 35,
+        "special_defense": 110,
+        "speed": 76
+    },
+    {
+        "term": "lickitung",
+        "hp": 90,
+        "attack": 55,
+        "defense": 75,
+        "special_attack": 60,
+        "special_defense": 75,
+        "speed": 30
+    },
+    {
+        "term": "koffing",
+        "hp": 40,
+        "attack": 65,
+        "defense": 95,
+        "special_attack": 60,
+        "special_defense": 45,
+        "speed": 35
+    },
+    {
+        "term": "weezing",
+        "hp": 65,
+        "attack": 90,
+        "defense": 120,
+        "special_attack": 85,
+        "special_defense": 70,
+        "speed": 60
+    },
+    {
+        "term": "rhyhorn",
+        "hp": 80,
+        "attack": 85,
+        "defense": 95,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 25
+    },
+    {
+        "term": "rhydon",
+        "hp": 105,
+        "attack": 130,
+        "defense": 120,
+        "special_attack": 45,
+        "special_defense": 45,
+        "speed": 40
+    },
+    {
+        "term": "chansey",
+        "hp": 250,
+        "attack": 5,
+        "defense": 5,
+        "special_attack": 35,
+        "special_defense": 105,
+        "speed": 50
+    },
+    {
+        "term": "tangela",
+        "hp": 65,
+        "attack": 55,
+        "defense": 115,
+        "special_attack": 100,
+        "special_defense": 40,
+        "speed": 60
+    },
+    {
+        "term": "kangaskhan",
+        "hp": 105,
+        "attack": 95,
+        "defense": 80,
+        "special_attack": 40,
+        "special_defense": 80,
+        "speed": 90
+    },
+    {
+        "term": "mega kangaskhan",
+        "hp": 105,
+        "attack": 125,
+        "defense": 100,
+        "special_attack": 60,
+        "special_defense": 100,
+        "speed": 100
+    },
+    {
+        "term": "horsea",
+        "hp": 30,
+        "attack": 40,
+        "defense": 70,
+        "special_attack": 70,
+        "special_defense": 25,
+        "speed": 60
+    },
+    {
+        "term": "seadra",
+        "hp": 55,
+        "attack": 65,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 45,
+        "speed": 85
+    },
+    {
+        "term": "goldeen",
+        "hp": 45,
+        "attack": 67,
+        "defense": 60,
+        "special_attack": 35,
+        "special_defense": 50,
+        "speed": 63
+    },
+    {
+        "term": "seaking",
+        "hp": 80,
+        "attack": 92,
+        "defense": 65,
+        "special_attack": 65,
+        "special_defense": 80,
+        "speed": 68
+    },
+    {
+        "term": "staryu",
+        "hp": 30,
+        "attack": 45,
+        "defense": 55,
+        "special_attack": 70,
+        "special_defense": 55,
+        "speed": 85
+    },
+    {
+        "term": "starmie",
+        "hp": 60,
+        "attack": 75,
+        "defense": 85,
+        "special_attack": 100,
+        "special_defense": 85,
+        "speed": 115
+    },
+    {
+        "term": "mr. mime",
+        "hp": 40,
+        "attack": 45,
+        "defense": 65,
+        "special_attack": 100,
+        "special_defense": 120,
+        "speed": 90
+    },
+    {
+        "term": "scyther",
+        "hp": 70,
+        "attack": 110,
+        "defense": 80,
+        "special_attack": 55,
+        "special_defense": 80,
+        "speed": 105
+    },
+    {
+        "term": "jynx",
+        "hp": 65,
+        "attack": 50,
+        "defense": 35,
+        "special_attack": 115,
+        "special_defense": 95,
+        "speed": 95
+    },
+    {
+        "term": "electabuzz",
+        "hp": 65,
+        "attack": 83,
+        "defense": 57,
+        "special_attack": 95,
+        "special_defense": 85,
+        "speed": 105
+    },
+    {
+        "term": "magmar",
+        "hp": 65,
+        "attack": 95,
+        "defense": 57,
+        "special_attack": 100,
+        "special_defense": 85,
+        "speed": 93
+    },
+    {
+        "term": "pinsir",
+        "hp": 65,
+        "attack": 125,
+        "defense": 100,
+        "special_attack": 55,
+        "special_defense": 70,
+        "speed": 85
+    },
+    {
+        "term": "mega pinsir",
+        "hp": 65,
+        "attack": 155,
+        "defense": 120,
+        "special_attack": 65,
+        "special_defense": 90,
+        "speed": 105
+    },
+    {
+        "term": "tauros",
+        "hp": 75,
+        "attack": 100,
+        "defense": 95,
+        "special_attack": 40,
+        "special_defense": 70,
+        "speed": 110
+    },
+    {
+        "term": "magikarp",
+        "hp": 20,
+        "attack": 10,
+        "defense": 55,
+        "special_attack": 15,
+        "special_defense": 20,
+        "speed": 80
+    },
+    {
+        "term": "gyarados",
+        "hp": 95,
+        "attack": 125,
+        "defense": 79,
+        "special_attack": 60,
+        "special_defense": 100,
+        "speed": 81
+    },
+    {
+        "term": "mega gyarados",
+        "hp": 95,
+        "attack": 155,
+        "defense": 109,
+        "special_attack": 70,
+        "special_defense": 130,
+        "speed": 81
+    },
+    {
+        "term": "lapras",
+        "hp": 130,
+        "attack": 85,
+        "defense": 80,
+        "special_attack": 85,
+        "special_defense": 95,
+        "speed": 60
+    },
+    {
+        "term": "ditto",
+        "hp": 48,
+        "attack": 48,
+        "defense": 48,
+        "special_attack": 48,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "eevee",
+        "hp": 55,
+        "attack": 55,
+        "defense": 50,
+        "special_attack": 45,
+        "special_defense": 65,
+        "speed": 55
+    },
+    {
+        "term": "vaporeon",
+        "hp": 130,
+        "attack": 65,
+        "defense": 60,
+        "special_attack": 110,
+        "special_defense": 95,
+        "speed": 65
+    },
+    {
+        "term": "jolteon",
+        "hp": 65,
+        "attack": 65,
+        "defense": 60,
+        "special_attack": 110,
+        "special_defense": 95,
+        "speed": 130
+    },
+    {
+        "term": "flareon",
+        "hp": 65,
+        "attack": 130,
+        "defense": 60,
+        "special_attack": 95,
+        "special_defense": 110,
+        "speed": 65
+    },
+    {
+        "term": "porygon",
+        "hp": 65,
+        "attack": 60,
+        "defense": 70,
+        "special_attack": 85,
+        "special_defense": 75,
+        "speed": 40
+    },
+    {
+        "term": "omanyte",
+        "hp": 35,
+        "attack": 40,
+        "defense": 100,
+        "special_attack": 90,
+        "special_defense": 55,
+        "speed": 35
+    },
+    {
+        "term": "omastar",
+        "hp": 70,
+        "attack": 60,
+        "defense": 125,
+        "special_attack": 115,
+        "special_defense": 70,
+        "speed": 55
+    },
+    {
+        "term": "kabuto",
+        "hp": 30,
+        "attack": 80,
+        "defense": 90,
+        "special_attack": 55,
+        "special_defense": 45,
+        "speed": 55
+    },
+    {
+        "term": "kabutops",
+        "hp": 60,
+        "attack": 115,
+        "defense": 105,
+        "special_attack": 65,
+        "special_defense": 70,
+        "speed": 80
+    },
+    {
+        "term": "aerodactyl",
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "special_attack": 60,
+        "special_defense": 75,
+        "speed": 130
+    },
+    {
+        "term": "mega aerodactyl",
+        "hp": 80,
+        "attack": 135,
+        "defense": 85,
+        "special_attack": 70,
+        "special_defense": 95,
+        "speed": 150
+    },
+    {
+        "term": "snorlax",
+        "hp": 160,
+        "attack": 110,
+        "defense": 65,
+        "special_attack": 65,
+        "special_defense": 110,
+        "speed": 30
+    },
+    {
+        "term": "articuno",
+        "hp": 90,
+        "attack": 85,
+        "defense": 100,
+        "special_attack": 95,
+        "special_defense": 125,
+        "speed": 85
+    },
+    {
+        "term": "zapdos",
+        "hp": 90,
+        "attack": 90,
+        "defense": 85,
+        "special_attack": 125,
+        "special_defense": 90,
+        "speed": 100
+    },
+    {
+        "term": "moltres",
+        "hp": 90,
+        "attack": 100,
+        "defense": 90,
+        "special_attack": 125,
+        "special_defense": 85,
+        "speed": 90
+    },
+    {
+        "term": "dratini",
+        "hp": 41,
+        "attack": 64,
+        "defense": 45,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 50
+    },
+    {
+        "term": "dragonair",
+        "hp": 61,
+        "attack": 84,
+        "defense": 65,
+        "special_attack": 70,
+        "special_defense": 70,
+        "speed": 70
+    },
+    {
+        "term": "dragonite",
+        "hp": 91,
+        "attack": 134,
+        "defense": 95,
+        "special_attack": 100,
+        "special_defense": 100,
+        "speed": 80
+    },
+    {
+        "term": "mewtwo",
+        "hp": 106,
+        "attack": 110,
+        "defense": 90,
+        "special_attack": 154,
+        "special_defense": 90,
+        "speed": 130
+    },
+    {
+        "term": "mega mewtwo x",
+        "hp": 106,
+        "attack": 190,
+        "defense": 100,
+        "special_attack": 154,
+        "special_defense": 100,
+        "speed": 130
+    },
+    {
+        "term": "mega mewtwo y",
+        "hp": 106,
+        "attack": 150,
+        "defense": 70,
+        "special_attack": 194,
+        "special_defense": 120,
+        "speed": 140
+    },
+    {
+        "term": "mew",
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special_attack": 100,
+        "special_defense": 100,
+        "speed": 100
+    },
+    {
+        "term": "chikorita",
+        "hp": 45,
+        "attack": 49,
+        "defense": 65,
+        "special_attack": 49,
+        "special_defense": 65,
+        "speed": 45
+    },
+    {
+        "term": "bayleef",
+        "hp": 60,
+        "attack": 62,
+        "defense": 80,
+        "special_attack": 63,
+        "special_defense": 80,
+        "speed": 60
+    },
+    {
+        "term": "meganium",
+        "hp": 80,
+        "attack": 82,
+        "defense": 100,
+        "special_attack": 83,
+        "special_defense": 100,
+        "speed": 80
+    },
+    {
+        "term": "cyndaquil",
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "special_attack": 60,
+        "special_defense": 50,
+        "speed": 65
+    },
+    {
+        "term": "quilava",
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "special_attack": 80,
+        "special_defense": 65,
+        "speed": 80
+    },
+    {
+        "term": "typhlosion",
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "special_attack": 109,
+        "special_defense": 85,
+        "speed": 100
+    },
+    {
+        "term": "totodile",
+        "hp": 50,
+        "attack": 65,
+        "defense": 64,
+        "special_attack": 44,
+        "special_defense": 48,
+        "speed": 43
+    },
+    {
+        "term": "croconaw",
+        "hp": 65,
+        "attack": 80,
+        "defense": 80,
+        "special_attack": 59,
+        "special_defense": 63,
+        "speed": 58
+    },
+    {
+        "term": "feraligatr",
+        "hp": 85,
+        "attack": 105,
+        "defense": 100,
+        "special_attack": 79,
+        "special_defense": 83,
+        "speed": 78
+    },
+    {
+        "term": "sentret",
+        "hp": 35,
+        "attack": 46,
+        "defense": 34,
+        "special_attack": 35,
+        "special_defense": 45,
+        "speed": 20
+    },
+    {
+        "term": "furret",
+        "hp": 85,
+        "attack": 76,
+        "defense": 64,
+        "special_attack": 45,
+        "special_defense": 55,
+        "speed": 90
+    },
+    {
+        "term": "hoothoot",
+        "hp": 60,
+        "attack": 30,
+        "defense": 30,
+        "special_attack": 36,
+        "special_defense": 56,
+        "speed": 50
+    },
+    {
+        "term": "noctowl",
+        "hp": 100,
+        "attack": 50,
+        "defense": 50,
+        "special_attack": 86,
+        "special_defense": 96,
+        "speed": 70
+    },
+    {
+        "term": "ledyba",
+        "hp": 40,
+        "attack": 20,
+        "defense": 30,
+        "special_attack": 40,
+        "special_defense": 80,
+        "speed": 55
+    },
+    {
+        "term": "ledian",
+        "hp": 55,
+        "attack": 35,
+        "defense": 50,
+        "special_attack": 55,
+        "special_defense": 110,
+        "speed": 85
+    },
+    {
+        "term": "spinarak",
+        "hp": 40,
+        "attack": 60,
+        "defense": 40,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 30
+    },
+    {
+        "term": "ariados",
+        "hp": 70,
+        "attack": 90,
+        "defense": 70,
+        "special_attack": 60,
+        "special_defense": 70,
+        "speed": 40
+    },
+    {
+        "term": "crobat",
+        "hp": 85,
+        "attack": 90,
+        "defense": 80,
+        "special_attack": 70,
+        "special_defense": 80,
+        "speed": 130
+    },
+    {
+        "term": "chinchou",
+        "hp": 75,
+        "attack": 38,
+        "defense": 38,
+        "special_attack": 56,
+        "special_defense": 56,
+        "speed": 67
+    },
+    {
+        "term": "lanturn",
+        "hp": 125,
+        "attack": 58,
+        "defense": 58,
+        "special_attack": 76,
+        "special_defense": 76,
+        "speed": 67
+    },
+    {
+        "term": "pichu",
+        "hp": 20,
+        "attack": 40,
+        "defense": 15,
+        "special_attack": 35,
+        "special_defense": 35,
+        "speed": 60
+    },
+    {
+        "term": "cleffa",
+        "hp": 50,
+        "attack": 25,
+        "defense": 28,
+        "special_attack": 45,
+        "special_defense": 55,
+        "speed": 15
+    },
+    {
+        "term": "igglybuff",
+        "hp": 90,
+        "attack": 30,
+        "defense": 15,
+        "special_attack": 40,
+        "special_defense": 20,
+        "speed": 15
+    },
+    {
+        "term": "togepi",
+        "hp": 35,
+        "attack": 20,
+        "defense": 65,
+        "special_attack": 40,
+        "special_defense": 65,
+        "speed": 20
+    },
+    {
+        "term": "togetic",
+        "hp": 55,
+        "attack": 40,
+        "defense": 85,
+        "special_attack": 80,
+        "special_defense": 105,
+        "speed": 40
+    },
+    {
+        "term": "natu",
+        "hp": 40,
+        "attack": 50,
+        "defense": 45,
+        "special_attack": 70,
+        "special_defense": 45,
+        "speed": 70
+    },
+    {
+        "term": "xatu",
+        "hp": 65,
+        "attack": 75,
+        "defense": 70,
+        "special_attack": 95,
+        "special_defense": 70,
+        "speed": 95
+    },
+    {
+        "term": "mareep",
+        "hp": 55,
+        "attack": 40,
+        "defense": 40,
+        "special_attack": 65,
+        "special_defense": 45,
+        "speed": 35
+    },
+    {
+        "term": "flaaffy",
+        "hp": 70,
+        "attack": 55,
+        "defense": 55,
+        "special_attack": 80,
+        "special_defense": 60,
+        "speed": 45
+    },
+    {
+        "term": "ampharos",
+        "hp": 90,
+        "attack": 75,
+        "defense": 85,
+        "special_attack": 115,
+        "special_defense": 90,
+        "speed": 55
+    },
+    {
+        "term": "mega ampharos",
+        "hp": 90,
+        "attack": 95,
+        "defense": 105,
+        "special_attack": 165,
+        "special_defense": 110,
+        "speed": 45
+    },
+    {
+        "term": "bellossom",
+        "hp": 75,
+        "attack": 80,
+        "defense": 95,
+        "special_attack": 90,
+        "special_defense": 100,
+        "speed": 50
+    },
+    {
+        "term": "marill",
+        "hp": 70,
+        "attack": 20,
+        "defense": 50,
+        "special_attack": 20,
+        "special_defense": 50,
+        "speed": 40
+    },
+    {
+        "term": "azumarill",
+        "hp": 100,
+        "attack": 50,
+        "defense": 80,
+        "special_attack": 60,
+        "special_defense": 80,
+        "speed": 50
+    },
+    {
+        "term": "sudowoodo",
+        "hp": 70,
+        "attack": 100,
+        "defense": 115,
+        "special_attack": 30,
+        "special_defense": 65,
+        "speed": 30
+    },
+    {
+        "term": "politoed",
+        "hp": 90,
+        "attack": 75,
+        "defense": 75,
+        "special_attack": 90,
+        "special_defense": 100,
+        "speed": 70
+    },
+    {
+        "term": "hoppip",
+        "hp": 35,
+        "attack": 35,
+        "defense": 40,
+        "special_attack": 35,
+        "special_defense": 55,
+        "speed": 50
+    },
+    {
+        "term": "skiploom",
+        "hp": 55,
+        "attack": 45,
+        "defense": 50,
+        "special_attack": 45,
+        "special_defense": 65,
+        "speed": 80
+    },
+    {
+        "term": "jumpluff",
+        "hp": 75,
+        "attack": 55,
+        "defense": 70,
+        "special_attack": 55,
+        "special_defense": 95,
+        "speed": 110
+    },
+    {
+        "term": "aipom",
+        "hp": 55,
+        "attack": 70,
+        "defense": 55,
+        "special_attack": 40,
+        "special_defense": 55,
+        "speed": 85
+    },
+    {
+        "term": "sunkern",
+        "hp": 30,
+        "attack": 30,
+        "defense": 30,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 30
+    },
+    {
+        "term": "sunflora",
+        "hp": 75,
+        "attack": 75,
+        "defense": 55,
+        "special_attack": 105,
+        "special_defense": 85,
+        "speed": 30
+    },
+    {
+        "term": "yanma",
+        "hp": 65,
+        "attack": 65,
+        "defense": 45,
+        "special_attack": 75,
+        "special_defense": 45,
+        "speed": 95
+    },
+    {
+        "term": "wooper",
+        "hp": 55,
+        "attack": 45,
+        "defense": 45,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+    },
+    {
+        "term": "quagsire",
+        "hp": 95,
+        "attack": 85,
+        "defense": 85,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 35
+    },
+    {
+        "term": "espeon",
+        "hp": 65,
+        "attack": 65,
+        "defense": 60,
+        "special_attack": 130,
+        "special_defense": 95,
+        "speed": 110
+    },
+    {
+        "term": "umbreon",
+        "hp": 95,
+        "attack": 65,
+        "defense": 110,
+        "special_attack": 60,
+        "special_defense": 130,
+        "speed": 65
+    },
+    {
+        "term": "murkrow",
+        "hp": 60,
+        "attack": 85,
+        "defense": 42,
+        "special_attack": 85,
+        "special_defense": 42,
+        "speed": 91
+    },
+    {
+        "term": "slowking",
+        "hp": 95,
+        "attack": 75,
+        "defense": 80,
+        "special_attack": 100,
+        "special_defense": 110,
+        "speed": 30
+    },
+    {
+        "term": "misdreavus",
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "special_attack": 85,
+        "special_defense": 85,
+        "speed": 85
+    },
+    {
+        "term": "unown a",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown b",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown c",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown d",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown e",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown f",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown g",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown h",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown i",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown j",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown k",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown l",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown m",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown n",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown o",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown p",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown q",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown r",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown s",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown t",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown u",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown v",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown w",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown x",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown y",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown z",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown !",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "unown ?",
+        "hp": 48,
+        "attack": 72,
+        "defense": 48,
+        "special_attack": 72,
+        "special_defense": 48,
+        "speed": 48
+    },
+    {
+        "term": "wobbuffet",
+        "hp": 190,
+        "attack": 33,
+        "defense": 58,
+        "special_attack": 33,
+        "special_defense": 58,
+        "speed": 33
+    },
+    {
+        "term": "girafarig",
+        "hp": 70,
+        "attack": 80,
+        "defense": 65,
+        "special_attack": 90,
+        "special_defense": 65,
+        "speed": 85
+    },
+    {
+        "term": "pineco",
+        "hp": 50,
+        "attack": 65,
+        "defense": 90,
+        "special_attack": 35,
+        "special_defense": 35,
+        "speed": 15
+    },
+    {
+        "term": "forretress",
+        "hp": 75,
+        "attack": 90,
+        "defense": 140,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 40
+    },
+    {
+        "term": "dunsparce",
+        "hp": 100,
+        "attack": 70,
+        "defense": 70,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 45
+    },
+    {
+        "term": "gligar",
+        "hp": 65,
+        "attack": 75,
+        "defense": 105,
+        "special_attack": 35,
+        "special_defense": 65,
+        "speed": 85
+    },
+    {
+        "term": "steelix",
+        "hp": 75,
+        "attack": 85,
+        "defense": 200,
+        "special_attack": 55,
+        "special_defense": 65,
+        "speed": 30
+    },
+    {
+        "term": "mega steelix",
+        "hp": 75,
+        "attack": 125,
+        "defense": 230,
+        "special_attack": 55,
+        "special_defense": 95,
+        "speed": 30
+    },
+    {
+        "term": "snubbull",
+        "hp": 60,
+        "attack": 80,
+        "defense": 50,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 30
+    },
+    {
+        "term": "granbull",
+        "hp": 90,
+        "attack": 120,
+        "defense": 75,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 45
+    },
+    {
+        "term": "qwilfish",
+        "hp": 65,
+        "attack": 95,
+        "defense": 85,
+        "special_attack": 55,
+        "special_defense": 55,
+        "speed": 85
+    },
+    {
+        "term": "scizor",
+        "hp": 70,
+        "attack": 130,
+        "defense": 100,
+        "special_attack": 55,
+        "special_defense": 80,
+        "speed": 65
+    },
+    {
+        "term": "mega scizor",
+        "hp": 70,
+        "attack": 150,
+        "defense": 140,
+        "special_attack": 65,
+        "special_defense": 100,
+        "speed": 75
+    },
+    {
+        "term": "shuckle",
+        "hp": 20,
+        "attack": 10,
+        "defense": 230,
+        "special_attack": 10,
+        "special_defense": 230,
+        "speed": 5
+    },
+    {
+        "term": "heracross",
+        "hp": 80,
+        "attack": 125,
+        "defense": 75,
+        "special_attack": 40,
+        "special_defense": 95,
+        "speed": 85
+    },
+    {
+        "term": "mega heracross",
+        "hp": 80,
+        "attack": 185,
+        "defense": 115,
+        "special_attack": 40,
+        "special_defense": 105,
+        "speed": 75
+    },
+    {
+        "term": "sneasel",
+        "hp": 55,
+        "attack": 95,
+        "defense": 55,
+        "special_attack": 35,
+        "special_defense": 75,
+        "speed": 115
+    },
+    {
+        "term": "teddiursa",
+        "hp": 60,
+        "attack": 80,
+        "defense": 50,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 40
+    },
+    {
+        "term": "ursaring",
+        "hp": 90,
+        "attack": 130,
+        "defense": 75,
+        "special_attack": 75,
+        "special_defense": 75,
+        "speed": 55
+    },
+    {
+        "term": "slugma",
+        "hp": 40,
+        "attack": 40,
+        "defense": 40,
+        "special_attack": 70,
+        "special_defense": 40,
+        "speed": 20
+    },
+    {
+        "term": "magcargo",
+        "hp": 60,
+        "attack": 50,
+        "defense": 120,
+        "special_attack": 90,
+        "special_defense": 80,
+        "speed": 30
+    },
+    {
+        "term": "swinub",
+        "hp": 50,
+        "attack": 50,
+        "defense": 40,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 50
+    },
+    {
+        "term": "piloswine",
+        "hp": 100,
+        "attack": 100,
+        "defense": 80,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 50
+    },
+    {
+        "term": "corsola",
+        "hp": 65,
+        "attack": 55,
+        "defense": 95,
+        "special_attack": 65,
+        "special_defense": 95,
+        "speed": 35
+    },
+    {
+        "term": "remoraid",
+        "hp": 35,
+        "attack": 65,
+        "defense": 35,
+        "special_attack": 65,
+        "special_defense": 35,
+        "speed": 65
+    },
+    {
+        "term": "octillery",
+        "hp": 75,
+        "attack": 105,
+        "defense": 75,
+        "special_attack": 105,
+        "special_defense": 75,
+        "speed": 45
+    },
+    {
+        "term": "delibird",
+        "hp": 45,
+        "attack": 55,
+        "defense": 45,
+        "special_attack": 65,
+        "special_defense": 45,
+        "speed": 75
+    },
+    {
+        "term": "mantine",
+        "hp": 85,
+        "attack": 40,
+        "defense": 70,
+        "special_attack": 80,
+        "special_defense": 140,
+        "speed": 70
+    },
+    {
+        "term": "skarmory",
+        "hp": 65,
+        "attack": 80,
+        "defense": 140,
+        "special_attack": 40,
+        "special_defense": 70,
+        "speed": 70
+    },
+    {
+        "term": "houndour",
+        "hp": 45,
+        "attack": 60,
+        "defense": 30,
+        "special_attack": 80,
+        "special_defense": 50,
+        "speed": 65
+    },
+    {
+        "term": "houndoom",
+        "hp": 75,
+        "attack": 90,
+        "defense": 50,
+        "special_attack": 110,
+        "special_defense": 80,
+        "speed": 95
+    },
+    {
+        "term": "mega houndoom",
+        "hp": 75,
+        "attack": 90,
+        "defense": 90,
+        "special_attack": 140,
+        "special_defense": 90,
+        "speed": 115
+    },
+    {
+        "term": "kingdra",
+        "hp": 75,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 85
+    },
+    {
+        "term": "phanpy",
+        "hp": 90,
+        "attack": 60,
+        "defense": 60,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 40
+    },
+    {
+        "term": "donphan",
+        "hp": 90,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 50
+    },
+    {
+        "term": "porygon 2",
+        "hp": 85,
+        "attack": 80,
+        "defense": 90,
+        "special_attack": 105,
+        "special_defense": 95,
+        "speed": 60
+    },
+    {
+        "term": "stantler",
+        "hp": 73,
+        "attack": 95,
+        "defense": 62,
+        "special_attack": 85,
+        "special_defense": 65,
+        "speed": 85
+    },
+    {
+        "term": "smeargle",
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 45,
+        "speed": 75
+    },
+    {
+        "term": "tyrogue",
+        "hp": 35,
+        "attack": 35,
+        "defense": 35,
+        "special_attack": 35,
+        "special_defense": 35,
+        "speed": 35
+    },
+    {
+        "term": "hitmontop",
+        "hp": 50,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 35,
+        "special_defense": 110,
+        "speed": 70
+    },
+    {
+        "term": "smoochum",
+        "hp": 45,
+        "attack": 30,
+        "defense": 15,
+        "special_attack": 85,
+        "special_defense": 65,
+        "speed": 65
+    },
+    {
+        "term": "elekid",
+        "hp": 45,
+        "attack": 63,
+        "defense": 37,
+        "special_attack": 65,
+        "special_defense": 55,
+        "speed": 95
+    },
+    {
+        "term": "magby",
+        "hp": 45,
+        "attack": 75,
+        "defense": 37,
+        "special_attack": 70,
+        "special_defense": 55,
+        "speed": 83
+    },
+    {
+        "term": "miltank",
+        "hp": 95,
+        "attack": 80,
+        "defense": 105,
+        "special_attack": 40,
+        "special_defense": 70,
+        "speed": 100
+    },
+    {
+        "term": "blissey",
+        "hp": 255,
+        "attack": 10,
+        "defense": 10,
+        "special_attack": 75,
+        "special_defense": 135,
+        "speed": 55
+    },
+    {
+        "term": "raikou",
+        "hp": 90,
+        "attack": 85,
+        "defense": 75,
+        "special_attack": 115,
+        "special_defense": 100,
+        "speed": 115
+    },
+    {
+        "term": "entei",
+        "hp": 115,
+        "attack": 115,
+        "defense": 85,
+        "special_attack": 90,
+        "special_defense": 75,
+        "speed": 100
+    },
+    {
+        "term": "suicune",
+        "hp": 100,
+        "attack": 75,
+        "defense": 115,
+        "special_attack": 90,
+        "special_defense": 115,
+        "speed": 85
+    },
+    {
+        "term": "larvitar",
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "special_attack": 45,
+        "special_defense": 50,
+        "speed": 41
+    },
+    {
+        "term": "pupitar",
+        "hp": 70,
+        "attack": 84,
+        "defense": 70,
+        "special_attack": 65,
+        "special_defense": 70,
+        "speed": 51
+    },
+    {
+        "term": "tyranitar",
+        "hp": 100,
+        "attack": 134,
+        "defense": 110,
+        "special_attack": 95,
+        "special_defense": 100,
+        "speed": 61
+    },
+    {
+        "term": "mega tyranitar",
+        "hp": 100,
+        "attack": 164,
+        "defense": 150,
+        "special_attack": 95,
+        "special_defense": 120,
+        "speed": 71
+    },
+    {
+        "term": "lugia",
+        "hp": 106,
+        "attack": 90,
+        "defense": 130,
+        "special_attack": 90,
+        "special_defense": 154,
+        "speed": 110
+    },
+    {
+        "term": "ho-oh",
+        "hp": 106,
+        "attack": 130,
+        "defense": 90,
+        "special_attack": 110,
+        "special_defense": 154,
+        "speed": 90
+    },
+    {
+        "term": "celebi",
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special_attack": 100,
+        "special_defense": 100,
+        "speed": 100
+    },
+    {
+        "term": "treecko",
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 65,
+        "special_defense": 55,
+        "speed": 70
+    },
+    {
+        "term": "grovyle",
+        "hp": 50,
+        "attack": 65,
+        "defense": 45,
+        "special_attack": 85,
+        "special_defense": 65,
+        "speed": 95
+    },
+    {
+        "term": "sceptile",
+        "hp": 70,
+        "attack": 85,
+        "defense": 65,
+        "special_attack": 105,
+        "special_defense": 85,
+        "speed": 120
+    },
+    {
+        "term": "mega sceptile",
+        "hp": 70,
+        "attack": 110,
+        "defense": 75,
+        "special_attack": 145,
+        "special_defense": 85,
+        "speed": 145
+    },
+    {
+        "term": "torchic",
+        "hp": 45,
+        "attack": 60,
+        "defense": 40,
+        "special_attack": 70,
+        "special_defense": 50,
+        "speed": 45
+    },
+    {
+        "term": "combusken",
+        "hp": 60,
+        "attack": 85,
+        "defense": 60,
+        "special_attack": 85,
+        "special_defense": 60,
+        "speed": 55
+    },
+    {
+        "term": "blaziken",
+        "hp": 80,
+        "attack": 120,
+        "defense": 70,
+        "special_attack": 110,
+        "special_defense": 70,
+        "speed": 80
+    },
+    {
+        "term": "mega blaziken",
+        "hp": 80,
+        "attack": 160,
+        "defense": 80,
+        "special_attack": 130,
+        "special_defense": 80,
+        "speed": 100
+    },
+    {
+        "term": "mudkip",
+        "hp": 50,
+        "attack": 70,
+        "defense": 50,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 40
+    },
+    {
+        "term": "marshtomp",
+        "hp": 70,
+        "attack": 85,
+        "defense": 70,
+        "special_attack": 60,
+        "special_defense": 70,
+        "speed": 50
+    },
+    {
+        "term": "swampert",
+        "hp": 100,
+        "attack": 110,
+        "defense": 90,
+        "special_attack": 85,
+        "special_defense": 90,
+        "speed": 60
+    },
+    {
+        "term": "mega swampert",
+        "hp": 100,
+        "attack": 150,
+        "defense": 110,
+        "special_attack": 95,
+        "special_defense": 110,
+        "speed": 70
+    },
+    {
+        "term": "poochyena",
+        "hp": 35,
+        "attack": 55,
+        "defense": 35,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 35
+    },
+    {
+        "term": "mightyena",
+        "hp": 70,
+        "attack": 90,
+        "defense": 70,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 70
+    },
+    {
+        "term": "zigzagoon",
+        "hp": 38,
+        "attack": 30,
+        "defense": 41,
+        "special_attack": 30,
+        "special_defense": 41,
+        "speed": 60
+    },
+    {
+        "term": "linoone",
+        "hp": 78,
+        "attack": 70,
+        "defense": 61,
+        "special_attack": 50,
+        "special_defense": 61,
+        "speed": 100
+    },
+    {
+        "term": "wurmple",
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 20
+    },
+    {
+        "term": "silcoon",
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+    },
+    {
+        "term": "beautifly",
+        "hp": 60,
+        "attack": 70,
+        "defense": 50,
+        "special_attack": 100,
+        "special_defense": 50,
+        "speed": 65
+    },
+    {
+        "term": "cascoon",
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+    },
+    {
+        "term": "dustox",
+        "hp": 60,
+        "attack": 50,
+        "defense": 70,
+        "special_attack": 50,
+        "special_defense": 90,
+        "speed": 65
+    },
+    {
+        "term": "lotad",
+        "hp": 40,
+        "attack": 30,
+        "defense": 30,
+        "special_attack": 40,
+        "special_defense": 50,
+        "speed": 30
+    },
+    {
+        "term": "lombre",
+        "hp": 60,
+        "attack": 50,
+        "defense": 50,
+        "special_attack": 60,
+        "special_defense": 70,
+        "speed": 50
+    },
+    {
+        "term": "ludicolo",
+        "hp": 80,
+        "attack": 70,
+        "defense": 70,
+        "special_attack": 90,
+        "special_defense": 100,
+        "speed": 70
+    },
+    {
+        "term": "seedot",
+        "hp": 40,
+        "attack": 40,
+        "defense": 50,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 30
+    },
+    {
+        "term": "nuzleaf",
+        "hp": 70,
+        "attack": 70,
+        "defense": 40,
+        "special_attack": 60,
+        "special_defense": 40,
+        "speed": 60
+    },
+    {
+        "term": "shiftry",
+        "hp": 90,
+        "attack": 100,
+        "defense": 60,
+        "special_attack": 90,
+        "special_defense": 60,
+        "speed": 80
+    },
+    {
+        "term": "taillow",
+        "hp": 40,
+        "attack": 55,
+        "defense": 30,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 85
+    },
+    {
+        "term": "swellow",
+        "hp": 60,
+        "attack": 85,
+        "defense": 60,
+        "special_attack": 75,
+        "special_defense": 50,
+        "speed": 125
+    },
+    {
+        "term": "wingull",
+        "hp": 40,
+        "attack": 30,
+        "defense": 30,
+        "special_attack": 55,
+        "special_defense": 30,
+        "speed": 85
+    },
+    {
+        "term": "pelipper",
+        "hp": 60,
+        "attack": 50,
+        "defense": 100,
+        "special_attack": 95,
+        "special_defense": 70,
+        "speed": 65
+    },
+    {
+        "term": "ralts",
+        "hp": 28,
+        "attack": 25,
+        "defense": 25,
+        "special_attack": 45,
+        "special_defense": 35,
+        "speed": 40
+    },
+    {
+        "term": "kirlia",
+        "hp": 38,
+        "attack": 35,
+        "defense": 35,
+        "special_attack": 65,
+        "special_defense": 55,
+        "speed": 50
+    },
+    {
+        "term": "gardevoir",
+        "hp": 68,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 125,
+        "special_defense": 115,
+        "speed": 80
+    },
+    {
+        "term": "mega gardevoir",
+        "hp": 68,
+        "attack": 85,
+        "defense": 65,
+        "special_attack": 165,
+        "special_defense": 135,
+        "speed": 100
+    },
+    {
+        "term": "surskit",
+        "hp": 40,
+        "attack": 30,
+        "defense": 32,
+        "special_attack": 50,
+        "special_defense": 52,
+        "speed": 65
+    },
+    {
+        "term": "masquerain",
+        "hp": 70,
+        "attack": 60,
+        "defense": 62,
+        "special_attack": 100,
+        "special_defense": 82,
+        "speed": 80
+    },
+    {
+        "term": "shroomish",
+        "hp": 60,
+        "attack": 40,
+        "defense": 60,
+        "special_attack": 40,
+        "special_defense": 60,
+        "speed": 35
+    },
+    {
+        "term": "breloom",
+        "hp": 60,
+        "attack": 130,
+        "defense": 80,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 70
+    },
+    {
+        "term": "slakoth",
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "special_attack": 35,
+        "special_defense": 35,
+        "speed": 30
+    },
+    {
+        "term": "vigoroth",
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "special_attack": 55,
+        "special_defense": 55,
+        "speed": 90
+    },
+    {
+        "term": "slaking",
+        "hp": 150,
+        "attack": 160,
+        "defense": 100,
+        "special_attack": 95,
+        "special_defense": 65,
+        "speed": 100
+    },
+    {
+        "term": "nincada",
+        "hp": 31,
+        "attack": 45,
+        "defense": 90,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 40
+    },
+    {
+        "term": "ninjask",
+        "hp": 61,
+        "attack": 90,
+        "defense": 45,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 160
+    },
+    {
+        "term": "shedinja",
+        "hp": 1,
+        "attack": 90,
+        "defense": 45,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 40
+    },
+    {
+        "term": "whismur",
+        "hp": 64,
+        "attack": 51,
+        "defense": 23,
+        "special_attack": 51,
+        "special_defense": 23,
+        "speed": 28
+    },
+    {
+        "term": "loudred",
+        "hp": 84,
+        "attack": 71,
+        "defense": 43,
+        "special_attack": 71,
+        "special_defense": 43,
+        "speed": 48
+    },
+    {
+        "term": "exploud",
+        "hp": 104,
+        "attack": 91,
+        "defense": 63,
+        "special_attack": 91,
+        "special_defense": 73,
+        "speed": 68
+    },
+    {
+        "term": "makuhita",
+        "hp": 72,
+        "attack": 60,
+        "defense": 30,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 25
+    },
+    {
+        "term": "hariyama",
+        "hp": 144,
+        "attack": 120,
+        "defense": 60,
+        "special_attack": 40,
+        "special_defense": 60,
+        "speed": 50
+    },
+    {
+        "term": "azurill",
+        "hp": 50,
+        "attack": 20,
+        "defense": 40,
+        "special_attack": 20,
+        "special_defense": 40,
+        "speed": 20
+    },
+    {
+        "term": "nosepass",
+        "hp": 30,
+        "attack": 45,
+        "defense": 135,
+        "special_attack": 45,
+        "special_defense": 90,
+        "speed": 30
+    },
+    {
+        "term": "skitty",
+        "hp": 50,
+        "attack": 45,
+        "defense": 45,
+        "special_attack": 35,
+        "special_defense": 35,
+        "speed": 50
+    },
+    {
+        "term": "delcatty",
+        "hp": 70,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 55,
+        "special_defense": 55,
+        "speed": 90
+    },
+    {
+        "term": "sableye",
+        "hp": 50,
+        "attack": 75,
+        "defense": 75,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 50
+    },
+    {
+        "term": "mega sableye",
+        "hp": 50,
+        "attack": 85,
+        "defense": 125,
+        "special_attack": 85,
+        "special_defense": 115,
+        "speed": 20
+    },
+    {
+        "term": "mawile",
+        "hp": 50,
+        "attack": 85,
+        "defense": 85,
+        "special_attack": 55,
+        "special_defense": 55,
+        "speed": 50
+    },
+    {
+        "term": "mega mawile",
+        "hp": 50,
+        "attack": 105,
+        "defense": 125,
+        "special_attack": 55,
+        "special_defense": 95,
+        "speed": 50
+    },
+    {
+        "term": "aron",
+        "hp": 50,
+        "attack": 70,
+        "defense": 100,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 30
+    },
+    {
+        "term": "lairon",
+        "hp": 60,
+        "attack": 90,
+        "defense": 140,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 40
+    },
+    {
+        "term": "aggron",
+        "hp": 70,
+        "attack": 110,
+        "defense": 180,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 50
+    },
+    {
+        "term": "mega aggron",
+        "hp": 70,
+        "attack": 140,
+        "defense": 230,
+        "special_attack": 60,
+        "special_defense": 80,
+        "speed": 50
+    },
+    {
+        "term": "meditite",
+        "hp": 30,
+        "attack": 40,
+        "defense": 55,
+        "special_attack": 40,
+        "special_defense": 55,
+        "speed": 60
+    },
+    {
+        "term": "medicham",
+        "hp": 60,
+        "attack": 60,
+        "defense": 75,
+        "special_attack": 60,
+        "special_defense": 75,
+        "speed": 80
+    },
+    {
+        "term": "mega medicham",
+        "hp": 60,
+        "attack": 100,
+        "defense": 85,
+        "special_attack": 80,
+        "special_defense": 85,
+        "speed": 100
+    },
+    {
+        "term": "electrike",
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special_attack": 65,
+        "special_defense": 40,
+        "speed": 65
+    },
+    {
+        "term": "manectric",
+        "hp": 70,
+        "attack": 75,
+        "defense": 60,
+        "special_attack": 105,
+        "special_defense": 60,
+        "speed": 105
+    },
+    {
+        "term": "mega manectric",
+        "hp": 70,
+        "attack": 75,
+        "defense": 80,
+        "special_attack": 135,
+        "special_defense": 80,
+        "speed": 135
+    },
+    {
+        "term": "plusle",
+        "hp": 60,
+        "attack": 50,
+        "defense": 40,
+        "special_attack": 85,
+        "special_defense": 75,
+        "speed": 95
+    },
+    {
+        "term": "minun",
+        "hp": 60,
+        "attack": 40,
+        "defense": 50,
+        "special_attack": 75,
+        "special_defense": 85,
+        "speed": 95
+    },
+    {
+        "term": "volbeat",
+        "hp": 65,
+        "attack": 73,
+        "defense": 75,
+        "special_attack": 47,
+        "special_defense": 85,
+        "speed": 85
+    },
+    {
+        "term": "illumise",
+        "hp": 65,
+        "attack": 47,
+        "defense": 75,
+        "special_attack": 73,
+        "special_defense": 85,
+        "speed": 85
+    },
+    {
+        "term": "roselia",
+        "hp": 50,
+        "attack": 60,
+        "defense": 45,
+        "special_attack": 100,
+        "special_defense": 80,
+        "speed": 65
+    },
+    {
+        "term": "gulpin",
+        "hp": 70,
+        "attack": 43,
+        "defense": 53,
+        "special_attack": 43,
+        "special_defense": 53,
+        "speed": 40
+    },
+    {
+        "term": "swalot",
+        "hp": 100,
+        "attack": 73,
+        "defense": 83,
+        "special_attack": 73,
+        "special_defense": 83,
+        "speed": 55
+    },
+    {
+        "term": "carvanha",
+        "hp": 45,
+        "attack": 90,
+        "defense": 20,
+        "special_attack": 65,
+        "special_defense": 20,
+        "speed": 65
+    },
+    {
+        "term": "sharpedo",
+        "hp": 70,
+        "attack": 120,
+        "defense": 40,
+        "special_attack": 95,
+        "special_defense": 40,
+        "speed": 95
+    },
+    {
+        "term": "mega sharpedo",
+        "hp": 70,
+        "attack": 140,
+        "defense": 70,
+        "special_attack": 110,
+        "special_defense": 65,
+        "speed": 105
+    },
+    {
+        "term": "wailmer",
+        "hp": 130,
+        "attack": 70,
+        "defense": 35,
+        "special_attack": 70,
+        "special_defense": 35,
+        "speed": 60
+    },
+    {
+        "term": "wailord",
+        "hp": 170,
+        "attack": 90,
+        "defense": 45,
+        "special_attack": 90,
+        "special_defense": 45,
+        "speed": 60
+    },
+    {
+        "term": "numel",
+        "hp": 60,
+        "attack": 60,
+        "defense": 40,
+        "special_attack": 65,
+        "special_defense": 45,
+        "speed": 35
+    },
+    {
+        "term": "camerupt",
+        "hp": 70,
+        "attack": 100,
+        "defense": 70,
+        "special_attack": 105,
+        "special_defense": 75,
+        "speed": 40
+    },
+    {
+        "term": "mega camerupt",
+        "hp": 70,
+        "attack": 120,
+        "defense": 100,
+        "special_attack": 145,
+        "special_defense": 105,
+        "speed": 20
+    },
+    {
+        "term": "torkoal",
+        "hp": 70,
+        "attack": 85,
+        "defense": 140,
+        "special_attack": 85,
+        "special_defense": 70,
+        "speed": 20
+    },
+    {
+        "term": "spoink",
+        "hp": 60,
+        "attack": 25,
+        "defense": 35,
+        "special_attack": 70,
+        "special_defense": 80,
+        "speed": 60
+    },
+    {
+        "term": "grumpig",
+        "hp": 80,
+        "attack": 45,
+        "defense": 65,
+        "special_attack": 90,
+        "special_defense": 110,
+        "speed": 80
+    },
+    {
+        "term": "spinda",
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 60
+    },
+    {
+        "term": "trapinch",
+        "hp": 45,
+        "attack": 100,
+        "defense": 45,
+        "special_attack": 45,
+        "special_defense": 45,
+        "speed": 10
+    },
+    {
+        "term": "vibrava",
+        "hp": 50,
+        "attack": 70,
+        "defense": 50,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 70
+    },
+    {
+        "term": "flygon",
+        "hp": 80,
+        "attack": 100,
+        "defense": 80,
+        "special_attack": 80,
+        "special_defense": 80,
+        "speed": 100
+    },
+    {
+        "term": "cacnea",
+        "hp": 50,
+        "attack": 85,
+        "defense": 40,
+        "special_attack": 85,
+        "special_defense": 40,
+        "speed": 35
+    },
+    {
+        "term": "cacturne",
+        "hp": 70,
+        "attack": 115,
+        "defense": 60,
+        "special_attack": 115,
+        "special_defense": 60,
+        "speed": 55
+    },
+    {
+        "term": "swablu",
+        "hp": 45,
+        "attack": 40,
+        "defense": 60,
+        "special_attack": 40,
+        "special_defense": 75,
+        "speed": 50
+    },
+    {
+        "term": "altaria",
+        "hp": 75,
+        "attack": 70,
+        "defense": 90,
+        "special_attack": 70,
+        "special_defense": 105,
+        "speed": 80
+    },
+    {
+        "term": "mega altaria",
+        "hp": 75,
+        "attack": 110,
+        "defense": 110,
+        "special_attack": 110,
+        "special_defense": 105,
+        "speed": 80
+    },
+    {
+        "term": "zangoose",
+        "hp": 73,
+        "attack": 115,
+        "defense": 60,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 90
+    },
+    {
+        "term": "seviper",
+        "hp": 73,
+        "attack": 100,
+        "defense": 60,
+        "special_attack": 100,
+        "special_defense": 60,
+        "speed": 65
+    },
+    {
+        "term": "lunatone",
+        "hp": 90,
+        "attack": 55,
+        "defense": 65,
+        "special_attack": 95,
+        "special_defense": 85,
+        "speed": 70
+    },
+    {
+        "term": "solrock",
+        "hp": 90,
+        "attack": 95,
+        "defense": 85,
+        "special_attack": 55,
+        "special_defense": 65,
+        "speed": 70
+    },
+    {
+        "term": "barboach",
+        "hp": 50,
+        "attack": 48,
+        "defense": 43,
+        "special_attack": 46,
+        "special_defense": 41,
+        "speed": 60
+    },
+    {
+        "term": "whiscash",
+        "hp": 110,
+        "attack": 78,
+        "defense": 73,
+        "special_attack": 76,
+        "special_defense": 71,
+        "speed": 60
+    },
+    {
+        "term": "corphish",
+        "hp": 43,
+        "attack": 80,
+        "defense": 65,
+        "special_attack": 50,
+        "special_defense": 35,
+        "speed": 35
+    },
+    {
+        "term": "crawdaunt",
+        "hp": 63,
+        "attack": 120,
+        "defense": 85,
+        "special_attack": 90,
+        "special_defense": 55,
+        "speed": 55
+    },
+    {
+        "term": "baltoy",
+        "hp": 40,
+        "attack": 40,
+        "defense": 55,
+        "special_attack": 40,
+        "special_defense": 70,
+        "speed": 55
+    },
+    {
+        "term": "claydol",
+        "hp": 60,
+        "attack": 70,
+        "defense": 105,
+        "special_attack": 70,
+        "special_defense": 120,
+        "speed": 75
+    },
+    {
+        "term": "lileep",
+        "hp": 66,
+        "attack": 41,
+        "defense": 77,
+        "special_attack": 61,
+        "special_defense": 87,
+        "speed": 23
+    },
+    {
+        "term": "cradily",
+        "hp": 86,
+        "attack": 81,
+        "defense": 97,
+        "special_attack": 81,
+        "special_defense": 107,
+        "speed": 43
+    },
+    {
+        "term": "anorith",
+        "hp": 45,
+        "attack": 95,
+        "defense": 50,
+        "special_attack": 40,
+        "special_defense": 50,
+        "speed": 75
+    },
+    {
+        "term": "armaldo",
+        "hp": 75,
+        "attack": 125,
+        "defense": 100,
+        "special_attack": 70,
+        "special_defense": 80,
+        "speed": 45
+    },
+    {
+        "term": "feebas",
+        "hp": 20,
+        "attack": 15,
+        "defense": 20,
+        "special_attack": 10,
+        "special_defense": 55,
+        "speed": 80
+    },
+    {
+        "term": "milotic",
+        "hp": 95,
+        "attack": 60,
+        "defense": 79,
+        "special_attack": 100,
+        "special_defense": 125,
+        "speed": 81
+    },
+    {
+        "term": "castform",
+        "hp": 70,
+        "attack": 70,
+        "defense": 70,
+        "special_attack": 70,
+        "special_defense": 70,
+        "speed": 70
+    },
+    {
+        "term": "kecleon",
+        "hp": 60,
+        "attack": 90,
+        "defense": 70,
+        "special_attack": 60,
+        "special_defense": 120,
+        "speed": 40
+    },
+    {
+        "term": "shuppet",
+        "hp": 44,
+        "attack": 75,
+        "defense": 35,
+        "special_attack": 63,
+        "special_defense": 33,
+        "speed": 45
+    },
+    {
+        "term": "banette",
+        "hp": 64,
+        "attack": 115,
+        "defense": 65,
+        "special_attack": 83,
+        "special_defense": 63,
+        "speed": 65
+    },
+    {
+        "term": "mega banette",
+        "hp": 64,
+        "attack": 165,
+        "defense": 75,
+        "special_attack": 93,
+        "special_defense": 83,
+        "speed": 75
+    },
+    {
+        "term": "duskull",
+        "hp": 20,
+        "attack": 40,
+        "defense": 90,
+        "special_attack": 30,
+        "special_defense": 90,
+        "speed": 25
+    },
+    {
+        "term": "dusclops",
+        "hp": 40,
+        "attack": 70,
+        "defense": 130,
+        "special_attack": 60,
+        "special_defense": 130,
+        "speed": 25
+    },
+    {
+        "term": "tropius",
+        "hp": 99,
+        "attack": 68,
+        "defense": 83,
+        "special_attack": 72,
+        "special_defense": 87,
+        "speed": 51
+    },
+    {
+        "term": "chimecho",
+        "hp": 75,
+        "attack": 50,
+        "defense": 80,
+        "special_attack": 95,
+        "special_defense": 90,
+        "speed": 65
+    },
+    {
+        "term": "absol",
+        "hp": 65,
+        "attack": 130,
+        "defense": 60,
+        "special_attack": 75,
+        "special_defense": 60,
+        "speed": 75
+    },
+    {
+        "term": "mega absol",
+        "hp": 65,
+        "attack": 150,
+        "defense": 60,
+        "special_attack": 115,
+        "special_defense": 60,
+        "speed": 115
+    },
+    {
+        "term": "wynaut",
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "special_attack": 23,
+        "special_defense": 48,
+        "speed": 23
+    },
+    {
+        "term": "snorunt",
+        "hp": 50,
+        "attack": 50,
+        "defense": 50,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 50
+    },
+    {
+        "term": "glalie",
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "special_attack": 80,
+        "special_defense": 80,
+        "speed": 80
+    },
+    {
+        "term": "mega glalie",
+        "hp": 80,
+        "attack": 120,
+        "defense": 80,
+        "special_attack": 120,
+        "special_defense": 80,
+        "speed": 100
+    },
+    {
+        "term": "spheal",
+        "hp": 70,
+        "attack": 40,
+        "defense": 50,
+        "special_attack": 55,
+        "special_defense": 50,
+        "speed": 25
+    },
+    {
+        "term": "sealeo",
+        "hp": 90,
+        "attack": 60,
+        "defense": 70,
+        "special_attack": 75,
+        "special_defense": 70,
+        "speed": 45
+    },
+    {
+        "term": "walrein",
+        "hp": 110,
+        "attack": 80,
+        "defense": 90,
+        "special_attack": 95,
+        "special_defense": 90,
+        "speed": 65
+    },
+    {
+        "term": "clamperl",
+        "hp": 35,
+        "attack": 64,
+        "defense": 85,
+        "special_attack": 74,
+        "special_defense": 55,
+        "speed": 32
+    },
+    {
+        "term": "huntail",
+        "hp": 55,
+        "attack": 104,
+        "defense": 105,
+        "special_attack": 94,
+        "special_defense": 75,
+        "speed": 52
+    },
+    {
+        "term": "gorebyss",
+        "hp": 55,
+        "attack": 84,
+        "defense": 105,
+        "special_attack": 114,
+        "special_defense": 75,
+        "speed": 52
+    },
+    {
+        "term": "relicanth",
+        "hp": 100,
+        "attack": 90,
+        "defense": 130,
+        "special_attack": 45,
+        "special_defense": 65,
+        "speed": 55
+    },
+    {
+        "term": "luvdisc",
+        "hp": 43,
+        "attack": 30,
+        "defense": 55,
+        "special_attack": 40,
+        "special_defense": 65,
+        "speed": 97
+    },
+    {
+        "term": "bagon",
+        "hp": 45,
+        "attack": 75,
+        "defense": 60,
+        "special_attack": 40,
+        "special_defense": 30,
+        "speed": 50
+    },
+    {
+        "term": "shelgon",
+        "hp": 65,
+        "attack": 95,
+        "defense": 100,
+        "special_attack": 60,
+        "special_defense": 50,
+        "speed": 50
+    },
+    {
+        "term": "salamence",
+        "hp": 95,
+        "attack": 135,
+        "defense": 80,
+        "special_attack": 110,
+        "special_defense": 80,
+        "speed": 100
+    },
+    {
+        "term": "mega salamence",
+        "hp": 95,
+        "attack": 145,
+        "defense": 130,
+        "special_attack": 120,
+        "special_defense": 90,
+        "speed": 120
+    },
+    {
+        "term": "beldum",
+        "hp": 40,
+        "attack": 55,
+        "defense": 80,
+        "special_attack": 35,
+        "special_defense": 60,
+        "speed": 30
+    },
+    {
+        "term": "metang",
+        "hp": 60,
+        "attack": 75,
+        "defense": 100,
+        "special_attack": 55,
+        "special_defense": 80,
+        "speed": 50
+    },
+    {
+        "term": "metagross",
+        "hp": 80,
+        "attack": 135,
+        "defense": 130,
+        "special_attack": 95,
+        "special_defense": 90,
+        "speed": 70
+    },
+    {
+        "term": "mega metagross",
+        "hp": 80,
+        "attack": 145,
+        "defense": 150,
+        "special_attack": 105,
+        "special_defense": 110,
+        "speed": 110
+    },
+    {
+        "term": "regirock",
+        "hp": 80,
+        "attack": 100,
+        "defense": 200,
+        "special_attack": 50,
+        "special_defense": 100,
+        "speed": 50
+    },
+    {
+        "term": "regice",
+        "hp": 80,
+        "attack": 50,
+        "defense": 100,
+        "special_attack": 100,
+        "special_defense": 200,
+        "speed": 50
+    },
+    {
+        "term": "registeel",
+        "hp": 80,
+        "attack": 75,
+        "defense": 150,
+        "special_attack": 75,
+        "special_defense": 150,
+        "speed": 50
+    },
+    {
+        "term": "latias",
+        "hp": 80,
+        "attack": 80,
+        "defense": 90,
+        "special_attack": 110,
+        "special_defense": 130,
+        "speed": 110
+    },
+    {
+        "term": "mega latias",
+        "hp": 80,
+        "attack": 100,
+        "defense": 120,
+        "special_attack": 140,
+        "special_defense": 150,
+        "speed": 110
+    },
+    {
+        "term": "latios",
+        "hp": 80,
+        "attack": 90,
+        "defense": 80,
+        "special_attack": 130,
+        "special_defense": 110,
+        "speed": 110
+    },
+    {
+        "term": "mega latios",
+        "hp": 80,
+        "attack": 130,
+        "defense": 100,
+        "special_attack": 160,
+        "special_defense": 120,
+        "speed": 110
+    },
+    {
+        "term": "kyogre",
+        "hp": 100,
+        "attack": 100,
+        "defense": 90,
+        "special_attack": 150,
+        "special_defense": 140,
+        "speed": 90
+    },
+    {
+        "term": "primal kyogre",
+        "hp": 100,
+        "attack": 150,
+        "defense": 90,
+        "special_attack": 180,
+        "special_defense": 160,
+        "speed": 90
+    },
+    {
+        "term": "groudon",
+        "hp": 100,
+        "attack": 150,
+        "defense": 140,
+        "special_attack": 100,
+        "special_defense": 90,
+        "speed": 90
+    },
+    {
+        "term": "primal groudon",
+        "hp": 100,
+        "attack": 180,
+        "defense": 160,
+        "special_attack": 150,
+        "special_defense": 90,
+        "speed": 90
+    },
+    {
+        "term": "rayquaza",
+        "hp": 105,
+        "attack": 150,
+        "defense": 90,
+        "special_attack": 150,
+        "special_defense": 90,
+        "speed": 95
+    },
+    {
+        "term": "mega rayquaza",
+        "hp": 105,
+        "attack": 180,
+        "defense": 100,
+        "special_attack": 180,
+        "special_defense": 100,
+        "speed": 115
+    },
+    {
+        "term": "jirachi",
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special_attack": 100,
+        "special_defense": 100,
+        "speed": 100
+    },
+    {
+        "term": "deoxys normal",
+        "hp": 50,
+        "attack": 150,
+        "defense": 50,
+        "special_attack": 150,
+        "special_defense": 50,
+        "speed": 150
+    },
+    {
+        "term": "deoxys attack",
+        "hp": 50,
+        "attack": 180,
+        "defense": 20,
+        "special_attack": 180,
+        "special_defense": 20,
+        "speed": 150
+    },
+    {
+        "term": "deoxys defense",
+        "hp": 50,
+        "attack": 70,
+        "defense": 160,
+        "special_attack": 70,
+        "special_defense": 160,
+        "speed": 90
+    },
+    {
+        "term": "deoxys speed",
+        "hp": 50,
+        "attack": 95,
+        "defense": 90,
+        "special_attack": 95,
+        "special_defense": 90,
+        "speed": 180
+    },
+    {
+        "term": "turtwig",
+        "hp": 55,
+        "attack": 68,
+        "defense": 64,
+        "special_attack": 45,
+        "special_defense": 55,
+        "speed": 31
+    },
+    {
+        "term": "grotle",
+        "hp": 75,
+        "attack": 89,
+        "defense": 85,
+        "special_attack": 55,
+        "special_defense": 65,
+        "speed": 36
+    },
+    {
+        "term": "torterra",
+        "hp": 95,
+        "attack": 109,
+        "defense": 105,
+        "special_attack": 75,
+        "special_defense": 85,
+        "speed": 56
+    },
+    {
+        "term": "chimchar",
+        "hp": 44,
+        "attack": 58,
+        "defense": 44,
+        "special_attack": 58,
+        "special_defense": 44,
+        "speed": 61
+    },
+    {
+        "term": "monferno",
+        "hp": 64,
+        "attack": 78,
+        "defense": 52,
+        "special_attack": 78,
+        "special_defense": 52,
+        "speed": 81
+    },
+    {
+        "term": "infernape",
+        "hp": 76,
+        "attack": 104,
+        "defense": 71,
+        "special_attack": 104,
+        "special_defense": 71,
+        "speed": 108
+    },
+    {
+        "term": "piplup",
+        "hp": 53,
+        "attack": 51,
+        "defense": 53,
+        "special_attack": 61,
+        "special_defense": 56,
+        "speed": 40
+    },
+    {
+        "term": "prinplup",
+        "hp": 64,
+        "attack": 66,
+        "defense": 68,
+        "special_attack": 81,
+        "special_defense": 76,
+        "speed": 50
+    },
+    {
+        "term": "empoleon",
+        "hp": 84,
+        "attack": 86,
+        "defense": 88,
+        "special_attack": 111,
+        "special_defense": 101,
+        "speed": 60
+    },
+    {
+        "term": "starly",
+        "hp": 40,
+        "attack": 55,
+        "defense": 30,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 60
+    },
+    {
+        "term": "staravia",
+        "hp": 55,
+        "attack": 75,
+        "defense": 50,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 80
+    },
+    {
+        "term": "staraptor",
+        "hp": 85,
+        "attack": 120,
+        "defense": 70,
+        "special_attack": 50,
+        "special_defense": 60,
+        "speed": 100
+    },
+    {
+        "term": "bidoof",
+        "hp": 59,
+        "attack": 45,
+        "defense": 40,
+        "special_attack": 35,
+        "special_defense": 40,
+        "speed": 31
+    },
+    {
+        "term": "bibarel",
+        "hp": 79,
+        "attack": 85,
+        "defense": 60,
+        "special_attack": 55,
+        "special_defense": 60,
+        "speed": 71
+    },
+    {
+        "term": "kricketot",
+        "hp": 37,
+        "attack": 25,
+        "defense": 41,
+        "special_attack": 25,
+        "special_defense": 41,
+        "speed": 25
+    },
+    {
+        "term": "kricketune",
+        "hp": 77,
+        "attack": 85,
+        "defense": 51,
+        "special_attack": 55,
+        "special_defense": 51,
+        "speed": 65
+    },
+    {
+        "term": "shinx",
+        "hp": 45,
+        "attack": 65,
+        "defense": 34,
+        "special_attack": 40,
+        "special_defense": 34,
+        "speed": 45
+    },
+    {
+        "term": "luxio",
+        "hp": 60,
+        "attack": 85,
+        "defense": 49,
+        "special_attack": 60,
+        "special_defense": 49,
+        "speed": 60
+    },
+    {
+        "term": "luxray",
+        "hp": 80,
+        "attack": 120,
+        "defense": 79,
+        "special_attack": 95,
+        "special_defense": 79,
+        "speed": 70
+    },
+    {
+        "term": "budew",
+        "hp": 40,
+        "attack": 30,
+        "defense": 35,
+        "special_attack": 50,
+        "special_defense": 70,
+        "speed": 55
+    },
+    {
+        "term": "roserade",
+        "hp": 60,
+        "attack": 70,
+        "defense": 65,
+        "special_attack": 125,
+        "special_defense": 105,
+        "speed": 90
+    },
+    {
+        "term": "cranidos",
+        "hp": 67,
+        "attack": 125,
+        "defense": 40,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 58
+    },
+    {
+        "term": "rampardos",
+        "hp": 97,
+        "attack": 165,
+        "defense": 60,
+        "special_attack": 65,
+        "special_defense": 50,
+        "speed": 58
+    },
+    {
+        "term": "shieldon",
+        "hp": 30,
+        "attack": 42,
+        "defense": 118,
+        "special_attack": 42,
+        "special_defense": 88,
+        "speed": 30
+    },
+    {
+        "term": "bastiodon",
+        "hp": 60,
+        "attack": 52,
+        "defense": 168,
+        "special_attack": 47,
+        "special_defense": 138,
+        "speed": 30
+    },
+    {
+        "term": "burmy",
+        "hp": 40,
+        "attack": 29,
+        "defense": 45,
+        "special_attack": 29,
+        "special_defense": 45,
+        "speed": 36
+    },
+    {
+        "term": "wormadam plant cloak",
+        "hp": 60,
+        "attack": 59,
+        "defense": 85,
+        "special_attack": 79,
+        "special_defense": 105,
+        "speed": 36
+    },
+    {
+        "term": "wormadam sandy cloak",
+        "hp": 60,
+        "attack": 79,
+        "defense": 105,
+        "special_attack": 59,
+        "special_defense": 85,
+        "speed": 36
+    },
+    {
+        "term": "wormadam trash cloak",
+        "hp": 60,
+        "attack": 69,
+        "defense": 95,
+        "special_attack": 69,
+        "special_defense": 95,
+        "speed": 36
+    },
+    {
+        "term": "mothim",
+        "hp": 70,
+        "attack": 94,
+        "defense": 50,
+        "special_attack": 94,
+        "special_defense": 50,
+        "speed": 66
+    },
+    {
+        "term": "combee",
+        "hp": 30,
+        "attack": 30,
+        "defense": 42,
+        "special_attack": 30,
+        "special_defense": 42,
+        "speed": 70
+    },
+    {
+        "term": "vespiquen",
+        "hp": 70,
+        "attack": 80,
+        "defense": 102,
+        "special_attack": 80,
+        "special_defense": 102,
+        "speed": 40
+    },
+    {
+        "term": "pachirisu",
+        "hp": 60,
+        "attack": 45,
+        "defense": 70,
+        "special_attack": 45,
+        "special_defense": 90,
+        "speed": 95
+    },
+    {
+        "term": "buizel",
+        "hp": 55,
+        "attack": 65,
+        "defense": 35,
+        "special_attack": 60,
+        "special_defense": 30,
+        "speed": 85
+    },
+    {
+        "term": "floatzel",
+        "hp": 85,
+        "attack": 105,
+        "defense": 55,
+        "special_attack": 85,
+        "special_defense": 50,
+        "speed": 115
+    },
+    {
+        "term": "cherubi",
+        "hp": 45,
+        "attack": 35,
+        "defense": 45,
+        "special_attack": 62,
+        "special_defense": 53,
+        "speed": 35
+    },
+    {
+        "term": "cherrim",
+        "hp": 70,
+        "attack": 60,
+        "defense": 70,
+        "special_attack": 87,
+        "special_defense": 78,
+        "speed": 85
+    },
+    {
+        "term": "shellos",
+        "hp": 76,
+        "attack": 48,
+        "defense": 48,
+        "special_attack": 57,
+        "special_defense": 62,
+        "speed": 34
+    },
+    {
+        "term": "gastrodon",
+        "hp": 111,
+        "attack": 83,
+        "defense": 68,
+        "special_attack": 92,
+        "special_defense": 82,
+        "speed": 39
+    },
+    {
+        "term": "ambipom",
+        "hp": 75,
+        "attack": 100,
+        "defense": 66,
+        "special_attack": 60,
+        "special_defense": 66,
+        "speed": 115
+    },
+    {
+        "term": "drifloon",
+        "hp": 90,
+        "attack": 50,
+        "defense": 34,
+        "special_attack": 60,
+        "special_defense": 44,
+        "speed": 70
+    },
+    {
+        "term": "drifblim",
+        "hp": 150,
+        "attack": 80,
+        "defense": 44,
+        "special_attack": 90,
+        "special_defense": 54,
+        "speed": 80
+    },
+    {
+        "term": "buneary",
+        "hp": 55,
+        "attack": 66,
+        "defense": 44,
+        "special_attack": 44,
+        "special_defense": 56,
+        "speed": 85
+    },
+    {
+        "term": "lopunny",
+        "hp": 65,
+        "attack": 76,
+        "defense": 84,
+        "special_attack": 54,
+        "special_defense": 96,
+        "speed": 105
+    },
+    {
+        "term": "mega lopunny",
+        "hp": 65,
+        "attack": 136,
+        "defense": 94,
+        "special_attack": 54,
+        "special_defense": 96,
+        "speed": 135
+    },
+    {
+        "term": "mismagius",
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "special_attack": 105,
+        "special_defense": 105,
+        "speed": 105
+    },
+    {
+        "term": "honchkrow",
+        "hp": 100,
+        "attack": 125,
+        "defense": 52,
+        "special_attack": 105,
+        "special_defense": 52,
+        "speed": 71
+    },
+    {
+        "term": "glameow",
+        "hp": 49,
+        "attack": 55,
+        "defense": 42,
+        "special_attack": 42,
+        "special_defense": 37,
+        "speed": 85
+    },
+    {
+        "term": "purugly",
+        "hp": 71,
+        "attack": 82,
+        "defense": 64,
+        "special_attack": 64,
+        "special_defense": 59,
+        "speed": 112
+    },
+    {
+        "term": "chingling",
+        "hp": 45,
+        "attack": 30,
+        "defense": 50,
+        "special_attack": 65,
+        "special_defense": 50,
+        "speed": 45
+    },
+    {
+        "term": "stunky",
+        "hp": 63,
+        "attack": 63,
+        "defense": 47,
+        "special_attack": 41,
+        "special_defense": 41,
+        "speed": 74
+    },
+    {
+        "term": "skuntank",
+        "hp": 103,
+        "attack": 93,
+        "defense": 67,
+        "special_attack": 71,
+        "special_defense": 61,
+        "speed": 84
+    },
+    {
+        "term": "bronzor",
+        "hp": 57,
+        "attack": 24,
+        "defense": 86,
+        "special_attack": 24,
+        "special_defense": 86,
+        "speed": 23
+    },
+    {
+        "term": "bronzong",
+        "hp": 67,
+        "attack": 89,
+        "defense": 116,
+        "special_attack": 79,
+        "special_defense": 116,
+        "speed": 33
+    },
+    {
+        "term": "bonsly",
+        "hp": 50,
+        "attack": 80,
+        "defense": 95,
+        "special_attack": 10,
+        "special_defense": 45,
+        "speed": 10
+    },
+    {
+        "term": "mime jr.",
+        "hp": 20,
+        "attack": 25,
+        "defense": 45,
+        "special_attack": 70,
+        "special_defense": 90,
+        "speed": 60
+    },
+    {
+        "term": "happiny",
+        "hp": 100,
+        "attack": 5,
+        "defense": 5,
+        "special_attack": 15,
+        "special_defense": 65,
+        "speed": 30
+    },
+    {
+        "term": "chatot",
+        "hp": 76,
+        "attack": 65,
+        "defense": 45,
+        "special_attack": 92,
+        "special_defense": 42,
+        "speed": 91
+    },
+    {
+        "term": "spiritomb",
+        "hp": 50,
+        "attack": 92,
+        "defense": 108,
+        "special_attack": 92,
+        "special_defense": 108,
+        "speed": 35
+    },
+    {
+        "term": "gible",
+        "hp": 58,
+        "attack": 70,
+        "defense": 45,
+        "special_attack": 40,
+        "special_defense": 45,
+        "speed": 42
+    },
+    {
+        "term": "gabite",
+        "hp": 68,
+        "attack": 90,
+        "defense": 65,
+        "special_attack": 50,
+        "special_defense": 55,
+        "speed": 82
+    },
+    {
+        "term": "garchomp",
+        "hp": 108,
+        "attack": 130,
+        "defense": 95,
+        "special_attack": 80,
+        "special_defense": 85,
+        "speed": 102
+    },
+    {
+        "term": "mega garchomp",
+        "hp": 108,
+        "attack": 170,
+        "defense": 115,
+        "special_attack": 120,
+        "special_defense": 95,
+        "speed": 92
+    },
+    {
+        "term": "munchlax",
+        "hp": 135,
+        "attack": 85,
+        "defense": 40,
+        "special_attack": 40,
+        "special_defense": 85,
+        "speed": 5
+    },
+    {
+        "term": "riolu",
+        "hp": 40,
+        "attack": 70,
+        "defense": 40,
+        "special_attack": 35,
+        "special_defense": 40,
+        "speed": 60
+    },
+    {
+        "term": "lucario",
+        "hp": 70,
+        "attack": 110,
+        "defense": 70,
+        "special_attack": 115,
+        "special_defense": 70,
+        "speed": 90
+    },
+    {
+        "term": "mega lucario",
+        "hp": 70,
+        "attack": 145,
+        "defense": 88,
+        "special_attack": 140,
+        "special_defense": 70,
+        "speed": 112
+    },
+    {
+        "term": "hippopotas",
+        "hp": 68,
+        "attack": 72,
+        "defense": 78,
+        "special_attack": 38,
+        "special_defense": 42,
+        "speed": 32
+    },
+    {
+        "term": "hippowdon",
+        "hp": 108,
+        "attack": 112,
+        "defense": 118,
+        "special_attack": 68,
+        "special_defense": 72,
+        "speed": 47
+    },
+    {
+        "term": "skorupi",
+        "hp": 40,
+        "attack": 50,
+        "defense": 90,
+        "special_attack": 30,
+        "special_defense": 55,
+        "speed": 65
+    },
+    {
+        "term": "drapion",
+        "hp": 70,
+        "attack": 90,
+        "defense": 110,
+        "special_attack": 60,
+        "special_defense": 75,
+        "speed": 95
+    },
+    {
+        "term": "croagunk",
+        "hp": 48,
+        "attack": 61,
+        "defense": 40,
+        "special_attack": 61,
+        "special_defense": 40,
+        "speed": 50
+    },
+    {
+        "term": "toxicroak",
+        "hp": 83,
+        "attack": 106,
+        "defense": 65,
+        "special_attack": 86,
+        "special_defense": 65,
+        "speed": 85
+    },
+    {
+        "term": "carnivine",
+        "hp": 74,
+        "attack": 100,
+        "defense": 72,
+        "special_attack": 90,
+        "special_defense": 72,
+        "speed": 46
+    },
+    {
+        "term": "finneon",
+        "hp": 49,
+        "attack": 49,
+        "defense": 56,
+        "special_attack": 49,
+        "special_defense": 61,
+        "speed": 66
+    },
+    {
+        "term": "lumineon",
+        "hp": 69,
+        "attack": 69,
+        "defense": 76,
+        "special_attack": 69,
+        "special_defense": 86,
+        "speed": 91
+    },
+    {
+        "term": "mantyke",
+        "hp": 45,
+        "attack": 20,
+        "defense": 50,
+        "special_attack": 60,
+        "special_defense": 120,
+        "speed": 50
+    },
+    {
+        "term": "snover",
+        "hp": 60,
+        "attack": 62,
+        "defense": 50,
+        "special_attack": 62,
+        "special_defense": 60,
+        "speed": 40
+    },
+    {
+        "term": "abomasnow",
+        "hp": 90,
+        "attack": 92,
+        "defense": 75,
+        "special_attack": 92,
+        "special_defense": 85,
+        "speed": 60
+    },
+    {
+        "term": "mega abomasnow",
+        "hp": 90,
+        "attack": 132,
+        "defense": 105,
+        "special_attack": 132,
+        "special_defense": 105,
+        "speed": 30
+    },
+    {
+        "term": "weavile",
+        "hp": 70,
+        "attack": 120,
+        "defense": 65,
+        "special_attack": 45,
+        "special_defense": 85,
+        "speed": 125
+    },
+    {
+        "term": "magnezone",
+        "hp": 70,
+        "attack": 70,
+        "defense": 115,
+        "special_attack": 130,
+        "special_defense": 90,
+        "speed": 60
+    },
+    {
+        "term": "lickilicky",
+        "hp": 110,
+        "attack": 85,
+        "defense": 95,
+        "special_attack": 80,
+        "special_defense": 95,
+        "speed": 50
+    },
+    {
+        "term": "rhyperior",
+        "hp": 115,
+        "attack": 140,
+        "defense": 130,
+        "special_attack": 55,
+        "special_defense": 55,
+        "speed": 40
+    },
+    {
+        "term": "tangrowth",
+        "hp": 100,
+        "attack": 100,
+        "defense": 125,
+        "special_attack": 110,
+        "special_defense": 50,
+        "speed": 50
+    },
+    {
+        "term": "electivire",
+        "hp": 75,
+        "attack": 123,
+        "defense": 67,
+        "special_attack": 95,
+        "special_defense": 85,
+        "speed": 95
+    },
+    {
+        "term": "magmortar",
+        "hp": 75,
+        "attack": 95,
+        "defense": 67,
+        "special_attack": 125,
+        "special_defense": 95,
+        "speed": 83
+    },
+    {
+        "term": "togekiss",
+        "hp": 85,
+        "attack": 50,
+        "defense": 95,
+        "special_attack": 120,
+        "special_defense": 115,
+        "speed": 80
+    },
+    {
+        "term": "yanmega",
+        "hp": 86,
+        "attack": 76,
+        "defense": 86,
+        "special_attack": 116,
+        "special_defense": 56,
+        "speed": 95
+    },
+    {
+        "term": "leafeon",
+        "hp": 65,
+        "attack": 110,
+        "defense": 130,
+        "special_attack": 60,
+        "special_defense": 65,
+        "speed": 95
+    },
+    {
+        "term": "glaceon",
+        "hp": 65,
+        "attack": 60,
+        "defense": 110,
+        "special_attack": 130,
+        "special_defense": 95,
+        "speed": 65
+    },
+    {
+        "term": "gliscor",
+        "hp": 75,
+        "attack": 95,
+        "defense": 125,
+        "special_attack": 45,
+        "special_defense": 75,
+        "speed": 95
+    },
+    {
+        "term": "mamoswine",
+        "hp": 110,
+        "attack": 130,
+        "defense": 80,
+        "special_attack": 70,
+        "special_defense": 60,
+        "speed": 80
+    },
+    {
+        "term": "porygon z",
+        "hp": 85,
+        "attack": 80,
+        "defense": 70,
+        "special_attack": 135,
+        "special_defense": 75,
+        "speed": 90
+    },
+    {
+        "term": "gallade",
+        "hp": 68,
+        "attack": 125,
+        "defense": 65,
+        "special_attack": 65,
+        "special_defense": 115,
+        "speed": 80
+    },
+    {
+        "term": "mega gallade",
+        "hp": 68,
+        "attack": 165,
+        "defense": 95,
+        "special_attack": 65,
+        "special_defense": 115,
+        "speed": 110
+    },
+    {
+        "term": "probopass",
+        "hp": 60,
+        "attack": 55,
+        "defense": 145,
+        "special_attack": 75,
+        "special_defense": 150,
+        "speed": 40
+    },
+    {
+        "term": "dusknoir",
+        "hp": 45,
+        "attack": 100,
+        "defense": 135,
+        "special_attack": 65,
+        "special_defense": 135,
+        "speed": 45
+    },
+    {
+        "term": "froslass",
+        "hp": 70,
+        "attack": 80,
+        "defense": 70,
+        "special_attack": 80,
+        "special_defense": 70,
+        "speed": 110
+    },
+    {
+        "term": "rotom",
+        "hp": 50,
+        "attack": 50,
+        "defense": 77,
+        "special_attack": 95,
+        "special_defense": 77,
+        "speed": 91
+    },
+    {
+        "term": "rotom heat",
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "special_attack": 105,
+        "special_defense": 107,
+        "speed": 86
+    },
+    {
+        "term": "rotom wash",
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "special_attack": 105,
+        "special_defense": 107,
+        "speed": 86
+    },
+    {
+        "term": "rotom frost",
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "special_attack": 105,
+        "special_defense": 107,
+        "speed": 86
+    },
+    {
+        "term": "rotom fan",
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "special_attack": 105,
+        "special_defense": 107,
+        "speed": 86
+    },
+    {
+        "term": "rotom mow",
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "special_attack": 105,
+        "special_defense": 107,
+        "speed": 86
+    },
+    {
+        "term": "uxie",
+        "hp": 75,
+        "attack": 75,
+        "defense": 130,
+        "special_attack": 75,
+        "special_defense": 130,
+        "speed": 95
+    },
+    {
+        "term": "mesprit",
+        "hp": 80,
+        "attack": 105,
+        "defense": 105,
+        "special_attack": 105,
+        "special_defense": 105,
+        "speed": 80
+    },
+    {
+        "term": "azelf",
+        "hp": 75,
+        "attack": 125,
+        "defense": 70,
+        "special_attack": 125,
+        "special_defense": 70,
+        "speed": 115
+    },
+    {
+        "term": "dialga",
+        "hp": 100,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 150,
+        "special_defense": 100,
+        "speed": 90
+    },
+    {
+        "term": "palkia",
+        "hp": 90,
+        "attack": 120,
+        "defense": 100,
+        "special_attack": 150,
+        "special_defense": 120,
+        "speed": 100
+    },
+    {
+        "term": "heatran",
+        "hp": 91,
+        "attack": 90,
+        "defense": 106,
+        "special_attack": 130,
+        "special_defense": 106,
+        "speed": 77
+    },
+    {
+        "term": "regigigas",
+        "hp": 110,
+        "attack": 160,
+        "defense": 110,
+        "special_attack": 80,
+        "special_defense": 110,
+        "speed": 100
+    },
+    {
+        "term": "giratina altered",
+        "hp": 150,
+        "attack": 100,
+        "defense": 120,
+        "special_attack": 100,
+        "special_defense": 120,
+        "speed": 90
+    },
+    {
+        "term": "giratina origin",
+        "hp": 150,
+        "attack": 120,
+        "defense": 100,
+        "special_attack": 120,
+        "special_defense": 100,
+        "speed": 90
+    },
+    {
+        "term": "cresselia",
+        "hp": 120,
+        "attack": 70,
+        "defense": 120,
+        "special_attack": 75,
+        "special_defense": 130,
+        "speed": 85
+    },
+    {
+        "term": "phione",
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "special_attack": 80,
+        "special_defense": 80,
+        "speed": 80
+    },
+    {
+        "term": "manaphy",
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special_attack": 100,
+        "special_defense": 100,
+        "speed": 100
+    },
+    {
+        "term": "darkrai",
+        "hp": 70,
+        "attack": 90,
+        "defense": 90,
+        "special_attack": 135,
+        "special_defense": 90,
+        "speed": 125
+    },
+    {
+        "term": "shaymin land",
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special_attack": 100,
+        "special_defense": 100,
+        "speed": 100
+    },
+    {
+        "term": "shaymin sky",
+        "hp": 100,
+        "attack": 103,
+        "defense": 75,
+        "special_attack": 120,
+        "special_defense": 75,
+        "speed": 127
+    },
+    {
+        "term": "arceus",
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+    },
+    {
+        "term": "victini",
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "special_attack": 100,
+        "special_defense": 100,
+        "speed": 100
+    },
+    {
+        "term": "snivy",
+        "hp": 45,
+        "attack": 45,
+        "defense": 55,
+        "special_attack": 45,
+        "special_defense": 55,
+        "speed": 63
+    },
+    {
+        "term": "servine",
+        "hp": 60,
+        "attack": 60,
+        "defense": 75,
+        "special_attack": 60,
+        "special_defense": 75,
+        "speed": 83
+    },
+    {
+        "term": "serperior",
+        "hp": 75,
+        "attack": 75,
+        "defense": 95,
+        "special_attack": 75,
+        "special_defense": 95,
+        "speed": 113
+    },
+    {
+        "term": "tepig",
+        "hp": 65,
+        "attack": 63,
+        "defense": 45,
+        "special_attack": 45,
+        "special_defense": 45,
+        "speed": 45
+    },
+    {
+        "term": "pignite",
+        "hp": 90,
+        "attack": 93,
+        "defense": 55,
+        "special_attack": 70,
+        "special_defense": 55,
+        "speed": 55
+    },
+    {
+        "term": "emboar",
+        "hp": 110,
+        "attack": 123,
+        "defense": 65,
+        "special_attack": 100,
+        "special_defense": 65,
+        "speed": 65
+    },
+    {
+        "term": "oshawott",
+        "hp": 55,
+        "attack": 55,
+        "defense": 45,
+        "special_attack": 63,
+        "special_defense": 45,
+        "speed": 45
+    },
+    {
+        "term": "dewott",
+        "hp": 75,
+        "attack": 75,
+        "defense": 60,
+        "special_attack": 83,
+        "special_defense": 60,
+        "speed": 60
+    },
+    {
+        "term": "samurott",
+        "hp": 95,
+        "attack": 100,
+        "defense": 85,
+        "special_attack": 108,
+        "special_defense": 70,
+        "speed": 70
+    },
+    {
+        "term": "patrat",
+        "hp": 45,
+        "attack": 55,
+        "defense": 39,
+        "special_attack": 35,
+        "special_defense": 39,
+        "speed": 42
+    },
+    {
+        "term": "watchog",
+        "hp": 60,
+        "attack": 85,
+        "defense": 69,
+        "special_attack": 60,
+        "special_defense": 69,
+        "speed": 77
+    },
+    {
+        "term": "lillipup",
+        "hp": 45,
+        "attack": 60,
+        "defense": 45,
+        "special_attack": 25,
+        "special_defense": 45,
+        "speed": 55
+    },
+    {
+        "term": "herdier",
+        "hp": 65,
+        "attack": 80,
+        "defense": 65,
+        "special_attack": 35,
+        "special_defense": 65,
+        "speed": 60
+    },
+    {
+        "term": "stoutland",
+        "hp": 85,
+        "attack": 110,
+        "defense": 90,
+        "special_attack": 45,
+        "special_defense": 90,
+        "speed": 80
+    },
+    {
+        "term": "purrloin",
+        "hp": 41,
+        "attack": 50,
+        "defense": 37,
+        "special_attack": 50,
+        "special_defense": 37,
+        "speed": 66
+    },
+    {
+        "term": "liepard",
+        "hp": 64,
+        "attack": 88,
+        "defense": 50,
+        "special_attack": 88,
+        "special_defense": 50,
+        "speed": 106
+    },
+    {
+        "term": "pansage",
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "special_attack": 53,
+        "special_defense": 48,
+        "speed": 64
+    },
+    {
+        "term": "simisage",
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "special_attack": 98,
+        "special_defense": 63,
+        "speed": 101
+    },
+    {
+        "term": "pansear",
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "special_attack": 53,
+        "special_defense": 48,
+        "speed": 64
+    },
+    {
+        "term": "simisear",
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "special_attack": 98,
+        "special_defense": 63,
+        "speed": 101
+    },
+    {
+        "term": "panpour",
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "special_attack": 53,
+        "special_defense": 48,
+        "speed": 64
+    },
+    {
+        "term": "simipour",
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "special_attack": 98,
+        "special_defense": 63,
+        "speed": 101
+    },
+    {
+        "term": "munna",
+        "hp": 76,
+        "attack": 25,
+        "defense": 45,
+        "special_attack": 67,
+        "special_defense": 55,
+        "speed": 24
+    },
+    {
+        "term": "musharna",
+        "hp": 116,
+        "attack": 55,
+        "defense": 85,
+        "special_attack": 107,
+        "special_defense": 95,
+        "speed": 29
+    },
+    {
+        "term": "pidove",
+        "hp": 50,
+        "attack": 55,
+        "defense": 50,
+        "special_attack": 36,
+        "special_defense": 30,
+        "speed": 43
+    },
+    {
+        "term": "tranquill",
+        "hp": 62,
+        "attack": 77,
+        "defense": 62,
+        "special_attack": 50,
+        "special_defense": 42,
+        "speed": 65
+    },
+    {
+        "term": "unfezant",
+        "hp": 80,
+        "attack": 115,
+        "defense": 80,
+        "special_attack": 65,
+        "special_defense": 55,
+        "speed": 93
+    },
+    {
+        "term": "blitzle",
+        "hp": 45,
+        "attack": 60,
+        "defense": 32,
+        "special_attack": 50,
+        "special_defense": 32,
+        "speed": 76
+    },
+    {
+        "term": "zebstrika",
+        "hp": 75,
+        "attack": 100,
+        "defense": 63,
+        "special_attack": 80,
+        "special_defense": 63,
+        "speed": 116
+    },
+    {
+        "term": "roggenrola",
+        "hp": 55,
+        "attack": 75,
+        "defense": 85,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 15
+    },
+    {
+        "term": "boldore",
+        "hp": 70,
+        "attack": 105,
+        "defense": 105,
+        "special_attack": 50,
+        "special_defense": 40,
+        "speed": 20
+    },
+    {
+        "term": "gigalith",
+        "hp": 85,
+        "attack": 135,
+        "defense": 130,
+        "special_attack": 60,
+        "special_defense": 80,
+        "speed": 25
+    },
+    {
+        "term": "woobat",
+        "hp": 65,
+        "attack": 45,
+        "defense": 43,
+        "special_attack": 55,
+        "special_defense": 43,
+        "speed": 72
+    },
+    {
+        "term": "swoobat",
+        "hp": 67,
+        "attack": 57,
+        "defense": 55,
+        "special_attack": 77,
+        "special_defense": 55,
+        "speed": 114
+    },
+    {
+        "term": "drilbur",
+        "hp": 60,
+        "attack": 85,
+        "defense": 40,
+        "special_attack": 30,
+        "special_defense": 45,
+        "speed": 68
+    },
+    {
+        "term": "excadrill",
+        "hp": 110,
+        "attack": 135,
+        "defense": 60,
+        "special_attack": 50,
+        "special_defense": 65,
+        "speed": 88
+    },
+    {
+        "term": "audino",
+        "hp": 103,
+        "attack": 60,
+        "defense": 86,
+        "special_attack": 60,
+        "special_defense": 86,
+        "speed": 50
+    },
+    {
+        "term": "mega audino",
+        "hp": 103,
+        "attack": 60,
+        "defense": 126,
+        "special_attack": 80,
+        "special_defense": 126,
+        "speed": 50
+    },
+    {
+        "term": "timburr",
+        "hp": 75,
+        "attack": 80,
+        "defense": 55,
+        "special_attack": 25,
+        "special_defense": 35,
+        "speed": 35
+    },
+    {
+        "term": "gurdurr",
+        "hp": 85,
+        "attack": 105,
+        "defense": 85,
+        "special_attack": 40,
+        "special_defense": 50,
+        "speed": 40
+    },
+    {
+        "term": "conkeldurr",
+        "hp": 105,
+        "attack": 140,
+        "defense": 95,
+        "special_attack": 55,
+        "special_defense": 65,
+        "speed": 45
+    },
+    {
+        "term": "tympole",
+        "hp": 50,
+        "attack": 50,
+        "defense": 40,
+        "special_attack": 50,
+        "special_defense": 40,
+        "speed": 64
+    },
+    {
+        "term": "palpitoad",
+        "hp": 75,
+        "attack": 65,
+        "defense": 55,
+        "special_attack": 65,
+        "special_defense": 55,
+        "speed": 69
+    },
+    {
+        "term": "seismitoad",
+        "hp": 105,
+        "attack": 95,
+        "defense": 75,
+        "special_attack": 85,
+        "special_defense": 75,
+        "speed": 74
+    },
+    {
+        "term": "throh",
+        "hp": 120,
+        "attack": 100,
+        "defense": 85,
+        "special_attack": 30,
+        "special_defense": 85,
+        "speed": 45
+    },
+    {
+        "term": "sawk",
+        "hp": 75,
+        "attack": 125,
+        "defense": 75,
+        "special_attack": 30,
+        "special_defense": 75,
+        "speed": 85
+    },
+    {
+        "term": "sewaddle",
+        "hp": 45,
+        "attack": 53,
+        "defense": 70,
+        "special_attack": 40,
+        "special_defense": 60,
+        "speed": 42
+    },
+    {
+        "term": "swadloon",
+        "hp": 55,
+        "attack": 63,
+        "defense": 90,
+        "special_attack": 50,
+        "special_defense": 80,
+        "speed": 42
+    },
+    {
+        "term": "leavanny",
+        "hp": 75,
+        "attack": 103,
+        "defense": 80,
+        "special_attack": 70,
+        "special_defense": 80,
+        "speed": 92
+    },
+    {
+        "term": "venipede",
+        "hp": 30,
+        "attack": 45,
+        "defense": 59,
+        "special_attack": 30,
+        "special_defense": 39,
+        "speed": 57
+    },
+    {
+        "term": "whirlipede",
+        "hp": 40,
+        "attack": 55,
+        "defense": 99,
+        "special_attack": 40,
+        "special_defense": 79,
+        "speed": 47
+    },
+    {
+        "term": "scolipede",
+        "hp": 60,
+        "attack": 100,
+        "defense": 89,
+        "special_attack": 55,
+        "special_defense": 69,
+        "speed": 112
+    },
+    {
+        "term": "cottonee",
+        "hp": 40,
+        "attack": 27,
+        "defense": 60,
+        "special_attack": 37,
+        "special_defense": 50,
+        "speed": 66
+    },
+    {
+        "term": "whimsicott",
+        "hp": 60,
+        "attack": 67,
+        "defense": 85,
+        "special_attack": 77,
+        "special_defense": 75,
+        "speed": 116
+    },
+    {
+        "term": "petilil",
+        "hp": 45,
+        "attack": 35,
+        "defense": 50,
+        "special_attack": 70,
+        "special_defense": 50,
+        "speed": 30
+    },
+    {
+        "term": "lilligant",
+        "hp": 70,
+        "attack": 60,
+        "defense": 75,
+        "special_attack": 110,
+        "special_defense": 75,
+        "speed": 90
+    },
+    {
+        "term": "basculin red striped",
+        "hp": 70,
+        "attack": 92,
+        "defense": 65,
+        "special_attack": 80,
+        "special_defense": 55,
+        "speed": 98
+    },
+    {
+        "term": "basculin blue striped",
+        "hp": 70,
+        "attack": 92,
+        "defense": 65,
+        "special_attack": 80,
+        "special_defense": 55,
+        "speed": 98
+    },
+    {
+        "term": "sandile",
+        "hp": 50,
+        "attack": 72,
+        "defense": 35,
+        "special_attack": 35,
+        "special_defense": 35,
+        "speed": 65
+    },
+    {
+        "term": "krokorok",
+        "hp": 60,
+        "attack": 82,
+        "defense": 45,
+        "special_attack": 45,
+        "special_defense": 45,
+        "speed": 74
+    },
+    {
+        "term": "krookodile",
+        "hp": 95,
+        "attack": 117,
+        "defense": 80,
+        "special_attack": 65,
+        "special_defense": 70,
+        "speed": 92
+    },
+    {
+        "term": "darumaka",
+        "hp": 70,
+        "attack": 90,
+        "defense": 45,
+        "special_attack": 15,
+        "special_defense": 45,
+        "speed": 50
+    },
+    {
+        "term": "darmanitan",
+        "hp": 105,
+        "attack": 140,
+        "defense": 55,
+        "special_attack": 30,
+        "special_defense": 55,
+        "speed": 95
+    },
+    {
+        "term": "darmanitan zen mode",
+        "hp": 105,
+        "attack": 30,
+        "defense": 105,
+        "special_attack": 140,
+        "special_defense": 105,
+        "speed": 55
+    },
+    {
+        "term": "maractus",
+        "hp": 75,
+        "attack": 86,
+        "defense": 67,
+        "special_attack": 106,
+        "special_defense": 67,
+        "speed": 60
+    },
+    {
+        "term": "dwebble",
+        "hp": 50,
+        "attack": 65,
+        "defense": 85,
+        "special_attack": 35,
+        "special_defense": 35,
+        "speed": 55
+    },
+    {
+        "term": "crustle",
+        "hp": 70,
+        "attack": 105,
+        "defense": 125,
+        "special_attack": 65,
+        "special_defense": 75,
+        "speed": 45
+    },
+    {
+        "term": "scraggy",
+        "hp": 50,
+        "attack": 75,
+        "defense": 70,
+        "special_attack": 35,
+        "special_defense": 70,
+        "speed": 48
+    },
+    {
+        "term": "scrafty",
+        "hp": 65,
+        "attack": 90,
+        "defense": 115,
+        "special_attack": 45,
+        "special_defense": 115,
+        "speed": 58
+    },
+    {
+        "term": "sigilyph",
+        "hp": 72,
+        "attack": 58,
+        "defense": 80,
+        "special_attack": 103,
+        "special_defense": 80,
+        "speed": 97
+    },
+    {
+        "term": "yamask",
+        "hp": 38,
+        "attack": 30,
+        "defense": 85,
+        "special_attack": 55,
+        "special_defense": 65,
+        "speed": 30
+    },
+    {
+        "term": "cofagrigus",
+        "hp": 58,
+        "attack": 50,
+        "defense": 145,
+        "special_attack": 95,
+        "special_defense": 105,
+        "speed": 30
+    },
+    {
+        "term": "tirtouga",
+        "hp": 54,
+        "attack": 78,
+        "defense": 103,
+        "special_attack": 53,
+        "special_defense": 45,
+        "speed": 22
+    },
+    {
+        "term": "carracosta",
+        "hp": 74,
+        "attack": 108,
+        "defense": 133,
+        "special_attack": 83,
+        "special_defense": 65,
+        "speed": 32
+    },
+    {
+        "term": "archen",
+        "hp": 55,
+        "attack": 112,
+        "defense": 45,
+        "special_attack": 74,
+        "special_defense": 45,
+        "speed": 70
+    },
+    {
+        "term": "archeops",
+        "hp": 75,
+        "attack": 140,
+        "defense": 65,
+        "special_attack": 112,
+        "special_defense": 65,
+        "speed": 110
+    },
+    {
+        "term": "trubbish",
+        "hp": 50,
+        "attack": 50,
+        "defense": 62,
+        "special_attack": 40,
+        "special_defense": 62,
+        "speed": 65
+    },
+    {
+        "term": "garbodor",
+        "hp": 80,
+        "attack": 95,
+        "defense": 82,
+        "special_attack": 60,
+        "special_defense": 82,
+        "speed": 75
+    },
+    {
+        "term": "zorua",
+        "hp": 40,
+        "attack": 65,
+        "defense": 40,
+        "special_attack": 80,
+        "special_defense": 40,
+        "speed": 65
+    },
+    {
+        "term": "zoroark",
+        "hp": 60,
+        "attack": 105,
+        "defense": 60,
+        "special_attack": 120,
+        "special_defense": 60,
+        "speed": 105
+    },
+    {
+        "term": "minccino",
+        "hp": 55,
+        "attack": 50,
+        "defense": 40,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 75
+    },
+    {
+        "term": "cinccino",
+        "hp": 75,
+        "attack": 95,
+        "defense": 60,
+        "special_attack": 65,
+        "special_defense": 60,
+        "speed": 115
+    },
+    {
+        "term": "gothita",
+        "hp": 45,
+        "attack": 30,
+        "defense": 50,
+        "special_attack": 55,
+        "special_defense": 65,
+        "speed": 45
+    },
+    {
+        "term": "gothorita",
+        "hp": 60,
+        "attack": 45,
+        "defense": 70,
+        "special_attack": 75,
+        "special_defense": 85,
+        "speed": 55
+    },
+    {
+        "term": "gothitelle",
+        "hp": 70,
+        "attack": 55,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 110,
+        "speed": 65
+    },
+    {
+        "term": "solosis",
+        "hp": 45,
+        "attack": 30,
+        "defense": 40,
+        "special_attack": 105,
+        "special_defense": 50,
+        "speed": 20
+    },
+    {
+        "term": "duosion",
+        "hp": 65,
+        "attack": 40,
+        "defense": 50,
+        "special_attack": 125,
+        "special_defense": 60,
+        "speed": 30
+    },
+    {
+        "term": "reuniclus",
+        "hp": 110,
+        "attack": 65,
+        "defense": 75,
+        "special_attack": 125,
+        "special_defense": 85,
+        "speed": 30
+    },
+    {
+        "term": "ducklett",
+        "hp": 62,
+        "attack": 44,
+        "defense": 50,
+        "special_attack": 44,
+        "special_defense": 50,
+        "speed": 55
+    },
+    {
+        "term": "swanna",
+        "hp": 75,
+        "attack": 87,
+        "defense": 63,
+        "special_attack": 87,
+        "special_defense": 63,
+        "speed": 98
+    },
+    {
+        "term": "vanillite",
+        "hp": 36,
+        "attack": 50,
+        "defense": 50,
+        "special_attack": 65,
+        "special_defense": 60,
+        "speed": 44
+    },
+    {
+        "term": "vanillish",
+        "hp": 51,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 80,
+        "special_defense": 75,
+        "speed": 59
+    },
+    {
+        "term": "vanilluxe",
+        "hp": 71,
+        "attack": 95,
+        "defense": 85,
+        "special_attack": 110,
+        "special_defense": 95,
+        "speed": 79
+    },
+    {
+        "term": "deerling",
+        "hp": 60,
+        "attack": 60,
+        "defense": 50,
+        "special_attack": 40,
+        "special_defense": 50,
+        "speed": 75
+    },
+    {
+        "term": "sawsbuck",
+        "hp": 80,
+        "attack": 100,
+        "defense": 70,
+        "special_attack": 60,
+        "special_defense": 70,
+        "speed": 95
+    },
+    {
+        "term": "emolga",
+        "hp": 55,
+        "attack": 75,
+        "defense": 60,
+        "special_attack": 75,
+        "special_defense": 60,
+        "speed": 103
+    },
+    {
+        "term": "karrablast",
+        "hp": 50,
+        "attack": 75,
+        "defense": 45,
+        "special_attack": 40,
+        "special_defense": 45,
+        "speed": 60
+    },
+    {
+        "term": "escavalier",
+        "hp": 70,
+        "attack": 135,
+        "defense": 105,
+        "special_attack": 60,
+        "special_defense": 105,
+        "speed": 20
+    },
+    {
+        "term": "foongus",
+        "hp": 69,
+        "attack": 55,
+        "defense": 45,
+        "special_attack": 55,
+        "special_defense": 55,
+        "speed": 15
+    },
+    {
+        "term": "amoonguss",
+        "hp": 114,
+        "attack": 85,
+        "defense": 70,
+        "special_attack": 85,
+        "special_defense": 80,
+        "speed": 30
+    },
+    {
+        "term": "frillish",
+        "hp": 55,
+        "attack": 40,
+        "defense": 50,
+        "special_attack": 65,
+        "special_defense": 85,
+        "speed": 40
+    },
+    {
+        "term": "jellicent",
+        "hp": 100,
+        "attack": 60,
+        "defense": 70,
+        "special_attack": 85,
+        "special_defense": 105,
+        "speed": 60
+    },
+    {
+        "term": "alomomola",
+        "hp": 165,
+        "attack": 75,
+        "defense": 80,
+        "special_attack": 40,
+        "special_defense": 45,
+        "speed": 65
+    },
+    {
+        "term": "joltik",
+        "hp": 50,
+        "attack": 47,
+        "defense": 50,
+        "special_attack": 57,
+        "special_defense": 50,
+        "speed": 65
+    },
+    {
+        "term": "galvantula",
+        "hp": 70,
+        "attack": 77,
+        "defense": 60,
+        "special_attack": 97,
+        "special_defense": 60,
+        "speed": 108
+    },
+    {
+        "term": "ferroseed",
+        "hp": 44,
+        "attack": 50,
+        "defense": 91,
+        "special_attack": 24,
+        "special_defense": 86,
+        "speed": 10
+    },
+    {
+        "term": "ferrothorn",
+        "hp": 74,
+        "attack": 94,
+        "defense": 131,
+        "special_attack": 54,
+        "special_defense": 116,
+        "speed": 20
+    },
+    {
+        "term": "klink",
+        "hp": 40,
+        "attack": 55,
+        "defense": 70,
+        "special_attack": 45,
+        "special_defense": 60,
+        "speed": 30
+    },
+    {
+        "term": "klang",
+        "hp": 60,
+        "attack": 80,
+        "defense": 95,
+        "special_attack": 70,
+        "special_defense": 85,
+        "speed": 50
+    },
+    {
+        "term": "klinklang",
+        "hp": 60,
+        "attack": 100,
+        "defense": 115,
+        "special_attack": 70,
+        "special_defense": 85,
+        "speed": 90
+    },
+    {
+        "term": "tynamo",
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "special_attack": 45,
+        "special_defense": 40,
+        "speed": 60
+    },
+    {
+        "term": "eelektrik",
+        "hp": 65,
+        "attack": 85,
+        "defense": 70,
+        "special_attack": 75,
+        "special_defense": 70,
+        "speed": 40
+    },
+    {
+        "term": "eelektross",
+        "hp": 85,
+        "attack": 115,
+        "defense": 80,
+        "special_attack": 105,
+        "special_defense": 80,
+        "speed": 50
+    },
+    {
+        "term": "elgyem",
+        "hp": 55,
+        "attack": 55,
+        "defense": 55,
+        "special_attack": 85,
+        "special_defense": 55,
+        "speed": 30
+    },
+    {
+        "term": "beheeyem",
+        "hp": 75,
+        "attack": 75,
+        "defense": 75,
+        "special_attack": 125,
+        "special_defense": 95,
+        "speed": 40
+    },
+    {
+        "term": "litwick",
+        "hp": 50,
+        "attack": 30,
+        "defense": 55,
+        "special_attack": 65,
+        "special_defense": 55,
+        "speed": 20
+    },
+    {
+        "term": "lampent",
+        "hp": 60,
+        "attack": 40,
+        "defense": 60,
+        "special_attack": 95,
+        "special_defense": 60,
+        "speed": 55
+    },
+    {
+        "term": "chandelure",
+        "hp": 60,
+        "attack": 55,
+        "defense": 90,
+        "special_attack": 145,
+        "special_defense": 90,
+        "speed": 80
+    },
+    {
+        "term": "axew",
+        "hp": 46,
+        "attack": 87,
+        "defense": 60,
+        "special_attack": 30,
+        "special_defense": 40,
+        "speed": 57
+    },
+    {
+        "term": "fraxure",
+        "hp": 66,
+        "attack": 117,
+        "defense": 70,
+        "special_attack": 40,
+        "special_defense": 50,
+        "speed": 67
+    },
+    {
+        "term": "haxorus",
+        "hp": 76,
+        "attack": 147,
+        "defense": 90,
+        "special_attack": 60,
+        "special_defense": 70,
+        "speed": 97
+    },
+    {
+        "term": "cubchoo",
+        "hp": 55,
+        "attack": 70,
+        "defense": 40,
+        "special_attack": 60,
+        "special_defense": 40,
+        "speed": 40
+    },
+    {
+        "term": "beartic",
+        "hp": 95,
+        "attack": 130,
+        "defense": 80,
+        "special_attack": 70,
+        "special_defense": 80,
+        "speed": 50
+    },
+    {
+        "term": "cryogonal",
+        "hp": 80,
+        "attack": 50,
+        "defense": 50,
+        "special_attack": 95,
+        "special_defense": 135,
+        "speed": 105
+    },
+    {
+        "term": "shelmet",
+        "hp": 50,
+        "attack": 40,
+        "defense": 85,
+        "special_attack": 40,
+        "special_defense": 65,
+        "speed": 25
+    },
+    {
+        "term": "accelgor",
+        "hp": 80,
+        "attack": 70,
+        "defense": 40,
+        "special_attack": 100,
+        "special_defense": 60,
+        "speed": 145
+    },
+    {
+        "term": "stunfisk",
+        "hp": 109,
+        "attack": 66,
+        "defense": 84,
+        "special_attack": 81,
+        "special_defense": 99,
+        "speed": 32
+    },
+    {
+        "term": "mienfoo",
+        "hp": 45,
+        "attack": 85,
+        "defense": 50,
+        "special_attack": 55,
+        "special_defense": 50,
+        "speed": 65
+    },
+    {
+        "term": "mienshao",
+        "hp": 65,
+        "attack": 125,
+        "defense": 60,
+        "special_attack": 95,
+        "special_defense": 60,
+        "speed": 105
+    },
+    {
+        "term": "druddigon",
+        "hp": 77,
+        "attack": 120,
+        "defense": 90,
+        "special_attack": 60,
+        "special_defense": 90,
+        "speed": 48
+    },
+    {
+        "term": "golett",
+        "hp": 59,
+        "attack": 74,
+        "defense": 50,
+        "special_attack": 35,
+        "special_defense": 50,
+        "speed": 35
+    },
+    {
+        "term": "golurk",
+        "hp": 89,
+        "attack": 124,
+        "defense": 80,
+        "special_attack": 55,
+        "special_defense": 80,
+        "speed": 55
+    },
+    {
+        "term": "pawniard",
+        "hp": 45,
+        "attack": 85,
+        "defense": 70,
+        "special_attack": 40,
+        "special_defense": 40,
+        "speed": 60
+    },
+    {
+        "term": "bisharp",
+        "hp": 65,
+        "attack": 125,
+        "defense": 100,
+        "special_attack": 60,
+        "special_defense": 70,
+        "speed": 70
+    },
+    {
+        "term": "bouffalant",
+        "hp": 95,
+        "attack": 110,
+        "defense": 95,
+        "special_attack": 40,
+        "special_defense": 95,
+        "speed": 55
+    },
+    {
+        "term": "rufflet",
+        "hp": 70,
+        "attack": 83,
+        "defense": 50,
+        "special_attack": 37,
+        "special_defense": 50,
+        "speed": 60
+    },
+    {
+        "term": "braviary",
+        "hp": 100,
+        "attack": 123,
+        "defense": 75,
+        "special_attack": 57,
+        "special_defense": 75,
+        "speed": 80
+    },
+    {
+        "term": "vullaby",
+        "hp": 70,
+        "attack": 55,
+        "defense": 75,
+        "special_attack": 45,
+        "special_defense": 65,
+        "speed": 60
+    },
+    {
+        "term": "mandibuzz",
+        "hp": 110,
+        "attack": 65,
+        "defense": 105,
+        "special_attack": 55,
+        "special_defense": 95,
+        "speed": 80
+    },
+    {
+        "term": "heatmor",
+        "hp": 85,
+        "attack": 97,
+        "defense": 66,
+        "special_attack": 105,
+        "special_defense": 66,
+        "speed": 65
+    },
+    {
+        "term": "durant",
+        "hp": 58,
+        "attack": 109,
+        "defense": 112,
+        "special_attack": 48,
+        "special_defense": 48,
+        "speed": 109
+    },
+    {
+        "term": "deino",
+        "hp": 52,
+        "attack": 65,
+        "defense": 50,
+        "special_attack": 45,
+        "special_defense": 50,
+        "speed": 38
+    },
+    {
+        "term": "zweilous",
+        "hp": 72,
+        "attack": 85,
+        "defense": 70,
+        "special_attack": 65,
+        "special_defense": 70,
+        "speed": 58
+    },
+    {
+        "term": "hydreigon",
+        "hp": 92,
+        "attack": 105,
+        "defense": 90,
+        "special_attack": 125,
+        "special_defense": 90,
+        "speed": 98
+    },
+    {
+        "term": "larvesta",
+        "hp": 55,
+        "attack": 85,
+        "defense": 55,
+        "special_attack": 50,
+        "special_defense": 55,
+        "speed": 60
+    },
+    {
+        "term": "volcarona",
+        "hp": 85,
+        "attack": 60,
+        "defense": 65,
+        "special_attack": 135,
+        "special_defense": 105,
+        "speed": 100
+    },
+    {
+        "term": "cobalion",
+        "hp": 91,
+        "attack": 90,
+        "defense": 129,
+        "special_attack": 90,
+        "special_defense": 72,
+        "speed": 108
+    },
+    {
+        "term": "terrakion",
+        "hp": 91,
+        "attack": 129,
+        "defense": 90,
+        "special_attack": 72,
+        "special_defense": 90,
+        "speed": 108
+    },
+    {
+        "term": "virizion",
+        "hp": 91,
+        "attack": 90,
+        "defense": 72,
+        "special_attack": 90,
+        "special_defense": 129,
+        "speed": 108
+    },
+    {
+        "term": "tornadus incarnate",
+        "hp": 79,
+        "attack": 115,
+        "defense": 70,
+        "special_attack": 125,
+        "special_defense": 80,
+        "speed": 111
+    },
+    {
+        "term": "tornadus therian",
+        "hp": 79,
+        "attack": 100,
+        "defense": 80,
+        "special_attack": 110,
+        "special_defense": 90,
+        "speed": 121
+    },
+    {
+        "term": "thundurus incarnate",
+        "hp": 79,
+        "attack": 115,
+        "defense": 70,
+        "special_attack": 125,
+        "special_defense": 80,
+        "speed": 111
+    },
+    {
+        "term": "thundurus therian",
+        "hp": 79,
+        "attack": 105,
+        "defense": 70,
+        "special_attack": 145,
+        "special_defense": 80,
+        "speed": 101
+    },
+    {
+        "term": "reshiram",
+        "hp": 100,
+        "attack": 120,
+        "defense": 100,
+        "special_attack": 150,
+        "special_defense": 120,
+        "speed": 90
+    },
+    {
+        "term": "zekrom",
+        "hp": 100,
+        "attack": 150,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 100,
+        "speed": 90
+    },
+    {
+        "term": "landorus incarnate",
+        "hp": 89,
+        "attack": 125,
+        "defense": 90,
+        "special_attack": 115,
+        "special_defense": 80,
+        "speed": 101
+    },
+    {
+        "term": "landorus therian",
+        "hp": 89,
+        "attack": 145,
+        "defense": 90,
+        "special_attack": 105,
+        "special_defense": 80,
+        "speed": 91
+    },
+    {
+        "term": "kyurem",
+        "hp": 125,
+        "attack": 130,
+        "defense": 90,
+        "special_attack": 130,
+        "special_defense": 90,
+        "speed": 95
+    },
+    {
+        "term": "kyurem black",
+        "hp": 125,
+        "attack": 170,
+        "defense": 100,
+        "special_attack": 120,
+        "special_defense": 90,
+        "speed": 95
+    },
+    {
+        "term": "kyurem white",
+        "hp": 125,
+        "attack": 120,
+        "defense": 90,
+        "special_attack": 170,
+        "special_defense": 100,
+        "speed": 95
+    },
+    {
+        "term": "keldeo",
+        "hp": 91,
+        "attack": 72,
+        "defense": 90,
+        "special_attack": 129,
+        "special_defense": 90,
+        "speed": 108
+    },
+    {
+        "term": "meloetta aria",
+        "hp": 100,
+        "attack": 77,
+        "defense": 77,
+        "special_attack": 128,
+        "special_defense": 128,
+        "speed": 90
+    },
+    {
+        "term": "meloetta pirouette",
+        "hp": 100,
+        "attack": 128,
+        "defense": 90,
+        "special_attack": 77,
+        "special_defense": 77,
+        "speed": 128
+    },
+    {
+        "term": "genesect",
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "special_attack": 120,
+        "special_defense": 95,
+        "speed": 99
+    },
+    {
+        "term": "chespin",
+        "hp": 56,
+        "attack": 61,
+        "defense": 65,
+        "special_attack": 48,
+        "special_defense": 45,
+        "speed": 38
+    },
+    {
+        "term": "quilladin",
+        "hp": 61,
+        "attack": 78,
+        "defense": 95,
+        "special_attack": 56,
+        "special_defense": 58,
+        "speed": 57
+    },
+    {
+        "term": "chesnaught",
+        "hp": 88,
+        "attack": 107,
+        "defense": 122,
+        "special_attack": 74,
+        "special_defense": 75,
+        "speed": 64
+    },
+    {
+        "term": "fennekin",
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special_attack": 62,
+        "special_defense": 60,
+        "speed": 60
+    },
+    {
+        "term": "braixen",
+        "hp": 59,
+        "attack": 59,
+        "defense": 58,
+        "special_attack": 90,
+        "special_defense": 70,
+        "speed": 73
+    },
+    {
+        "term": "delphox",
+        "hp": 75,
+        "attack": 69,
+        "defense": 72,
+        "special_attack": 114,
+        "special_defense": 100,
+        "speed": 104
+    },
+    {
+        "term": "froakie",
+        "hp": 41,
+        "attack": 56,
+        "defense": 40,
+        "special_attack": 62,
+        "special_defense": 44,
+        "speed": 71
+    },
+    {
+        "term": "frogadier",
+        "hp": 54,
+        "attack": 63,
+        "defense": 52,
+        "special_attack": 83,
+        "special_defense": 56,
+        "speed": 97
+    },
+    {
+        "term": "greninja",
+        "hp": 72,
+        "attack": 95,
+        "defense": 67,
+        "special_attack": 103,
+        "special_defense": 71,
+        "speed": 122
+    },
+    {
+        "term": "greninja ash",
+        "hp": 72,
+        "attack": 145,
+        "defense": 67,
+        "special_attack": 153,
+        "special_defense": 71,
+        "speed": 132
+    },
+    {
+        "term": "bunnelby",
+        "hp": 38,
+        "attack": 36,
+        "defense": 38,
+        "special_attack": 32,
+        "special_defense": 36,
+        "speed": 57
+    },
+    {
+        "term": "diggersby",
+        "hp": 85,
+        "attack": 56,
+        "defense": 77,
+        "special_attack": 50,
+        "special_defense": 77,
+        "speed": 78
+    },
+    {
+        "term": "fletchling",
+        "hp": 45,
+        "attack": 50,
+        "defense": 43,
+        "special_attack": 40,
+        "special_defense": 38,
+        "speed": 62
+    },
+    {
+        "term": "fletchinder",
+        "hp": 62,
+        "attack": 73,
+        "defense": 55,
+        "special_attack": 56,
+        "special_defense": 52,
+        "speed": 84
+    },
+    {
+        "term": "talonflame",
+        "hp": 78,
+        "attack": 81,
+        "defense": 71,
+        "special_attack": 74,
+        "special_defense": 69,
+        "speed": 126
+    },
+    {
+        "term": "scatterbug",
+        "hp": 38,
+        "attack": 35,
+        "defense": 40,
+        "special_attack": 27,
+        "special_defense": 25,
+        "speed": 35
+    },
+    {
+        "term": "spewpa",
+        "hp": 45,
+        "attack": 22,
+        "defense": 60,
+        "special_attack": 27,
+        "special_defense": 30,
+        "speed": 29
+    },
+    {
+        "term": "vivillon",
+        "hp": 80,
+        "attack": 52,
+        "defense": 50,
+        "special_attack": 90,
+        "special_defense": 50,
+        "speed": 89
+    },
+    {
+        "term": "litleo",
+        "hp": 62,
+        "attack": 50,
+        "defense": 58,
+        "special_attack": 73,
+        "special_defense": 54,
+        "speed": 72
+    },
+    {
+        "term": "pyroar",
+        "hp": 86,
+        "attack": 68,
+        "defense": 72,
+        "special_attack": 109,
+        "special_defense": 66,
+        "speed": 106
+    },
+    {
+        "term": "flabebe",
+        "hp": 44,
+        "attack": 38,
+        "defense": 39,
+        "special_attack": 61,
+        "special_defense": 79,
+        "speed": 42
+    },
+    {
+        "term": "floette",
+        "hp": 54,
+        "attack": 45,
+        "defense": 47,
+        "special_attack": 75,
+        "special_defense": 98,
+        "speed": 52
+    },
+    {
+        "term": "floette eternal",
+        "hp": 54,
+        "attack": 45,
+        "defense": 47,
+        "special_attack": 75,
+        "special_defense": 98,
+        "speed": 52
+    },
+    {
+        "term": "florges",
+        "hp": 78,
+        "attack": 65,
+        "defense": 68,
+        "special_attack": 112,
+        "special_defense": 154,
+        "speed": 75
+    },
+    {
+        "term": "skiddo",
+        "hp": 66,
+        "attack": 65,
+        "defense": 48,
+        "special_attack": 62,
+        "special_defense": 57,
+        "speed": 52
+    },
+    {
+        "term": "gogoat",
+        "hp": 123,
+        "attack": 100,
+        "defense": 62,
+        "special_attack": 97,
+        "special_defense": 81,
+        "speed": 68
+    },
+    {
+        "term": "pancham",
+        "hp": 67,
+        "attack": 82,
+        "defense": 62,
+        "special_attack": 46,
+        "special_defense": 48,
+        "speed": 43
+    },
+    {
+        "term": "pangoro",
+        "hp": 95,
+        "attack": 124,
+        "defense": 78,
+        "special_attack": 69,
+        "special_defense": 71,
+        "speed": 58
+    },
+    {
+        "term": "furfrou",
+        "hp": 75,
+        "attack": 80,
+        "defense": 60,
+        "special_attack": 65,
+        "special_defense": 90,
+        "speed": 102
+    },
+    {
+        "term": "espurr",
+        "hp": 62,
+        "attack": 48,
+        "defense": 54,
+        "special_attack": 63,
+        "special_defense": 60,
+        "speed": 68
+    },
+    {
+        "term": "meowstic male",
+        "hp": 74,
+        "attack": 48,
+        "defense": 76,
+        "special_attack": 83,
+        "special_defense": 81,
+        "speed": 104
+    },
+    {
+        "term": "meowstic female",
+        "hp": 74,
+        "attack": 48,
+        "defense": 76,
+        "special_attack": 83,
+        "special_defense": 81,
+        "speed": 104
+    },
+    {
+        "term": "honedge",
+        "hp": 45,
+        "attack": 80,
+        "defense": 100,
+        "special_attack": 35,
+        "special_defense": 37,
+        "speed": 28
+    },
+    {
+        "term": "doublade",
+        "hp": 59,
+        "attack": 110,
+        "defense": 150,
+        "special_attack": 45,
+        "special_defense": 49,
+        "speed": 35
+    },
+    {
+        "term": "aegislash shield",
+        "hp": 60,
+        "attack": 50,
+        "defense": 150,
+        "special_attack": 50,
+        "special_defense": 150,
+        "speed": 60
+    },
+    {
+        "term": "aegislash blade",
+        "hp": 60,
+        "attack": 150,
+        "defense": 50,
+        "special_attack": 150,
+        "special_defense": 50,
+        "speed": 60
+    },
+    {
+        "term": "spritzee",
+        "hp": 78,
+        "attack": 52,
+        "defense": 60,
+        "special_attack": 63,
+        "special_defense": 65,
+        "speed": 23
+    },
+    {
+        "term": "aromatisse",
+        "hp": 101,
+        "attack": 72,
+        "defense": 72,
+        "special_attack": 99,
+        "special_defense": 89,
+        "speed": 29
+    },
+    {
+        "term": "swirlix",
+        "hp": 62,
+        "attack": 48,
+        "defense": 66,
+        "special_attack": 59,
+        "special_defense": 57,
+        "speed": 49
+    },
+    {
+        "term": "slurpuff",
+        "hp": 82,
+        "attack": 80,
+        "defense": 86,
+        "special_attack": 85,
+        "special_defense": 75,
+        "speed": 72
+    },
+    {
+        "term": "inkay",
+        "hp": 53,
+        "attack": 54,
+        "defense": 53,
+        "special_attack": 37,
+        "special_defense": 46,
+        "speed": 45
+    },
+    {
+        "term": "malamar",
+        "hp": 86,
+        "attack": 92,
+        "defense": 88,
+        "special_attack": 68,
+        "special_defense": 75,
+        "speed": 73
+    },
+    {
+        "term": "binacle",
+        "hp": 42,
+        "attack": 52,
+        "defense": 67,
+        "special_attack": 39,
+        "special_defense": 56,
+        "speed": 50
+    },
+    {
+        "term": "barbaracle",
+        "hp": 72,
+        "attack": 105,
+        "defense": 115,
+        "special_attack": 54,
+        "special_defense": 86,
+        "speed": 68
+    },
+    {
+        "term": "skrelp",
+        "hp": 50,
+        "attack": 60,
+        "defense": 60,
+        "special_attack": 60,
+        "special_defense": 60,
+        "speed": 30
+    },
+    {
+        "term": "dragalge",
+        "hp": 65,
+        "attack": 75,
+        "defense": 90,
+        "special_attack": 97,
+        "special_defense": 123,
+        "speed": 44
+    },
+    {
+        "term": "clauncher",
+        "hp": 50,
+        "attack": 53,
+        "defense": 62,
+        "special_attack": 58,
+        "special_defense": 63,
+        "speed": 44
+    },
+    {
+        "term": "clawitzer",
+        "hp": 71,
+        "attack": 73,
+        "defense": 88,
+        "special_attack": 120,
+        "special_defense": 89,
+        "speed": 59
+    },
+    {
+        "term": "helioptile",
+        "hp": 44,
+        "attack": 38,
+        "defense": 33,
+        "special_attack": 61,
+        "special_defense": 43,
+        "speed": 70
+    },
+    {
+        "term": "heliolisk",
+        "hp": 62,
+        "attack": 55,
+        "defense": 52,
+        "special_attack": 109,
+        "special_defense": 94,
+        "speed": 109
+    },
+    {
+        "term": "tyrunt",
+        "hp": 58,
+        "attack": 89,
+        "defense": 77,
+        "special_attack": 45,
+        "special_defense": 45,
+        "speed": 48
+    },
+    {
+        "term": "tyrantrum",
+        "hp": 82,
+        "attack": 121,
+        "defense": 119,
+        "special_attack": 69,
+        "special_defense": 59,
+        "speed": 71
+    },
+    {
+        "term": "amaura",
+        "hp": 77,
+        "attack": 59,
+        "defense": 50,
+        "special_attack": 67,
+        "special_defense": 63,
+        "speed": 46
+    },
+    {
+        "term": "aurorus",
+        "hp": 123,
+        "attack": 77,
+        "defense": 72,
+        "special_attack": 99,
+        "special_defense": 92,
+        "speed": 58
+    },
+    {
+        "term": "sylveon",
+        "hp": 95,
+        "attack": 65,
+        "defense": 65,
+        "special_attack": 110,
+        "special_defense": 130,
+        "speed": 60
+    },
+    {
+        "term": "hawlucha",
+        "hp": 78,
+        "attack": 92,
+        "defense": 75,
+        "special_attack": 74,
+        "special_defense": 63,
+        "speed": 118
+    },
+    {
+        "term": "dedenne",
+        "hp": 67,
+        "attack": 58,
+        "defense": 57,
+        "special_attack": 81,
+        "special_defense": 67,
+        "speed": 101
+    },
+    {
+        "term": "carbink",
+        "hp": 50,
+        "attack": 50,
+        "defense": 150,
+        "special_attack": 50,
+        "special_defense": 150,
+        "speed": 50
+    },
+    {
+        "term": "goomy",
+        "hp": 45,
+        "attack": 50,
+        "defense": 35,
+        "special_attack": 55,
+        "special_defense": 75,
+        "speed": 40
+    },
+    {
+        "term": "sliggoo",
+        "hp": 68,
+        "attack": 75,
+        "defense": 53,
+        "special_attack": 83,
+        "special_defense": 113,
+        "speed": 60
+    },
+    {
+        "term": "goodra",
+        "hp": 90,
+        "attack": 100,
+        "defense": 70,
+        "special_attack": 110,
+        "special_defense": 150,
+        "speed": 80
+    },
+    {
+        "term": "klefki",
+        "hp": 57,
+        "attack": 80,
+        "defense": 91,
+        "special_attack": 80,
+        "special_defense": 87,
+        "speed": 75
+    },
+    {
+        "term": "phantump",
+        "hp": 43,
+        "attack": 70,
+        "defense": 48,
+        "special_attack": 50,
+        "special_defense": 60,
+        "speed": 38
+    },
+    {
+        "term": "trevenant",
+        "hp": 85,
+        "attack": 110,
+        "defense": 76,
+        "special_attack": 65,
+        "special_defense": 82,
+        "speed": 56
+    },
+    {
+        "term": "pumpkaboo small",
+        "hp": 44,
+        "attack": 66,
+        "defense": 70,
+        "special_attack": 44,
+        "special_defense": 55,
+        "speed": 56
+    },
+    {
+        "term": "pumpkaboo average",
+        "hp": 49,
+        "attack": 66,
+        "defense": 70,
+        "special_attack": 44,
+        "special_defense": 55,
+        "speed": 51
+    },
+    {
+        "term": "pumpkaboo large",
+        "hp": 54,
+        "attack": 66,
+        "defense": 70,
+        "special_attack": 44,
+        "special_defense": 55,
+        "speed": 46
+    },
+    {
+        "term": "pumpkaboo super",
+        "hp": 59,
+        "attack": 66,
+        "defense": 70,
+        "special_attack": 44,
+        "special_defense": 55,
+        "speed": 41
+    },
+    {
+        "term": "gourgeist small",
+        "hp": 55,
+        "attack": 85,
+        "defense": 122,
+        "special_attack": 58,
+        "special_defense": 75,
+        "speed": 99
+    },
+    {
+        "term": "gourgeist average",
+        "hp": 65,
+        "attack": 90,
+        "defense": 122,
+        "special_attack": 58,
+        "special_defense": 75,
+        "speed": 84
+    },
+    {
+        "term": "gourgeist large",
+        "hp": 75,
+        "attack": 95,
+        "defense": 122,
+        "special_attack": 58,
+        "special_defense": 75,
+        "speed": 69
+    },
+    {
+        "term": "gourgeist super",
+        "hp": 85,
+        "attack": 100,
+        "defense": 122,
+        "special_attack": 58,
+        "special_defense": 75,
+        "speed": 54
+    },
+    {
+        "term": "bergmite",
+        "hp": 55,
+        "attack": 69,
+        "defense": 85,
+        "special_attack": 32,
+        "special_defense": 35,
+        "speed": 28
+    },
+    {
+        "term": "avalugg",
+        "hp": 95,
+        "attack": 117,
+        "defense": 184,
+        "special_attack": 44,
+        "special_defense": 46,
+        "speed": 28
+    },
+    {
+        "term": "noibat",
+        "hp": 40,
+        "attack": 30,
+        "defense": 35,
+        "special_attack": 45,
+        "special_defense": 40,
+        "speed": 55
+    },
+    {
+        "term": "noivern",
+        "hp": 85,
+        "attack": 70,
+        "defense": 80,
+        "special_attack": 97,
+        "special_defense": 80,
+        "speed": 123
+    },
+    {
+        "term": "xerneas",
+        "hp": 126,
+        "attack": 131,
+        "defense": 95,
+        "special_attack": 131,
+        "special_defense": 98,
+        "speed": 99
+    },
+    {
+        "term": "yveltal",
+        "hp": 126,
+        "attack": 131,
+        "defense": 95,
+        "special_attack": 131,
+        "special_defense": 98,
+        "speed": 99
+    },
+    {
+        "term": "zygarde 50% 50 normal",
+        "hp": 108,
+        "attack": 100,
+        "defense": 121,
+        "special_attack": 81,
+        "special_defense": 95,
+        "speed": 95
+    },
+    {
+        "term": "zygarde 10% 10 dog",
+        "hp": 54,
+        "attack": 100,
+        "defense": 71,
+        "special_attack": 61,
+        "special_defense": 85,
+        "speed": 115
+    },
+    {
+        "term": "zygarde complete 100% 100",
+        "hp": 216,
+        "attack": 100,
+        "defense": 121,
+        "special_attack": 91,
+        "special_defense": 95,
+        "speed": 85
+    },
+    {
+        "term": "diancie",
+        "hp": 50,
+        "attack": 100,
+        "defense": 150,
+        "special_attack": 100,
+        "special_defense": 150,
+        "speed": 50
+    },
+    {
+        "term": "mega diancie",
+        "hp": 50,
+        "attack": 160,
+        "defense": 110,
+        "special_attack": 160,
+        "special_defense": 110,
+        "speed": 110
+    },
+    {
+        "term": "hoopa confined",
+        "hp": 80,
+        "attack": 110,
+        "defense": 60,
+        "special_attack": 150,
+        "special_defense": 130,
+        "speed": 70
+    },
+    {
+        "term": "hoopa unbound",
+        "hp": 80,
+        "attack": 160,
+        "defense": 60,
+        "special_attack": 170,
+        "special_defense": 130,
+        "speed": 80
+    },
+    {
+        "term": "volcanion",
+        "hp": 80,
+        "attack": 110,
+        "defense": 120,
+        "special_attack": 130,
+        "special_defense": 90,
+        "speed": 70
+    },
+    {
+        "term": "rowlet",
+        "hp": 68,
+        "attack": 55,
+        "defense": 55,
+        "special_attack": 50,
+        "special_defense": 50,
+        "speed": 42
+    },
+    {
+        "term": "dartrix",
+        "hp": 78,
+        "attack": 75,
+        "defense": 75,
+        "special_attack": 70,
+        "special_defense": 70,
+        "speed": 52
+    },
+    {
+        "term": "decidueye",
+        "hp": 78,
+        "attack": 107,
+        "defense": 75,
+        "special_attack": 100,
+        "special_defense": 100,
+        "speed": 70
+    },
+    {
+        "term": "litten",
+        "hp": 45,
+        "attack": 65,
+        "defense": 40,
+        "special_attack": 60,
+        "special_defense": 40,
+        "speed": 70
+    },
+    {
+        "term": "torracat",
+        "hp": 65,
+        "attack": 85,
+        "defense": 50,
+        "special_attack": 80,
+        "special_defense": 50,
+        "speed": 90
+    },
+    {
+        "term": "incineroar",
+        "hp": 95,
+        "attack": 115,
+        "defense": 90,
+        "special_attack": 80,
+        "special_defense": 90,
+        "speed": 60
+    },
+    {
+        "term": "popplio",
+        "hp": 50,
+        "attack": 54,
+        "defense": 54,
+        "special_attack": 66,
+        "special_defense": 56,
+        "speed": 40
+    },
+    {
+        "term": "brionne",
+        "hp": 60,
+        "attack": 69,
+        "defense": 69,
+        "special_attack": 91,
+        "special_defense": 81,
+        "speed": 50
+    },
+    {
+        "term": "primarina",
+        "hp": 80,
+        "attack": 74,
+        "defense": 74,
+        "special_attack": 126,
+        "special_defense": 116,
+        "speed": 60
+    },
+    {
+        "term": "pikipek",
+        "hp": 35,
+        "attack": 75,
+        "defense": 30,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 65
+    },
+    {
+        "term": "trumbeak",
+        "hp": 55,
+        "attack": 85,
+        "defense": 50,
+        "special_attack": 40,
+        "special_defense": 50,
+        "speed": 75
+    },
+    {
+        "term": "toucannon",
+        "hp": 80,
+        "attack": 120,
+        "defense": 75,
+        "special_attack": 75,
+        "special_defense": 75,
+        "speed": 60
+    },
+    {
+        "term": "yungoos",
+        "hp": 48,
+        "attack": 70,
+        "defense": 30,
+        "special_attack": 30,
+        "special_defense": 30,
+        "speed": 45
+    },
+    {
+        "term": "gumshoos",
+        "hp": 88,
+        "attack": 110,
+        "defense": 60,
+        "special_attack": 55,
+        "special_defense": 60,
+        "speed": 45
+    },
+    {
+        "term": "grubbin",
+        "hp": 47,
+        "attack": 62,
+        "defense": 45,
+        "special_attack": 55,
+        "special_defense": 45,
+        "speed": 46
+    },
+    {
+        "term": "charjabug",
+        "hp": 57,
+        "attack": 82,
+        "defense": 95,
+        "special_attack": 55,
+        "special_defense": 75,
+        "speed": 36
+    },
+    {
+        "term": "vikavolt",
+        "hp": 77,
+        "attack": 70,
+        "defense": 90,
+        "special_attack": 145,
+        "special_defense": 75,
+        "speed": 43
+    },
+    {
+        "term": "crabrawler",
+        "hp": 47,
+        "attack": 82,
+        "defense": 57,
+        "special_attack": 42,
+        "special_defense": 47,
+        "speed": 63
+    },
+    {
+        "term": "crabominable",
+        "hp": 97,
+        "attack": 132,
+        "defense": 77,
+        "special_attack": 62,
+        "special_defense": 67,
+        "speed": 43
+    },
+    {
+        "term": "oricorio",
+        "hp": 75,
+        "attack": 70,
+        "defense": 70,
+        "special_attack": 98,
+        "special_defense": 70,
+        "speed": 93
+    },
+    {
+        "term": "cutiefly",
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special_attack": 55,
+        "special_defense": 40,
+        "speed": 84
+    },
+    {
+        "term": "ribombee",
+        "hp": 60,
+        "attack": 55,
+        "defense": 60,
+        "special_attack": 95,
+        "special_defense": 70,
+        "speed": 124
+    },
+    {
+        "term": "rockruff",
+        "hp": 45,
+        "attack": 65,
+        "defense": 40,
+        "special_attack": 30,
+        "special_defense": 40,
+        "speed": 60
+    },
+    {
+        "term": "lycanroc midday",
+        "hp": 75,
+        "attack": 115,
+        "defense": 65,
+        "special_attack": 55,
+        "special_defense": 65,
+        "speed": 112
+    },
+    {
+        "term": "lycanroc midnight",
+        "hp": 85,
+        "attack": 115,
+        "defense": 75,
+        "special_attack": 55,
+        "special_defense": 75,
+        "speed": 82
+    },
+    {
+        "term": "lycanroc dusk",
+        "hp": 75,
+        "attack": 117,
+        "defense": 65,
+        "special_attack": 55,
+        "special_defense": 65,
+        "speed": 110
+    },
+    {
+        "term": "wishiwashi solo",
+        "hp": 45,
+        "attack": 20,
+        "defense": 20,
+        "special_attack": 25,
+        "special_defense": 25,
+        "speed": 40
+    },
+    {
+        "term": "wishiwashi school",
+        "hp": 45,
+        "attack": 140,
+        "defense": 130,
+        "special_attack": 140,
+        "special_defense": 135,
+        "speed": 30
+    },
+    {
+        "term": "mareanie",
+        "hp": 50,
+        "attack": 53,
+        "defense": 62,
+        "special_attack": 43,
+        "special_defense": 52,
+        "speed": 45
+    },
+    {
+        "term": "toxapex",
+        "hp": 50,
+        "attack": 63,
+        "defense": 152,
+        "special_attack": 53,
+        "special_defense": 142,
+        "speed": 35
+    },
+    {
+        "term": "mudbray",
+        "hp": 70,
+        "attack": 100,
+        "defense": 70,
+        "special_attack": 45,
+        "special_defense": 55,
+        "speed": 45
+    },
+    {
+        "term": "mudsdale",
+        "hp": 100,
+        "attack": 125,
+        "defense": 100,
+        "special_attack": 55,
+        "special_defense": 85,
+        "speed": 35
+    },
+    {
+        "term": "dewpider",
+        "hp": 38,
+        "attack": 40,
+        "defense": 52,
+        "special_attack": 40,
+        "special_defense": 72,
+        "speed": 27
+    },
+    {
+        "term": "araquanid",
+        "hp": 68,
+        "attack": 70,
+        "defense": 92,
+        "special_attack": 50,
+        "special_defense": 132,
+        "speed": 42
+    },
+    {
+        "term": "fomantis",
+        "hp": 40,
+        "attack": 55,
+        "defense": 35,
+        "special_attack": 50,
+        "special_defense": 35,
+        "speed": 35
+    },
+    {
+        "term": "lurantis",
+        "hp": 70,
+        "attack": 105,
+        "defense": 90,
+        "special_attack": 80,
+        "special_defense": 90,
+        "speed": 45
+    },
+    {
+        "term": "morelull",
+        "hp": 40,
+        "attack": 35,
+        "defense": 55,
+        "special_attack": 65,
+        "special_defense": 75,
+        "speed": 15
+    },
+    {
+        "term": "shiinotic",
+        "hp": 60,
+        "attack": 45,
+        "defense": 80,
+        "special_attack": 90,
+        "special_defense": 100,
+        "speed": 30
+    },
+    {
+        "term": "salandit",
+        "hp": 48,
+        "attack": 44,
+        "defense": 40,
+        "special_attack": 71,
+        "special_defense": 40,
+        "speed": 77
+    },
+    {
+        "term": "salazzle",
+        "hp": 68,
+        "attack": 64,
+        "defense": 60,
+        "special_attack": 111,
+        "special_defense": 60,
+        "speed": 117
+    },
+    {
+        "term": "stufful",
+        "hp": 70,
+        "attack": 75,
+        "defense": 50,
+        "special_attack": 45,
+        "special_defense": 50,
+        "speed": 50
+    },
+    {
+        "term": "bewear",
+        "hp": 120,
+        "attack": 125,
+        "defense": 80,
+        "special_attack": 55,
+        "special_defense": 60,
+        "speed": 60
+    },
+    {
+        "term": "bounsweet",
+        "hp": 42,
+        "attack": 30,
+        "defense": 38,
+        "special_attack": 30,
+        "special_defense": 38,
+        "speed": 32
+    },
+    {
+        "term": "steenee",
+        "hp": 52,
+        "attack": 40,
+        "defense": 48,
+        "special_attack": 40,
+        "special_defense": 48,
+        "speed": 62
+    },
+    {
+        "term": "tsareena",
+        "hp": 72,
+        "attack": 120,
+        "defense": 98,
+        "special_attack": 50,
+        "special_defense": 98,
+        "speed": 72
+    },
+    {
+        "term": "comfey",
+        "hp": 51,
+        "attack": 52,
+        "defense": 90,
+        "special_attack": 82,
+        "special_defense": 110,
+        "speed": 100
+    },
+    {
+        "term": "oranguru",
+        "hp": 90,
+        "attack": 60,
+        "defense": 80,
+        "special_attack": 90,
+        "special_defense": 110,
+        "speed": 60
+    },
+    {
+        "term": "passimian",
+        "hp": 100,
+        "attack": 120,
+        "defense": 90,
+        "special_attack": 40,
+        "special_defense": 60,
+        "speed": 80
+    },
+    {
+        "term": "wimpod",
+        "hp": 25,
+        "attack": 35,
+        "defense": 40,
+        "special_attack": 20,
+        "special_defense": 30,
+        "speed": 80
+    },
+    {
+        "term": "golisopod",
+        "hp": 75,
+        "attack": 125,
+        "defense": 140,
+        "special_attack": 60,
+        "special_defense": 90,
+        "speed": 40
+    },
+    {
+        "term": "sandygast",
+        "hp": 55,
+        "attack": 55,
+        "defense": 80,
+        "special_attack": 70,
+        "special_defense": 45,
+        "speed": 15
+    },
+    {
+        "term": "palossand",
+        "hp": 85,
+        "attack": 75,
+        "defense": 110,
+        "special_attack": 100,
+        "special_defense": 75,
+        "speed": 35
+    },
+    {
+        "term": "pyukumuku",
+        "hp": 55,
+        "attack": 60,
+        "defense": 130,
+        "special_attack": 30,
+        "special_defense": 130,
+        "speed": 5
+    },
+    {
+        "term": "type: null",
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 59
+    },
+    {
+        "term": "silvally",
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+    },
+    {
+        "term": "minior meteor",
+        "hp": 60,
+        "attack": 60,
+        "defense": 100,
+        "special_attack": 60,
+        "special_defense": 100,
+        "speed": 60
+    },
+    {
+        "term": "minior core",
+        "hp": 60,
+        "attack": 100,
+        "defense": 60,
+        "special_attack": 100,
+        "special_defense": 60,
+        "speed": 120
+    },
+    {
+        "term": "komala",
+        "hp": 65,
+        "attack": 115,
+        "defense": 65,
+        "special_attack": 75,
+        "special_defense": 95,
+        "speed": 65
+    },
+    {
+        "term": "turtonator",
+        "hp": 60,
+        "attack": 78,
+        "defense": 135,
+        "special_attack": 91,
+        "special_defense": 85,
+        "speed": 36
+    },
+    {
+        "term": "togedemaru",
+        "hp": 65,
+        "attack": 98,
+        "defense": 63,
+        "special_attack": 40,
+        "special_defense": 73,
+        "speed": 96
+    },
+    {
+        "term": "mimikyu",
+        "hp": 55,
+        "attack": 90,
+        "defense": 80,
+        "special_attack": 50,
+        "special_defense": 105,
+        "speed": 96
+    },
+    {
+        "term": "bruxish",
+        "hp": 68,
+        "attack": 105,
+        "defense": 70,
+        "special_attack": 70,
+        "special_defense": 70,
+        "speed": 92
+    },
+    {
+        "term": "drampa",
+        "hp": 78,
+        "attack": 60,
+        "defense": 85,
+        "special_attack": 135,
+        "special_defense": 91,
+        "speed": 36
+    },
+    {
+        "term": "dhelmise",
+        "hp": 70,
+        "attack": 131,
+        "defense": 100,
+        "special_attack": 86,
+        "special_defense": 90,
+        "speed": 40
+    },
+    {
+        "term": "jangmo o",
+        "hp": 45,
+        "attack": 55,
+        "defense": 65,
+        "special_attack": 45,
+        "special_defense": 45,
+        "speed": 45
+    },
+    {
+        "term": "hakamo o",
+        "hp": 55,
+        "attack": 75,
+        "defense": 90,
+        "special_attack": 65,
+        "special_defense": 70,
+        "speed": 65
+    },
+    {
+        "term": "kommo o",
+        "hp": 75,
+        "attack": 110,
+        "defense": 125,
+        "special_attack": 100,
+        "special_defense": 105,
+        "speed": 85
+    },
+    {
+        "term": "tapu koko",
+        "hp": 70,
+        "attack": 115,
+        "defense": 85,
+        "special_attack": 95,
+        "special_defense": 75,
+        "speed": 130
+    },
+    {
+        "term": "tapu lele",
+        "hp": 70,
+        "attack": 85,
+        "defense": 75,
+        "special_attack": 130,
+        "special_defense": 115,
+        "speed": 95
+    },
+    {
+        "term": "tapu bulu",
+        "hp": 70,
+        "attack": 130,
+        "defense": 115,
+        "special_attack": 85,
+        "special_defense": 95,
+        "speed": 75
+    },
+    {
+        "term": "tapu fini",
+        "hp": 70,
+        "attack": 75,
+        "defense": 115,
+        "special_attack": 95,
+        "special_defense": 130,
+        "speed": 85
+    },
+    {
+        "term": "cosmog",
+        "hp": 43,
+        "attack": 29,
+        "defense": 31,
+        "special_attack": 29,
+        "special_defense": 31,
+        "speed": 37
+    },
+    {
+        "term": "cosmoem",
+        "hp": 43,
+        "attack": 29,
+        "defense": 131,
+        "special_attack": 29,
+        "special_defense": 131,
+        "speed": 37
+    },
+    {
+        "term": "solgaleo",
+        "hp": 137,
+        "attack": 137,
+        "defense": 107,
+        "special_attack": 113,
+        "special_defense": 89,
+        "speed": 97
+    },
+    {
+        "term": "lunala",
+        "hp": 137,
+        "attack": 113,
+        "defense": 89,
+        "special_attack": 137,
+        "special_defense": 107,
+        "speed": 97
+    },
+    {
+        "term": "nihilego",
+        "hp": 109,
+        "attack": 53,
+        "defense": 47,
+        "special_attack": 127,
+        "special_defense": 131,
+        "speed": 103
+    },
+    {
+        "term": "buzzwole",
+        "hp": 107,
+        "attack": 139,
+        "defense": 139,
+        "special_attack": 53,
+        "special_defense": 53,
+        "speed": 79
+    },
+    {
+        "term": "pheromosa",
+        "hp": 71,
+        "attack": 137,
+        "defense": 37,
+        "special_attack": 137,
+        "special_defense": 37,
+        "speed": 151
+    },
+    {
+        "term": "xurkitree",
+        "hp": 83,
+        "attack": 89,
+        "defense": 71,
+        "special_attack": 173,
+        "special_defense": 71,
+        "speed": 83
+    },
+    {
+        "term": "celesteela",
+        "hp": 97,
+        "attack": 101,
+        "defense": 103,
+        "special_attack": 107,
+        "special_defense": 101,
+        "speed": 61
+    },
+    {
+        "term": "kartana",
+        "hp": 59,
+        "attack": 181,
+        "defense": 131,
+        "special_attack": 59,
+        "special_defense": 31,
+        "speed": 109
+    },
+    {
+        "term": "guzzlord",
+        "hp": 223,
+        "attack": 101,
+        "defense": 53,
+        "special_attack": 97,
+        "special_defense": 53,
+        "speed": 43
+    },
+    {
+        "term": "necrozma",
+        "hp": 97,
+        "attack": 107,
+        "defense": 101,
+        "special_attack": 127,
+        "special_defense": 89,
+        "speed": 79
+    },
+    {
+        "term": "dusk mane necrozma",
+        "hp": 97,
+        "attack": 153,
+        "defense": 127,
+        "special_attack": 113,
+        "special_defense": 109,
+        "speed": 77
+    },
+    {
+        "term": "dawn wings necrozma",
+        "hp": 97,
+        "attack": 113,
+        "defense": 109,
+        "special_attack": 157,
+        "special_defense": 127,
+        "speed": 77
+    },
+    {
+        "term": "ultra necrozma",
+        "hp": 97,
+        "attack": 167,
+        "defense": 97,
+        "special_attack": 167,
+        "special_defense": 97,
+        "speed": 129
+    },
+    {
+        "term": "magearna",
+        "hp": 80,
+        "attack": 95,
+        "defense": 115,
+        "special_attack": 130,
+        "special_defense": 115,
+        "speed": 65
+    },
+    {
+        "term": "marshadow",
+        "hp": 90,
+        "attack": 125,
+        "defense": 80,
+        "special_attack": 90,
+        "special_defense": 90,
+        "speed": 125
+    },
+    {
+        "term": "poipole",
+        "hp": 67,
+        "attack": 73,
+        "defense": 67,
+        "special_attack": 73,
+        "special_defense": 67,
+        "speed": 73
+    },
+    {
+        "term": "naganadel",
+        "hp": 73,
+        "attack": 73,
+        "defense": 73,
+        "special_attack": 127,
+        "special_defense": 73,
+        "speed": 121
+    },
+    {
+        "term": "stakataka",
+        "hp": 61,
+        "attack": 131,
+        "defense": 211,
+        "special_attack": 53,
+        "special_defense": 101,
+        "speed": 13
+    },
+    {
+        "term": "blacephalon",
+        "hp": 53,
+        "attack": 127,
+        "defense": 53,
+        "special_attack": 151,
+        "special_defense": 79,
+        "speed": 107
+    },
+    {
+        "term": "zeraora",
+        "hp": 88,
+        "attack": 112,
+        "defense": 75,
+        "special_attack": 102,
+        "special_defense": 80,
+        "speed": 143
+    }
+]

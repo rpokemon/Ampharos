@@ -1,0 +1,4712 @@
+[
+    {
+        "dex_no": 1,
+        "classification": "Seed Pok\u00e9mon",
+        "term": "bulbasaur"
+    },
+    {
+        "dex_no": 2,
+        "classification": "Seed Pok\u00e9mon",
+        "term": "ivysaur"
+    },
+    {
+        "dex_no": 3,
+        "classification": "Seed Pok\u00e9mon",
+        "term": "venusaur"
+    },
+    {
+        "dex_no": 3,
+        "classification": "Seed Pok\u00e9mon",
+        "term": "mega venusaur"
+    },
+    {
+        "dex_no": 4,
+        "classification": "Lizard Pok\u00e9mon",
+        "term": "charmander"
+    },
+    {
+        "dex_no": 5,
+        "classification": "Flame Pok\u00e9mon",
+        "term": "charmeleon"
+    },
+    {
+        "dex_no": 6,
+        "classification": "Flame Pok\u00e9mon",
+        "term": "charizard"
+    },
+    {
+        "dex_no": 6,
+        "classification": "Flame Pok\u00e9mon",
+        "term": "mega charizard x"
+    },
+    {
+        "dex_no": 6,
+        "classification": "Flame Pok\u00e9mon",
+        "term": "mega charizard y"
+    },
+    {
+        "dex_no": 7,
+        "classification": "Tiny Turtle Pok\u00e9mon",
+        "term": "squirtle"
+    },
+    {
+        "dex_no": 8,
+        "classification": "Turtle Pok\u00e9mon",
+        "term": "wartortle"
+    },
+    {
+        "dex_no": 9,
+        "classification": "Shellfish Pok\u00e9mon",
+        "term": "blastoise"
+    },
+    {
+        "dex_no": 9,
+        "classification": "Shellfish Pok\u00e9mon",
+        "term": "mega blastoise"
+    },
+    {
+        "dex_no": 10,
+        "classification": "Worm Pok\u00e9mon",
+        "term": "caterpie"
+    },
+    {
+        "dex_no": 11,
+        "classification": "Cocoon Pok\u00e9mon",
+        "term": "metapod"
+    },
+    {
+        "dex_no": 12,
+        "classification": "Butterfly Pok\u00e9mon",
+        "term": "butterfree"
+    },
+    {
+        "dex_no": 13,
+        "classification": "Hairy Pok\u00e9mon",
+        "term": "weedle"
+    },
+    {
+        "dex_no": 14,
+        "classification": "Cocoon Pok\u00e9mon",
+        "term": "kakuna"
+    },
+    {
+        "dex_no": 15,
+        "classification": "Poison Bee Pok\u00e9mon",
+        "term": "beedrill"
+    },
+    {
+        "dex_no": 15,
+        "classification": "Poison Bee Pok\u00e9mon",
+        "term": "mega beedrill"
+    },
+    {
+        "dex_no": 16,
+        "classification": "Tiny Bird Pok\u00e9mon",
+        "term": "pidgey"
+    },
+    {
+        "dex_no": 17,
+        "classification": "Bird Pok\u00e9mon",
+        "term": "pidgeotto"
+    },
+    {
+        "dex_no": 18,
+        "classification": "Bird Pok\u00e9mon",
+        "term": "pidgeot"
+    },
+    {
+        "dex_no": 18,
+        "classification": "Bird Pok\u00e9mon",
+        "term": "mega pidgeot"
+    },
+    {
+        "dex_no": 19,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "rattata"
+    },
+    {
+        "dex_no": 19,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "alolan rattata"
+    },
+    {
+        "dex_no": 20,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "raticate"
+    },
+    {
+        "dex_no": 20,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "alolan raticate"
+    },
+    {
+        "dex_no": 21,
+        "classification": "Tiny Bird Pok\u00e9mon",
+        "term": "spearow"
+    },
+    {
+        "dex_no": 22,
+        "classification": "Beak Pok\u00e9mon",
+        "term": "fearow"
+    },
+    {
+        "dex_no": 23,
+        "classification": "Snake Pok\u00e9mon",
+        "term": "ekans"
+    },
+    {
+        "dex_no": 24,
+        "classification": "Cobra Pok\u00e9mon",
+        "term": "arbok"
+    },
+    {
+        "dex_no": 25,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "pikachu"
+    },
+    {
+        "dex_no": 26,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "raichu"
+    },
+    {
+        "dex_no": 26,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "alolan raichu"
+    },
+    {
+        "dex_no": 27,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "sandshrew"
+    },
+    {
+        "dex_no": 27,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "alolan sandshrew"
+    },
+    {
+        "dex_no": 28,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "sandslash"
+    },
+    {
+        "dex_no": 28,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "alolan sandslash"
+    },
+    {
+        "dex_no": 29,
+        "classification": "Poison Pin Pok\u00e9mon",
+        "term": "nidoran female"
+    },
+    {
+        "dex_no": 30,
+        "classification": "Poison Pin Pok\u00e9mon",
+        "term": "nidorina"
+    },
+    {
+        "dex_no": 31,
+        "classification": "Drill Pok\u00e9mon",
+        "term": "nidoqueen"
+    },
+    {
+        "dex_no": 32,
+        "classification": "Poison Pin Pok\u00e9mon",
+        "term": "nidoran male"
+    },
+    {
+        "dex_no": 33,
+        "classification": "Poison Pin Pok\u00e9mon",
+        "term": "nidorino"
+    },
+    {
+        "dex_no": 34,
+        "classification": "Drill Pok\u00e9mon",
+        "term": "nidoking"
+    },
+    {
+        "dex_no": 35,
+        "classification": "Fairy Pok\u00e9mon",
+        "term": "clefairy"
+    },
+    {
+        "dex_no": 36,
+        "classification": "Fairy Pok\u00e9mon",
+        "term": "clefable"
+    },
+    {
+        "dex_no": 37,
+        "classification": "Fox Pok\u00e9mon",
+        "term": "vulpix"
+    },
+    {
+        "dex_no": 37,
+        "classification": "Fox Pok\u00e9mon",
+        "term": "alolan vulpix"
+    },
+    {
+        "dex_no": 38,
+        "classification": "Fox Pok\u00e9mon",
+        "term": "ninetales"
+    },
+    {
+        "dex_no": 38,
+        "classification": "Fox Pok\u00e9mon",
+        "term": "alolan ninetales"
+    },
+    {
+        "dex_no": 39,
+        "classification": "Balloon Pok\u00e9mon",
+        "term": "jigglypuff"
+    },
+    {
+        "dex_no": 40,
+        "classification": "Balloon Pok\u00e9mon",
+        "term": "wigglytuff"
+    },
+    {
+        "dex_no": 41,
+        "classification": "Bat Pok\u00e9mon",
+        "term": "zubat"
+    },
+    {
+        "dex_no": 42,
+        "classification": "Bat Pok\u00e9mon",
+        "term": "golbat"
+    },
+    {
+        "dex_no": 43,
+        "classification": "Weed Pok\u00e9mon",
+        "term": "oddish"
+    },
+    {
+        "dex_no": 44,
+        "classification": "Weed Pok\u00e9mon",
+        "term": "gloom"
+    },
+    {
+        "dex_no": 45,
+        "classification": "Flower Pok\u00e9mon",
+        "term": "vileplume"
+    },
+    {
+        "dex_no": 46,
+        "classification": "Mushroom Pok\u00e9mon",
+        "term": "paras"
+    },
+    {
+        "dex_no": 47,
+        "classification": "Mushroom Pok\u00e9mon",
+        "term": "parasect"
+    },
+    {
+        "dex_no": 48,
+        "classification": "Insect Pok\u00e9mon",
+        "term": "venonat"
+    },
+    {
+        "dex_no": 49,
+        "classification": "Poison Moth Pok\u00e9mon",
+        "term": "venomoth"
+    },
+    {
+        "dex_no": 50,
+        "classification": "Mole Pok\u00e9mon",
+        "term": "diglett"
+    },
+    {
+        "dex_no": 50,
+        "classification": "Mole Pok\u00e9mon",
+        "term": "alolan diglett"
+    },
+    {
+        "dex_no": 51,
+        "classification": "Mole Pok\u00e9mon",
+        "term": "dugtrio"
+    },
+    {
+        "dex_no": 51,
+        "classification": "Mole Pok\u00e9mon",
+        "term": "alolan dugtrio"
+    },
+    {
+        "dex_no": 52,
+        "classification": "Scratch Cat Pok\u00e9mon",
+        "term": "meowth"
+    },
+    {
+        "dex_no": 52,
+        "classification": "Scratch Cat Pok\u00e9mon",
+        "term": "alolan meowth"
+    },
+    {
+        "dex_no": 53,
+        "classification": "Classy Cat Pok\u00e9mon",
+        "term": "persian"
+    },
+    {
+        "dex_no": 53,
+        "classification": "Classy Cat Pok\u00e9mon",
+        "term": "alolan persian"
+    },
+    {
+        "dex_no": 54,
+        "classification": "Duck Pok\u00e9mon",
+        "term": "psyduck"
+    },
+    {
+        "dex_no": 55,
+        "classification": "Duck Pok\u00e9mon",
+        "term": "golduck"
+    },
+    {
+        "dex_no": 56,
+        "classification": "Pig Monkey Pok\u00e9mon",
+        "term": "mankey"
+    },
+    {
+        "dex_no": 57,
+        "classification": "Pig Monkey Pok\u00e9mon",
+        "term": "primeape"
+    },
+    {
+        "dex_no": 58,
+        "classification": "Puppy Pok\u00e9mon",
+        "term": "growlithe"
+    },
+    {
+        "dex_no": 59,
+        "classification": "Legendary Pok\u00e9mon",
+        "term": "arcanine"
+    },
+    {
+        "dex_no": 60,
+        "classification": "Tadpole Pok\u00e9mon",
+        "term": "poliwag"
+    },
+    {
+        "dex_no": 61,
+        "classification": "Tadpole Pok\u00e9mon",
+        "term": "poliwhirl"
+    },
+    {
+        "dex_no": 62,
+        "classification": "Tadpole Pok\u00e9mon",
+        "term": "poliwrath"
+    },
+    {
+        "dex_no": 63,
+        "classification": "Psi Pok\u00e9mon",
+        "term": "abra"
+    },
+    {
+        "dex_no": 64,
+        "classification": "Psi Pok\u00e9mon",
+        "term": "kadabra"
+    },
+    {
+        "dex_no": 65,
+        "classification": "Psi Pok\u00e9mon",
+        "term": "alakazam"
+    },
+    {
+        "dex_no": 65,
+        "classification": "Psi Pok\u00e9mon",
+        "term": "mega alakazam"
+    },
+    {
+        "dex_no": 66,
+        "classification": "Superpower Pok\u00e9mon",
+        "term": "machop"
+    },
+    {
+        "dex_no": 67,
+        "classification": "Superpower Pok\u00e9mon",
+        "term": "machoke"
+    },
+    {
+        "dex_no": 68,
+        "classification": "Superpower Pok\u00e9mon",
+        "term": "machamp"
+    },
+    {
+        "dex_no": 69,
+        "classification": "Flower Pok\u00e9mon",
+        "term": "bellsprout"
+    },
+    {
+        "dex_no": 70,
+        "classification": "Flycatcher Pok\u00e9mon",
+        "term": "weepinbell"
+    },
+    {
+        "dex_no": 71,
+        "classification": "Flycatcher Pok\u00e9mon",
+        "term": "victreebel"
+    },
+    {
+        "dex_no": 72,
+        "classification": "Jellyfish Pok\u00e9mon",
+        "term": "tentacool"
+    },
+    {
+        "dex_no": 73,
+        "classification": "Jellyfish Pok\u00e9mon",
+        "term": "tentacruel"
+    },
+    {
+        "dex_no": 74,
+        "classification": "Rock Pok\u00e9mon",
+        "term": "geodude"
+    },
+    {
+        "dex_no": 74,
+        "classification": "Rock Pok\u00e9mon",
+        "term": "alolan geodude"
+    },
+    {
+        "dex_no": 75,
+        "classification": "Rock Pok\u00e9mon",
+        "term": "graveler"
+    },
+    {
+        "dex_no": 75,
+        "classification": "Rock Pok\u00e9mon",
+        "term": "alolan graveler"
+    },
+    {
+        "dex_no": 76,
+        "classification": "Megaton Pok\u00e9mon",
+        "term": "golem"
+    },
+    {
+        "dex_no": 76,
+        "classification": "Megaton Pok\u00e9mon",
+        "term": "alolan golem"
+    },
+    {
+        "dex_no": 77,
+        "classification": "Fire Horse Pok\u00e9mon",
+        "term": "ponyta"
+    },
+    {
+        "dex_no": 78,
+        "classification": "Fire Horse Pok\u00e9mon",
+        "term": "rapidash"
+    },
+    {
+        "dex_no": 79,
+        "classification": "Dopey Pok\u00e9mon",
+        "term": "slowpoke"
+    },
+    {
+        "dex_no": 80,
+        "classification": "Hermit Crab Pok\u00e9mon",
+        "term": "slowbro"
+    },
+    {
+        "dex_no": 80,
+        "classification": "Hermit Crab Pok\u00e9mon",
+        "term": "mega slowbro"
+    },
+    {
+        "dex_no": 81,
+        "classification": "Magnet Pok\u00e9mon",
+        "term": "magnemite"
+    },
+    {
+        "dex_no": 82,
+        "classification": "Magnet Pok\u00e9mon",
+        "term": "magneton"
+    },
+    {
+        "dex_no": 83,
+        "classification": "Wild Duck Pok\u00e9mon",
+        "term": "farfetch'd"
+    },
+    {
+        "dex_no": 84,
+        "classification": "Twin Bird Pok\u00e9mon",
+        "term": "doduo"
+    },
+    {
+        "dex_no": 85,
+        "classification": "Triple Bird Pok\u00e9mon",
+        "term": "dodrio"
+    },
+    {
+        "dex_no": 86,
+        "classification": "Sea Lion Pok\u00e9mon",
+        "term": "seel"
+    },
+    {
+        "dex_no": 87,
+        "classification": "Sea Lion Pok\u00e9mon",
+        "term": "dewgong"
+    },
+    {
+        "dex_no": 88,
+        "classification": "Sludge Pok\u00e9mon",
+        "term": "grimer"
+    },
+    {
+        "dex_no": 88,
+        "classification": "Sludge Pok\u00e9mon",
+        "term": "alolan grimer"
+    },
+    {
+        "dex_no": 89,
+        "classification": "Sludge Pok\u00e9mon",
+        "term": "muk"
+    },
+    {
+        "dex_no": 89,
+        "classification": "Sludge Pok\u00e9mon",
+        "term": "alolan muk"
+    },
+    {
+        "dex_no": 90,
+        "classification": "Bivalve Pok\u00e9mon",
+        "term": "shellder"
+    },
+    {
+        "dex_no": 91,
+        "classification": "Bivalve Pok\u00e9mon",
+        "term": "cloyster"
+    },
+    {
+        "dex_no": 92,
+        "classification": "Gas Pok\u00e9mon",
+        "term": "gastly"
+    },
+    {
+        "dex_no": 93,
+        "classification": "Gas Pok\u00e9mon",
+        "term": "haunter"
+    },
+    {
+        "dex_no": 94,
+        "classification": "Shadow Pok\u00e9mon",
+        "term": "gengar"
+    },
+    {
+        "dex_no": 94,
+        "classification": "Shadow Pok\u00e9mon",
+        "term": "mega gengar"
+    },
+    {
+        "dex_no": 95,
+        "classification": "Rock Snake Pok\u00e9mon",
+        "term": "onix"
+    },
+    {
+        "dex_no": 96,
+        "classification": "Hypnosis Pok\u00e9mon",
+        "term": "drowzee"
+    },
+    {
+        "dex_no": 97,
+        "classification": "Hypnosis Pok\u00e9mon",
+        "term": "hypno"
+    },
+    {
+        "dex_no": 98,
+        "classification": "River Crab Pok\u00e9mon",
+        "term": "krabby"
+    },
+    {
+        "dex_no": 99,
+        "classification": "Pincer Pok\u00e9mon",
+        "term": "kingler"
+    },
+    {
+        "dex_no": 100,
+        "classification": "Ball Pok\u00e9mon",
+        "term": "voltorb"
+    },
+    {
+        "dex_no": 101,
+        "classification": "Ball Pok\u00e9mon",
+        "term": "electrode"
+    },
+    {
+        "dex_no": 102,
+        "classification": "Egg Pok\u00e9mon",
+        "term": "exeggcute"
+    },
+    {
+        "dex_no": 103,
+        "classification": "Coconut Pok\u00e9mon",
+        "term": "exeggutor"
+    },
+    {
+        "dex_no": 103,
+        "classification": "Coconut Pok\u00e9mon",
+        "term": "alolan exeggutor"
+    },
+    {
+        "dex_no": 104,
+        "classification": "Lonely Pok\u00e9mon",
+        "term": "cubone"
+    },
+    {
+        "dex_no": 105,
+        "classification": "Bone Keeper Pok\u00e9mon",
+        "term": "marowak"
+    },
+    {
+        "dex_no": 105,
+        "classification": "Bone Keeper Pok\u00e9mon",
+        "term": "alolan marowak"
+    },
+    {
+        "dex_no": 106,
+        "classification": "Kicking Pok\u00e9mon",
+        "term": "hitmonlee"
+    },
+    {
+        "dex_no": 107,
+        "classification": "Punching Pok\u00e9mon",
+        "term": "hitmonchan"
+    },
+    {
+        "dex_no": 108,
+        "classification": "Licking Pok\u00e9mon",
+        "term": "lickitung"
+    },
+    {
+        "dex_no": 109,
+        "classification": "Poison Gas Pok\u00e9mon",
+        "term": "koffing"
+    },
+    {
+        "dex_no": 110,
+        "classification": "Poison Gas Pok\u00e9mon",
+        "term": "weezing"
+    },
+    {
+        "dex_no": 111,
+        "classification": "Spikes Pok\u00e9mon",
+        "term": "rhyhorn"
+    },
+    {
+        "dex_no": 112,
+        "classification": "Drill Pok\u00e9mon",
+        "term": "rhydon"
+    },
+    {
+        "dex_no": 113,
+        "classification": "Egg Pok\u00e9mon",
+        "term": "chansey"
+    },
+    {
+        "dex_no": 114,
+        "classification": "Vine Pok\u00e9mon",
+        "term": "tangela"
+    },
+    {
+        "dex_no": 115,
+        "classification": "Parent Pok\u00e9mon",
+        "term": "kangaskhan"
+    },
+    {
+        "dex_no": 115,
+        "classification": "Parent Pok\u00e9mon",
+        "term": "mega kangaskhan"
+    },
+    {
+        "dex_no": 116,
+        "classification": "Dragon Pok\u00e9mon",
+        "term": "horsea"
+    },
+    {
+        "dex_no": 117,
+        "classification": "Dragon Pok\u00e9mon",
+        "term": "seadra"
+    },
+    {
+        "dex_no": 118,
+        "classification": "Goldfish Pok\u00e9mon",
+        "term": "goldeen"
+    },
+    {
+        "dex_no": 119,
+        "classification": "Goldfish Pok\u00e9mon",
+        "term": "seaking"
+    },
+    {
+        "dex_no": 120,
+        "classification": "Starshape Pok\u00e9mon",
+        "term": "staryu"
+    },
+    {
+        "dex_no": 121,
+        "classification": "Mysterious Pok\u00e9mon",
+        "term": "starmie"
+    },
+    {
+        "dex_no": 122,
+        "classification": "Barrier Pok\u00e9mon",
+        "term": "mr. mime"
+    },
+    {
+        "dex_no": 123,
+        "classification": "Mantis Pok\u00e9mon",
+        "term": "scyther"
+    },
+    {
+        "dex_no": 124,
+        "classification": "Humanshape Pok\u00e9mon",
+        "term": "jynx"
+    },
+    {
+        "dex_no": 125,
+        "classification": "Electric Pok\u00e9mon",
+        "term": "electabuzz"
+    },
+    {
+        "dex_no": 126,
+        "classification": "Spitfire Pok\u00e9mon",
+        "term": "magmar"
+    },
+    {
+        "dex_no": 127,
+        "classification": "Stagbeetle Pok\u00e9mon",
+        "term": "pinsir"
+    },
+    {
+        "dex_no": 127,
+        "classification": "Stagbeetle Pok\u00e9mon",
+        "term": "mega pinsir"
+    },
+    {
+        "dex_no": 128,
+        "classification": "Wild Bull Pok\u00e9mon",
+        "term": "tauros"
+    },
+    {
+        "dex_no": 129,
+        "classification": "Fish Pok\u00e9mon",
+        "term": "magikarp"
+    },
+    {
+        "dex_no": 130,
+        "classification": "Atrocious Pok\u00e9mon",
+        "term": "gyarados"
+    },
+    {
+        "dex_no": 130,
+        "classification": "Atrocious Pok\u00e9mon",
+        "term": "mega gyarados"
+    },
+    {
+        "dex_no": 131,
+        "classification": "Transport Pok\u00e9mon",
+        "term": "lapras"
+    },
+    {
+        "dex_no": 132,
+        "classification": "Transform Pok\u00e9mon",
+        "term": "ditto"
+    },
+    {
+        "dex_no": 133,
+        "classification": "Evolution Pok\u00e9mon",
+        "term": "eevee"
+    },
+    {
+        "dex_no": 134,
+        "classification": "Bubble Jet Pok\u00e9mon",
+        "term": "vaporeon"
+    },
+    {
+        "dex_no": 135,
+        "classification": "Lightning Pok\u00e9mon",
+        "term": "jolteon"
+    },
+    {
+        "dex_no": 136,
+        "classification": "Flame Pok\u00e9mon",
+        "term": "flareon"
+    },
+    {
+        "dex_no": 137,
+        "classification": "Virtual Pok\u00e9mon",
+        "term": "porygon"
+    },
+    {
+        "dex_no": 138,
+        "classification": "Spiral Pok\u00e9mon",
+        "term": "omanyte"
+    },
+    {
+        "dex_no": 139,
+        "classification": "Spiral Pok\u00e9mon",
+        "term": "omastar"
+    },
+    {
+        "dex_no": 140,
+        "classification": "Shellfish Pok\u00e9mon",
+        "term": "kabuto"
+    },
+    {
+        "dex_no": 141,
+        "classification": "Shellfish Pok\u00e9mon",
+        "term": "kabutops"
+    },
+    {
+        "dex_no": 142,
+        "classification": "Fossil Pok\u00e9mon",
+        "term": "aerodactyl"
+    },
+    {
+        "dex_no": 142,
+        "classification": "Fossil Pok\u00e9mon",
+        "term": "mega aerodactyl"
+    },
+    {
+        "dex_no": 143,
+        "classification": "Sleeping Pok\u00e9mon",
+        "term": "snorlax"
+    },
+    {
+        "dex_no": 144,
+        "classification": "Freeze Pok\u00e9mon",
+        "term": "articuno"
+    },
+    {
+        "dex_no": 145,
+        "classification": "Electric Pok\u00e9mon",
+        "term": "zapdos"
+    },
+    {
+        "dex_no": 146,
+        "classification": "Flame Pok\u00e9mon",
+        "term": "moltres"
+    },
+    {
+        "dex_no": 147,
+        "classification": "Dragon Pok\u00e9mon",
+        "term": "dratini"
+    },
+    {
+        "dex_no": 148,
+        "classification": "Dragon Pok\u00e9mon",
+        "term": "dragonair"
+    },
+    {
+        "dex_no": 149,
+        "classification": "Dragon Pok\u00e9mon",
+        "term": "dragonite"
+    },
+    {
+        "dex_no": 150,
+        "classification": "Genetic Pok\u00e9mon",
+        "term": "mewtwo"
+    },
+    {
+        "dex_no": 150,
+        "classification": "Genetic Pok\u00e9mon",
+        "term": "mega mewtwo x"
+    },
+    {
+        "dex_no": 150,
+        "classification": "Genetic Pok\u00e9mon",
+        "term": "mega mewtwo y"
+    },
+    {
+        "dex_no": 151,
+        "classification": "New Species Pok\u00e9mon",
+        "term": "mew"
+    },
+    {
+        "dex_no": 152,
+        "classification": "Leaf Pok\u00e9mon",
+        "term": "chikorita"
+    },
+    {
+        "dex_no": 153,
+        "classification": "Leaf Pok\u00e9mon",
+        "term": "bayleef"
+    },
+    {
+        "dex_no": 154,
+        "classification": "Herb Pok\u00e9mon",
+        "term": "meganium"
+    },
+    {
+        "dex_no": 155,
+        "classification": "Fire Mouse Pok\u00e9mon",
+        "term": "cyndaquil"
+    },
+    {
+        "dex_no": 156,
+        "classification": "Volcano Pok\u00e9mon",
+        "term": "quilava"
+    },
+    {
+        "dex_no": 157,
+        "classification": "Volcano Pok\u00e9mon",
+        "term": "typhlosion"
+    },
+    {
+        "dex_no": 158,
+        "classification": "Big Jaw Pok\u00e9mon",
+        "term": "totodile"
+    },
+    {
+        "dex_no": 159,
+        "classification": "Big Jaw Pok\u00e9mon",
+        "term": "croconaw"
+    },
+    {
+        "dex_no": 160,
+        "classification": "Big Jaw Pok\u00e9mon",
+        "term": "feraligatr"
+    },
+    {
+        "dex_no": 161,
+        "classification": "Scout Pok\u00e9mon",
+        "term": "sentret"
+    },
+    {
+        "dex_no": 162,
+        "classification": "Long Body Pok\u00e9mon",
+        "term": "furret"
+    },
+    {
+        "dex_no": 163,
+        "classification": "Owl Pok\u00e9mon",
+        "term": "hoothoot"
+    },
+    {
+        "dex_no": 164,
+        "classification": "Owl Pok\u00e9mon",
+        "term": "noctowl"
+    },
+    {
+        "dex_no": 165,
+        "classification": "Five Star Pok\u00e9mon",
+        "term": "ledyba"
+    },
+    {
+        "dex_no": 166,
+        "classification": "Five Star Pok\u00e9mon",
+        "term": "ledian"
+    },
+    {
+        "dex_no": 167,
+        "classification": "String Spit Pok\u00e9mon",
+        "term": "spinarak"
+    },
+    {
+        "dex_no": 168,
+        "classification": "Long Leg Pok\u00e9mon",
+        "term": "ariados"
+    },
+    {
+        "dex_no": 169,
+        "classification": "Bat Pok\u00e9mon",
+        "term": "crobat"
+    },
+    {
+        "dex_no": 170,
+        "classification": "Angler Pok\u00e9mon",
+        "term": "chinchou"
+    },
+    {
+        "dex_no": 171,
+        "classification": "Light Pok\u00e9mon",
+        "term": "lanturn"
+    },
+    {
+        "dex_no": 172,
+        "classification": "Tiny Mouse Pok\u00e9mon",
+        "term": "pichu"
+    },
+    {
+        "dex_no": 173,
+        "classification": "Star Shape Pok\u00e9mon",
+        "term": "cleffa"
+    },
+    {
+        "dex_no": 174,
+        "classification": "Balloon Pok\u00e9mon",
+        "term": "igglybuff"
+    },
+    {
+        "dex_no": 175,
+        "classification": "Spike Ball Pok\u00e9mon",
+        "term": "togepi"
+    },
+    {
+        "dex_no": 176,
+        "classification": "Happiness Pok\u00e9mon",
+        "term": "togetic"
+    },
+    {
+        "dex_no": 177,
+        "classification": "Little Bird Pok\u00e9mon",
+        "term": "natu"
+    },
+    {
+        "dex_no": 178,
+        "classification": "Mystic Pok\u00e9mon",
+        "term": "xatu"
+    },
+    {
+        "dex_no": 179,
+        "classification": "Wool Pok\u00e9mon",
+        "term": "mareep"
+    },
+    {
+        "dex_no": 180,
+        "classification": "Wool Pok\u00e9mon",
+        "term": "flaaffy"
+    },
+    {
+        "dex_no": 181,
+        "classification": "Light Pok\u00e9mon",
+        "term": "ampharos"
+    },
+    {
+        "dex_no": 181,
+        "classification": "Light Pok\u00e9mon",
+        "term": "mega ampharos"
+    },
+    {
+        "dex_no": 182,
+        "classification": "Flower Pok\u00e9mon",
+        "term": "bellossom"
+    },
+    {
+        "dex_no": 183,
+        "classification": "Aquamouse Pok\u00e9mon",
+        "term": "marill"
+    },
+    {
+        "dex_no": 184,
+        "classification": "Aquarabbit Pok\u00e9mon",
+        "term": "azumarill"
+    },
+    {
+        "dex_no": 185,
+        "classification": "Imitation Pok\u00e9mon",
+        "term": "sudowoodo"
+    },
+    {
+        "dex_no": 186,
+        "classification": "Frog Pok\u00e9mon",
+        "term": "politoed"
+    },
+    {
+        "dex_no": 187,
+        "classification": "Cottonweed Pok\u00e9mon",
+        "term": "hoppip"
+    },
+    {
+        "dex_no": 188,
+        "classification": "Cottonweed Pok\u00e9mon",
+        "term": "skiploom"
+    },
+    {
+        "dex_no": 189,
+        "classification": "Cottonweed Pok\u00e9mon",
+        "term": "jumpluff"
+    },
+    {
+        "dex_no": 190,
+        "classification": "Long Tail Pok\u00e9mon",
+        "term": "aipom"
+    },
+    {
+        "dex_no": 191,
+        "classification": "Seed Pok\u00e9mon",
+        "term": "sunkern"
+    },
+    {
+        "dex_no": 192,
+        "classification": "Sun Pok\u00e9mon",
+        "term": "sunflora"
+    },
+    {
+        "dex_no": 193,
+        "classification": "Clear Wing Pok\u00e9mon",
+        "term": "yanma"
+    },
+    {
+        "dex_no": 194,
+        "classification": "Water Fish Pok\u00e9mon",
+        "term": "wooper"
+    },
+    {
+        "dex_no": 195,
+        "classification": "Water Fish Pok\u00e9mon",
+        "term": "quagsire"
+    },
+    {
+        "dex_no": 196,
+        "classification": "Sun Pok\u00e9mon",
+        "term": "espeon"
+    },
+    {
+        "dex_no": 197,
+        "classification": "Moonlight Pok\u00e9mon",
+        "term": "umbreon"
+    },
+    {
+        "dex_no": 198,
+        "classification": "Darkness Pok\u00e9mon",
+        "term": "murkrow"
+    },
+    {
+        "dex_no": 199,
+        "classification": "Royal Pok\u00e9mon",
+        "term": "slowking"
+    },
+    {
+        "dex_no": 200,
+        "classification": "Screech Pok\u00e9mon",
+        "term": "misdreavus"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown a"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown b"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown c"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown d"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown e"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown f"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown g"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown h"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown i"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown j"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown k"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown l"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown m"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown n"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown o"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown p"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown q"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown r"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown s"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown t"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown u"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown v"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown w"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown x"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown y"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown z"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown !"
+    },
+    {
+        "dex_no": 201,
+        "classification": "Symbol Pok\u00e9mon",
+        "term": "unown ?"
+    },
+    {
+        "dex_no": 202,
+        "classification": "Patient Pok\u00e9mon",
+        "term": "wobbuffet"
+    },
+    {
+        "dex_no": 203,
+        "classification": "Long Neck Pok\u00e9mon",
+        "term": "girafarig"
+    },
+    {
+        "dex_no": 204,
+        "classification": "Bagworm Pok\u00e9mon",
+        "term": "pineco"
+    },
+    {
+        "dex_no": 205,
+        "classification": "Bagworm Pok\u00e9mon",
+        "term": "forretress"
+    },
+    {
+        "dex_no": 206,
+        "classification": "Land Snake Pok\u00e9mon",
+        "term": "dunsparce"
+    },
+    {
+        "dex_no": 207,
+        "classification": "Flyscorpion Pok\u00e9mon",
+        "term": "gligar"
+    },
+    {
+        "dex_no": 208,
+        "classification": "Iron Snake Pok\u00e9mon",
+        "term": "steelix"
+    },
+    {
+        "dex_no": 208,
+        "classification": "Iron Snake Pok\u00e9mon",
+        "term": "mega steelix"
+    },
+    {
+        "dex_no": 209,
+        "classification": "Fairy Pok\u00e9mon",
+        "term": "snubbull"
+    },
+    {
+        "dex_no": 210,
+        "classification": "Fairy Pok\u00e9mon",
+        "term": "granbull"
+    },
+    {
+        "dex_no": 211,
+        "classification": "Balloon Pok\u00e9mon",
+        "term": "qwilfish"
+    },
+    {
+        "dex_no": 212,
+        "classification": "Pincer Pok\u00e9mon",
+        "term": "scizor"
+    },
+    {
+        "dex_no": 212,
+        "classification": "Pincer Pok\u00e9mon",
+        "term": "mega scizor"
+    },
+    {
+        "dex_no": 213,
+        "classification": "Mold Pok\u00e9mon",
+        "term": "shuckle"
+    },
+    {
+        "dex_no": 214,
+        "classification": "Singlehorn Pok\u00e9mon",
+        "term": "heracross"
+    },
+    {
+        "dex_no": 214,
+        "classification": "Singlehorn Pok\u00e9mon",
+        "term": "mega heracross"
+    },
+    {
+        "dex_no": 215,
+        "classification": "Sharp Claw Pok\u00e9mon",
+        "term": "sneasel"
+    },
+    {
+        "dex_no": 216,
+        "classification": "Little Bear Pok\u00e9mon",
+        "term": "teddiursa"
+    },
+    {
+        "dex_no": 217,
+        "classification": "Hibernator Pok\u00e9mon",
+        "term": "ursaring"
+    },
+    {
+        "dex_no": 218,
+        "classification": "Lava Pok\u00e9mon",
+        "term": "slugma"
+    },
+    {
+        "dex_no": 219,
+        "classification": "Lava Pok\u00e9mon",
+        "term": "magcargo"
+    },
+    {
+        "dex_no": 220,
+        "classification": "Pig Pok\u00e9mon",
+        "term": "swinub"
+    },
+    {
+        "dex_no": 221,
+        "classification": "Swine Pok\u00e9mon",
+        "term": "piloswine"
+    },
+    {
+        "dex_no": 222,
+        "classification": "Coral Pok\u00e9mon",
+        "term": "corsola"
+    },
+    {
+        "dex_no": 223,
+        "classification": "Jet Pok\u00e9mon",
+        "term": "remoraid"
+    },
+    {
+        "dex_no": 224,
+        "classification": "Jet Pok\u00e9mon",
+        "term": "octillery"
+    },
+    {
+        "dex_no": 225,
+        "classification": "Delivery Pok\u00e9mon",
+        "term": "delibird"
+    },
+    {
+        "dex_no": 226,
+        "classification": "Kite Pok\u00e9mon",
+        "term": "mantine"
+    },
+    {
+        "dex_no": 227,
+        "classification": "Armor Bird Pok\u00e9mon",
+        "term": "skarmory"
+    },
+    {
+        "dex_no": 228,
+        "classification": "Dark Pok\u00e9mon",
+        "term": "houndour"
+    },
+    {
+        "dex_no": 229,
+        "classification": "Dark Pok\u00e9mon",
+        "term": "houndoom"
+    },
+    {
+        "dex_no": 229,
+        "classification": "Dark Pok\u00e9mon",
+        "term": "mega houndoom"
+    },
+    {
+        "dex_no": 230,
+        "classification": "Dragon Pok\u00e9mon",
+        "term": "kingdra"
+    },
+    {
+        "dex_no": 231,
+        "classification": "Long Nose Pok\u00e9mon",
+        "term": "phanpy"
+    },
+    {
+        "dex_no": 232,
+        "classification": "Armor Pok\u00e9mon",
+        "term": "donphan"
+    },
+    {
+        "dex_no": 233,
+        "classification": "Virtual Pok\u00e9mon",
+        "term": "porygon 2"
+    },
+    {
+        "dex_no": 234,
+        "classification": "Big Horn Pok\u00e9mon",
+        "term": "stantler"
+    },
+    {
+        "dex_no": 235,
+        "classification": "Painter Pok\u00e9mon",
+        "term": "smeargle"
+    },
+    {
+        "dex_no": 236,
+        "classification": "Scuffle Pok\u00e9mon",
+        "term": "tyrogue"
+    },
+    {
+        "dex_no": 237,
+        "classification": "Handstand Pok\u00e9mon",
+        "term": "hitmontop"
+    },
+    {
+        "dex_no": 238,
+        "classification": "Kiss Pok\u00e9mon",
+        "term": "smoochum"
+    },
+    {
+        "dex_no": 239,
+        "classification": "Electric Pok\u00e9mon",
+        "term": "elekid"
+    },
+    {
+        "dex_no": 240,
+        "classification": "Live Coal Pok\u00e9mon",
+        "term": "magby"
+    },
+    {
+        "dex_no": 241,
+        "classification": "Milk Cow Pok\u00e9mon",
+        "term": "miltank"
+    },
+    {
+        "dex_no": 242,
+        "classification": "Happiness Pok\u00e9mon",
+        "term": "blissey"
+    },
+    {
+        "dex_no": 243,
+        "classification": "Thunder Pok\u00e9mon",
+        "term": "raikou"
+    },
+    {
+        "dex_no": 244,
+        "classification": "Volcano Pok\u00e9mon",
+        "term": "entei"
+    },
+    {
+        "dex_no": 245,
+        "classification": "Aurora Pok\u00e9mon",
+        "term": "suicune"
+    },
+    {
+        "dex_no": 246,
+        "classification": "Rock Skin Pok\u00e9mon",
+        "term": "larvitar"
+    },
+    {
+        "dex_no": 247,
+        "classification": "Hard Shell Pok\u00e9mon",
+        "term": "pupitar"
+    },
+    {
+        "dex_no": 248,
+        "classification": "Armor Pok\u00e9mon",
+        "term": "tyranitar"
+    },
+    {
+        "dex_no": 248,
+        "classification": "Armor Pok\u00e9mon",
+        "term": "mega tyranitar"
+    },
+    {
+        "dex_no": 249,
+        "classification": "Diving Pok\u00e9mon",
+        "term": "lugia"
+    },
+    {
+        "dex_no": 250,
+        "classification": "Rainbow Pok\u00e9mon",
+        "term": "ho-oh"
+    },
+    {
+        "dex_no": 251,
+        "classification": "Time Travel Pok\u00e9mon",
+        "term": "celebi"
+    },
+    {
+        "dex_no": 252,
+        "classification": "Wood Gecko Pok\u00e9mon",
+        "term": "treecko"
+    },
+    {
+        "dex_no": 253,
+        "classification": "Wood Gecko Pok\u00e9mon",
+        "term": "grovyle"
+    },
+    {
+        "dex_no": 254,
+        "classification": "Forest Pok\u00e9mon",
+        "term": "sceptile"
+    },
+    {
+        "dex_no": 254,
+        "classification": "Forest Pok\u00e9mon",
+        "term": "mega sceptile"
+    },
+    {
+        "dex_no": 255,
+        "classification": "Chick Pok\u00e9mon",
+        "term": "torchic"
+    },
+    {
+        "dex_no": 256,
+        "classification": "Young Fowl Pok\u00e9mon",
+        "term": "combusken"
+    },
+    {
+        "dex_no": 257,
+        "classification": "Blaze Pok\u00e9mon",
+        "term": "blaziken"
+    },
+    {
+        "dex_no": 257,
+        "classification": "Blaze Pok\u00e9mon",
+        "term": "mega blaziken"
+    },
+    {
+        "dex_no": 258,
+        "classification": "Mud Fish Pok\u00e9mon",
+        "term": "mudkip"
+    },
+    {
+        "dex_no": 259,
+        "classification": "Mud Fish Pok\u00e9mon",
+        "term": "marshtomp"
+    },
+    {
+        "dex_no": 260,
+        "classification": "Mud Fish Pok\u00e9mon",
+        "term": "swampert"
+    },
+    {
+        "dex_no": 260,
+        "classification": "Mud Fish Pok\u00e9mon",
+        "term": "mega swampert"
+    },
+    {
+        "dex_no": 261,
+        "classification": "Bite Pok\u00e9mon",
+        "term": "poochyena"
+    },
+    {
+        "dex_no": 262,
+        "classification": "Bite Pok\u00e9mon",
+        "term": "mightyena"
+    },
+    {
+        "dex_no": 263,
+        "classification": "Tiny Racoon Pok\u00e9mon",
+        "term": "zigzagoon"
+    },
+    {
+        "dex_no": 264,
+        "classification": "Rush Pok\u00e9mon",
+        "term": "linoone"
+    },
+    {
+        "dex_no": 265,
+        "classification": "Worm Pok\u00e9mon",
+        "term": "wurmple"
+    },
+    {
+        "dex_no": 266,
+        "classification": "Cocoon Pok\u00e9mon",
+        "term": "silcoon"
+    },
+    {
+        "dex_no": 267,
+        "classification": "Butterfly Pok\u00e9mon",
+        "term": "beautifly"
+    },
+    {
+        "dex_no": 268,
+        "classification": "Cocoon Pok\u00e9mon",
+        "term": "cascoon"
+    },
+    {
+        "dex_no": 269,
+        "classification": "Poison Moth Pok\u00e9mon",
+        "term": "dustox"
+    },
+    {
+        "dex_no": 270,
+        "classification": "Water Weed Pok\u00e9mon",
+        "term": "lotad"
+    },
+    {
+        "dex_no": 271,
+        "classification": "Jolly Pok\u00e9mon",
+        "term": "lombre"
+    },
+    {
+        "dex_no": 272,
+        "classification": "Carefree Pok\u00e9mon",
+        "term": "ludicolo"
+    },
+    {
+        "dex_no": 273,
+        "classification": "Acorn Pok\u00e9mon",
+        "term": "seedot"
+    },
+    {
+        "dex_no": 274,
+        "classification": "Wily Pok\u00e9mon",
+        "term": "nuzleaf"
+    },
+    {
+        "dex_no": 275,
+        "classification": "Wickid Pok\u00e9mon",
+        "term": "shiftry"
+    },
+    {
+        "dex_no": 276,
+        "classification": "TinySwallow Pok\u00e9mon",
+        "term": "taillow"
+    },
+    {
+        "dex_no": 277,
+        "classification": "Swallow Pok\u00e9mon",
+        "term": "swellow"
+    },
+    {
+        "dex_no": 278,
+        "classification": "Seagull Pok\u00e9mon",
+        "term": "wingull"
+    },
+    {
+        "dex_no": 279,
+        "classification": "Water Bird Pok\u00e9mon",
+        "term": "pelipper"
+    },
+    {
+        "dex_no": 280,
+        "classification": "Feeling Pok\u00e9mon",
+        "term": "ralts"
+    },
+    {
+        "dex_no": 281,
+        "classification": "Emotion Pok\u00e9mon",
+        "term": "kirlia"
+    },
+    {
+        "dex_no": 282,
+        "classification": "Embrace Pok\u00e9mon",
+        "term": "gardevoir"
+    },
+    {
+        "dex_no": 282,
+        "classification": "Embrace Pok\u00e9mon",
+        "term": "mega gardevoir"
+    },
+    {
+        "dex_no": 283,
+        "classification": "Pond Skater Pok\u00e9mon",
+        "term": "surskit"
+    },
+    {
+        "dex_no": 284,
+        "classification": "Eyeball Pok\u00e9mon",
+        "term": "masquerain"
+    },
+    {
+        "dex_no": 285,
+        "classification": "Mushroom Pok\u00e9mon",
+        "term": "shroomish"
+    },
+    {
+        "dex_no": 286,
+        "classification": "Mushroom Pok\u00e9mon",
+        "term": "breloom"
+    },
+    {
+        "dex_no": 287,
+        "classification": "Slacker Pok\u00e9mon",
+        "term": "slakoth"
+    },
+    {
+        "dex_no": 288,
+        "classification": "Wild Monkey Pok\u00e9mon",
+        "term": "vigoroth"
+    },
+    {
+        "dex_no": 289,
+        "classification": "Lazy Pok\u00e9mon",
+        "term": "slaking"
+    },
+    {
+        "dex_no": 290,
+        "classification": "Trainee Pok\u00e9mon",
+        "term": "nincada"
+    },
+    {
+        "dex_no": 291,
+        "classification": "Ninja Pok\u00e9mon",
+        "term": "ninjask"
+    },
+    {
+        "dex_no": 292,
+        "classification": "Shed Pok\u00e9mon",
+        "term": "shedinja"
+    },
+    {
+        "dex_no": 293,
+        "classification": "Whisper Pok\u00e9mon",
+        "term": "whismur"
+    },
+    {
+        "dex_no": 294,
+        "classification": "Big Voice Pok\u00e9mon",
+        "term": "loudred"
+    },
+    {
+        "dex_no": 295,
+        "classification": "Loud Noise Pok\u00e9mon",
+        "term": "exploud"
+    },
+    {
+        "dex_no": 296,
+        "classification": "Guts Pok\u00e9mon",
+        "term": "makuhita"
+    },
+    {
+        "dex_no": 297,
+        "classification": "Arm Thrust Pok\u00e9mon",
+        "term": "hariyama"
+    },
+    {
+        "dex_no": 298,
+        "classification": "Polka Dot Pok\u00e9mon",
+        "term": "azurill"
+    },
+    {
+        "dex_no": 299,
+        "classification": "Compass Pok\u00e9mon",
+        "term": "nosepass"
+    },
+    {
+        "dex_no": 300,
+        "classification": "Kitten Pok\u00e9mon",
+        "term": "skitty"
+    },
+    {
+        "dex_no": 301,
+        "classification": "Prim Pok\u00e9mon",
+        "term": "delcatty"
+    },
+    {
+        "dex_no": 302,
+        "classification": "Darkness Pok\u00e9mon",
+        "term": "sableye"
+    },
+    {
+        "dex_no": 302,
+        "classification": "Darkness Pok\u00e9mon",
+        "term": "mega sableye"
+    },
+    {
+        "dex_no": 303,
+        "classification": "Deceiver Pok\u00e9mon",
+        "term": "mawile"
+    },
+    {
+        "dex_no": 303,
+        "classification": "Deceiver Pok\u00e9mon",
+        "term": "mega mawile"
+    },
+    {
+        "dex_no": 304,
+        "classification": "Iron Armor Pok\u00e9mon",
+        "term": "aron"
+    },
+    {
+        "dex_no": 305,
+        "classification": "Iron Armor Pok\u00e9mon",
+        "term": "lairon"
+    },
+    {
+        "dex_no": 306,
+        "classification": "Iron Armor Pok\u00e9mon",
+        "term": "aggron"
+    },
+    {
+        "dex_no": 306,
+        "classification": "Iron Armor Pok\u00e9mon",
+        "term": "mega aggron"
+    },
+    {
+        "dex_no": 307,
+        "classification": "Meditate Pok\u00e9mon",
+        "term": "meditite"
+    },
+    {
+        "dex_no": 308,
+        "classification": "Meditate Pok\u00e9mon",
+        "term": "medicham"
+    },
+    {
+        "dex_no": 308,
+        "classification": "Meditate Pok\u00e9mon",
+        "term": "mega medicham"
+    },
+    {
+        "dex_no": 309,
+        "classification": "Lightning Pok\u00e9mon",
+        "term": "electrike"
+    },
+    {
+        "dex_no": 310,
+        "classification": "Discharge Pok\u00e9mon",
+        "term": "manectric"
+    },
+    {
+        "dex_no": 310,
+        "classification": "Discharge Pok\u00e9mon",
+        "term": "mega manectric"
+    },
+    {
+        "dex_no": 311,
+        "classification": "Cheering Pok\u00e9mon",
+        "term": "plusle"
+    },
+    {
+        "dex_no": 312,
+        "classification": "Cheering Pok\u00e9mon",
+        "term": "minun"
+    },
+    {
+        "dex_no": 313,
+        "classification": "Firefly Pok\u00e9mon",
+        "term": "volbeat"
+    },
+    {
+        "dex_no": 314,
+        "classification": "Firefly Pok\u00e9mon",
+        "term": "illumise"
+    },
+    {
+        "dex_no": 315,
+        "classification": "Thorn Pok\u00e9mon",
+        "term": "roselia"
+    },
+    {
+        "dex_no": 316,
+        "classification": "Stomach Pok\u00e9mon",
+        "term": "gulpin"
+    },
+    {
+        "dex_no": 317,
+        "classification": "Poison Bag Pok\u00e9mon",
+        "term": "swalot"
+    },
+    {
+        "dex_no": 318,
+        "classification": "Savage Pok\u00e9mon",
+        "term": "carvanha"
+    },
+    {
+        "dex_no": 319,
+        "classification": "Brutal Pok\u00e9mon",
+        "term": "sharpedo"
+    },
+    {
+        "dex_no": 319,
+        "classification": "Brutal Pok\u00e9mon",
+        "term": "mega sharpedo"
+    },
+    {
+        "dex_no": 320,
+        "classification": "Ball Whale Pok\u00e9mon",
+        "term": "wailmer"
+    },
+    {
+        "dex_no": 321,
+        "classification": "Float Whale Pok\u00e9mon",
+        "term": "wailord"
+    },
+    {
+        "dex_no": 322,
+        "classification": "Numb Pok\u00e9mon",
+        "term": "numel"
+    },
+    {
+        "dex_no": 323,
+        "classification": "Eruption Pok\u00e9mon",
+        "term": "camerupt"
+    },
+    {
+        "dex_no": 323,
+        "classification": "Eruption Pok\u00e9mon",
+        "term": "mega camerupt"
+    },
+    {
+        "dex_no": 324,
+        "classification": "Coal Pok\u00e9mon",
+        "term": "torkoal"
+    },
+    {
+        "dex_no": 325,
+        "classification": "Bounce Pok\u00e9mon",
+        "term": "spoink"
+    },
+    {
+        "dex_no": 326,
+        "classification": "Manipulate Pok\u00e9mon",
+        "term": "grumpig"
+    },
+    {
+        "dex_no": 327,
+        "classification": "Spot Panda Pok\u00e9mon",
+        "term": "spinda"
+    },
+    {
+        "dex_no": 328,
+        "classification": "Ant Pit Pok\u00e9mon",
+        "term": "trapinch"
+    },
+    {
+        "dex_no": 329,
+        "classification": "Vibration Pok\u00e9mon",
+        "term": "vibrava"
+    },
+    {
+        "dex_no": 330,
+        "classification": "Mystic Pok\u00e9mon",
+        "term": "flygon"
+    },
+    {
+        "dex_no": 331,
+        "classification": "Cactus Pok\u00e9mon",
+        "term": "cacnea"
+    },
+    {
+        "dex_no": 332,
+        "classification": "Scarecrow Pok\u00e9mon",
+        "term": "cacturne"
+    },
+    {
+        "dex_no": 333,
+        "classification": "Cotton Bird Pok\u00e9mon",
+        "term": "swablu"
+    },
+    {
+        "dex_no": 334,
+        "classification": "Humming Pok\u00e9mon",
+        "term": "altaria"
+    },
+    {
+        "dex_no": 334,
+        "classification": "Humming Pok\u00e9mon",
+        "term": "mega altaria"
+    },
+    {
+        "dex_no": 335,
+        "classification": "Cat Ferret Pok\u00e9mon",
+        "term": "zangoose"
+    },
+    {
+        "dex_no": 336,
+        "classification": "Fang Snake Pok\u00e9mon",
+        "term": "seviper"
+    },
+    {
+        "dex_no": 337,
+        "classification": "Meteorite Pok\u00e9mon",
+        "term": "lunatone"
+    },
+    {
+        "dex_no": 338,
+        "classification": "Meteorite Pok\u00e9mon",
+        "term": "solrock"
+    },
+    {
+        "dex_no": 339,
+        "classification": "Whiskers Pok\u00e9mon",
+        "term": "barboach"
+    },
+    {
+        "dex_no": 340,
+        "classification": "Whiskers Pok\u00e9mon",
+        "term": "whiscash"
+    },
+    {
+        "dex_no": 341,
+        "classification": "Ruffian Pok\u00e9mon",
+        "term": "corphish"
+    },
+    {
+        "dex_no": 342,
+        "classification": "Rogue Pok\u00e9mon",
+        "term": "crawdaunt"
+    },
+    {
+        "dex_no": 343,
+        "classification": "Clay Doll Pok\u00e9mon",
+        "term": "baltoy"
+    },
+    {
+        "dex_no": 344,
+        "classification": "Clay Doll Pok\u00e9mon",
+        "term": "claydol"
+    },
+    {
+        "dex_no": 345,
+        "classification": "Sea Lily Pok\u00e9mon",
+        "term": "lileep"
+    },
+    {
+        "dex_no": 346,
+        "classification": "Barnacle Pok\u00e9mon",
+        "term": "cradily"
+    },
+    {
+        "dex_no": 347,
+        "classification": "Old Shrimp Pok\u00e9mon",
+        "term": "anorith"
+    },
+    {
+        "dex_no": 348,
+        "classification": "Plate Pok\u00e9mon",
+        "term": "armaldo"
+    },
+    {
+        "dex_no": 349,
+        "classification": "Fish Pok\u00e9mon",
+        "term": "feebas"
+    },
+    {
+        "dex_no": 350,
+        "classification": "Tender Pok\u00e9mon",
+        "term": "milotic"
+    },
+    {
+        "dex_no": 351,
+        "classification": "Weather Pok\u00e9mon",
+        "term": "castform"
+    },
+    {
+        "dex_no": 352,
+        "classification": "Color Swap Pok\u00e9mon",
+        "term": "kecleon"
+    },
+    {
+        "dex_no": 353,
+        "classification": "Puppet Pok\u00e9mon",
+        "term": "shuppet"
+    },
+    {
+        "dex_no": 354,
+        "classification": "Marionette Pok\u00e9mon",
+        "term": "banette"
+    },
+    {
+        "dex_no": 354,
+        "classification": "Marionette Pok\u00e9mon",
+        "term": "mega banette"
+    },
+    {
+        "dex_no": 355,
+        "classification": "Requiem Pok\u00e9mon",
+        "term": "duskull"
+    },
+    {
+        "dex_no": 356,
+        "classification": "Beckon Pok\u00e9mon",
+        "term": "dusclops"
+    },
+    {
+        "dex_no": 357,
+        "classification": "Fruit Pok\u00e9mon",
+        "term": "tropius"
+    },
+    {
+        "dex_no": 358,
+        "classification": "Wind Chime Pok\u00e9mon",
+        "term": "chimecho"
+    },
+    {
+        "dex_no": 359,
+        "classification": "Disaster Pok\u00e9mon",
+        "term": "absol"
+    },
+    {
+        "dex_no": 359,
+        "classification": "Disaster Pok\u00e9mon",
+        "term": "mega absol"
+    },
+    {
+        "dex_no": 360,
+        "classification": "Bright Pok\u00e9mon",
+        "term": "wynaut"
+    },
+    {
+        "dex_no": 361,
+        "classification": "Snow Hat Pok\u00e9mon",
+        "term": "snorunt"
+    },
+    {
+        "dex_no": 362,
+        "classification": "Face Pok\u00e9mon",
+        "term": "glalie"
+    },
+    {
+        "dex_no": 362,
+        "classification": "Face Pok\u00e9mon",
+        "term": "mega glalie"
+    },
+    {
+        "dex_no": 363,
+        "classification": "Clap Pok\u00e9mon",
+        "term": "spheal"
+    },
+    {
+        "dex_no": 364,
+        "classification": "Ball Roll Pok\u00e9mon",
+        "term": "sealeo"
+    },
+    {
+        "dex_no": 365,
+        "classification": "Ice Break Pok\u00e9mon",
+        "term": "walrein"
+    },
+    {
+        "dex_no": 366,
+        "classification": "Bivalve Pok\u00e9mon",
+        "term": "clamperl"
+    },
+    {
+        "dex_no": 367,
+        "classification": "Deep Sea Pok\u00e9mon",
+        "term": "huntail"
+    },
+    {
+        "dex_no": 368,
+        "classification": "South Sea Pok\u00e9mon",
+        "term": "gorebyss"
+    },
+    {
+        "dex_no": 369,
+        "classification": "Longevity Pok\u00e9mon",
+        "term": "relicanth"
+    },
+    {
+        "dex_no": 370,
+        "classification": "Rendezvous Pok\u00e9mon",
+        "term": "luvdisc"
+    },
+    {
+        "dex_no": 371,
+        "classification": "Rock Head Pok\u00e9mon",
+        "term": "bagon"
+    },
+    {
+        "dex_no": 372,
+        "classification": "Endurance Pok\u00e9mon",
+        "term": "shelgon"
+    },
+    {
+        "dex_no": 373,
+        "classification": "Dragon Pok\u00e9mon",
+        "term": "salamence"
+    },
+    {
+        "dex_no": 373,
+        "classification": "Dragon Pok\u00e9mon",
+        "term": "mega salamence"
+    },
+    {
+        "dex_no": 374,
+        "classification": "Iron Ball Pok\u00e9mon",
+        "term": "beldum"
+    },
+    {
+        "dex_no": 375,
+        "classification": "Iron Claw Pok\u00e9mon",
+        "term": "metang"
+    },
+    {
+        "dex_no": 376,
+        "classification": "Iron Leg Pok\u00e9mon",
+        "term": "metagross"
+    },
+    {
+        "dex_no": 376,
+        "classification": "Iron Leg Pok\u00e9mon",
+        "term": "mega metagross"
+    },
+    {
+        "dex_no": 377,
+        "classification": "Rock Peak Pok\u00e9mon",
+        "term": "regirock"
+    },
+    {
+        "dex_no": 378,
+        "classification": "Iceberg Pok\u00e9mon",
+        "term": "regice"
+    },
+    {
+        "dex_no": 379,
+        "classification": "Iron Pok\u00e9mon",
+        "term": "registeel"
+    },
+    {
+        "dex_no": 380,
+        "classification": "Eon Pok\u00e9mon",
+        "term": "latias"
+    },
+    {
+        "dex_no": 380,
+        "classification": "Eon Pok\u00e9mon",
+        "term": "mega latias"
+    },
+    {
+        "dex_no": 381,
+        "classification": "Eon Pok\u00e9mon",
+        "term": "latios"
+    },
+    {
+        "dex_no": 381,
+        "classification": "Eon Pok\u00e9mon",
+        "term": "mega latios"
+    },
+    {
+        "dex_no": 382,
+        "classification": "Sea Basin Pok\u00e9mon",
+        "term": "kyogre"
+    },
+    {
+        "dex_no": 382,
+        "classification": "Sea Basin Pok\u00e9mon",
+        "term": "primal kyogre"
+    },
+    {
+        "dex_no": 383,
+        "classification": "Continent Pok\u00e9mon",
+        "term": "groudon"
+    },
+    {
+        "dex_no": 383,
+        "classification": "Continent Pok\u00e9mon",
+        "term": "primal groudon"
+    },
+    {
+        "dex_no": 384,
+        "classification": "Sky High Pok\u00e9mon",
+        "term": "rayquaza"
+    },
+    {
+        "dex_no": 384,
+        "classification": "Sky High Pok\u00e9mon",
+        "term": "mega rayquaza"
+    },
+    {
+        "dex_no": 385,
+        "classification": "Wish Pok\u00e9mon",
+        "term": "jirachi"
+    },
+    {
+        "dex_no": 386,
+        "classification": "DNA Pok\u00e9mon",
+        "term": "deoxys normal"
+    },
+    {
+        "dex_no": 386,
+        "classification": "DNA Pok\u00e9mon",
+        "term": "deoxys attack"
+    },
+    {
+        "dex_no": 386,
+        "classification": "DNA Pok\u00e9mon",
+        "term": "deoxys defense"
+    },
+    {
+        "dex_no": 386,
+        "classification": "DNA Pok\u00e9mon",
+        "term": "deoxys speed"
+    },
+    {
+        "dex_no": 387,
+        "classification": "Tiny Leaf Pok\u00e9mon",
+        "term": "turtwig"
+    },
+    {
+        "dex_no": 388,
+        "classification": "Grove Pok\u00e9mon",
+        "term": "grotle"
+    },
+    {
+        "dex_no": 389,
+        "classification": "Continent Pok\u00e9mon",
+        "term": "torterra"
+    },
+    {
+        "dex_no": 390,
+        "classification": "Chimp Pok\u00e9mon",
+        "term": "chimchar"
+    },
+    {
+        "dex_no": 391,
+        "classification": "Playful Pok\u00e9mon",
+        "term": "monferno"
+    },
+    {
+        "dex_no": 392,
+        "classification": "Flame Pok\u00e9mon",
+        "term": "infernape"
+    },
+    {
+        "dex_no": 393,
+        "classification": "Penguin Pok\u00e9mon",
+        "term": "piplup"
+    },
+    {
+        "dex_no": 394,
+        "classification": "Penguin Pok\u00e9mon",
+        "term": "prinplup"
+    },
+    {
+        "dex_no": 395,
+        "classification": "Emperor Pok\u00e9mon",
+        "term": "empoleon"
+    },
+    {
+        "dex_no": 396,
+        "classification": "Starling Pok\u00e9mon",
+        "term": "starly"
+    },
+    {
+        "dex_no": 397,
+        "classification": "Starling Pok\u00e9mon",
+        "term": "staravia"
+    },
+    {
+        "dex_no": 398,
+        "classification": "Predator Pok\u00e9mon",
+        "term": "staraptor"
+    },
+    {
+        "dex_no": 399,
+        "classification": "Plump Mouse Pok\u00e9mon",
+        "term": "bidoof"
+    },
+    {
+        "dex_no": 400,
+        "classification": "Beaver Pok\u00e9mon",
+        "term": "bibarel"
+    },
+    {
+        "dex_no": 401,
+        "classification": "Cricket Pok\u00e9mon",
+        "term": "kricketot"
+    },
+    {
+        "dex_no": 402,
+        "classification": "Cricket Pok\u00e9mon",
+        "term": "kricketune"
+    },
+    {
+        "dex_no": 403,
+        "classification": "Flash Pok\u00e9mon",
+        "term": "shinx"
+    },
+    {
+        "dex_no": 404,
+        "classification": "Spark Pok\u00e9mon",
+        "term": "luxio"
+    },
+    {
+        "dex_no": 405,
+        "classification": "Gleam Eyes Pok\u00e9mon",
+        "term": "luxray"
+    },
+    {
+        "dex_no": 406,
+        "classification": "Bud Pok\u00e9mon",
+        "term": "budew"
+    },
+    {
+        "dex_no": 407,
+        "classification": "Bouquet Pok\u00e9mon",
+        "term": "roserade"
+    },
+    {
+        "dex_no": 408,
+        "classification": "Head Butt Pok\u00e9mon",
+        "term": "cranidos"
+    },
+    {
+        "dex_no": 409,
+        "classification": "Head Butt Pok\u00e9mon",
+        "term": "rampardos"
+    },
+    {
+        "dex_no": 410,
+        "classification": "Shield Pok\u00e9mon",
+        "term": "shieldon"
+    },
+    {
+        "dex_no": 411,
+        "classification": "Shield Pok\u00e9mon",
+        "term": "bastiodon"
+    },
+    {
+        "dex_no": 412,
+        "classification": "Bagworm Pok\u00e9mon",
+        "term": "burmy"
+    },
+    {
+        "dex_no": 413,
+        "classification": "Bagworm Pok\u00e9mon",
+        "term": "wormadam plant cloak"
+    },
+    {
+        "dex_no": 413,
+        "classification": "Bagworm Pok\u00e9mon",
+        "term": "wormadam sandy cloak"
+    },
+    {
+        "dex_no": 413,
+        "classification": "Bagworm Pok\u00e9mon",
+        "term": "wormadam trash cloak"
+    },
+    {
+        "dex_no": 414,
+        "classification": "Moth Pok\u00e9mon",
+        "term": "mothim"
+    },
+    {
+        "dex_no": 415,
+        "classification": "Tiny Bee Pok\u00e9mon",
+        "term": "combee"
+    },
+    {
+        "dex_no": 416,
+        "classification": "Beehive Pok\u00e9mon",
+        "term": "vespiquen"
+    },
+    {
+        "dex_no": 417,
+        "classification": "EleSquirrel Pok\u00e9mon",
+        "term": "pachirisu"
+    },
+    {
+        "dex_no": 418,
+        "classification": "Sea Weasel Pok\u00e9mon",
+        "term": "buizel"
+    },
+    {
+        "dex_no": 419,
+        "classification": "Sea Weasel Pok\u00e9mon",
+        "term": "floatzel"
+    },
+    {
+        "dex_no": 420,
+        "classification": "Cherry Pok\u00e9mon",
+        "term": "cherubi"
+    },
+    {
+        "dex_no": 421,
+        "classification": "Blossom Pok\u00e9mon",
+        "term": "cherrim"
+    },
+    {
+        "dex_no": 422,
+        "classification": "Sea Slug Pok\u00e9mon",
+        "term": "shellos"
+    },
+    {
+        "dex_no": 423,
+        "classification": "Sea Slug Pok\u00e9mon",
+        "term": "gastrodon"
+    },
+    {
+        "dex_no": 424,
+        "classification": "Long Tail Pok\u00e9mon",
+        "term": "ambipom"
+    },
+    {
+        "dex_no": 425,
+        "classification": "Balloon Pok\u00e9mon",
+        "term": "drifloon"
+    },
+    {
+        "dex_no": 426,
+        "classification": "Blimp Pok\u00e9mon",
+        "term": "drifblim"
+    },
+    {
+        "dex_no": 427,
+        "classification": "Rabbit Pok\u00e9mon",
+        "term": "buneary"
+    },
+    {
+        "dex_no": 428,
+        "classification": "Rabbit Pok\u00e9mon",
+        "term": "lopunny"
+    },
+    {
+        "dex_no": 428,
+        "classification": "Rabbit Pok\u00e9mon",
+        "term": "mega lopunny"
+    },
+    {
+        "dex_no": 429,
+        "classification": "Magical Pok\u00e9mon",
+        "term": "mismagius"
+    },
+    {
+        "dex_no": 430,
+        "classification": "Big Boss Pok\u00e9mon",
+        "term": "honchkrow"
+    },
+    {
+        "dex_no": 431,
+        "classification": "Catty Pok\u00e9mon",
+        "term": "glameow"
+    },
+    {
+        "dex_no": 432,
+        "classification": "Tiger Cat Pok\u00e9mon",
+        "term": "purugly"
+    },
+    {
+        "dex_no": 433,
+        "classification": "Bell Pok\u00e9mon",
+        "term": "chingling"
+    },
+    {
+        "dex_no": 434,
+        "classification": "Skunk Pok\u00e9mon",
+        "term": "stunky"
+    },
+    {
+        "dex_no": 435,
+        "classification": "Skunk Pok\u00e9mon",
+        "term": "skuntank"
+    },
+    {
+        "dex_no": 436,
+        "classification": "Bronze Pok\u00e9mon",
+        "term": "bronzor"
+    },
+    {
+        "dex_no": 437,
+        "classification": "Bronze Bell Pok\u00e9mon",
+        "term": "bronzong"
+    },
+    {
+        "dex_no": 438,
+        "classification": "Bonsai Pok\u00e9mon",
+        "term": "bonsly"
+    },
+    {
+        "dex_no": 439,
+        "classification": "Mime Pok\u00e9mon",
+        "term": "mime jr."
+    },
+    {
+        "dex_no": 440,
+        "classification": "Playhouse Pok\u00e9mon",
+        "term": "happiny"
+    },
+    {
+        "dex_no": 441,
+        "classification": "Music Note Pok\u00e9mon",
+        "term": "chatot"
+    },
+    {
+        "dex_no": 442,
+        "classification": "Forbidden Pok\u00e9mon",
+        "term": "spiritomb"
+    },
+    {
+        "dex_no": 443,
+        "classification": "Land Shark Pok\u00e9mon",
+        "term": "gible"
+    },
+    {
+        "dex_no": 444,
+        "classification": "Cave Pok\u00e9mon",
+        "term": "gabite"
+    },
+    {
+        "dex_no": 445,
+        "classification": "Mach Pok\u00e9mon",
+        "term": "garchomp"
+    },
+    {
+        "dex_no": 445,
+        "classification": "Mach Pok\u00e9mon",
+        "term": "mega garchomp"
+    },
+    {
+        "dex_no": 446,
+        "classification": "Big Eater Pok\u00e9mon",
+        "term": "munchlax"
+    },
+    {
+        "dex_no": 447,
+        "classification": "Emanation Pok\u00e9mon",
+        "term": "riolu"
+    },
+    {
+        "dex_no": 448,
+        "classification": "Aura Pok\u00e9mon",
+        "term": "lucario"
+    },
+    {
+        "dex_no": 448,
+        "classification": "Aura Pok\u00e9mon",
+        "term": "mega lucario"
+    },
+    {
+        "dex_no": 449,
+        "classification": "Hippo Pok\u00e9mon",
+        "term": "hippopotas"
+    },
+    {
+        "dex_no": 450,
+        "classification": "Heavyweight Pok\u00e9mon",
+        "term": "hippowdon"
+    },
+    {
+        "dex_no": 451,
+        "classification": "Scorpion Pok\u00e9mon",
+        "term": "skorupi"
+    },
+    {
+        "dex_no": 452,
+        "classification": "Ogre Scorp Pok\u00e9mon",
+        "term": "drapion"
+    },
+    {
+        "dex_no": 453,
+        "classification": "Toxic Mouth Pok\u00e9mon",
+        "term": "croagunk"
+    },
+    {
+        "dex_no": 454,
+        "classification": "Toxic Mouth Pok\u00e9mon",
+        "term": "toxicroak"
+    },
+    {
+        "dex_no": 455,
+        "classification": "Bug Catcher Pok\u00e9mon",
+        "term": "carnivine"
+    },
+    {
+        "dex_no": 456,
+        "classification": "Wing Fish Pok\u00e9mon",
+        "term": "finneon"
+    },
+    {
+        "dex_no": 457,
+        "classification": "Neon Pok\u00e9mon",
+        "term": "lumineon"
+    },
+    {
+        "dex_no": 458,
+        "classification": "Kite Pok\u00e9mon",
+        "term": "mantyke"
+    },
+    {
+        "dex_no": 459,
+        "classification": "Frosted Tree Pok\u00e9mon",
+        "term": "snover"
+    },
+    {
+        "dex_no": 460,
+        "classification": "Frosted Tree Pok\u00e9mon",
+        "term": "abomasnow"
+    },
+    {
+        "dex_no": 460,
+        "classification": "Frosted Tree Pok\u00e9mon",
+        "term": "mega abomasnow"
+    },
+    {
+        "dex_no": 461,
+        "classification": "Sharp Claw Pok\u00e9mon",
+        "term": "weavile"
+    },
+    {
+        "dex_no": 462,
+        "classification": "Magnet Area Pok\u00e9mon",
+        "term": "magnezone"
+    },
+    {
+        "dex_no": 463,
+        "classification": "Licking Pok\u00e9mon",
+        "term": "lickilicky"
+    },
+    {
+        "dex_no": 464,
+        "classification": "Drill Pok\u00e9mon",
+        "term": "rhyperior"
+    },
+    {
+        "dex_no": 465,
+        "classification": "Vine Pok\u00e9mon",
+        "term": "tangrowth"
+    },
+    {
+        "dex_no": 466,
+        "classification": "Thunderbolt Pok\u00e9mon",
+        "term": "electivire"
+    },
+    {
+        "dex_no": 467,
+        "classification": "Blast Pok\u00e9mon",
+        "term": "magmortar"
+    },
+    {
+        "dex_no": 468,
+        "classification": "Jubilee Pok\u00e9mon",
+        "term": "togekiss"
+    },
+    {
+        "dex_no": 469,
+        "classification": "Ogre Darner Pok\u00e9mon",
+        "term": "yanmega"
+    },
+    {
+        "dex_no": 470,
+        "classification": "Verdant Pok\u00e9mon",
+        "term": "leafeon"
+    },
+    {
+        "dex_no": 471,
+        "classification": "Fresh Snow Pok\u00e9mon",
+        "term": "glaceon"
+    },
+    {
+        "dex_no": 472,
+        "classification": "Fang Scorp Pok\u00e9mon",
+        "term": "gliscor"
+    },
+    {
+        "dex_no": 473,
+        "classification": "Twin Tusk Pok\u00e9mon",
+        "term": "mamoswine"
+    },
+    {
+        "dex_no": 474,
+        "classification": "Virtual Pok\u00e9mon",
+        "term": "porygon z"
+    },
+    {
+        "dex_no": 475,
+        "classification": "Blade Pok\u00e9mon",
+        "term": "gallade"
+    },
+    {
+        "dex_no": 475,
+        "classification": "Blade Pok\u00e9mon",
+        "term": "mega gallade"
+    },
+    {
+        "dex_no": 476,
+        "classification": "Compass Pok\u00e9mon",
+        "term": "probopass"
+    },
+    {
+        "dex_no": 477,
+        "classification": "Gripper Pok\u00e9mon",
+        "term": "dusknoir"
+    },
+    {
+        "dex_no": 478,
+        "classification": "Snow Land Pok\u00e9mon",
+        "term": "froslass"
+    },
+    {
+        "dex_no": 479,
+        "classification": "Plasma Pok\u00e9mon",
+        "term": "rotom"
+    },
+    {
+        "dex_no": 479,
+        "classification": "Plasma Pok\u00e9mon",
+        "term": "rotom heat"
+    },
+    {
+        "dex_no": 479,
+        "classification": "Plasma Pok\u00e9mon",
+        "term": "rotom wash"
+    },
+    {
+        "dex_no": 479,
+        "classification": "Plasma Pok\u00e9mon",
+        "term": "rotom frost"
+    },
+    {
+        "dex_no": 479,
+        "classification": "Plasma Pok\u00e9mon",
+        "term": "rotom fan"
+    },
+    {
+        "dex_no": 479,
+        "classification": "Plasma Pok\u00e9mon",
+        "term": "rotom mow"
+    },
+    {
+        "dex_no": 480,
+        "classification": "Knowledge Pok\u00e9mon",
+        "term": "uxie"
+    },
+    {
+        "dex_no": 481,
+        "classification": "Emotion Pok\u00e9mon",
+        "term": "mesprit"
+    },
+    {
+        "dex_no": 482,
+        "classification": "Willpower Pok\u00e9mon",
+        "term": "azelf"
+    },
+    {
+        "dex_no": 483,
+        "classification": "Temporal Pok\u00e9mon",
+        "term": "dialga"
+    },
+    {
+        "dex_no": 484,
+        "classification": "Spatial Pok\u00e9mon",
+        "term": "palkia"
+    },
+    {
+        "dex_no": 485,
+        "classification": "Lava Dome Pok\u00e9mon",
+        "term": "heatran"
+    },
+    {
+        "dex_no": 486,
+        "classification": "Colossal Pok\u00e9mon",
+        "term": "regigigas"
+    },
+    {
+        "dex_no": 487,
+        "classification": "Renegade Pok\u00e9mon",
+        "term": "giratina altered"
+    },
+    {
+        "dex_no": 487,
+        "classification": "Renegade Pok\u00e9mon",
+        "term": "giratina origin"
+    },
+    {
+        "dex_no": 488,
+        "classification": "Lunar Pok\u00e9mon",
+        "term": "cresselia"
+    },
+    {
+        "dex_no": 489,
+        "classification": "Sea Drifter Pok\u00e9mon",
+        "term": "phione"
+    },
+    {
+        "dex_no": 490,
+        "classification": "Seafaring Pok\u00e9mon",
+        "term": "manaphy"
+    },
+    {
+        "dex_no": 491,
+        "classification": "Pitch-Black Pok\u00e9mon",
+        "term": "darkrai"
+    },
+    {
+        "dex_no": 492,
+        "classification": "Gratitude Pok\u00e9mon",
+        "term": "shaymin land"
+    },
+    {
+        "dex_no": 492,
+        "classification": "Gratitude Pok\u00e9mon",
+        "term": "shaymin sky"
+    },
+    {
+        "dex_no": 493,
+        "classification": "Alpha Pok\u00e9mon",
+        "term": "arceus"
+    },
+    {
+        "dex_no": 494,
+        "classification": "Victory Pok\u00e9mon",
+        "term": "victini"
+    },
+    {
+        "dex_no": 495,
+        "classification": "Grass Snake Pok\u00e9mon",
+        "term": "snivy"
+    },
+    {
+        "dex_no": 496,
+        "classification": "Grass Snake Pok\u00e9mon",
+        "term": "servine"
+    },
+    {
+        "dex_no": 497,
+        "classification": "Regal Pok\u00e9mon",
+        "term": "serperior"
+    },
+    {
+        "dex_no": 498,
+        "classification": "Fire Pig Pok\u00e9mon",
+        "term": "tepig"
+    },
+    {
+        "dex_no": 499,
+        "classification": "Fire Pig Pok\u00e9mon",
+        "term": "pignite"
+    },
+    {
+        "dex_no": 500,
+        "classification": "Mega Fire Pig Pok\u00e9mon",
+        "term": "emboar"
+    },
+    {
+        "dex_no": 501,
+        "classification": "Sea Otter Pok\u00e9mon",
+        "term": "oshawott"
+    },
+    {
+        "dex_no": 502,
+        "classification": "Discipline Pok\u00e9mon",
+        "term": "dewott"
+    },
+    {
+        "dex_no": 503,
+        "classification": "Formidable Pok\u00e9mon",
+        "term": "samurott"
+    },
+    {
+        "dex_no": 504,
+        "classification": "Scout Pok\u00e9mon",
+        "term": "patrat"
+    },
+    {
+        "dex_no": 505,
+        "classification": "Lookout Pok\u00e9mon",
+        "term": "watchog"
+    },
+    {
+        "dex_no": 506,
+        "classification": "Puppy Pok\u00e9mon",
+        "term": "lillipup"
+    },
+    {
+        "dex_no": 507,
+        "classification": "Loyal Dog Pok\u00e9mon",
+        "term": "herdier"
+    },
+    {
+        "dex_no": 508,
+        "classification": "Big-Hearted Pok\u00e9mon",
+        "term": "stoutland"
+    },
+    {
+        "dex_no": 509,
+        "classification": "Devious Pok\u00e9mon",
+        "term": "purrloin"
+    },
+    {
+        "dex_no": 510,
+        "classification": "Cruel Pok\u00e9mon",
+        "term": "liepard"
+    },
+    {
+        "dex_no": 511,
+        "classification": "Grass Monkey Pok\u00e9mon",
+        "term": "pansage"
+    },
+    {
+        "dex_no": 512,
+        "classification": "Thorn Monkey Pok\u00e9mon",
+        "term": "simisage"
+    },
+    {
+        "dex_no": 513,
+        "classification": "High Temp Pok\u00e9mon",
+        "term": "pansear"
+    },
+    {
+        "dex_no": 514,
+        "classification": "Ember Pok\u00e9mon",
+        "term": "simisear"
+    },
+    {
+        "dex_no": 515,
+        "classification": "Spray Pok\u00e9mon",
+        "term": "panpour"
+    },
+    {
+        "dex_no": 516,
+        "classification": "Geyser Pok\u00e9mon",
+        "term": "simipour"
+    },
+    {
+        "dex_no": 517,
+        "classification": "Dream Eater Pok\u00e9mon",
+        "term": "munna"
+    },
+    {
+        "dex_no": 518,
+        "classification": "Drowsing Pok\u00e9mon",
+        "term": "musharna"
+    },
+    {
+        "dex_no": 519,
+        "classification": "Tiny Pigeon Pok\u00e9mon",
+        "term": "pidove"
+    },
+    {
+        "dex_no": 520,
+        "classification": "Wild Pigeon Pok\u00e9mon",
+        "term": "tranquill"
+    },
+    {
+        "dex_no": 521,
+        "classification": "Proud Pok\u00e9mon",
+        "term": "unfezant"
+    },
+    {
+        "dex_no": 522,
+        "classification": "Electrified Pok\u00e9mon",
+        "term": "blitzle"
+    },
+    {
+        "dex_no": 523,
+        "classification": "Thunderbolt Pok\u00e9mon",
+        "term": "zebstrika"
+    },
+    {
+        "dex_no": 524,
+        "classification": "Mantle Pok\u00e9mon",
+        "term": "roggenrola"
+    },
+    {
+        "dex_no": 525,
+        "classification": "Ore Pok\u00e9mon",
+        "term": "boldore"
+    },
+    {
+        "dex_no": 526,
+        "classification": "Compressed Pok\u00e9mon",
+        "term": "gigalith"
+    },
+    {
+        "dex_no": 527,
+        "classification": "Bat Pok\u00e9mon",
+        "term": "woobat"
+    },
+    {
+        "dex_no": 528,
+        "classification": "Courting Pok\u00e9mon",
+        "term": "swoobat"
+    },
+    {
+        "dex_no": 529,
+        "classification": "Mole Pok\u00e9mon",
+        "term": "drilbur"
+    },
+    {
+        "dex_no": 530,
+        "classification": "Subterrene Pok\u00e9mon",
+        "term": "excadrill"
+    },
+    {
+        "dex_no": 531,
+        "classification": "Hearing Pok\u00e9mon",
+        "term": "audino"
+    },
+    {
+        "dex_no": 531,
+        "classification": "Hearing Pok\u00e9mon",
+        "term": "mega audino"
+    },
+    {
+        "dex_no": 532,
+        "classification": "Muscular Pok\u00e9mon",
+        "term": "timburr"
+    },
+    {
+        "dex_no": 533,
+        "classification": "Muscular Pok\u00e9mon",
+        "term": "gurdurr"
+    },
+    {
+        "dex_no": 534,
+        "classification": "Muscular Pok\u00e9mon",
+        "term": "conkeldurr"
+    },
+    {
+        "dex_no": 535,
+        "classification": "Tadpole Pok\u00e9mon",
+        "term": "tympole"
+    },
+    {
+        "dex_no": 536,
+        "classification": "Vibration Pok\u00e9mon",
+        "term": "palpitoad"
+    },
+    {
+        "dex_no": 537,
+        "classification": "Vibration Pok\u00e9mon",
+        "term": "seismitoad"
+    },
+    {
+        "dex_no": 538,
+        "classification": "Judo Pok\u00e9mon",
+        "term": "throh"
+    },
+    {
+        "dex_no": 539,
+        "classification": "Karate Pok\u00e9mon",
+        "term": "sawk"
+    },
+    {
+        "dex_no": 540,
+        "classification": "Sewing Pok\u00e9mon",
+        "term": "sewaddle"
+    },
+    {
+        "dex_no": 541,
+        "classification": "Leaf-Wrapped Pok\u00e9mon",
+        "term": "swadloon"
+    },
+    {
+        "dex_no": 542,
+        "classification": "Nurturing Pok\u00e9mon",
+        "term": "leavanny"
+    },
+    {
+        "dex_no": 543,
+        "classification": "Centipede Pok\u00e9mon",
+        "term": "venipede"
+    },
+    {
+        "dex_no": 544,
+        "classification": "Curlipede Pok\u00e9mon",
+        "term": "whirlipede"
+    },
+    {
+        "dex_no": 545,
+        "classification": "Megapede Pok\u00e9mon",
+        "term": "scolipede"
+    },
+    {
+        "dex_no": 546,
+        "classification": "Cotton Puff Pok\u00e9mon",
+        "term": "cottonee"
+    },
+    {
+        "dex_no": 547,
+        "classification": "Windveiled Pok\u00e9mon",
+        "term": "whimsicott"
+    },
+    {
+        "dex_no": 548,
+        "classification": "Bulb Pok\u00e9mon",
+        "term": "petilil"
+    },
+    {
+        "dex_no": 549,
+        "classification": "Flowering Pok\u00e9mon",
+        "term": "lilligant"
+    },
+    {
+        "dex_no": 550,
+        "classification": "Hostile Pok\u00e9mon",
+        "term": "basculin red striped"
+    },
+    {
+        "dex_no": 550,
+        "classification": "Hostile Pok\u00e9mon",
+        "term": "basculin blue striped"
+    },
+    {
+        "dex_no": 551,
+        "classification": "Desert Croc Pok\u00e9mon",
+        "term": "sandile"
+    },
+    {
+        "dex_no": 552,
+        "classification": "Desert Croc Pok\u00e9mon",
+        "term": "krokorok"
+    },
+    {
+        "dex_no": 553,
+        "classification": "Intimidation Pok\u00e9mon",
+        "term": "krookodile"
+    },
+    {
+        "dex_no": 554,
+        "classification": "Zen Charm Pok\u00e9mon",
+        "term": "darumaka"
+    },
+    {
+        "dex_no": 555,
+        "classification": "Blazing Pok\u00e9mon",
+        "term": "darmanitan"
+    },
+    {
+        "dex_no": 555,
+        "classification": "Blazing Pok\u00e9mon",
+        "term": "darmanitan zen mode"
+    },
+    {
+        "dex_no": 556,
+        "classification": "Cactus Pok\u00e9mon",
+        "term": "maractus"
+    },
+    {
+        "dex_no": 557,
+        "classification": "Rock Inn Pok\u00e9mon",
+        "term": "dwebble"
+    },
+    {
+        "dex_no": 558,
+        "classification": "Stone Home Pok\u00e9mon",
+        "term": "crustle"
+    },
+    {
+        "dex_no": 559,
+        "classification": "Shedding Pok\u00e9mon",
+        "term": "scraggy"
+    },
+    {
+        "dex_no": 560,
+        "classification": "Hoodlum Pok\u00e9mon",
+        "term": "scrafty"
+    },
+    {
+        "dex_no": 561,
+        "classification": "Avianoid Pok\u00e9mon",
+        "term": "sigilyph"
+    },
+    {
+        "dex_no": 562,
+        "classification": "Spirit Pok\u00e9mon",
+        "term": "yamask"
+    },
+    {
+        "dex_no": 563,
+        "classification": "Coffin Pok\u00e9mon",
+        "term": "cofagrigus"
+    },
+    {
+        "dex_no": 564,
+        "classification": "Prototurtle Pok\u00e9mon",
+        "term": "tirtouga"
+    },
+    {
+        "dex_no": 565,
+        "classification": "Prototurtle Pok\u00e9mon",
+        "term": "carracosta"
+    },
+    {
+        "dex_no": 566,
+        "classification": "First Bird Pok\u00e9mon",
+        "term": "archen"
+    },
+    {
+        "dex_no": 567,
+        "classification": "First Bird Pok\u00e9mon",
+        "term": "archeops"
+    },
+    {
+        "dex_no": 568,
+        "classification": "Trash Bag Pok\u00e9mon",
+        "term": "trubbish"
+    },
+    {
+        "dex_no": 569,
+        "classification": "Trash Heap Pok\u00e9mon",
+        "term": "garbodor"
+    },
+    {
+        "dex_no": 570,
+        "classification": "Tricky Fox Pok\u00e9mon",
+        "term": "zorua"
+    },
+    {
+        "dex_no": 571,
+        "classification": "Illusion Fox Pok\u00e9mon",
+        "term": "zoroark"
+    },
+    {
+        "dex_no": 572,
+        "classification": "Chinchilla Pok\u00e9mon",
+        "term": "minccino"
+    },
+    {
+        "dex_no": 573,
+        "classification": "Scarf Pok\u00e9mon",
+        "term": "cinccino"
+    },
+    {
+        "dex_no": 574,
+        "classification": "Fixation Pok\u00e9mon",
+        "term": "gothita"
+    },
+    {
+        "dex_no": 575,
+        "classification": "Manipulate Pok\u00e9mon",
+        "term": "gothorita"
+    },
+    {
+        "dex_no": 576,
+        "classification": "Astral Body Pok\u00e9mon",
+        "term": "gothitelle"
+    },
+    {
+        "dex_no": 577,
+        "classification": "Cell Pok\u00e9mon",
+        "term": "solosis"
+    },
+    {
+        "dex_no": 578,
+        "classification": "Mitosis Pok\u00e9mon",
+        "term": "duosion"
+    },
+    {
+        "dex_no": 579,
+        "classification": "Multiplying Pok\u00e9mon",
+        "term": "reuniclus"
+    },
+    {
+        "dex_no": 580,
+        "classification": "Water Bird Pok\u00e9mon",
+        "term": "ducklett"
+    },
+    {
+        "dex_no": 581,
+        "classification": "White Bird Pok\u00e9mon",
+        "term": "swanna"
+    },
+    {
+        "dex_no": 582,
+        "classification": "Fresh Snow Pok\u00e9mon",
+        "term": "vanillite"
+    },
+    {
+        "dex_no": 583,
+        "classification": "Icy Snow Pok\u00e9mon",
+        "term": "vanillish"
+    },
+    {
+        "dex_no": 584,
+        "classification": "Snowstorm Pok\u00e9mon",
+        "term": "vanilluxe"
+    },
+    {
+        "dex_no": 585,
+        "classification": "Season Pok\u00e9mon",
+        "term": "deerling"
+    },
+    {
+        "dex_no": 586,
+        "classification": "Season Pok\u00e9mon",
+        "term": "sawsbuck"
+    },
+    {
+        "dex_no": 587,
+        "classification": "Sky Squirrel Pok\u00e9mon",
+        "term": "emolga"
+    },
+    {
+        "dex_no": 588,
+        "classification": "Clamping Pok\u00e9mon",
+        "term": "karrablast"
+    },
+    {
+        "dex_no": 589,
+        "classification": "Cavalry Pok\u00e9mon",
+        "term": "escavalier"
+    },
+    {
+        "dex_no": 590,
+        "classification": "Mushroom Pok\u00e9mon",
+        "term": "foongus"
+    },
+    {
+        "dex_no": 591,
+        "classification": "Mushroom Pok\u00e9mon",
+        "term": "amoonguss"
+    },
+    {
+        "dex_no": 592,
+        "classification": "Floating Pok\u00e9mon",
+        "term": "frillish"
+    },
+    {
+        "dex_no": 593,
+        "classification": "Floating Pok\u00e9mon",
+        "term": "jellicent"
+    },
+    {
+        "dex_no": 594,
+        "classification": "Caring Pok\u00e9mon",
+        "term": "alomomola"
+    },
+    {
+        "dex_no": 595,
+        "classification": "Attaching Pok\u00e9mon",
+        "term": "joltik"
+    },
+    {
+        "dex_no": 596,
+        "classification": "EleSpider Pok\u00e9mon",
+        "term": "galvantula"
+    },
+    {
+        "dex_no": 597,
+        "classification": "Thorn Seed Pok\u00e9mon",
+        "term": "ferroseed"
+    },
+    {
+        "dex_no": 598,
+        "classification": "Thorn Pod Pok\u00e9mon",
+        "term": "ferrothorn"
+    },
+    {
+        "dex_no": 599,
+        "classification": "Gear Pok\u00e9mon",
+        "term": "klink"
+    },
+    {
+        "dex_no": 600,
+        "classification": "Gear Pok\u00e9mon",
+        "term": "klang"
+    },
+    {
+        "dex_no": 601,
+        "classification": "Gear Pok\u00e9mon",
+        "term": "klinklang"
+    },
+    {
+        "dex_no": 602,
+        "classification": "EleFish Pok\u00e9mon",
+        "term": "tynamo"
+    },
+    {
+        "dex_no": 603,
+        "classification": "EleFish Pok\u00e9mon",
+        "term": "eelektrik"
+    },
+    {
+        "dex_no": 604,
+        "classification": "EleFish Pok\u00e9mon",
+        "term": "eelektross"
+    },
+    {
+        "dex_no": 605,
+        "classification": "Cerebral Pok\u00e9mon",
+        "term": "elgyem"
+    },
+    {
+        "dex_no": 606,
+        "classification": "Cerebral Pok\u00e9mon",
+        "term": "beheeyem"
+    },
+    {
+        "dex_no": 607,
+        "classification": "Candle Pok\u00e9mon",
+        "term": "litwick"
+    },
+    {
+        "dex_no": 608,
+        "classification": "Lamp Pok\u00e9mon",
+        "term": "lampent"
+    },
+    {
+        "dex_no": 609,
+        "classification": "Luring Pok\u00e9mon",
+        "term": "chandelure"
+    },
+    {
+        "dex_no": 610,
+        "classification": "Tusk Pok\u00e9mon",
+        "term": "axew"
+    },
+    {
+        "dex_no": 611,
+        "classification": "Axe Jaw Pok\u00e9mon",
+        "term": "fraxure"
+    },
+    {
+        "dex_no": 612,
+        "classification": "Axe Jaw Pok\u00e9mon",
+        "term": "haxorus"
+    },
+    {
+        "dex_no": 613,
+        "classification": "Chill Pok\u00e9mon",
+        "term": "cubchoo"
+    },
+    {
+        "dex_no": 614,
+        "classification": "Freezing Pok\u00e9mon",
+        "term": "beartic"
+    },
+    {
+        "dex_no": 615,
+        "classification": "Crystallizing Pok\u00e9mon",
+        "term": "cryogonal"
+    },
+    {
+        "dex_no": 616,
+        "classification": "Snail Pok\u00e9mon",
+        "term": "shelmet"
+    },
+    {
+        "dex_no": 617,
+        "classification": "Shell Out Pok\u00e9mon",
+        "term": "accelgor"
+    },
+    {
+        "dex_no": 618,
+        "classification": "Trap Pok\u00e9mon",
+        "term": "stunfisk"
+    },
+    {
+        "dex_no": 619,
+        "classification": "Martial Arts Pok\u00e9mon",
+        "term": "mienfoo"
+    },
+    {
+        "dex_no": 620,
+        "classification": "Martial Arts Pok\u00e9mon",
+        "term": "mienshao"
+    },
+    {
+        "dex_no": 621,
+        "classification": "Cave Pok\u00e9mon",
+        "term": "druddigon"
+    },
+    {
+        "dex_no": 622,
+        "classification": "Automaton Pok\u00e9mon",
+        "term": "golett"
+    },
+    {
+        "dex_no": 623,
+        "classification": "Automaton Pok\u00e9mon",
+        "term": "golurk"
+    },
+    {
+        "dex_no": 624,
+        "classification": "Sharp Blade Pok\u00e9mon",
+        "term": "pawniard"
+    },
+    {
+        "dex_no": 625,
+        "classification": "Sword Blade Pok\u00e9mon",
+        "term": "bisharp"
+    },
+    {
+        "dex_no": 626,
+        "classification": "Bash Buffalo Pok\u00e9mon",
+        "term": "bouffalant"
+    },
+    {
+        "dex_no": 627,
+        "classification": "Eaglet Pok\u00e9mon",
+        "term": "rufflet"
+    },
+    {
+        "dex_no": 628,
+        "classification": "Valiant Pok\u00e9mon",
+        "term": "braviary"
+    },
+    {
+        "dex_no": 629,
+        "classification": "Diapered Pok\u00e9mon",
+        "term": "vullaby"
+    },
+    {
+        "dex_no": 630,
+        "classification": "Bone Vulture Pok\u00e9mon",
+        "term": "mandibuzz"
+    },
+    {
+        "dex_no": 631,
+        "classification": "Anteater Pok\u00e9mon",
+        "term": "heatmor"
+    },
+    {
+        "dex_no": 632,
+        "classification": "Iron Ant Pok\u00e9mon",
+        "term": "durant"
+    },
+    {
+        "dex_no": 633,
+        "classification": "Irate Pok\u00e9mon",
+        "term": "deino"
+    },
+    {
+        "dex_no": 634,
+        "classification": "Hostile Pok\u00e9mon",
+        "term": "zweilous"
+    },
+    {
+        "dex_no": 635,
+        "classification": "Brutal Pok\u00e9mon",
+        "term": "hydreigon"
+    },
+    {
+        "dex_no": 636,
+        "classification": "Torch Pok\u00e9mon",
+        "term": "larvesta"
+    },
+    {
+        "dex_no": 637,
+        "classification": "Sun Pok\u00e9mon",
+        "term": "volcarona"
+    },
+    {
+        "dex_no": 638,
+        "classification": "Iron Will Pok\u00e9mon",
+        "term": "cobalion"
+    },
+    {
+        "dex_no": 639,
+        "classification": "Cavern Pok\u00e9mon",
+        "term": "terrakion"
+    },
+    {
+        "dex_no": 640,
+        "classification": "Grassland Pok\u00e9mon",
+        "term": "virizion"
+    },
+    {
+        "dex_no": 641,
+        "classification": "Cyclone Pok\u00e9mon",
+        "term": "tornadus incarnate"
+    },
+    {
+        "dex_no": 641,
+        "classification": "Cyclone Pok\u00e9mon",
+        "term": "tornadus therian"
+    },
+    {
+        "dex_no": 642,
+        "classification": "Bolt Strike Pok\u00e9mon",
+        "term": "thundurus incarnate"
+    },
+    {
+        "dex_no": 642,
+        "classification": "Bolt Strike Pok\u00e9mon",
+        "term": "thundurus therian"
+    },
+    {
+        "dex_no": 643,
+        "classification": "Vast White Pok\u00e9mon",
+        "term": "reshiram"
+    },
+    {
+        "dex_no": 644,
+        "classification": "Deep Black Pok\u00e9mon",
+        "term": "zekrom"
+    },
+    {
+        "dex_no": 645,
+        "classification": "Abundance Pok\u00e9mon",
+        "term": "landorus incarnate"
+    },
+    {
+        "dex_no": 645,
+        "classification": "Abundance Pok\u00e9mon",
+        "term": "landorus therian"
+    },
+    {
+        "dex_no": 646,
+        "classification": "Boundary Pok\u00e9mon",
+        "term": "kyurem"
+    },
+    {
+        "dex_no": 646,
+        "classification": "Boundary Pok\u00e9mon",
+        "term": "kyurem black"
+    },
+    {
+        "dex_no": 646,
+        "classification": "Boundary Pok\u00e9mon",
+        "term": "kyurem white"
+    },
+    {
+        "dex_no": 647,
+        "classification": "Colt Pok\u00e9mon",
+        "term": "keldeo"
+    },
+    {
+        "dex_no": 648,
+        "classification": "Melody Pok\u00e9mon",
+        "term": "meloetta aria"
+    },
+    {
+        "dex_no": 648,
+        "classification": "Melody Pok\u00e9mon",
+        "term": "meloetta pirouette"
+    },
+    {
+        "dex_no": 649,
+        "classification": "Paleozoic Pok\u00e9mon",
+        "term": "genesect"
+    },
+    {
+        "dex_no": 650,
+        "classification": "Spiky Nut Pok\u00e9mon",
+        "term": "chespin"
+    },
+    {
+        "dex_no": 651,
+        "classification": "Spiny Armor Pok\u00e9mon",
+        "term": "quilladin"
+    },
+    {
+        "dex_no": 652,
+        "classification": "Spiny Armor Pok\u00e9mon",
+        "term": "chesnaught"
+    },
+    {
+        "dex_no": 653,
+        "classification": "Fox Pok\u00e9mon",
+        "term": "fennekin"
+    },
+    {
+        "dex_no": 654,
+        "classification": "Fox Pok\u00e9mon",
+        "term": "braixen"
+    },
+    {
+        "dex_no": 655,
+        "classification": "Fox Pok\u00e9mon",
+        "term": "delphox"
+    },
+    {
+        "dex_no": 656,
+        "classification": "Bubble Frog Pok\u00e9mon",
+        "term": "froakie"
+    },
+    {
+        "dex_no": 657,
+        "classification": "Bubble Frog Pok\u00e9mon",
+        "term": "frogadier"
+    },
+    {
+        "dex_no": 658,
+        "classification": "Ninja Pok\u00e9mon",
+        "term": "greninja"
+    },
+    {
+        "dex_no": 658,
+        "classification": "Ninja Pok\u00e9mon",
+        "term": "greninja ash"
+    },
+    {
+        "dex_no": 659,
+        "classification": "Digging Pok\u00e9mon",
+        "term": "bunnelby"
+    },
+    {
+        "dex_no": 660,
+        "classification": "Digging Pok\u00e9mon",
+        "term": "diggersby"
+    },
+    {
+        "dex_no": 661,
+        "classification": "Tiny Robin Pok\u00e9mon",
+        "term": "fletchling"
+    },
+    {
+        "dex_no": 662,
+        "classification": "Ember Pok\u00e9mon",
+        "term": "fletchinder"
+    },
+    {
+        "dex_no": 663,
+        "classification": "Scorching Pok\u00e9mon",
+        "term": "talonflame"
+    },
+    {
+        "dex_no": 664,
+        "classification": "Scatterdust Pok\u00e9mon",
+        "term": "scatterbug"
+    },
+    {
+        "dex_no": 665,
+        "classification": "Scatterdust Pok\u00e9mon",
+        "term": "spewpa"
+    },
+    {
+        "dex_no": 666,
+        "classification": "Scale Pok\u00e9mon",
+        "term": "vivillon"
+    },
+    {
+        "dex_no": 667,
+        "classification": "Lion Cub Pok\u00e9mon",
+        "term": "litleo"
+    },
+    {
+        "dex_no": 668,
+        "classification": "Royal Pok\u00e9mon",
+        "term": "pyroar"
+    },
+    {
+        "dex_no": 669,
+        "classification": "Single Bloom Pok\u00e9mon",
+        "term": "flabebe"
+    },
+    {
+        "dex_no": 670,
+        "classification": "Fairy Pok\u00e9mon",
+        "term": "floette"
+    },
+    {
+        "dex_no": 670,
+        "classification": "Fairy Pok\u00e9mon",
+        "term": "floette eternal"
+    },
+    {
+        "dex_no": 671,
+        "classification": "Garden Pok\u00e9mon",
+        "term": "florges"
+    },
+    {
+        "dex_no": 672,
+        "classification": "Mount Pok\u00e9mon",
+        "term": "skiddo"
+    },
+    {
+        "dex_no": 673,
+        "classification": "Mount Pok\u00e9mon",
+        "term": "gogoat"
+    },
+    {
+        "dex_no": 674,
+        "classification": "Playful Pok\u00e9mon",
+        "term": "pancham"
+    },
+    {
+        "dex_no": 675,
+        "classification": "Daunting Pok\u00e9mon",
+        "term": "pangoro"
+    },
+    {
+        "dex_no": 676,
+        "classification": "Poodle Pok\u00e9mon",
+        "term": "furfrou"
+    },
+    {
+        "dex_no": 677,
+        "classification": "Restraint Pok\u00e9mon",
+        "term": "espurr"
+    },
+    {
+        "dex_no": 678,
+        "classification": "Constraint Pok\u00e9mon",
+        "term": "meowstic male"
+    },
+    {
+        "dex_no": 678,
+        "classification": "Constraint Pok\u00e9mon",
+        "term": "meowstic female"
+    },
+    {
+        "dex_no": 679,
+        "classification": "Sword Pok\u00e9mon",
+        "term": "honedge"
+    },
+    {
+        "dex_no": 680,
+        "classification": "Sword Pok\u00e9mon",
+        "term": "doublade"
+    },
+    {
+        "dex_no": 681,
+        "classification": "Royal Sword Pok\u00e9mon",
+        "term": "aegislash shield"
+    },
+    {
+        "dex_no": 681,
+        "classification": "Royal Sword Pok\u00e9mon",
+        "term": "aegislash blade"
+    },
+    {
+        "dex_no": 682,
+        "classification": "Perfume Pok\u00e9mon",
+        "term": "spritzee"
+    },
+    {
+        "dex_no": 683,
+        "classification": "Fragrance Pok\u00e9mon",
+        "term": "aromatisse"
+    },
+    {
+        "dex_no": 684,
+        "classification": "Cotton Candy Pok\u00e9mon",
+        "term": "swirlix"
+    },
+    {
+        "dex_no": 685,
+        "classification": "Meringue Pok\u00e9mon",
+        "term": "slurpuff"
+    },
+    {
+        "dex_no": 686,
+        "classification": "Revolving Pok\u00e9mon",
+        "term": "inkay"
+    },
+    {
+        "dex_no": 687,
+        "classification": "Overturning Pok\u00e9mon",
+        "term": "malamar"
+    },
+    {
+        "dex_no": 688,
+        "classification": "Two-Handed Pok\u00e9mon",
+        "term": "binacle"
+    },
+    {
+        "dex_no": 689,
+        "classification": "Collective Pok\u00e9mon",
+        "term": "barbaracle"
+    },
+    {
+        "dex_no": 690,
+        "classification": "Mock Kelp Pok\u00e9mon",
+        "term": "skrelp"
+    },
+    {
+        "dex_no": 691,
+        "classification": "Mock Kelp Pok\u00e9mon",
+        "term": "dragalge"
+    },
+    {
+        "dex_no": 692,
+        "classification": "Water Gun Pok\u00e9mon",
+        "term": "clauncher"
+    },
+    {
+        "dex_no": 693,
+        "classification": "Howitzer Pok\u00e9mon",
+        "term": "clawitzer"
+    },
+    {
+        "dex_no": 694,
+        "classification": "Generator Pok\u00e9mon",
+        "term": "helioptile"
+    },
+    {
+        "dex_no": 695,
+        "classification": "Generator Pok\u00e9mon",
+        "term": "heliolisk"
+    },
+    {
+        "dex_no": 696,
+        "classification": "Royal Heir Pok\u00e9mon",
+        "term": "tyrunt"
+    },
+    {
+        "dex_no": 697,
+        "classification": "Despot Pok\u00e9mon",
+        "term": "tyrantrum"
+    },
+    {
+        "dex_no": 698,
+        "classification": "Tundra Pok\u00e9mon",
+        "term": "amaura"
+    },
+    {
+        "dex_no": 699,
+        "classification": "Tundra Pok\u00e9mon",
+        "term": "aurorus"
+    },
+    {
+        "dex_no": 700,
+        "classification": "Intertwining Pok\u00e9mon",
+        "term": "sylveon"
+    },
+    {
+        "dex_no": 701,
+        "classification": "Wrestling Pok\u00e9mon",
+        "term": "hawlucha"
+    },
+    {
+        "dex_no": 702,
+        "classification": "Antenna Pok\u00e9mon",
+        "term": "dedenne"
+    },
+    {
+        "dex_no": 703,
+        "classification": "Jewel Pok\u00e9mon",
+        "term": "carbink"
+    },
+    {
+        "dex_no": 704,
+        "classification": "Soft Tissue Pok\u00e9mon",
+        "term": "goomy"
+    },
+    {
+        "dex_no": 705,
+        "classification": "Soft Tissue Pok\u00e9mon",
+        "term": "sliggoo"
+    },
+    {
+        "dex_no": 706,
+        "classification": "Dragon Pok\u00e9mon",
+        "term": "goodra"
+    },
+    {
+        "dex_no": 707,
+        "classification": "Key Ring Pok\u00e9mon",
+        "term": "klefki"
+    },
+    {
+        "dex_no": 708,
+        "classification": "Stump Pok\u00e9mon",
+        "term": "phantump"
+    },
+    {
+        "dex_no": 709,
+        "classification": "Elder Tree Pok\u00e9mon",
+        "term": "trevenant"
+    },
+    {
+        "dex_no": 710,
+        "classification": "Pumpkin Pok\u00e9mon",
+        "term": "pumpkaboo small"
+    },
+    {
+        "dex_no": 710,
+        "classification": "Pumpkin Pok\u00e9mon",
+        "term": "pumpkaboo average"
+    },
+    {
+        "dex_no": 710,
+        "classification": "Pumpkin Pok\u00e9mon",
+        "term": "pumpkaboo large"
+    },
+    {
+        "dex_no": 710,
+        "classification": "Pumpkin Pok\u00e9mon",
+        "term": "pumpkaboo super"
+    },
+    {
+        "dex_no": 711,
+        "classification": "Pumpkin Pok\u00e9mon",
+        "term": "gourgeist small"
+    },
+    {
+        "dex_no": 711,
+        "classification": "Pumpkin Pok\u00e9mon",
+        "term": "gourgeist average"
+    },
+    {
+        "dex_no": 711,
+        "classification": "Pumpkin Pok\u00e9mon",
+        "term": "gourgeist large"
+    },
+    {
+        "dex_no": 711,
+        "classification": "Pumpkin Pok\u00e9mon",
+        "term": "gourgeist super"
+    },
+    {
+        "dex_no": 712,
+        "classification": "Ice Chunk Pok\u00e9mon",
+        "term": "bergmite"
+    },
+    {
+        "dex_no": 713,
+        "classification": "Iceberg Pok\u00e9mon",
+        "term": "avalugg"
+    },
+    {
+        "dex_no": 714,
+        "classification": "Sound Wave Pok\u00e9mon",
+        "term": "noibat"
+    },
+    {
+        "dex_no": 715,
+        "classification": "Sound Wave Pok\u00e9mon",
+        "term": "noivern"
+    },
+    {
+        "dex_no": 716,
+        "classification": "Life Pok\u00e9mon",
+        "term": "xerneas"
+    },
+    {
+        "dex_no": 717,
+        "classification": "Destruction Pok\u00e9mon",
+        "term": "yveltal"
+    },
+    {
+        "dex_no": 718,
+        "classification": "Order Pok\u00e9mon",
+        "term": "zygarde 50% 50 normal"
+    },
+    {
+        "dex_no": 718,
+        "classification": "Order Pok\u00e9mon",
+        "term": "zygarde 10% 10 dog"
+    },
+    {
+        "dex_no": 718,
+        "classification": "Order Pok\u00e9mon",
+        "term": "zygarde complete 100% 100"
+    },
+    {
+        "dex_no": 719,
+        "classification": "Jewel Pok\u00e9mon",
+        "term": "diancie"
+    },
+    {
+        "dex_no": 719,
+        "classification": "Jewel Pok\u00e9mon",
+        "term": "mega diancie"
+    },
+    {
+        "dex_no": 720,
+        "classification": "Mischief Pok\u00e9mon",
+        "term": "hoopa confined"
+    },
+    {
+        "dex_no": 720,
+        "classification": "Mischief Pok\u00e9mon",
+        "term": "hoopa unbound"
+    },
+    {
+        "dex_no": 721,
+        "classification": "Steam Pok\u00e9mon",
+        "term": "volcanion"
+    },
+    {
+        "dex_no": 722,
+        "classification": "Grass Quill Pok\u00e9mon",
+        "term": "rowlet"
+    },
+    {
+        "dex_no": 723,
+        "classification": "Blade Quill Pok\u00e9mon",
+        "term": "dartrix"
+    },
+    {
+        "dex_no": 724,
+        "classification": "Arrow Quill Pok\u00e9mon",
+        "term": "decidueye"
+    },
+    {
+        "dex_no": 725,
+        "classification": "Fire Cat Pok\u00e9mon",
+        "term": "litten"
+    },
+    {
+        "dex_no": 726,
+        "classification": "Fire Cat Pok\u00e9mon",
+        "term": "torracat"
+    },
+    {
+        "dex_no": 727,
+        "classification": "Heel Pok\u00e9mon",
+        "term": "incineroar"
+    },
+    {
+        "dex_no": 728,
+        "classification": "Sea Lion Pok\u00e9mon",
+        "term": "popplio"
+    },
+    {
+        "dex_no": 729,
+        "classification": "Pop Star Pok\u00e9mon",
+        "term": "brionne"
+    },
+    {
+        "dex_no": 730,
+        "classification": "Soloist Pok\u00e9mon",
+        "term": "primarina"
+    },
+    {
+        "dex_no": 731,
+        "classification": "Woodpecker Pok\u00e9mon",
+        "term": "pikipek"
+    },
+    {
+        "dex_no": 732,
+        "classification": "Bugle Beak Pok\u00e9mon",
+        "term": "trumbeak"
+    },
+    {
+        "dex_no": 733,
+        "classification": "Cannon Pok\u00e9mon",
+        "term": "toucannon"
+    },
+    {
+        "dex_no": 734,
+        "classification": "Loitering Pok\u00e9mon",
+        "term": "yungoos"
+    },
+    {
+        "dex_no": 735,
+        "classification": "Stakeout Pok\u00e9mon",
+        "term": "gumshoos"
+    },
+    {
+        "dex_no": 736,
+        "classification": "Larva Pok\u00e9mon",
+        "term": "grubbin"
+    },
+    {
+        "dex_no": 737,
+        "classification": "Battery Pok\u00e9mon",
+        "term": "charjabug"
+    },
+    {
+        "dex_no": 738,
+        "classification": "Stag Beetle Pok\u00e9mon",
+        "term": "vikavolt"
+    },
+    {
+        "dex_no": 739,
+        "classification": "Boxing Pok\u00e9mon",
+        "term": "crabrawler"
+    },
+    {
+        "dex_no": 740,
+        "classification": "Woolly Crab Pok\u00e9mon",
+        "term": "crabominable"
+    },
+    {
+        "dex_no": 741,
+        "classification": "Dancing Pok\u00e9mon",
+        "term": "oricorio"
+    },
+    {
+        "dex_no": 742,
+        "classification": "Bee Fly Pok\u00e9mon",
+        "term": "cutiefly"
+    },
+    {
+        "dex_no": 743,
+        "classification": "Bee Fly Pok\u00e9mon",
+        "term": "ribombee"
+    },
+    {
+        "dex_no": 744,
+        "classification": "Puppy Pok\u00e9mon",
+        "term": "rockruff"
+    },
+    {
+        "dex_no": 745,
+        "classification": "Wolf Pok\u00e9mon",
+        "term": "lycanroc midday"
+    },
+    {
+        "dex_no": 745,
+        "classification": "Wolf Pok\u00e9mon",
+        "term": "lycanroc midnight"
+    },
+    {
+        "dex_no": 745,
+        "classification": "Wolf Pok\u00e9mon",
+        "term": "lycanroc dusk"
+    },
+    {
+        "dex_no": 746,
+        "classification": "Small Fry Pok\u00e9mon",
+        "term": "wishiwashi solo"
+    },
+    {
+        "dex_no": 746,
+        "classification": "Small Fry Pok\u00e9mon",
+        "term": "wishiwashi school"
+    },
+    {
+        "dex_no": 747,
+        "classification": "Brutal Star Pok\u00e9mon",
+        "term": "mareanie"
+    },
+    {
+        "dex_no": 748,
+        "classification": "Brutal Star Pok\u00e9mon",
+        "term": "toxapex"
+    },
+    {
+        "dex_no": 749,
+        "classification": "Donkey Pok\u00e9mon",
+        "term": "mudbray"
+    },
+    {
+        "dex_no": 750,
+        "classification": "Draft Horse Pok\u00e9mon",
+        "term": "mudsdale"
+    },
+    {
+        "dex_no": 751,
+        "classification": "Water Bubble Pok\u00e9mon",
+        "term": "dewpider"
+    },
+    {
+        "dex_no": 752,
+        "classification": "Water Bubble Pok\u00e9mon",
+        "term": "araquanid"
+    },
+    {
+        "dex_no": 753,
+        "classification": "Sickle Grass Pok\u00e9mon",
+        "term": "fomantis"
+    },
+    {
+        "dex_no": 754,
+        "classification": "Bloom Sickle Pok\u00e9mon",
+        "term": "lurantis"
+    },
+    {
+        "dex_no": 755,
+        "classification": "Illuminating Pok\u00e9mon",
+        "term": "morelull"
+    },
+    {
+        "dex_no": 756,
+        "classification": "Illuminating Pok\u00e9mon",
+        "term": "shiinotic"
+    },
+    {
+        "dex_no": 757,
+        "classification": "Toxic Lizard Pok\u00e9mon",
+        "term": "salandit"
+    },
+    {
+        "dex_no": 758,
+        "classification": "Toxic Lizard Pok\u00e9mon",
+        "term": "salazzle"
+    },
+    {
+        "dex_no": 759,
+        "classification": "Flailing Pok\u00e9mon",
+        "term": "stufful"
+    },
+    {
+        "dex_no": 760,
+        "classification": "Strong Arm Pok\u00e9mon",
+        "term": "bewear"
+    },
+    {
+        "dex_no": 761,
+        "classification": "Fruit Pok\u00e9mon",
+        "term": "bounsweet"
+    },
+    {
+        "dex_no": 762,
+        "classification": "Fruit Pok\u00e9mon",
+        "term": "steenee"
+    },
+    {
+        "dex_no": 763,
+        "classification": "Fruit Pok\u00e9mon",
+        "term": "tsareena"
+    },
+    {
+        "dex_no": 764,
+        "classification": "Posy Picker Pok\u00e9mon",
+        "term": "comfey"
+    },
+    {
+        "dex_no": 765,
+        "classification": "Sage Pok\u00e9mon",
+        "term": "oranguru"
+    },
+    {
+        "dex_no": 766,
+        "classification": "Teamwork Pok\u00e9mon",
+        "term": "passimian"
+    },
+    {
+        "dex_no": 767,
+        "classification": "Turn Tail Pok\u00e9mon",
+        "term": "wimpod"
+    },
+    {
+        "dex_no": 768,
+        "classification": "Hard Scale Pok\u00e9mon",
+        "term": "golisopod"
+    },
+    {
+        "dex_no": 769,
+        "classification": "Sand Heap Pok\u00e9mon",
+        "term": "sandygast"
+    },
+    {
+        "dex_no": 770,
+        "classification": "Sand Castle Pok\u00e9mon",
+        "term": "palossand"
+    },
+    {
+        "dex_no": 771,
+        "classification": "Sea Cucumber Pok\u00e9mon",
+        "term": "pyukumuku"
+    },
+    {
+        "dex_no": 772,
+        "classification": "Synthetic Pok\u00e9mon",
+        "term": "type: null"
+    },
+    {
+        "dex_no": 773,
+        "classification": "Synthetic Pok\u00e9mon",
+        "term": "silvally"
+    },
+    {
+        "dex_no": 774,
+        "classification": "Meteor Pok\u00e9mon",
+        "term": "minior meteor"
+    },
+    {
+        "dex_no": 774,
+        "classification": "Meteor Pok\u00e9mon",
+        "term": "minior core"
+    },
+    {
+        "dex_no": 775,
+        "classification": "Drowsing Pok\u00e9mon",
+        "term": "komala"
+    },
+    {
+        "dex_no": 776,
+        "classification": "Blast Turtle Pok\u00e9mon",
+        "term": "turtonator"
+    },
+    {
+        "dex_no": 777,
+        "classification": "Roly-Poly Pok\u00e9mon",
+        "term": "togedemaru"
+    },
+    {
+        "dex_no": 778,
+        "classification": "Disguise Pok\u00e9mon",
+        "term": "mimikyu"
+    },
+    {
+        "dex_no": 779,
+        "classification": "Gnash Teeth Pok\u00e9mon",
+        "term": "bruxish"
+    },
+    {
+        "dex_no": 780,
+        "classification": "Placid Pok\u00e9mon",
+        "term": "drampa"
+    },
+    {
+        "dex_no": 781,
+        "classification": "Sea Creeper Pok\u00e9mon",
+        "term": "dhelmise"
+    },
+    {
+        "dex_no": 782,
+        "classification": "Scaly Pok\u00e9mon",
+        "term": "jangmo o"
+    },
+    {
+        "dex_no": 783,
+        "classification": "Scaly Pok\u00e9mon",
+        "term": "hakamo o"
+    },
+    {
+        "dex_no": 784,
+        "classification": "Scaly Pok\u00e9mon",
+        "term": "kommo o"
+    },
+    {
+        "dex_no": 785,
+        "classification": "Land Spirit Pok\u00e9mon",
+        "term": "tapu koko"
+    },
+    {
+        "dex_no": 786,
+        "classification": "Land Spirit Pok\u00e9mon",
+        "term": "tapu lele"
+    },
+    {
+        "dex_no": 787,
+        "classification": "Land Spirit Pok\u00e9mon",
+        "term": "tapu bulu"
+    },
+    {
+        "dex_no": 788,
+        "classification": "Land Spirit Pok\u00e9mon",
+        "term": "tapu fini"
+    },
+    {
+        "dex_no": 789,
+        "classification": "Nebula Pok\u00e9mon",
+        "term": "cosmog"
+    },
+    {
+        "dex_no": 790,
+        "classification": "Protostar Pok\u00e9mon",
+        "term": "cosmoem"
+    },
+    {
+        "dex_no": 791,
+        "classification": "Sunne Pok\u00e9mon",
+        "term": "solgaleo"
+    },
+    {
+        "dex_no": 792,
+        "classification": "Moone Pok\u00e9mon",
+        "term": "lunala"
+    },
+    {
+        "dex_no": 793,
+        "classification": "Parasite Pok\u00e9mon",
+        "term": "nihilego"
+    },
+    {
+        "dex_no": 794,
+        "classification": "Swollen Pok\u00e9mon",
+        "term": "buzzwole"
+    },
+    {
+        "dex_no": 795,
+        "classification": "Lissome Pok\u00e9mon",
+        "term": "pheromosa"
+    },
+    {
+        "dex_no": 796,
+        "classification": "Glowing Pok\u00e9mon",
+        "term": "xurkitree"
+    },
+    {
+        "dex_no": 797,
+        "classification": "Launch Pok\u00e9mon",
+        "term": "celesteela"
+    },
+    {
+        "dex_no": 798,
+        "classification": "Drawn Sword Pok\u00e9mon",
+        "term": "kartana"
+    },
+    {
+        "dex_no": 799,
+        "classification": "Junkivore Pok\u00e9mon",
+        "term": "guzzlord"
+    },
+    {
+        "dex_no": 800,
+        "classification": "Prism Pok\u00e9mon",
+        "term": "necrozma"
+    },
+    {
+        "dex_no": 800,
+        "classification": "Prism Pok\u00e9mon",
+        "term": "dusk mane necrozma"
+    },
+    {
+        "dex_no": 800,
+        "classification": "Prism Pok\u00e9mon",
+        "term": "dawn wings necrozma"
+    },
+    {
+        "dex_no": 800,
+        "classification": "Prism Pok\u00e9mon",
+        "term": "ultra necrozma"
+    },
+    {
+        "dex_no": 801,
+        "classification": "Artificial Pok\u00e9mon",
+        "term": "magearna"
+    },
+    {
+        "dex_no": 802,
+        "classification": "Gloomdweller Pok\u00e9mon",
+        "term": "marshadow"
+    },
+    {
+        "dex_no": 803,
+        "classification": "Poison Pin Pok\u00e9mon",
+        "term": "poipole"
+    },
+    {
+        "dex_no": 804,
+        "classification": "Poison Pin Pok\u00e9mon",
+        "term": "naganadel"
+    },
+    {
+        "dex_no": 805,
+        "classification": "Rampart Pok\u00e9mon",
+        "term": "stakataka"
+    },
+    {
+        "dex_no": 806,
+        "classification": "Fireworks Pok\u00e9mon",
+        "term": "blacephalon"
+    },
+    {
+        "dex_no": 807,
+        "classification": "Thunderclap Pok\u00e9mon",
+        "term": "zeraora"
+    }
+]

@@ -1,0 +1,5654 @@
+[
+    {
+        "term": "bulbasaur",
+        "english": "Bulbasaur",
+        "japanese": "Fushigidane",
+        "kana": "\u30d5\u30b7\u30ae\u30c0\u30cd"
+    },
+    {
+        "term": "ivysaur",
+        "english": "Ivysaur",
+        "japanese": "Fushigisou",
+        "kana": "\u30d5\u30b7\u30ae\u30bd\u30a6"
+    },
+    {
+        "term": "venusaur",
+        "english": "Venusaur",
+        "japanese": "Fushigibana",
+        "kana": "\u30d5\u30b7\u30ae\u30d0\u30ca"
+    },
+    {
+        "term": "mega venusaur",
+        "english": "Mega Venusaur",
+        "japanese": "Fushigibana",
+        "kana": "\u30d5\u30b7\u30ae\u30d0\u30ca"
+    },
+    {
+        "term": "charmander",
+        "english": "Charmander",
+        "japanese": "Hitokage",
+        "kana": "\u30d2\u30c8\u30ab\u30b2"
+    },
+    {
+        "term": "charmeleon",
+        "english": "Charmeleon",
+        "japanese": "Rizard",
+        "kana": "\u30ea\u30b6\u30fc\u30c9"
+    },
+    {
+        "term": "charizard",
+        "english": "Charizard",
+        "japanese": "Lizardon",
+        "kana": "\u30ea\u30b6\u30fc\u30c9\u30f3"
+    },
+    {
+        "term": "mega charizard x",
+        "english": "Mega Charizard X",
+        "japanese": "Lizardon",
+        "kana": "\u30ea\u30b6\u30fc\u30c9\u30f3"
+    },
+    {
+        "term": "mega charizard y",
+        "english": "Mega Charizard Y",
+        "japanese": "Lizardon",
+        "kana": "\u30ea\u30b6\u30fc\u30c9\u30f3"
+    },
+    {
+        "term": "squirtle",
+        "english": "Squirtle",
+        "japanese": "Zenigame",
+        "kana": "\u30bc\u30cb\u30ac\u30e1"
+    },
+    {
+        "term": "wartortle",
+        "english": "Wartortle",
+        "japanese": "Kamer",
+        "kana": "\u30ab\u30e1\u30fc\u30eb"
+    },
+    {
+        "term": "blastoise",
+        "english": "Blastoise",
+        "japanese": "Kamex",
+        "kana": "\u30ab\u30e1\u30c3\u30af\u30b9"
+    },
+    {
+        "term": "mega blastoise",
+        "english": "Mega Blastoise",
+        "japanese": "Kamex",
+        "kana": "\u30ab\u30e1\u30c3\u30af\u30b9"
+    },
+    {
+        "term": "caterpie",
+        "english": "Caterpie",
+        "japanese": "Catapie",
+        "kana": "\u30ad\u30e3\u30bf\u30d4\u30fc"
+    },
+    {
+        "term": "metapod",
+        "english": "Metapod",
+        "japanese": "Trancel",
+        "kana": "\u30c8\u30e9\u30f3\u30bb\u30eb"
+    },
+    {
+        "term": "butterfree",
+        "english": "Butterfree",
+        "japanese": "Batterfree",
+        "kana": "\u30d0\u30bf\u30d5\u30ea\u30fc"
+    },
+    {
+        "term": "weedle",
+        "english": "Weedle",
+        "japanese": "Beedle",
+        "kana": "\u30d3\u30fc\u30c9\u30eb"
+    },
+    {
+        "term": "kakuna",
+        "english": "Kakuna",
+        "japanese": "Kokoon",
+        "kana": "\u30b3\u30af\u30fc\u30f3"
+    },
+    {
+        "term": "beedrill",
+        "english": "Beedrill",
+        "japanese": "Spear",
+        "kana": "\u30b9\u30d4\u30a2\u30fc"
+    },
+    {
+        "term": "mega beedrill",
+        "english": "Mega Beedrill",
+        "japanese": "Spear",
+        "kana": "\u30b9\u30d4\u30a2\u30fc"
+    },
+    {
+        "term": "pidgey",
+        "english": "Pidgey",
+        "japanese": "Poppo",
+        "kana": "\u30dd\u30c3\u30dd"
+    },
+    {
+        "term": "pidgeotto",
+        "english": "Pidgeotto",
+        "japanese": "Pidgeon",
+        "kana": "\u30d4\u30b8\u30e7\u30f3"
+    },
+    {
+        "term": "pidgeot",
+        "english": "Pidgeot",
+        "japanese": "Pidgeott",
+        "kana": "\u30d4\u30b8\u30e7\u30c3\u30c8"
+    },
+    {
+        "term": "mega pidgeot",
+        "english": "Mega Pidgeot",
+        "japanese": "Pidgeott",
+        "kana": "\u30d4\u30b8\u30e7\u30c3\u30c8"
+    },
+    {
+        "term": "rattata",
+        "english": "Rattata",
+        "japanese": "Koratta",
+        "kana": "\u30b3\u30e9\u30c3\u30bf"
+    },
+    {
+        "term": "alolan rattata",
+        "english": "Alolan Rattata",
+        "japanese": "Koratta",
+        "kana": "\u30b3\u30e9\u30c3\u30bf"
+    },
+    {
+        "term": "raticate",
+        "english": "Raticate",
+        "japanese": "Ratta",
+        "kana": "\u30e9\u30c3\u30bf"
+    },
+    {
+        "term": "alolan raticate",
+        "english": "Alolan Raticate",
+        "japanese": "Ratta",
+        "kana": "\u30e9\u30c3\u30bf"
+    },
+    {
+        "term": "spearow",
+        "english": "Spearow",
+        "japanese": "Onisuzume",
+        "kana": "\u30aa\u30cb\u30b9\u30ba\u30e1"
+    },
+    {
+        "term": "fearow",
+        "english": "Fearow",
+        "japanese": "Onidrill",
+        "kana": "\u30aa\u30cb\u30c9\u30ea\u30eb"
+    },
+    {
+        "term": "ekans",
+        "english": "Ekans",
+        "japanese": "Arbo",
+        "kana": "\u30a2\u30fc\u30dc"
+    },
+    {
+        "term": "arbok",
+        "english": "Arbok",
+        "japanese": "Arbok",
+        "kana": "\u30a2\u30fc\u30dc\u30c3\u30af"
+    },
+    {
+        "term": "pikachu",
+        "english": "Pikachu",
+        "japanese": "Pikachu",
+        "kana": "\u30d4\u30ab\u30c1\u30e5\u30a6"
+    },
+    {
+        "term": "raichu",
+        "english": "Raichu",
+        "japanese": "Raichu",
+        "kana": "\u30e9\u30a4\u30c1\u30e5\u30a6"
+    },
+    {
+        "term": "alolan raichu",
+        "english": "Alolan Raichu",
+        "japanese": "Raichu",
+        "kana": "\u30e9\u30a4\u30c1\u30e5\u30a6"
+    },
+    {
+        "term": "sandshrew",
+        "english": "Sandshrew",
+        "japanese": "Sand",
+        "kana": "\u30b5\u30f3\u30c9"
+    },
+    {
+        "term": "alolan sandshrew",
+        "english": "Alolan Sandshrew",
+        "japanese": "Sand",
+        "kana": "\u30b5\u30f3\u30c9"
+    },
+    {
+        "term": "sandslash",
+        "english": "Sandslash",
+        "japanese": "Sandpan",
+        "kana": "\u30b5\u30f3\u30c9\u30d1\u30f3"
+    },
+    {
+        "term": "alolan sandslash",
+        "english": "Alolan Sandslash",
+        "japanese": "Sandpan",
+        "kana": "\u30b5\u30f3\u30c9\u30d1\u30f3"
+    },
+    {
+        "term": "nidoran female",
+        "english": "Nidoran\u2640",
+        "japanese": "Nidoran\u2640",
+        "kana": "\u30cb\u30c9\u30e9\u30f3\u2640"
+    },
+    {
+        "term": "nidorina",
+        "english": "Nidorina",
+        "japanese": "Nidorina",
+        "kana": "\u30cb\u30c9\u30ea\u30fc\u30ca"
+    },
+    {
+        "term": "nidoqueen",
+        "english": "Nidoqueen",
+        "japanese": "Nidoqueen",
+        "kana": "\u30cb\u30c9\u30af\u30a4\u30f3"
+    },
+    {
+        "term": "nidoran male",
+        "english": "Nidoran\u2642",
+        "japanese": "Nidoran\u2642",
+        "kana": "\u30cb\u30c9\u30e9\u30f3\u2642"
+    },
+    {
+        "term": "nidorino",
+        "english": "Nidorino",
+        "japanese": "Nidorino",
+        "kana": "\u30cb\u30c9\u30ea\u30fc\u30ce"
+    },
+    {
+        "term": "nidoking",
+        "english": "Nidoking",
+        "japanese": "Nidoking",
+        "kana": "\u30cb\u30c9\u30ad\u30f3\u30b0"
+    },
+    {
+        "term": "clefairy",
+        "english": "Clefairy",
+        "japanese": "Pippi",
+        "kana": "\u30d4\u30c3\u30d4"
+    },
+    {
+        "term": "clefable",
+        "english": "Clefable",
+        "japanese": "Pixy",
+        "kana": "\u30d4\u30af\u30b7\u30fc"
+    },
+    {
+        "term": "vulpix",
+        "english": "Vulpix",
+        "japanese": "Rokon",
+        "kana": "\u30ed\u30b3\u30f3"
+    },
+    {
+        "term": "alolan vulpix",
+        "english": "Alolan Vulpix",
+        "japanese": "Rokon",
+        "kana": "\u30ed\u30b3\u30f3"
+    },
+    {
+        "term": "ninetales",
+        "english": "Ninetales",
+        "japanese": "Kyukon",
+        "kana": "\u30ad\u30e5\u30a6\u30b3\u30f3"
+    },
+    {
+        "term": "alolan ninetales",
+        "english": "Alolan Ninetales",
+        "japanese": "Kyukon",
+        "kana": "\u30ad\u30e5\u30a6\u30b3\u30f3"
+    },
+    {
+        "term": "jigglypuff",
+        "english": "Jigglypuff",
+        "japanese": "Purin",
+        "kana": "\u30d7\u30ea\u30f3"
+    },
+    {
+        "term": "wigglytuff",
+        "english": "Wigglytuff",
+        "japanese": "Pukurin",
+        "kana": "\u30d7\u30af\u30ea\u30f3"
+    },
+    {
+        "term": "zubat",
+        "english": "Zubat",
+        "japanese": "Zubat",
+        "kana": "\u30ba\u30d0\u30c3\u30c8"
+    },
+    {
+        "term": "golbat",
+        "english": "Golbat",
+        "japanese": "Golbat",
+        "kana": "\u30b4\u30eb\u30d0\u30c3\u30c8"
+    },
+    {
+        "term": "oddish",
+        "english": "Oddish",
+        "japanese": "Nazonokusa",
+        "kana": "\u30ca\u30be\u30ce\u30af\u30b5"
+    },
+    {
+        "term": "gloom",
+        "english": "Gloom",
+        "japanese": "Kusaihana",
+        "kana": "\u30af\u30b5\u30a4\u30cf\u30ca"
+    },
+    {
+        "term": "vileplume",
+        "english": "Vileplume",
+        "japanese": "Rafureissa",
+        "kana": "\u30e9\u30d5\u30ec\u30b7\u30a2"
+    },
+    {
+        "term": "paras",
+        "english": "Paras",
+        "japanese": "Paras",
+        "kana": "\u30d1\u30e9\u30b9"
+    },
+    {
+        "term": "parasect",
+        "english": "Parasect",
+        "japanese": "Parasect",
+        "kana": "\u30d1\u30e9\u30bb\u30af\u30c8"
+    },
+    {
+        "term": "venonat",
+        "english": "Venonat",
+        "japanese": "Kongpang",
+        "kana": "\u30b3\u30f3\u30d1\u30f3"
+    },
+    {
+        "term": "venomoth",
+        "english": "Venomoth",
+        "japanese": "Morphon",
+        "kana": "\u30e2\u30eb\u30d5\u30a9\u30f3"
+    },
+    {
+        "term": "diglett",
+        "english": "Diglett",
+        "japanese": "Digda",
+        "kana": "\u30c7\u30a3\u30b0\u30c0"
+    },
+    {
+        "term": "alolan diglett",
+        "english": "Alolan Diglett",
+        "japanese": "Digda",
+        "kana": "\u30c7\u30a3\u30b0\u30c0"
+    },
+    {
+        "term": "dugtrio",
+        "english": "Dugtrio",
+        "japanese": "Dugtrio",
+        "kana": "\u30c0\u30b0\u30c8\u30ea\u30aa"
+    },
+    {
+        "term": "alolan dugtrio",
+        "english": "Alolan Dugtrio",
+        "japanese": "Dugtrio",
+        "kana": "\u30c0\u30b0\u30c8\u30ea\u30aa"
+    },
+    {
+        "term": "meowth",
+        "english": "Meowth",
+        "japanese": "Nyarth",
+        "kana": "\u30cb\u30e3\u30fc\u30b9"
+    },
+    {
+        "term": "alolan meowth",
+        "english": "Alolan Meowth",
+        "japanese": "Nyarth",
+        "kana": "\u30cb\u30e3\u30fc\u30b9"
+    },
+    {
+        "term": "persian",
+        "english": "Persian",
+        "japanese": "Persian",
+        "kana": "\u30da\u30eb\u30b7\u30a2\u30f3"
+    },
+    {
+        "term": "alolan persian",
+        "english": "Alolan Persian",
+        "japanese": "Persian",
+        "kana": "\u30da\u30eb\u30b7\u30a2\u30f3"
+    },
+    {
+        "term": "psyduck",
+        "english": "Psyduck",
+        "japanese": "Koduck",
+        "kana": "\u30b3\u30c0\u30c3\u30af"
+    },
+    {
+        "term": "golduck",
+        "english": "Golduck",
+        "japanese": "Golduck",
+        "kana": "\u30b4\u30eb\u30c0\u30c3\u30af"
+    },
+    {
+        "term": "mankey",
+        "english": "Mankey",
+        "japanese": "Mankey",
+        "kana": "\u30de\u30f3\u30ad\u30fc"
+    },
+    {
+        "term": "primeape",
+        "english": "Primeape",
+        "japanese": "Okorizaru",
+        "kana": "\u30aa\u30b3\u30ea\u30b6\u30eb"
+    },
+    {
+        "term": "growlithe",
+        "english": "Growlithe",
+        "japanese": "Gardie",
+        "kana": "\u30ac\u30fc\u30c7\u30a3"
+    },
+    {
+        "term": "arcanine",
+        "english": "Arcanine",
+        "japanese": "Windie",
+        "kana": "\u30a6\u30a4\u30f3\u30c7\u30a3"
+    },
+    {
+        "term": "poliwag",
+        "english": "Poliwag",
+        "japanese": "Nyoromo",
+        "kana": "\u30cb\u30e7\u30ed\u30e2"
+    },
+    {
+        "term": "poliwhirl",
+        "english": "Poliwhirl",
+        "japanese": "Nyorozo",
+        "kana": "\u30cb\u30e7\u30ed\u30be"
+    },
+    {
+        "term": "poliwrath",
+        "english": "Poliwrath",
+        "japanese": "Nyorobon",
+        "kana": "\u30cb\u30e7\u30ed\u30dc\u30f3"
+    },
+    {
+        "term": "abra",
+        "english": "Abra",
+        "japanese": "Casey",
+        "kana": "\u30b1\u30fc\u30b7\u30a3"
+    },
+    {
+        "term": "kadabra",
+        "english": "Kadabra",
+        "japanese": "Yunghelor",
+        "kana": "\u30e6\u30f3\u30b2\u30e9\u30fc"
+    },
+    {
+        "term": "alakazam",
+        "english": "Alakazam",
+        "japanese": "Foodin",
+        "kana": "\u30d5\u30fc\u30c7\u30a3\u30f3"
+    },
+    {
+        "term": "mega alakazam",
+        "english": "Mega Alakazam",
+        "japanese": "Foodin",
+        "kana": "\u30d5\u30fc\u30c7\u30a3\u30f3"
+    },
+    {
+        "term": "machop",
+        "english": "Machop",
+        "japanese": "Wanrikie",
+        "kana": "\u30ef\u30f3\u30ea\u30ad\u30fc"
+    },
+    {
+        "term": "machoke",
+        "english": "Machoke",
+        "japanese": "Gorikie",
+        "kana": "\u30b4\u30fc\u30ea\u30ad\u30fc"
+    },
+    {
+        "term": "machamp",
+        "english": "Machamp",
+        "japanese": "Kairikie",
+        "kana": "\u30ab\u30a4\u30ea\u30ad\u30fc"
+    },
+    {
+        "term": "bellsprout",
+        "english": "Bellsprout",
+        "japanese": "Madatsubomi",
+        "kana": "\u30de\u30c0\u30c4\u30dc\u30df"
+    },
+    {
+        "term": "weepinbell",
+        "english": "Weepinbell",
+        "japanese": "Utsodon",
+        "kana": "\u30a6\u30c4\u30c9\u30f3"
+    },
+    {
+        "term": "victreebel",
+        "english": "Victreebel",
+        "japanese": "Utsoboto",
+        "kana": "\u30a6\u30c4\u30dc\u30c3\u30c8"
+    },
+    {
+        "term": "tentacool",
+        "english": "Tentacool",
+        "japanese": "Menokurage",
+        "kana": "\u30e1\u30ce\u30af\u30e9\u30b2"
+    },
+    {
+        "term": "tentacruel",
+        "english": "Tentacruel",
+        "japanese": "Dokukurage",
+        "kana": "\u30c9\u30af\u30af\u30e9\u30b2"
+    },
+    {
+        "term": "geodude",
+        "english": "Geodude",
+        "japanese": "Ishitsubute",
+        "kana": "\u30a4\u30b7\u30c4\u30d6\u30c6"
+    },
+    {
+        "term": "alolan geodude",
+        "english": "Alolan Geodude",
+        "japanese": "Ishitsubute",
+        "kana": "\u30a4\u30b7\u30c4\u30d6\u30c6"
+    },
+    {
+        "term": "graveler",
+        "english": "Graveler",
+        "japanese": "Goroun",
+        "kana": "\u30b4\u30ed\u30fc\u30f3"
+    },
+    {
+        "term": "alolan graveler",
+        "english": "Alolan Graveler",
+        "japanese": "Goroun",
+        "kana": "\u30b4\u30ed\u30fc\u30f3"
+    },
+    {
+        "term": "golem",
+        "english": "Golem",
+        "japanese": "Gorounya",
+        "kana": "\u30b4\u30ed\u30fc\u30cb\u30e3"
+    },
+    {
+        "term": "alolan golem",
+        "english": "Alolan Golem",
+        "japanese": "Gorounya",
+        "kana": "\u30b4\u30ed\u30fc\u30cb\u30e3"
+    },
+    {
+        "term": "ponyta",
+        "english": "Ponyta",
+        "japanese": "Ponyta",
+        "kana": "\u30dd\u30cb\u30fc\u30bf"
+    },
+    {
+        "term": "rapidash",
+        "english": "Rapidash",
+        "japanese": "Gyaroppu",
+        "kana": "\u30ae\u30e3\u30ed\u30c3\u30d7"
+    },
+    {
+        "term": "slowpoke",
+        "english": "Slowpoke",
+        "japanese": "Yadon",
+        "kana": "\u30e4\u30c9\u30f3"
+    },
+    {
+        "term": "slowbro",
+        "english": "Slowbro",
+        "japanese": "Yadoran",
+        "kana": "\u30e4\u30c9\u30e9\u30f3"
+    },
+    {
+        "term": "mega slowbro",
+        "english": "Mega Slowbro",
+        "japanese": "Yadoran",
+        "kana": "\u30e4\u30c9\u30e9\u30f3"
+    },
+    {
+        "term": "magnemite",
+        "english": "Magnemite",
+        "japanese": "Coil",
+        "kana": "\u30b3\u30a4\u30eb"
+    },
+    {
+        "term": "magneton",
+        "english": "Magneton",
+        "japanese": "Rarecoil",
+        "kana": "\u30ec\u30a2\u30b3\u30a4\u30eb"
+    },
+    {
+        "term": "farfetch'd",
+        "english": "Farfetch'd",
+        "japanese": "Kamonegi",
+        "kana": "\u30ab\u30e2\u30cd\u30ae"
+    },
+    {
+        "term": "doduo",
+        "english": "Doduo",
+        "japanese": "Dodo",
+        "kana": "\u30c9\u30fc\u30c9\u30fc"
+    },
+    {
+        "term": "dodrio",
+        "english": "Dodrio",
+        "japanese": "Dodorio",
+        "kana": "\u30c9\u30fc\u30c9\u30ea\u30aa"
+    },
+    {
+        "term": "seel",
+        "english": "Seel",
+        "japanese": "Pauwau",
+        "kana": "\u30d1\u30a6\u30ef\u30a6"
+    },
+    {
+        "term": "dewgong",
+        "english": "Dewgong",
+        "japanese": "Jugong",
+        "kana": "\u30b8\u30e5\u30b4\u30f3"
+    },
+    {
+        "term": "grimer",
+        "english": "Grimer",
+        "japanese": "Betbeter",
+        "kana": "\u30d9\u30c8\u30d9\u30bf\u30fc"
+    },
+    {
+        "term": "alolan grimer",
+        "english": "Alolan Grimer",
+        "japanese": "Betbeter",
+        "kana": "\u30d9\u30c8\u30d9\u30bf\u30fc"
+    },
+    {
+        "term": "muk",
+        "english": "Muk",
+        "japanese": "Betbeton",
+        "kana": "\u30d9\u30c8\u30d9\u30c8\u30f3"
+    },
+    {
+        "term": "alolan muk",
+        "english": "Alolan Muk",
+        "japanese": "Betbeton",
+        "kana": "\u30d9\u30c8\u30d9\u30c8\u30f3"
+    },
+    {
+        "term": "shellder",
+        "english": "Shellder",
+        "japanese": "Shellder",
+        "kana": "\u30b7\u30a7\u30eb\u30c0\u30fc"
+    },
+    {
+        "term": "cloyster",
+        "english": "Cloyster",
+        "japanese": "Parshen",
+        "kana": "\u30d1\u30eb\u30b7\u30a7\u30f3"
+    },
+    {
+        "term": "gastly",
+        "english": "Gastly",
+        "japanese": "Ghos",
+        "kana": "\u30b4\u30fc\u30b9"
+    },
+    {
+        "term": "haunter",
+        "english": "Haunter",
+        "japanese": "Ghost",
+        "kana": "\u30b4\u30fc\u30b9\u30c8"
+    },
+    {
+        "term": "gengar",
+        "english": "Gengar",
+        "japanese": "Gangar",
+        "kana": "\u30b2\u30f3\u30ac\u30fc"
+    },
+    {
+        "term": "mega gengar",
+        "english": "Mega Gengar",
+        "japanese": "Gangar",
+        "kana": "\u30b2\u30f3\u30ac\u30fc"
+    },
+    {
+        "term": "onix",
+        "english": "Onix",
+        "japanese": "Iwark",
+        "kana": "\u30a4\u30ef\u30fc\u30af"
+    },
+    {
+        "term": "drowzee",
+        "english": "Drowzee",
+        "japanese": "Sleepe",
+        "kana": "\u30b9\u30ea\u30fc\u30d7"
+    },
+    {
+        "term": "hypno",
+        "english": "Hypno",
+        "japanese": "Sleeper",
+        "kana": "\u30b9\u30ea\u30fc\u30d1\u30fc"
+    },
+    {
+        "term": "krabby",
+        "english": "Krabby",
+        "japanese": "Crab",
+        "kana": "\u30af\u30e9\u30d6"
+    },
+    {
+        "term": "kingler",
+        "english": "Kingler",
+        "japanese": "Kingler",
+        "kana": "\u30ad\u30f3\u30b0\u30e9\u30fc"
+    },
+    {
+        "term": "voltorb",
+        "english": "Voltorb",
+        "japanese": "Biriridama",
+        "kana": "\u30d3\u30ea\u30ea\u30c0\u30de"
+    },
+    {
+        "term": "electrode",
+        "english": "Electrode",
+        "japanese": "Marumain",
+        "kana": "\u30de\u30eb\u30de\u30a4\u30f3"
+    },
+    {
+        "term": "exeggcute",
+        "english": "Exeggcute",
+        "japanese": "Tamatama",
+        "kana": "\u30bf\u30de\u30bf\u30de"
+    },
+    {
+        "term": "exeggutor",
+        "english": "Exeggutor",
+        "japanese": "Nassy",
+        "kana": "\u30ca\u30c3\u30b7\u30fc"
+    },
+    {
+        "term": "alolan exeggutor",
+        "english": "Alolan Exeggutor",
+        "japanese": "Nassy",
+        "kana": "\u30ca\u30c3\u30b7\u30fc"
+    },
+    {
+        "term": "cubone",
+        "english": "Cubone",
+        "japanese": "Karakara",
+        "kana": "\u30ab\u30e9\u30ab\u30e9"
+    },
+    {
+        "term": "marowak",
+        "english": "Marowak",
+        "japanese": "GaraGara",
+        "kana": "\u30ac\u30e9\u30ac\u30e9"
+    },
+    {
+        "term": "alolan marowak",
+        "english": "Alolan Marowak",
+        "japanese": "GaraGara",
+        "kana": "\u30ac\u30e9\u30ac\u30e9"
+    },
+    {
+        "term": "hitmonlee",
+        "english": "Hitmonlee",
+        "japanese": "Sawamular",
+        "kana": "\u30b5\u30ef\u30e0\u30e9\u30fc"
+    },
+    {
+        "term": "hitmonchan",
+        "english": "Hitmonchan",
+        "japanese": "Ebiwalar",
+        "kana": "\u30a8\u30d3\u30ef\u30e9\u30fc"
+    },
+    {
+        "term": "lickitung",
+        "english": "Lickitung",
+        "japanese": "Beroringa",
+        "kana": "\u30d9\u30ed\u30ea\u30f3\u30ac"
+    },
+    {
+        "term": "koffing",
+        "english": "Koffing",
+        "japanese": "Dogars",
+        "kana": "\u30c9\u30ac\u30fc\u30b9"
+    },
+    {
+        "term": "weezing",
+        "english": "Weezing",
+        "japanese": "Matadogas",
+        "kana": "\u30de\u30bf\u30c9\u30ac\u30b9"
+    },
+    {
+        "term": "rhyhorn",
+        "english": "Rhyhorn",
+        "japanese": "Sihorn",
+        "kana": "\u30b5\u30a4\u30db\u30fc\u30f3"
+    },
+    {
+        "term": "rhydon",
+        "english": "Rhydon",
+        "japanese": "Sidon",
+        "kana": "\u30b5\u30a4\u30c9\u30f3"
+    },
+    {
+        "term": "chansey",
+        "english": "Chansey",
+        "japanese": "Lucky",
+        "kana": "\u30e9\u30c3\u30ad\u30fc"
+    },
+    {
+        "term": "tangela",
+        "english": "Tangela",
+        "japanese": "Monjara",
+        "kana": "\u30e2\u30f3\u30b8\u30e3\u30e9"
+    },
+    {
+        "term": "kangaskhan",
+        "english": "Kangaskhan",
+        "japanese": "Garura",
+        "kana": "\u30ac\u30eb\u30fc\u30e9"
+    },
+    {
+        "term": "mega kangaskhan",
+        "english": "Mega Kangaskhan",
+        "japanese": "Garura",
+        "kana": "\u30ac\u30eb\u30fc\u30e9"
+    },
+    {
+        "term": "horsea",
+        "english": "Horsea",
+        "japanese": "Tattsu",
+        "kana": "\u30bf\u30c3\u30c4\u30fc"
+    },
+    {
+        "term": "seadra",
+        "english": "Seadra",
+        "japanese": "Seadra",
+        "kana": "\u30b7\u30fc\u30c9\u30e9"
+    },
+    {
+        "term": "goldeen",
+        "english": "Goldeen",
+        "japanese": "Tosakinto",
+        "kana": "\u30c8\u30b5\u30ad\u30f3\u30c8"
+    },
+    {
+        "term": "seaking",
+        "english": "Seaking",
+        "japanese": "Azumao",
+        "kana": "\u30a2\u30ba\u30de\u30aa\u30a6"
+    },
+    {
+        "term": "staryu",
+        "english": "Staryu",
+        "japanese": "Hitodeman",
+        "kana": "\u30d2\u30c8\u30c7\u30de\u30f3"
+    },
+    {
+        "term": "starmie",
+        "english": "Starmie",
+        "japanese": "Starmie",
+        "kana": "\u30b9\u30bf\u30fc\u30df\u30fc"
+    },
+    {
+        "term": "mr. mime",
+        "english": "Mr. Mime",
+        "japanese": "Barrierd",
+        "kana": "\u30d0\u30ea\u30e4\u30fc\u30c9"
+    },
+    {
+        "term": "scyther",
+        "english": "Scyther",
+        "japanese": "Strike",
+        "kana": "\u30b9\u30c8\u30e9\u30a4\u30af"
+    },
+    {
+        "term": "jynx",
+        "english": "Jynx",
+        "japanese": "Rougela",
+        "kana": "\u30eb\u30fc\u30b8\u30e5\u30e9"
+    },
+    {
+        "term": "electabuzz",
+        "english": "Electabuzz",
+        "japanese": "Eleboo",
+        "kana": "\u30a8\u30ec\u30d6\u30fc"
+    },
+    {
+        "term": "magmar",
+        "english": "Magmar",
+        "japanese": "Boober",
+        "kana": "\u30d6\u30fc\u30d0\u30fc"
+    },
+    {
+        "term": "pinsir",
+        "english": "Pinsir",
+        "japanese": "Kailios",
+        "kana": "\u30ab\u30a4\u30ed\u30b9"
+    },
+    {
+        "term": "mega pinsir",
+        "english": "Mega Pinsir",
+        "japanese": "Kailios",
+        "kana": "\u30ab\u30a4\u30ed\u30b9"
+    },
+    {
+        "term": "tauros",
+        "english": "Tauros",
+        "japanese": "Kentauros",
+        "kana": "\u30b1\u30f3\u30bf\u30ed\u30b9"
+    },
+    {
+        "term": "magikarp",
+        "english": "Magikarp",
+        "japanese": "Koiking",
+        "kana": "\u30b3\u30a4\u30ad\u30f3\u30b0"
+    },
+    {
+        "term": "gyarados",
+        "english": "Gyarados",
+        "japanese": "Gyarados",
+        "kana": "\u30ae\u30e3\u30e9\u30c9\u30b9"
+    },
+    {
+        "term": "mega gyarados",
+        "english": "Mega Gyarados",
+        "japanese": "Gyarados",
+        "kana": "\u30ae\u30e3\u30e9\u30c9\u30b9"
+    },
+    {
+        "term": "lapras",
+        "english": "Lapras",
+        "japanese": "Laplace",
+        "kana": "\u30e9\u30d7\u30e9\u30b9"
+    },
+    {
+        "term": "ditto",
+        "english": "Ditto",
+        "japanese": "Metamon",
+        "kana": "\u30e1\u30bf\u30e2\u30f3"
+    },
+    {
+        "term": "eevee",
+        "english": "Eevee",
+        "japanese": "Eievui",
+        "kana": "\u30a4\u30fc\u30d6\u30a4"
+    },
+    {
+        "term": "vaporeon",
+        "english": "Vaporeon",
+        "japanese": "Showers",
+        "kana": "\u30b7\u30e3\u30ef\u30fc\u30ba"
+    },
+    {
+        "term": "jolteon",
+        "english": "Jolteon",
+        "japanese": "Thunders",
+        "kana": "\u30b5\u30f3\u30c0\u30fc\u30b9"
+    },
+    {
+        "term": "flareon",
+        "english": "Flareon",
+        "japanese": "Booster",
+        "kana": "\u30d6\u30fc\u30b9\u30bf\u30fc"
+    },
+    {
+        "term": "porygon",
+        "english": "Porygon",
+        "japanese": "Porygon",
+        "kana": "\u30dd\u30ea\u30b4\u30f3"
+    },
+    {
+        "term": "omanyte",
+        "english": "Omanyte",
+        "japanese": "Omnite",
+        "kana": "\u30aa\u30e0\u30ca\u30a4\u30c8"
+    },
+    {
+        "term": "omastar",
+        "english": "Omastar",
+        "japanese": "Omstar",
+        "kana": "\u30aa\u30e0\u30b9\u30bf\u30fc"
+    },
+    {
+        "term": "kabuto",
+        "english": "Kabuto",
+        "japanese": "Kabuto",
+        "kana": "\u30ab\u30d6\u30c8"
+    },
+    {
+        "term": "kabutops",
+        "english": "Kabutops",
+        "japanese": "Kabutops",
+        "kana": "\u30ab\u30d6\u30c8\u30d7\u30b9"
+    },
+    {
+        "term": "aerodactyl",
+        "english": "Aerodactyl",
+        "japanese": "Ptera",
+        "kana": "\u30d7\u30c6\u30e9"
+    },
+    {
+        "term": "mega aerodactyl",
+        "english": "Mega Aerodactyl",
+        "japanese": "Ptera",
+        "kana": "\u30d7\u30c6\u30e9"
+    },
+    {
+        "term": "snorlax",
+        "english": "Snorlax",
+        "japanese": "Kabigon",
+        "kana": "\u30ab\u30d3\u30b4\u30f3"
+    },
+    {
+        "term": "articuno",
+        "english": "Articuno",
+        "japanese": "Freezer",
+        "kana": "\u30d5\u30ea\u30fc\u30b6\u30fc"
+    },
+    {
+        "term": "zapdos",
+        "english": "Zapdos",
+        "japanese": "Thunder",
+        "kana": "\u30b5\u30f3\u30c0\u30fc"
+    },
+    {
+        "term": "moltres",
+        "english": "Moltres",
+        "japanese": "Fire",
+        "kana": "\u30d5\u30a1\u30a4\u30e4\u30fc"
+    },
+    {
+        "term": "dratini",
+        "english": "Dratini",
+        "japanese": "Miniryu",
+        "kana": "\u30df\u30cb\u30ea\u30e5\u30a6"
+    },
+    {
+        "term": "dragonair",
+        "english": "Dragonair",
+        "japanese": "Hakuryu",
+        "kana": "\u30cf\u30af\u30ea\u30e5\u30fc"
+    },
+    {
+        "term": "dragonite",
+        "english": "Dragonite",
+        "japanese": "Kairyu",
+        "kana": "\u30ab\u30a4\u30ea\u30e5\u30fc"
+    },
+    {
+        "term": "mewtwo",
+        "english": "Mewtwo",
+        "japanese": "Mewtwo",
+        "kana": "\u30df\u30e5\u30a6\u30c4\u30fc"
+    },
+    {
+        "term": "mega mewtwo x",
+        "english": "Mega Mewtwo X",
+        "japanese": "Mewtwo",
+        "kana": "\u30df\u30e5\u30a6\u30c4\u30fc"
+    },
+    {
+        "term": "mega mewtwo y",
+        "english": "Mega Mewtwo Y",
+        "japanese": "Mewtwo",
+        "kana": "\u30df\u30e5\u30a6\u30c4\u30fc"
+    },
+    {
+        "term": "mew",
+        "english": "Mew",
+        "japanese": "Myuu",
+        "kana": "\u30df\u30e5\u30a6"
+    },
+    {
+        "term": "chikorita",
+        "english": "Chikorita",
+        "japanese": "Chikorita",
+        "kana": "\u30c1\u30b3\u30ea\u30fc\u30bf"
+    },
+    {
+        "term": "bayleef",
+        "english": "Bayleef",
+        "japanese": "Bayleef",
+        "kana": "\u30d9\u30a4\u30ea\u30fc\u30d5"
+    },
+    {
+        "term": "meganium",
+        "english": "Meganium",
+        "japanese": "Meganium",
+        "kana": "\u30e1\u30ac\u30cb\u30a6\u30e0"
+    },
+    {
+        "term": "cyndaquil",
+        "english": "Cyndaquil",
+        "japanese": "Hinoarashi",
+        "kana": "\u30d2\u30ce\u30a2\u30e9\u30b7"
+    },
+    {
+        "term": "quilava",
+        "english": "Quilava",
+        "japanese": "Magumarashi",
+        "kana": "\u30de\u30b0\u30de\u30e9\u30b7"
+    },
+    {
+        "term": "typhlosion",
+        "english": "Typhlosion",
+        "japanese": "Bakufun",
+        "kana": "\u30d0\u30af\u30d5\u30fc\u30f3"
+    },
+    {
+        "term": "totodile",
+        "english": "Totodile",
+        "japanese": "Waninoko",
+        "kana": "\u30ef\u30cb\u30ce\u30b3"
+    },
+    {
+        "term": "croconaw",
+        "english": "Croconaw",
+        "japanese": "Alligates",
+        "kana": "\u30a2\u30ea\u30b2\u30a4\u30c4"
+    },
+    {
+        "term": "feraligatr",
+        "english": "Feraligatr",
+        "japanese": "Ordairu",
+        "kana": "\u30aa\u30fc\u30c0\u30a4\u30eb"
+    },
+    {
+        "term": "sentret",
+        "english": "Sentret",
+        "japanese": "Otachi",
+        "kana": "\u30aa\u30bf\u30c1"
+    },
+    {
+        "term": "furret",
+        "english": "Furret",
+        "japanese": "Ootachi",
+        "kana": "\u30aa\u30aa\u30bf\u30c1"
+    },
+    {
+        "term": "hoothoot",
+        "english": "Hoothoot",
+        "japanese": "Hoho",
+        "kana": "\u30db\u30fc\u30db\u30fc"
+    },
+    {
+        "term": "noctowl",
+        "english": "Noctowl",
+        "japanese": "Yorunozuku",
+        "kana": "\u30e8\u30eb\u30ce\u30ba\u30af"
+    },
+    {
+        "term": "ledyba",
+        "english": "Ledyba",
+        "japanese": "Rediba",
+        "kana": "\u30ec\u30c7\u30a3\u30d0"
+    },
+    {
+        "term": "ledian",
+        "english": "Ledian",
+        "japanese": "Redian",
+        "kana": "\u30ec\u30c7\u30a3\u30a2\u30f3"
+    },
+    {
+        "term": "spinarak",
+        "english": "Spinarak",
+        "japanese": "Itomaru",
+        "kana": "\u30a4\u30c8\u30de\u30eb"
+    },
+    {
+        "term": "ariados",
+        "english": "Ariados",
+        "japanese": "Ariados",
+        "kana": "\u30a2\u30ea\u30a2\u30c9\u30b9"
+    },
+    {
+        "term": "crobat",
+        "english": "Crobat",
+        "japanese": "Kurobatto",
+        "kana": "\u30af\u30ed\u30d0\u30c3\u30c8"
+    },
+    {
+        "term": "chinchou",
+        "english": "Chinchou",
+        "japanese": "Chonchii",
+        "kana": "\u30c1\u30e7\u30f3\u30c1\u30fc"
+    },
+    {
+        "term": "lanturn",
+        "english": "Lanturn",
+        "japanese": "Rantern",
+        "kana": "\u30e9\u30f3\u30bf\u30fc\u30f3"
+    },
+    {
+        "term": "pichu",
+        "english": "Pichu",
+        "japanese": "Pichu",
+        "kana": "\u30d4\u30c1\u30e5\u30fc"
+    },
+    {
+        "term": "cleffa",
+        "english": "Cleffa",
+        "japanese": "Piii",
+        "kana": "\u30d4\u30a3"
+    },
+    {
+        "term": "igglybuff",
+        "english": "Igglybuff",
+        "japanese": "Pupurin",
+        "kana": "\u30d7\u30d7\u30ea\u30f3"
+    },
+    {
+        "term": "togepi",
+        "english": "Togepi",
+        "japanese": "Togepii",
+        "kana": "\u30c8\u30b2\u30d4\u30fc"
+    },
+    {
+        "term": "togetic",
+        "english": "Togetic",
+        "japanese": "Togechikku",
+        "kana": "\u30c8\u30b2\u30c1\u30c3\u30af"
+    },
+    {
+        "term": "natu",
+        "english": "Natu",
+        "japanese": "Neitei",
+        "kana": "\u30cd\u30a4\u30c6\u30a3"
+    },
+    {
+        "term": "xatu",
+        "english": "Xatu",
+        "japanese": "Neiteio",
+        "kana": "\u30cd\u30a4\u30c6\u30a3\u30aa"
+    },
+    {
+        "term": "mareep",
+        "english": "Mareep",
+        "japanese": "Maripu",
+        "kana": "\u30e1\u30ea\u30fc\u30d7"
+    },
+    {
+        "term": "flaaffy",
+        "english": "Flaaffy",
+        "japanese": "Mokoko",
+        "kana": "\u30e2\u30b3\u30b3"
+    },
+    {
+        "term": "ampharos",
+        "english": "Ampharos",
+        "japanese": "Denryu",
+        "kana": "\u30c7\u30f3\u30ea\u30e5\u30a6"
+    },
+    {
+        "term": "mega ampharos",
+        "english": "Mega Ampharos",
+        "japanese": "Denryu",
+        "kana": "\u30c7\u30f3\u30ea\u30e5\u30a6"
+    },
+    {
+        "term": "bellossom",
+        "english": "Bellossom",
+        "japanese": "Kireihana",
+        "kana": "\u30ad\u30ec\u30a4\u30cf\u30ca"
+    },
+    {
+        "term": "marill",
+        "english": "Marill",
+        "japanese": "Mariru",
+        "kana": "\u30de\u30ea\u30eb"
+    },
+    {
+        "term": "azumarill",
+        "english": "Azumarill",
+        "japanese": "Mariruri",
+        "kana": "\u30de\u30ea\u30eb\u30ea"
+    },
+    {
+        "term": "sudowoodo",
+        "english": "Sudowoodo",
+        "japanese": "Usokki",
+        "kana": "\u30a6\u30bd\u30c3\u30ad\u30fc"
+    },
+    {
+        "term": "politoed",
+        "english": "Politoed",
+        "japanese": "Nyorotono",
+        "kana": "\u30cb\u30e7\u30ed\u30c8\u30ce"
+    },
+    {
+        "term": "hoppip",
+        "english": "Hoppip",
+        "japanese": "Hanekko",
+        "kana": "\u30cf\u30cd\u30c3\u30b3"
+    },
+    {
+        "term": "skiploom",
+        "english": "Skiploom",
+        "japanese": "Popokko",
+        "kana": "\u30dd\u30dd\u30c3\u30b3"
+    },
+    {
+        "term": "jumpluff",
+        "english": "Jumpluff",
+        "japanese": "Watakko",
+        "kana": "\u30ef\u30bf\u30c3\u30b3"
+    },
+    {
+        "term": "aipom",
+        "english": "Aipom",
+        "japanese": "Eipam",
+        "kana": "\u30a8\u30a4\u30d1\u30e0"
+    },
+    {
+        "term": "sunkern",
+        "english": "Sunkern",
+        "japanese": "Himanattsu",
+        "kana": "\u30d2\u30de\u30ca\u30c3\u30c4"
+    },
+    {
+        "term": "sunflora",
+        "english": "Sunflora",
+        "japanese": "Kimawari",
+        "kana": "\u30ad\u30de\u30ef\u30ea"
+    },
+    {
+        "term": "yanma",
+        "english": "Yanma",
+        "japanese": "Yanyanma",
+        "kana": "\u30e4\u30f3\u30e4\u30f3\u30de"
+    },
+    {
+        "term": "wooper",
+        "english": "Wooper",
+        "japanese": "Upaa",
+        "kana": "\u30a6\u30d1\u30fc"
+    },
+    {
+        "term": "quagsire",
+        "english": "Quagsire",
+        "japanese": "Nuoo",
+        "kana": "\u30cc\u30aa\u30fc"
+    },
+    {
+        "term": "espeon",
+        "english": "Espeon",
+        "japanese": "Eifie",
+        "kana": "\u30a8\u30fc\u30d5\u30a3"
+    },
+    {
+        "term": "umbreon",
+        "english": "Umbreon",
+        "japanese": "Blacky",
+        "kana": "\u30d6\u30e9\u30c3\u30ad\u30fc"
+    },
+    {
+        "term": "murkrow",
+        "english": "Murkrow",
+        "japanese": "Yamikarasu",
+        "kana": "\u30e4\u30df\u30ab\u30e9\u30b9"
+    },
+    {
+        "term": "slowking",
+        "english": "Slowking",
+        "japanese": "Yadoking",
+        "kana": "\u30e4\u30c9\u30ad\u30f3\u30b0"
+    },
+    {
+        "term": "misdreavus",
+        "english": "Misdreavus",
+        "japanese": "Muuma",
+        "kana": "\u30e0\u30a6\u30de"
+    },
+    {
+        "term": "unown a",
+        "english": "Unown A",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown b",
+        "english": "Unown B",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown c",
+        "english": "Unown C",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown d",
+        "english": "Unown D",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown e",
+        "english": "Unown E",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown f",
+        "english": "Unown F",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown g",
+        "english": "Unown G",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown h",
+        "english": "Unown H",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown i",
+        "english": "Unown I",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown j",
+        "english": "Unown J",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown k",
+        "english": "Unown K",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown l",
+        "english": "Unown L",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown m",
+        "english": "Unown M",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown n",
+        "english": "Unown N",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown o",
+        "english": "Unown O",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown p",
+        "english": "Unown P",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown q",
+        "english": "Unown Q",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown r",
+        "english": "Unown R",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown s",
+        "english": "Unown S",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown t",
+        "english": "Unown T",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown u",
+        "english": "Unown U",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown v",
+        "english": "Unown V",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown w",
+        "english": "Unown W",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown x",
+        "english": "Unown X",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown y",
+        "english": "Unown Y",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown z",
+        "english": "Unown Z",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown !",
+        "english": "Unown !",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "unown ?",
+        "english": "Unown ?",
+        "japanese": "Annon",
+        "kana": "\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "term": "wobbuffet",
+        "english": "Wobbuffet",
+        "japanese": "Sonans",
+        "kana": "\u30bd\u30fc\u30ca\u30f3\u30b9"
+    },
+    {
+        "term": "girafarig",
+        "english": "Girafarig",
+        "japanese": "Kiriniki",
+        "kana": "\u30ad\u30ea\u30f3\u30ea\u30ad"
+    },
+    {
+        "term": "pineco",
+        "english": "Pineco",
+        "japanese": "Kunugidama",
+        "kana": "\u30af\u30cc\u30ae\u30c0\u30de"
+    },
+    {
+        "term": "forretress",
+        "english": "Forretress",
+        "japanese": "Foretosu",
+        "kana": "\u30d5\u30a9\u30ec\u30c8\u30b9"
+    },
+    {
+        "term": "dunsparce",
+        "english": "Dunsparce",
+        "japanese": "Nokocchi",
+        "kana": "\u30ce\u30b3\u30c3\u30c1"
+    },
+    {
+        "term": "gligar",
+        "english": "Gligar",
+        "japanese": "Guraiga",
+        "kana": "\u30b0\u30e9\u30a4\u30ac\u30fc"
+    },
+    {
+        "term": "steelix",
+        "english": "Steelix",
+        "japanese": "Haganeiru",
+        "kana": "\u30cf\u30ac\u30cd\u30fc\u30eb"
+    },
+    {
+        "term": "mega steelix",
+        "english": "Mega Steelix",
+        "japanese": "Haganeiru",
+        "kana": "\u30cf\u30ac\u30cd\u30fc\u30eb"
+    },
+    {
+        "term": "snubbull",
+        "english": "Snubbull",
+        "japanese": "Buru",
+        "kana": "\u30d6\u30eb\u30fc"
+    },
+    {
+        "term": "granbull",
+        "english": "Granbull",
+        "japanese": "Granburu",
+        "kana": "\u30b0\u30e9\u30f3\u30d6\u30eb"
+    },
+    {
+        "term": "qwilfish",
+        "english": "Qwilfish",
+        "japanese": "Harisen",
+        "kana": "\u30cf\u30ea\u30fc\u30bb\u30f3"
+    },
+    {
+        "term": "scizor",
+        "english": "Scizor",
+        "japanese": "Hassam",
+        "kana": "\u30cf\u30c3\u30b5\u30e0"
+    },
+    {
+        "term": "mega scizor",
+        "english": "Mega Scizor",
+        "japanese": "Hassam",
+        "kana": "\u30cf\u30c3\u30b5\u30e0"
+    },
+    {
+        "term": "shuckle",
+        "english": "Shuckle",
+        "japanese": "Tsubotsubo",
+        "kana": "\u30c4\u30dc\u30c4\u30dc"
+    },
+    {
+        "term": "heracross",
+        "english": "Heracross",
+        "japanese": "Heracros",
+        "kana": "\u30d8\u30e9\u30af\u30ed\u30b9"
+    },
+    {
+        "term": "mega heracross",
+        "english": "Mega Heracross",
+        "japanese": "Heracros",
+        "kana": "\u30d8\u30e9\u30af\u30ed\u30b9"
+    },
+    {
+        "term": "sneasel",
+        "english": "Sneasel",
+        "japanese": "Nyura",
+        "kana": "\u30cb\u30e5\u30fc\u30e9"
+    },
+    {
+        "term": "teddiursa",
+        "english": "Teddiursa",
+        "japanese": "Himeguma",
+        "kana": "\u30d2\u30e1\u30b0\u30de"
+    },
+    {
+        "term": "ursaring",
+        "english": "Ursaring",
+        "japanese": "Ringuma",
+        "kana": "\u30ea\u30f3\u30b0\u30de"
+    },
+    {
+        "term": "slugma",
+        "english": "Slugma",
+        "japanese": "Magumagu",
+        "kana": "\u30de\u30b0\u30de\u30c3\u30b0"
+    },
+    {
+        "term": "magcargo",
+        "english": "Magcargo",
+        "japanese": "Magukargo",
+        "kana": "\u30de\u30b0\u30ab\u30eb\u30b4"
+    },
+    {
+        "term": "swinub",
+        "english": "Swinub",
+        "japanese": "Urimu",
+        "kana": "\u30a6\u30ea\u30e0\u30fc"
+    },
+    {
+        "term": "piloswine",
+        "english": "Piloswine",
+        "japanese": "Inomu",
+        "kana": "\u30a4\u30ce\u30e0\u30fc"
+    },
+    {
+        "term": "corsola",
+        "english": "Corsola",
+        "japanese": "Saniigo",
+        "kana": "\u30b5\u30cb\u30fc\u30b4"
+    },
+    {
+        "term": "remoraid",
+        "english": "Remoraid",
+        "japanese": "Teppouo",
+        "kana": "\u30c6\u30c3\u30dd\u30a6\u30aa"
+    },
+    {
+        "term": "octillery",
+        "english": "Octillery",
+        "japanese": "Okutan",
+        "kana": "\u30aa\u30af\u30bf\u30f3"
+    },
+    {
+        "term": "delibird",
+        "english": "Delibird",
+        "japanese": "Deribado",
+        "kana": "\u30c7\u30ea\u30d0\u30fc\u30c9"
+    },
+    {
+        "term": "mantine",
+        "english": "Mantine",
+        "japanese": "Mantain",
+        "kana": "\u30de\u30f3\u30bf\u30a4\u30f3"
+    },
+    {
+        "term": "skarmory",
+        "english": "Skarmory",
+        "japanese": "Eamudo",
+        "kana": "\u30a8\u30a2\u30fc\u30e0\u30c9"
+    },
+    {
+        "term": "houndour",
+        "english": "Houndour",
+        "japanese": "Deribiru",
+        "kana": "\u30c7\u30eb\u30d3\u30eb"
+    },
+    {
+        "term": "houndoom",
+        "english": "Houndoom",
+        "japanese": "Hellgar",
+        "kana": "\u30d8\u30eb\u30ac\u30fc"
+    },
+    {
+        "term": "mega houndoom",
+        "english": "Mega Houndoom",
+        "japanese": "Hellgar",
+        "kana": "\u30d8\u30eb\u30ac\u30fc"
+    },
+    {
+        "term": "kingdra",
+        "english": "Kingdra",
+        "japanese": "Kingdra",
+        "kana": "\u30ad\u30f3\u30b0\u30c9\u30e9"
+    },
+    {
+        "term": "phanpy",
+        "english": "Phanpy",
+        "japanese": "Gomazou",
+        "kana": "\u30b4\u30de\u30be\u30a6"
+    },
+    {
+        "term": "donphan",
+        "english": "Donphan",
+        "japanese": "Donfan",
+        "kana": "\u30c9\u30f3\u30d5\u30a1\u30f3"
+    },
+    {
+        "term": "porygon 2",
+        "english": "Porygon2",
+        "japanese": "Porygon2",
+        "kana": "\u30dd\u30ea\u30b4\u30f3\uff12"
+    },
+    {
+        "term": "stantler",
+        "english": "Stantler",
+        "japanese": "Odoshishi",
+        "kana": "\u30aa\u30c9\u30b7\u30b7"
+    },
+    {
+        "term": "smeargle",
+        "english": "Smeargle",
+        "japanese": "Doburu",
+        "kana": "\u30c9\u30fc\u30d6\u30eb"
+    },
+    {
+        "term": "tyrogue",
+        "english": "Tyrogue",
+        "japanese": "Baruki",
+        "kana": "\u30d0\u30eb\u30ad\u30fc"
+    },
+    {
+        "term": "hitmontop",
+        "english": "Hitmontop",
+        "japanese": "Kaporea",
+        "kana": "\u30ab\u30dd\u30a8\u30e9\u30fc"
+    },
+    {
+        "term": "smoochum",
+        "english": "Smoochum",
+        "japanese": "Muchuru",
+        "kana": "\u30e0\u30c1\u30e5\u30fc\u30eb"
+    },
+    {
+        "term": "elekid",
+        "english": "Elekid",
+        "japanese": "Elekid",
+        "kana": "\u30a8\u30ec\u30ad\u30c3\u30c9"
+    },
+    {
+        "term": "magby",
+        "english": "Magby",
+        "japanese": "Bubii",
+        "kana": "\u30d6\u30d3\u30a3"
+    },
+    {
+        "term": "miltank",
+        "english": "Miltank",
+        "japanese": "Miltank",
+        "kana": "\u30df\u30eb\u30bf\u30f3\u30af"
+    },
+    {
+        "term": "blissey",
+        "english": "Blissey",
+        "japanese": "Hapinasu",
+        "kana": "\u30cf\u30d4\u30ca\u30b9"
+    },
+    {
+        "term": "raikou",
+        "english": "Raikou",
+        "japanese": "Raikou",
+        "kana": "\u30e9\u30a4\u30b3\u30a6"
+    },
+    {
+        "term": "entei",
+        "english": "Entei",
+        "japanese": "Entei",
+        "kana": "\u30a8\u30f3\u30c6\u30a4"
+    },
+    {
+        "term": "suicune",
+        "english": "Suicune",
+        "japanese": "Suicune",
+        "kana": "\u30b9\u30a4\u30af\u30f3"
+    },
+    {
+        "term": "larvitar",
+        "english": "Larvitar",
+        "japanese": "Yogirasu",
+        "kana": "\u30e8\u30fc\u30ae\u30e9\u30b9"
+    },
+    {
+        "term": "pupitar",
+        "english": "Pupitar",
+        "japanese": "Sanagirasu",
+        "kana": "\u30b5\u30ca\u30ae\u30e9\u30b9"
+    },
+    {
+        "term": "tyranitar",
+        "english": "Tyranitar",
+        "japanese": "Bangiras",
+        "kana": "\u30d0\u30f3\u30ae\u30e9\u30b9"
+    },
+    {
+        "term": "mega tyranitar",
+        "english": "Mega Tyranitar",
+        "japanese": "Bangiras",
+        "kana": "\u30d0\u30f3\u30ae\u30e9\u30b9"
+    },
+    {
+        "term": "lugia",
+        "english": "Lugia",
+        "japanese": "Lugia",
+        "kana": "\u30eb\u30ae\u30a2"
+    },
+    {
+        "term": "ho-oh",
+        "english": "Ho-Oh",
+        "japanese": "Houou",
+        "kana": "\u30db\u30a6\u30aa\u30a6"
+    },
+    {
+        "term": "celebi",
+        "english": "Celebi",
+        "japanese": "Serebii",
+        "kana": "\u30bb\u30ec\u30d3\u30a3"
+    },
+    {
+        "term": "treecko",
+        "english": "Treecko",
+        "japanese": "Kimori",
+        "kana": "\u30ad\u30e2\u30ea"
+    },
+    {
+        "term": "grovyle",
+        "english": "Grovyle",
+        "japanese": "Jupitol",
+        "kana": "\u30b8\u30e5\u30d7\u30c8\u30eb"
+    },
+    {
+        "term": "sceptile",
+        "english": "Sceptile",
+        "japanese": "Jukain",
+        "kana": "\u30b8\u30e5\u30ab\u30a4\u30f3"
+    },
+    {
+        "term": "mega sceptile",
+        "english": "Mega Sceptile",
+        "japanese": "Jukain",
+        "kana": "\u30b8\u30e5\u30ab\u30a4\u30f3"
+    },
+    {
+        "term": "torchic",
+        "english": "Torchic",
+        "japanese": "Achamo",
+        "kana": "\u30a2\u30c1\u30e3\u30e2"
+    },
+    {
+        "term": "combusken",
+        "english": "Combusken",
+        "japanese": "Wakashamo",
+        "kana": "\u30ef\u30ab\u30b7\u30e3\u30e2"
+    },
+    {
+        "term": "blaziken",
+        "english": "Blaziken",
+        "japanese": "Bursyamo",
+        "kana": "\u30d0\u30b7\u30e3\u30fc\u30e2"
+    },
+    {
+        "term": "mega blaziken",
+        "english": "Mega Blaziken",
+        "japanese": "Bursyamo",
+        "kana": "\u30d0\u30b7\u30e3\u30fc\u30e2"
+    },
+    {
+        "term": "mudkip",
+        "english": "Mudkip",
+        "japanese": "Mizugorou",
+        "kana": "\u30df\u30ba\u30b4\u30ed\u30a6"
+    },
+    {
+        "term": "marshtomp",
+        "english": "Marshtomp",
+        "japanese": "Numakorou",
+        "kana": "\u30cc\u30de\u30af\u30ed\u30fc"
+    },
+    {
+        "term": "swampert",
+        "english": "Swampert",
+        "japanese": "Rugaji",
+        "kana": "\u30e9\u30b0\u30e9\u30fc\u30b8"
+    },
+    {
+        "term": "mega swampert",
+        "english": "Mega Swampert",
+        "japanese": "Rugaji",
+        "kana": "\u30e9\u30b0\u30e9\u30fc\u30b8"
+    },
+    {
+        "term": "poochyena",
+        "english": "Poochyena",
+        "japanese": "Pochiena",
+        "kana": "\u30dd\u30c1\u30a8\u30ca"
+    },
+    {
+        "term": "mightyena",
+        "english": "Mightyena",
+        "japanese": "Guraena",
+        "kana": "\u30b0\u30e9\u30a8\u30ca"
+    },
+    {
+        "term": "zigzagoon",
+        "english": "Zigzagoon",
+        "japanese": "Zigzaguma",
+        "kana": "\u30b8\u30b0\u30b6\u30b0\u30de"
+    },
+    {
+        "term": "linoone",
+        "english": "Linoone",
+        "japanese": "Massaguma",
+        "kana": "\u30de\u30c3\u30b9\u30b0\u30de"
+    },
+    {
+        "term": "wurmple",
+        "english": "Wurmple",
+        "japanese": "Kemusso",
+        "kana": "\u30b1\u30e0\u30c3\u30bd"
+    },
+    {
+        "term": "silcoon",
+        "english": "Silcoon",
+        "japanese": "Karasairu",
+        "kana": "\u30ab\u30e9\u30b5\u30ea\u30b9"
+    },
+    {
+        "term": "beautifly",
+        "english": "Beautifly",
+        "japanese": "Agehanto",
+        "kana": "\u30a2\u30b2\u30cf\u30f3\u30c8"
+    },
+    {
+        "term": "cascoon",
+        "english": "Cascoon",
+        "japanese": "Mayurudo",
+        "kana": "\u30de\u30e6\u30eb\u30c9"
+    },
+    {
+        "term": "dustox",
+        "english": "Dustox",
+        "japanese": "Dokukeiru",
+        "kana": "\u30c9\u30af\u30b1\u30a4\u30eb"
+    },
+    {
+        "term": "lotad",
+        "english": "Lotad",
+        "japanese": "Hassuboo",
+        "kana": "\u30cf\u30b9\u30dc\u30fc"
+    },
+    {
+        "term": "lombre",
+        "english": "Lombre",
+        "japanese": "Hassubero",
+        "kana": "\u30cf\u30b9\u30d6\u30ec\u30ed"
+    },
+    {
+        "term": "ludicolo",
+        "english": "Ludicolo",
+        "japanese": "Runpapa",
+        "kana": "\u30eb\u30f3\u30d1\u30c3\u30d1"
+    },
+    {
+        "term": "seedot",
+        "english": "Seedot",
+        "japanese": "Taneboo",
+        "kana": "\u30bf\u30cd\u30dc\u30fc"
+    },
+    {
+        "term": "nuzleaf",
+        "english": "Nuzleaf",
+        "japanese": "Konohana",
+        "kana": "\u30b3\u30ce\u30cf\u30ca"
+    },
+    {
+        "term": "shiftry",
+        "english": "Shiftry",
+        "japanese": "Daatingu",
+        "kana": "\u30c0\u30fc\u30c6\u30f3\u30b0"
+    },
+    {
+        "term": "taillow",
+        "english": "Taillow",
+        "japanese": "Subame",
+        "kana": "\u30b9\u30d0\u30e1"
+    },
+    {
+        "term": "swellow",
+        "english": "Swellow",
+        "japanese": "Oosubame",
+        "kana": "\u30aa\u30aa\u30b9\u30d0\u30e1"
+    },
+    {
+        "term": "wingull",
+        "english": "Wingull",
+        "japanese": "Kyamome",
+        "kana": "\u30ad\u30e3\u30e2\u30e1"
+    },
+    {
+        "term": "pelipper",
+        "english": "Pelipper",
+        "japanese": "Pelipper",
+        "kana": "\u30da\u30ea\u30c3\u30d1\u30fc"
+    },
+    {
+        "term": "ralts",
+        "english": "Ralts",
+        "japanese": "Rarutos",
+        "kana": "\u30e9\u30eb\u30c8\u30b9"
+    },
+    {
+        "term": "kirlia",
+        "english": "Kirlia",
+        "japanese": "Kirlia",
+        "kana": "\u30ad\u30eb\u30ea\u30a2"
+    },
+    {
+        "term": "gardevoir",
+        "english": "Gardevoir",
+        "japanese": "Sirnight",
+        "kana": "\u30b5\u30fc\u30ca\u30a4\u30c8"
+    },
+    {
+        "term": "mega gardevoir",
+        "english": "Mega Gardevoir",
+        "japanese": "Sirnight",
+        "kana": "\u30b5\u30fc\u30ca\u30a4\u30c8"
+    },
+    {
+        "term": "surskit",
+        "english": "Surskit",
+        "japanese": "Ametama",
+        "kana": "\u30a2\u30e1\u30bf\u30de"
+    },
+    {
+        "term": "masquerain",
+        "english": "Masquerain",
+        "japanese": "Amemoth",
+        "kana": "\u30a2\u30e1\u30e2\u30fc\u30b9"
+    },
+    {
+        "term": "shroomish",
+        "english": "Shroomish",
+        "japanese": "Kinokoko",
+        "kana": "\u30ad\u30ce\u30b3\u30b3"
+    },
+    {
+        "term": "breloom",
+        "english": "Breloom",
+        "japanese": "Kinogassa",
+        "kana": "\u30ad\u30ce\u30ac\u30c3\u30b5"
+    },
+    {
+        "term": "slakoth",
+        "english": "Slakoth",
+        "japanese": "Namakero",
+        "kana": "\u30ca\u30de\u30b1\u30ed"
+    },
+    {
+        "term": "vigoroth",
+        "english": "Vigoroth",
+        "japanese": "Yarukimono",
+        "kana": "\u30e4\u30eb\u30ad\u30e2\u30ce"
+    },
+    {
+        "term": "slaking",
+        "english": "Slaking",
+        "japanese": "Kekking",
+        "kana": "\u30b1\u30c3\u30ad\u30f3\u30b0"
+    },
+    {
+        "term": "nincada",
+        "english": "Nincada",
+        "japanese": "Tsuchinin",
+        "kana": "\u30c4\u30c1\u30cb\u30f3"
+    },
+    {
+        "term": "ninjask",
+        "english": "Ninjask",
+        "japanese": "Tekkanin",
+        "kana": "\u30c6\u30c3\u30ab\u30cb\u30f3"
+    },
+    {
+        "term": "shedinja",
+        "english": "Shedinja",
+        "japanese": "Nukenin",
+        "kana": "\u30cc\u30b1\u30cb\u30f3"
+    },
+    {
+        "term": "whismur",
+        "english": "Whismur",
+        "japanese": "Gonyonyo",
+        "kana": "\u30b4\u30cb\u30e7\u30cb\u30e7"
+    },
+    {
+        "term": "loudred",
+        "english": "Loudred",
+        "japanese": "Dogoomu",
+        "kana": "\u30c9\u30b4\u30fc\u30e0"
+    },
+    {
+        "term": "exploud",
+        "english": "Exploud",
+        "japanese": "Bakuong",
+        "kana": "\u30d0\u30af\u30aa\u30f3\u30b0"
+    },
+    {
+        "term": "makuhita",
+        "english": "Makuhita",
+        "japanese": "Makunoshita",
+        "kana": "\u30de\u30af\u30ce\u30b7\u30bf"
+    },
+    {
+        "term": "hariyama",
+        "english": "Hariyama",
+        "japanese": "Hariteyama",
+        "kana": "\u30cf\u30ea\u30c6\u30e4\u30de"
+    },
+    {
+        "term": "azurill",
+        "english": "Azurill",
+        "japanese": "Luriri",
+        "kana": "\u30eb\u30ea\u30ea"
+    },
+    {
+        "term": "nosepass",
+        "english": "Nosepass",
+        "japanese": "Nosepass",
+        "kana": "\u30ce\u30ba\u30d1\u30b9"
+    },
+    {
+        "term": "skitty",
+        "english": "Skitty",
+        "japanese": "Eneko",
+        "kana": "\u30a8\u30cd\u30b3"
+    },
+    {
+        "term": "delcatty",
+        "english": "Delcatty",
+        "japanese": "Enekoro",
+        "kana": "\u30a8\u30cd\u30b3\u30ed\u30ed"
+    },
+    {
+        "term": "sableye",
+        "english": "Sableye",
+        "japanese": "Yamirami",
+        "kana": "\u30e4\u30df\u30e9\u30df"
+    },
+    {
+        "term": "mega sableye",
+        "english": "Mega Sableye",
+        "japanese": "Yamirami",
+        "kana": "\u30e4\u30df\u30e9\u30df"
+    },
+    {
+        "term": "mawile",
+        "english": "Mawile",
+        "japanese": "Kucheat",
+        "kana": "\u30af\u30c1\u30fc\u30c8"
+    },
+    {
+        "term": "mega mawile",
+        "english": "Mega Mawile",
+        "japanese": "Kucheat",
+        "kana": "\u30af\u30c1\u30fc\u30c8"
+    },
+    {
+        "term": "aron",
+        "english": "Aron",
+        "japanese": "Kokodora",
+        "kana": "\u30b3\u30b3\u30c9\u30e9"
+    },
+    {
+        "term": "lairon",
+        "english": "Lairon",
+        "japanese": "Kodora",
+        "kana": "\u30b3\u30c9\u30e9"
+    },
+    {
+        "term": "aggron",
+        "english": "Aggron",
+        "japanese": "Bossgodora",
+        "kana": "\u30dc\u30b9\u30b4\u30c9\u30e9"
+    },
+    {
+        "term": "mega aggron",
+        "english": "Mega Aggron",
+        "japanese": "Bossgodora",
+        "kana": "\u30dc\u30b9\u30b4\u30c9\u30e9"
+    },
+    {
+        "term": "meditite",
+        "english": "Meditite",
+        "japanese": "Asanan",
+        "kana": "\u30a2\u30b5\u30ca\u30f3"
+    },
+    {
+        "term": "medicham",
+        "english": "Medicham",
+        "japanese": "Charem",
+        "kana": "\u30c1\u30e3\u30fc\u30ec\u30e0"
+    },
+    {
+        "term": "mega medicham",
+        "english": "Mega Medicham",
+        "japanese": "Charem",
+        "kana": "\u30c1\u30e3\u30fc\u30ec\u30e0"
+    },
+    {
+        "term": "electrike",
+        "english": "Electrike",
+        "japanese": "Rakurai",
+        "kana": "\u30e9\u30af\u30e9\u30a4"
+    },
+    {
+        "term": "manectric",
+        "english": "Manectric",
+        "japanese": "Livolt",
+        "kana": "\u30e9\u30a4\u30dc\u30eb\u30c8"
+    },
+    {
+        "term": "mega manectric",
+        "english": "Mega Manectric",
+        "japanese": "Livolt",
+        "kana": "\u30e9\u30a4\u30dc\u30eb\u30c8"
+    },
+    {
+        "term": "plusle",
+        "english": "Plusle",
+        "japanese": "Plusle",
+        "kana": "\u30d7\u30e9\u30b9\u30eb"
+    },
+    {
+        "term": "minun",
+        "english": "Minun",
+        "japanese": "Minun",
+        "kana": "\u30de\u30a4\u30ca\u30f3"
+    },
+    {
+        "term": "volbeat",
+        "english": "Volbeat",
+        "japanese": "Barubito",
+        "kana": "\u30d0\u30eb\u30d3\u30fc\u30c8"
+    },
+    {
+        "term": "illumise",
+        "english": "Illumise",
+        "japanese": "Illumise",
+        "kana": "\u30a4\u30eb\u30df\u30fc\u30bc"
+    },
+    {
+        "term": "roselia",
+        "english": "Roselia",
+        "japanese": "Rozelia",
+        "kana": "\u30ed\u30bc\u30ea\u30a2"
+    },
+    {
+        "term": "gulpin",
+        "english": "Gulpin",
+        "japanese": "Gokurin",
+        "kana": "\u30b4\u30af\u30ea\u30f3"
+    },
+    {
+        "term": "swalot",
+        "english": "Swalot",
+        "japanese": "Marunoomu",
+        "kana": "\u30de\u30eb\u30ce\u30fc\u30e0"
+    },
+    {
+        "term": "carvanha",
+        "english": "Carvanha",
+        "japanese": "Kibanha",
+        "kana": "\u30ad\u30d0\u30cb\u30a2"
+    },
+    {
+        "term": "sharpedo",
+        "english": "Sharpedo",
+        "japanese": "Samehada",
+        "kana": "\u30b5\u30e1\u30cf\u30c0\u30fc"
+    },
+    {
+        "term": "mega sharpedo",
+        "english": "Mega Sharpedo",
+        "japanese": "Samehada",
+        "kana": "\u30b5\u30e1\u30cf\u30c0\u30fc"
+    },
+    {
+        "term": "wailmer",
+        "english": "Wailmer",
+        "japanese": "Hoeruko",
+        "kana": "\u30db\u30a8\u30eb\u30b3"
+    },
+    {
+        "term": "wailord",
+        "english": "Wailord",
+        "japanese": "Hoeruo",
+        "kana": "\u30db\u30a8\u30eb\u30aa\u30fc"
+    },
+    {
+        "term": "numel",
+        "english": "Numel",
+        "japanese": "Donmel",
+        "kana": "\u30c9\u30f3\u30e1\u30eb"
+    },
+    {
+        "term": "camerupt",
+        "english": "Camerupt",
+        "japanese": "Bakuuda",
+        "kana": "\u30d0\u30af\u30fc\u30c0"
+    },
+    {
+        "term": "mega camerupt",
+        "english": "Mega Camerupt",
+        "japanese": "Bakuuda",
+        "kana": "\u30d0\u30af\u30fc\u30c0"
+    },
+    {
+        "term": "torkoal",
+        "english": "Torkoal",
+        "japanese": "Kotasu",
+        "kana": "\u30b3\u30fc\u30bf\u30b9"
+    },
+    {
+        "term": "spoink",
+        "english": "Spoink",
+        "japanese": "Banebu",
+        "kana": "\u30d0\u30cd\u30d6\u30fc"
+    },
+    {
+        "term": "grumpig",
+        "english": "Grumpig",
+        "japanese": "Bupiggu",
+        "kana": "\u30d6\u30fc\u30d4\u30c3\u30b0"
+    },
+    {
+        "term": "spinda",
+        "english": "Spinda",
+        "japanese": "Patchiiru",
+        "kana": "\u30d1\u30c3\u30c1\u30fc\u30eb"
+    },
+    {
+        "term": "trapinch",
+        "english": "Trapinch",
+        "japanese": "Nakuraa",
+        "kana": "\u30ca\u30c3\u30af\u30e9\u30fc"
+    },
+    {
+        "term": "vibrava",
+        "english": "Vibrava",
+        "japanese": "Birubara",
+        "kana": "\u30d3\u30d6\u30e9\u30fc\u30d0"
+    },
+    {
+        "term": "flygon",
+        "english": "Flygon",
+        "japanese": "Furaigon",
+        "kana": "\u30d5\u30e9\u30a4\u30b4\u30f3"
+    },
+    {
+        "term": "cacnea",
+        "english": "Cacnea",
+        "japanese": "Sabonea",
+        "kana": "\u30b5\u30dc\u30cd\u30a2"
+    },
+    {
+        "term": "cacturne",
+        "english": "Cacturne",
+        "japanese": "Nokutasu",
+        "kana": "\u30ce\u30af\u30bf\u30b9"
+    },
+    {
+        "term": "swablu",
+        "english": "Swablu",
+        "japanese": "Chiruyto",
+        "kana": "\u30c1\u30eb\u30c3\u30c8"
+    },
+    {
+        "term": "altaria",
+        "english": "Altaria",
+        "japanese": "Tyltalis",
+        "kana": "\u30c1\u30eb\u30bf\u30ea\u30b9"
+    },
+    {
+        "term": "mega altaria",
+        "english": "Mega Altaria",
+        "japanese": "Tyltalis",
+        "kana": "\u30c1\u30eb\u30bf\u30ea\u30b9"
+    },
+    {
+        "term": "zangoose",
+        "english": "Zangoose",
+        "japanese": "Zanguusu",
+        "kana": "\u30b6\u30f3\u30b0\u30fc\u30b9"
+    },
+    {
+        "term": "seviper",
+        "english": "Seviper",
+        "japanese": "Habunake",
+        "kana": "\u30cf\u30d6\u30cd\u30fc\u30af"
+    },
+    {
+        "term": "lunatone",
+        "english": "Lunatone",
+        "japanese": "Runatoon",
+        "kana": "\u30eb\u30ca\u30c8\u30fc\u30f3"
+    },
+    {
+        "term": "solrock",
+        "english": "Solrock",
+        "japanese": "Sorurock",
+        "kana": "\u30bd\u30eb\u30ed\u30c3\u30af"
+    },
+    {
+        "term": "barboach",
+        "english": "Barboach",
+        "japanese": "Dojotchi",
+        "kana": "\u30c9\u30b8\u30e7\u30c3\u30c1"
+    },
+    {
+        "term": "whiscash",
+        "english": "Whiscash",
+        "japanese": "Namazun",
+        "kana": "\u30ca\u30de\u30ba\u30f3"
+    },
+    {
+        "term": "corphish",
+        "english": "Corphish",
+        "japanese": "Heigani",
+        "kana": "\u30d8\u30a4\u30ac\u30cb"
+    },
+    {
+        "term": "crawdaunt",
+        "english": "Crawdaunt",
+        "japanese": "Shizarigar",
+        "kana": "\u30b7\u30b6\u30ea\u30ac\u30fc"
+    },
+    {
+        "term": "baltoy",
+        "english": "Baltoy",
+        "japanese": "Yajiron",
+        "kana": "\u30e4\u30b8\u30ed\u30f3"
+    },
+    {
+        "term": "claydol",
+        "english": "Claydol",
+        "japanese": "Nenedoru",
+        "kana": "\u30cd\u30f3\u30c9\u30fc\u30eb"
+    },
+    {
+        "term": "lileep",
+        "english": "Lileep",
+        "japanese": "Ririira",
+        "kana": "\u30ea\u30ea\u30fc\u30e9"
+    },
+    {
+        "term": "cradily",
+        "english": "Cradily",
+        "japanese": "Yureidoru",
+        "kana": "\u30e6\u30ec\u30a4\u30c9\u30eb"
+    },
+    {
+        "term": "anorith",
+        "english": "Anorith",
+        "japanese": "Anopusu",
+        "kana": "\u30a2\u30ce\u30d7\u30b9"
+    },
+    {
+        "term": "armaldo",
+        "english": "Armaldo",
+        "japanese": "Aamarudo",
+        "kana": "\u30a2\u30fc\u30de\u30eb\u30c9"
+    },
+    {
+        "term": "feebas",
+        "english": "Feebas",
+        "japanese": "Hinbass",
+        "kana": "\u30d2\u30f3\u30d0\u30b9"
+    },
+    {
+        "term": "milotic",
+        "english": "Milotic",
+        "japanese": "Mirokarosu",
+        "kana": "\u30df\u30ed\u30ab\u30ed\u30b9"
+    },
+    {
+        "term": "castform",
+        "english": "Castform",
+        "japanese": "Powarun",
+        "kana": "\u30dd\u30ef\u30eb\u30f3"
+    },
+    {
+        "term": "kecleon",
+        "english": "Kecleon",
+        "japanese": "Kakureon",
+        "kana": "\u30ab\u30af\u30ec\u30aa\u30f3"
+    },
+    {
+        "term": "shuppet",
+        "english": "Shuppet",
+        "japanese": "Kagebozou",
+        "kana": "\u30ab\u30b2\u30dc\u30a6\u30ba"
+    },
+    {
+        "term": "banette",
+        "english": "Banette",
+        "japanese": "Juppeta",
+        "kana": "\u30b8\u30e5\u30da\u30c3\u30bf"
+    },
+    {
+        "term": "mega banette",
+        "english": "Mega Banette",
+        "japanese": "Juppeta",
+        "kana": "\u30b8\u30e5\u30da\u30c3\u30bf"
+    },
+    {
+        "term": "duskull",
+        "english": "Duskull",
+        "japanese": "Yomawaru",
+        "kana": "\u30e8\u30de\u30ef\u30eb"
+    },
+    {
+        "term": "dusclops",
+        "english": "Dusclops",
+        "japanese": "Samayorou",
+        "kana": "\u30b5\u30de\u30e8\u30fc\u30eb"
+    },
+    {
+        "term": "tropius",
+        "english": "Tropius",
+        "japanese": "Tropius",
+        "kana": "\u30c8\u30ed\u30d4\u30a6\u30b9"
+    },
+    {
+        "term": "chimecho",
+        "english": "Chimecho",
+        "japanese": "Chiriin",
+        "kana": "\u30c1\u30ea\u30fc\u30f3"
+    },
+    {
+        "term": "absol",
+        "english": "Absol",
+        "japanese": "Absol",
+        "kana": "\u30a2\u30d6\u30bd\u30eb"
+    },
+    {
+        "term": "mega absol",
+        "english": "Mega Absol",
+        "japanese": "Absol",
+        "kana": "\u30a2\u30d6\u30bd\u30eb"
+    },
+    {
+        "term": "wynaut",
+        "english": "Wynaut",
+        "japanese": "Sonano",
+        "kana": "\u30bd\u30fc\u30ca\u30ce"
+    },
+    {
+        "term": "snorunt",
+        "english": "Snorunt",
+        "japanese": "Yukiwarashi",
+        "kana": "\u30e6\u30ad\u30ef\u30e9\u30b7"
+    },
+    {
+        "term": "glalie",
+        "english": "Glalie",
+        "japanese": "Onigoori",
+        "kana": "\u30aa\u30cb\u30b4\u30fc\u30ea"
+    },
+    {
+        "term": "mega glalie",
+        "english": "Mega Glalie",
+        "japanese": "Onigoori",
+        "kana": "\u30aa\u30cb\u30b4\u30fc\u30ea"
+    },
+    {
+        "term": "spheal",
+        "english": "Spheal",
+        "japanese": "Tamazarashi",
+        "kana": "\u30bf\u30de\u30b6\u30e9\u30b7"
+    },
+    {
+        "term": "sealeo",
+        "english": "Sealeo",
+        "japanese": "Todogura",
+        "kana": "\u30c8\u30c9\u30b0\u30e9\u30fc"
+    },
+    {
+        "term": "walrein",
+        "english": "Walrein",
+        "japanese": "Todozeruga",
+        "kana": "\u30c8\u30c9\u30bc\u30eb\u30ac"
+    },
+    {
+        "term": "clamperl",
+        "english": "Clamperl",
+        "japanese": "Paaruru",
+        "kana": "\u30d1\u30fc\u30eb\u30eb"
+    },
+    {
+        "term": "huntail",
+        "english": "Huntail",
+        "japanese": "Hanteeru",
+        "kana": "\u30cf\u30f3\u30c6\u30fc\u30eb"
+    },
+    {
+        "term": "gorebyss",
+        "english": "Gorebyss",
+        "japanese": "Sakurabisu",
+        "kana": "\u30b5\u30af\u30e9\u30d3\u30b9"
+    },
+    {
+        "term": "relicanth",
+        "english": "Relicanth",
+        "japanese": "Jiransu",
+        "kana": "\u30b8\u30fc\u30e9\u30f3\u30b9"
+    },
+    {
+        "term": "luvdisc",
+        "english": "Luvdisc",
+        "japanese": "Rabukusu",
+        "kana": "\u30e9\u30d6\u30ab\u30b9"
+    },
+    {
+        "term": "bagon",
+        "english": "Bagon",
+        "japanese": "Tatsubi",
+        "kana": "\u30bf\u30c4\u30d9\u30a4"
+    },
+    {
+        "term": "shelgon",
+        "english": "Shelgon",
+        "japanese": "Komoru",
+        "kana": "\u30b3\u30e2\u30eb\u30fc"
+    },
+    {
+        "term": "salamence",
+        "english": "Salamence",
+        "japanese": "Boomanda",
+        "kana": "\u30dc\u30fc\u30de\u30f3\u30c0"
+    },
+    {
+        "term": "mega salamence",
+        "english": "Mega Salamence",
+        "japanese": "Boomanda",
+        "kana": "\u30dc\u30fc\u30de\u30f3\u30c0"
+    },
+    {
+        "term": "beldum",
+        "english": "Beldum",
+        "japanese": "Danbaru",
+        "kana": "\u30c0\u30f3\u30d0\u30eb"
+    },
+    {
+        "term": "metang",
+        "english": "Metang",
+        "japanese": "Metang",
+        "kana": "\u30e1\u30bf\u30f3\u30b0"
+    },
+    {
+        "term": "metagross",
+        "english": "Metagross",
+        "japanese": "Metagoros",
+        "kana": "\u30e1\u30bf\u30b0\u30ed\u30b9"
+    },
+    {
+        "term": "mega metagross",
+        "english": "Mega Metagross",
+        "japanese": "Metagoros",
+        "kana": "\u30e1\u30bf\u30b0\u30ed\u30b9"
+    },
+    {
+        "term": "regirock",
+        "english": "Regirock",
+        "japanese": "Rejirock",
+        "kana": "\u30ec\u30b8\u30ed\u30c3\u30af"
+    },
+    {
+        "term": "regice",
+        "english": "Regice",
+        "japanese": "Rejice",
+        "kana": "\u30ec\u30b8\u30a2\u30a4\u30b9"
+    },
+    {
+        "term": "registeel",
+        "english": "Registeel",
+        "japanese": "Rejisteel",
+        "kana": "\u30ec\u30b8\u30b9\u30c1\u30eb"
+    },
+    {
+        "term": "latias",
+        "english": "Latias",
+        "japanese": "Latias",
+        "kana": "\u30e9\u30c6\u30a3\u30a2\u30b9"
+    },
+    {
+        "term": "mega latias",
+        "english": "Mega Latias",
+        "japanese": "Latias",
+        "kana": "\u30e9\u30c6\u30a3\u30a2\u30b9"
+    },
+    {
+        "term": "latios",
+        "english": "Latios",
+        "japanese": "Latios",
+        "kana": "\u30e9\u30c6\u30a3\u30aa\u30b9"
+    },
+    {
+        "term": "mega latios",
+        "english": "Mega Latios",
+        "japanese": "Latios",
+        "kana": "\u30e9\u30c6\u30a3\u30aa\u30b9"
+    },
+    {
+        "term": "kyogre",
+        "english": "Kyogre",
+        "japanese": "Kyogre",
+        "kana": "\u30ab\u30a4\u30aa\u30fc\u30ac"
+    },
+    {
+        "term": "primal kyogre",
+        "english": "Primal Kyogre",
+        "japanese": "Kyogre",
+        "kana": "\u30ab\u30a4\u30aa\u30fc\u30ac"
+    },
+    {
+        "term": "groudon",
+        "english": "Groudon",
+        "japanese": "Groudon",
+        "kana": "\u30b0\u30e9\u30fc\u30c9\u30f3"
+    },
+    {
+        "term": "primal groudon",
+        "english": "Primal Groudon",
+        "japanese": "Groudon",
+        "kana": "\u30b0\u30e9\u30fc\u30c9\u30f3"
+    },
+    {
+        "term": "rayquaza",
+        "english": "Rayquaza",
+        "japanese": "Rayquaza",
+        "kana": "\u30ec\u30c3\u30af\u30a6\u30b6"
+    },
+    {
+        "term": "mega rayquaza",
+        "english": "Mega Rayquaza",
+        "japanese": "Rayquaza",
+        "kana": "\u30ec\u30c3\u30af\u30a6\u30b6"
+    },
+    {
+        "term": "jirachi",
+        "english": "Jirachi",
+        "japanese": "Jirachi",
+        "kana": "\u30b8\u30e9\u30fc\u30c1"
+    },
+    {
+        "term": "deoxys normal",
+        "english": "Deoxys",
+        "japanese": "Deokishisu",
+        "kana": "\u30c7\u30aa\u30ad\u30b7\u30b9"
+    },
+    {
+        "term": "deoxys attack",
+        "english": "Deoxys Attack",
+        "japanese": "Deokishisu",
+        "kana": "\u30c7\u30aa\u30ad\u30b7\u30b9"
+    },
+    {
+        "term": "deoxys defense",
+        "english": "Deoxys Defense",
+        "japanese": "Deokishisu",
+        "kana": "\u30c7\u30aa\u30ad\u30b7\u30b9"
+    },
+    {
+        "term": "deoxys speed",
+        "english": "Deoxys Speed",
+        "japanese": "Deokishisu",
+        "kana": "\u30c7\u30aa\u30ad\u30b7\u30b9"
+    },
+    {
+        "term": "turtwig",
+        "english": "Turtwig",
+        "japanese": "Naetoru",
+        "kana": "\u30ca\u30a8\u30c8\u30eb"
+    },
+    {
+        "term": "grotle",
+        "english": "Grotle",
+        "japanese": "Hayashigame",
+        "kana": "\u30cf\u30e4\u30b7\u30ac\u30e1"
+    },
+    {
+        "term": "torterra",
+        "english": "Torterra",
+        "japanese": "Dotaitos",
+        "kana": "\u30c9\u30c0\u30a4\u30c8\u30b9"
+    },
+    {
+        "term": "chimchar",
+        "english": "Chimchar",
+        "japanese": "Hikozaru",
+        "kana": "\u30d2\u30b3\u30b6\u30eb"
+    },
+    {
+        "term": "monferno",
+        "english": "Monferno",
+        "japanese": "Moukazaru",
+        "kana": "\u30e2\u30a6\u30ab\u30b6\u30eb"
+    },
+    {
+        "term": "infernape",
+        "english": "Infernape",
+        "japanese": "Goukazaru",
+        "kana": "\u30b4\u30a6\u30ab\u30b6\u30eb"
+    },
+    {
+        "term": "piplup",
+        "english": "Piplup",
+        "japanese": "Pochama",
+        "kana": "\u30dd\u30c3\u30c1\u30e3\u30de"
+    },
+    {
+        "term": "prinplup",
+        "english": "Prinplup",
+        "japanese": "Pottaishi",
+        "kana": "\u30dd\u30c3\u30bf\u30a4\u30b7"
+    },
+    {
+        "term": "empoleon",
+        "english": "Empoleon",
+        "japanese": "Enperuto",
+        "kana": "\u30a8\u30f3\u30da\u30eb\u30c8"
+    },
+    {
+        "term": "starly",
+        "english": "Starly",
+        "japanese": "Mukkuru",
+        "kana": "\u30e0\u30c3\u30af\u30eb"
+    },
+    {
+        "term": "staravia",
+        "english": "Staravia",
+        "japanese": "Mukkubird",
+        "kana": "\u30e0\u30af\u30d0\u30fc\u30c9"
+    },
+    {
+        "term": "staraptor",
+        "english": "Staraptor",
+        "japanese": "Mukuhawk",
+        "kana": "\u30e0\u30af\u30db\u30fc\u30af"
+    },
+    {
+        "term": "bidoof",
+        "english": "Bidoof",
+        "japanese": "Bippa",
+        "kana": "\u30d3\u30c3\u30d1"
+    },
+    {
+        "term": "bibarel",
+        "english": "Bibarel",
+        "japanese": "Biidaru",
+        "kana": "\u30d3\u30fc\u30c0\u30eb"
+    },
+    {
+        "term": "kricketot",
+        "english": "Kricketot",
+        "japanese": "Korobooshi",
+        "kana": "\u30b3\u30ed\u30dc\u30fc\u30b7"
+    },
+    {
+        "term": "kricketune",
+        "english": "Kricketune",
+        "japanese": "Korotokku",
+        "kana": "\u30b3\u30ed\u30c8\u30c3\u30af"
+    },
+    {
+        "term": "shinx",
+        "english": "Shinx",
+        "japanese": "Korinku",
+        "kana": "\u30b3\u30ea\u30f3\u30af"
+    },
+    {
+        "term": "luxio",
+        "english": "Luxio",
+        "japanese": "Rukushio",
+        "kana": "\u30eb\u30af\u30b7\u30aa"
+    },
+    {
+        "term": "luxray",
+        "english": "Luxray",
+        "japanese": "Rentoraa",
+        "kana": "\u30ec\u30f3\u30c8\u30e9\u30fc"
+    },
+    {
+        "term": "budew",
+        "english": "Budew",
+        "japanese": "Subomi",
+        "kana": "\u30b9\u30dc\u30df\u30fc"
+    },
+    {
+        "term": "roserade",
+        "english": "Roserade",
+        "japanese": "Rozureido",
+        "kana": "\u30ed\u30ba\u30ec\u30a4\u30c9"
+    },
+    {
+        "term": "cranidos",
+        "english": "Cranidos",
+        "japanese": "Zugaidosu",
+        "kana": "\u30ba\u30ac\u30a4\u30c9\u30b9"
+    },
+    {
+        "term": "rampardos",
+        "english": "Rampardos",
+        "japanese": "Ramuparudo",
+        "kana": "\u30e9\u30e0\u30d1\u30eb\u30c9"
+    },
+    {
+        "term": "shieldon",
+        "english": "Shieldon",
+        "japanese": "Tatetopusu",
+        "kana": "\u30bf\u30c6\u30c8\u30d7\u30b9"
+    },
+    {
+        "term": "bastiodon",
+        "english": "Bastiodon",
+        "japanese": "Toridepusu",
+        "kana": "\u30c8\u30ea\u30c7\u30d7\u30b9"
+    },
+    {
+        "term": "burmy",
+        "english": "Burmy",
+        "japanese": "Minomucchi",
+        "kana": "\u30df\u30ce\u30e0\u30c3\u30c1"
+    },
+    {
+        "term": "wormadam plant cloak",
+        "english": "Wormadam Plant Cloak",
+        "japanese": "Minomadamu",
+        "kana": "\u30df\u30ce\u30de\u30c0\u30e0"
+    },
+    {
+        "term": "wormadam sandy cloak",
+        "english": "Wormadam Sandy Cloak",
+        "japanese": "Minomadamu",
+        "kana": "\u30df\u30ce\u30de\u30c0\u30e0"
+    },
+    {
+        "term": "wormadam trash cloak",
+        "english": "Wormadam Trash Cloak",
+        "japanese": "Minomadamu",
+        "kana": "\u30df\u30ce\u30de\u30c0\u30e0"
+    },
+    {
+        "term": "mothim",
+        "english": "Mothim",
+        "japanese": "Garmeil",
+        "kana": "\u30ac\u30fc\u30e1\u30a4\u30eb"
+    },
+    {
+        "term": "combee",
+        "english": "Combee",
+        "japanese": "Mitsuhoney",
+        "kana": "\u30df\u30c4\u30cf\u30cb\u30fc"
+    },
+    {
+        "term": "vespiquen",
+        "english": "Vespiquen",
+        "japanese": "Beequeen",
+        "kana": "\u30d3\u30fc\u30af\u30a4\u30f3"
+    },
+    {
+        "term": "pachirisu",
+        "english": "Pachirisu",
+        "japanese": "Pachirisu",
+        "kana": "\u30d1\u30c1\u30ea\u30b9"
+    },
+    {
+        "term": "buizel",
+        "english": "Buizel",
+        "japanese": "Buoysel",
+        "kana": "\u30d6\u30a4\u30bc\u30eb"
+    },
+    {
+        "term": "floatzel",
+        "english": "Floatzel",
+        "japanese": "Floatsel",
+        "kana": "\u30d5\u30ed\u30fc\u30bc\u30eb"
+    },
+    {
+        "term": "cherubi",
+        "english": "Cherubi",
+        "japanese": "Cherinbo",
+        "kana": "\u30c1\u30a7\u30ea\u30f3\u30dc"
+    },
+    {
+        "term": "cherrim",
+        "english": "Cherrim",
+        "japanese": "Cherimu",
+        "kana": "\u30c1\u30a7\u30ea\u30e0"
+    },
+    {
+        "term": "shellos",
+        "english": "Shellos",
+        "japanese": "Karanakushi",
+        "kana": "\u30ab\u30e9\u30ca\u30af\u30b7"
+    },
+    {
+        "term": "gastrodon",
+        "english": "Gastrodon",
+        "japanese": "Toritoidon",
+        "kana": "\u30c8\u30ea\u30c8\u30c9\u30f3"
+    },
+    {
+        "term": "ambipom",
+        "english": "Ambipom",
+        "japanese": "Etebossu",
+        "kana": "\u30a8\u30c6\u30dc\u30fc\u30b9"
+    },
+    {
+        "term": "drifloon",
+        "english": "Drifloon",
+        "japanese": "Fuwante",
+        "kana": "\u30d5\u30ef\u30f3\u30c6"
+    },
+    {
+        "term": "drifblim",
+        "english": "Drifblim",
+        "japanese": "Fuwaraido",
+        "kana": "\u30d5\u30ef\u30e9\u30a4\u30c9"
+    },
+    {
+        "term": "buneary",
+        "english": "Buneary",
+        "japanese": "Mimiroru",
+        "kana": "\u30df\u30df\u30ed\u30eb"
+    },
+    {
+        "term": "lopunny",
+        "english": "Lopunny",
+        "japanese": "Mimiroppu",
+        "kana": "\u30df\u30df\u30ed\u30c3\u30d7"
+    },
+    {
+        "term": "mega lopunny",
+        "english": "Mega Lopunny",
+        "japanese": "Mimiroppu",
+        "kana": "\u30df\u30df\u30ed\u30c3\u30d7"
+    },
+    {
+        "term": "mismagius",
+        "english": "Mismagius",
+        "japanese": "Muumajii",
+        "kana": "\u30e0\u30a6\u30de\u30fc\u30b8"
+    },
+    {
+        "term": "honchkrow",
+        "english": "Honchkrow",
+        "japanese": "Donkarasu",
+        "kana": "\u30c9\u30f3\u30ab\u30e9\u30b9"
+    },
+    {
+        "term": "glameow",
+        "english": "Glameow",
+        "japanese": "Nyaruma",
+        "kana": "\u30cb\u30e3\u30eb\u30de\u30fc"
+    },
+    {
+        "term": "purugly",
+        "english": "Purugly",
+        "japanese": "Bunyatto",
+        "kana": "\u30d6\u30cb\u30e3\u30c3\u30c8"
+    },
+    {
+        "term": "chingling",
+        "english": "Chingling",
+        "japanese": "Riishan",
+        "kana": "\u30ea\u30fc\u30b7\u30e3\u30f3"
+    },
+    {
+        "term": "stunky",
+        "english": "Stunky",
+        "japanese": "Sukapuu",
+        "kana": "\u30b9\u30ab\u30f3\u30d7\u30fc"
+    },
+    {
+        "term": "skuntank",
+        "english": "Skuntank",
+        "japanese": "Sukatanku",
+        "kana": "\u30b9\u30ab\u30bf\u30f3\u30af"
+    },
+    {
+        "term": "bronzor",
+        "english": "Bronzor",
+        "japanese": "Doomiraa",
+        "kana": "\u30c9\u30fc\u30df\u30e9\u30fc"
+    },
+    {
+        "term": "bronzong",
+        "english": "Bronzong",
+        "japanese": "Dootakun",
+        "kana": "\u30c9\u30fc\u30bf\u30af\u30f3"
+    },
+    {
+        "term": "bonsly",
+        "english": "Bonsly",
+        "japanese": "Usohachii",
+        "kana": "\u30a6\u30bd\u30cf\u30c1"
+    },
+    {
+        "term": "mime jr.",
+        "english": "Mime Jr.",
+        "japanese": "Manene",
+        "kana": "\u30de\u30cd\u30cd"
+    },
+    {
+        "term": "happiny",
+        "english": "Happiny",
+        "japanese": "Pinpuku",
+        "kana": "\u30d4\u30f3\u30d7\u30af"
+    },
+    {
+        "term": "chatot",
+        "english": "Chatot",
+        "japanese": "Perap",
+        "kana": "\u30da\u30e9\u30c3\u30d7"
+    },
+    {
+        "term": "spiritomb",
+        "english": "Spiritomb",
+        "japanese": "Mikaruge",
+        "kana": "\u30df\u30ab\u30eb\u30b2"
+    },
+    {
+        "term": "gible",
+        "english": "Gible",
+        "japanese": "Fukamaru",
+        "kana": "\u30d5\u30ab\u30de\u30eb"
+    },
+    {
+        "term": "gabite",
+        "english": "Gabite",
+        "japanese": "Gabaito",
+        "kana": "\u30ac\u30d0\u30a4\u30c8"
+    },
+    {
+        "term": "garchomp",
+        "english": "Garchomp",
+        "japanese": "Gaburias",
+        "kana": "\u30ac\u30d6\u30ea\u30a2\u30b9"
+    },
+    {
+        "term": "mega garchomp",
+        "english": "Mega Garchomp",
+        "japanese": "Gaburias",
+        "kana": "\u30ac\u30d6\u30ea\u30a2\u30b9"
+    },
+    {
+        "term": "munchlax",
+        "english": "Munchlax",
+        "japanese": "Gonbe",
+        "kana": "\u30b4\u30f3\u30d9"
+    },
+    {
+        "term": "riolu",
+        "english": "Riolu",
+        "japanese": "Riolu",
+        "kana": "\u30ea\u30aa\u30eb"
+    },
+    {
+        "term": "lucario",
+        "english": "Lucario",
+        "japanese": "Lucario",
+        "kana": "\u30eb\u30ab\u30ea\u30aa"
+    },
+    {
+        "term": "mega lucario",
+        "english": "Mega Lucario",
+        "japanese": "Lucario",
+        "kana": "\u30eb\u30ab\u30ea\u30aa"
+    },
+    {
+        "term": "hippopotas",
+        "english": "Hippopotas",
+        "japanese": "Hippopotasu",
+        "kana": "\u30d2\u30dd\u30dd\u30bf\u30b9"
+    },
+    {
+        "term": "hippowdon",
+        "english": "Hippowdon",
+        "japanese": "Kabarudon",
+        "kana": "\u30ab\u30d0\u30eb\u30c9\u30f3"
+    },
+    {
+        "term": "skorupi",
+        "english": "Skorupi",
+        "japanese": "Scorpi",
+        "kana": "\u30b9\u30b3\u30eb\u30d4"
+    },
+    {
+        "term": "drapion",
+        "english": "Drapion",
+        "japanese": "Dorapion",
+        "kana": "\u30c9\u30e9\u30d4\u30aa\u30f3"
+    },
+    {
+        "term": "croagunk",
+        "english": "Croagunk",
+        "japanese": "Gregguru",
+        "kana": "\u30b0\u30ec\u30c3\u30b0\u30eb"
+    },
+    {
+        "term": "toxicroak",
+        "english": "Toxicroak",
+        "japanese": "Dokurogu",
+        "kana": "\u30c9\u30af\u30ed\u30c3\u30b0"
+    },
+    {
+        "term": "carnivine",
+        "english": "Carnivine",
+        "japanese": "Masukippa",
+        "kana": "\u30de\u30b9\u30ad\u30c3\u30d1"
+    },
+    {
+        "term": "finneon",
+        "english": "Finneon",
+        "japanese": "Keikouo",
+        "kana": "\u30b1\u30a4\u30b3\u30a6\u30aa"
+    },
+    {
+        "term": "lumineon",
+        "english": "Lumineon",
+        "japanese": "Neorantu",
+        "kana": "\u30cd\u30aa\u30e9\u30f3\u30c8"
+    },
+    {
+        "term": "mantyke",
+        "english": "Mantyke",
+        "japanese": "Tamanta",
+        "kana": "\u30bf\u30de\u30f3\u30bf"
+    },
+    {
+        "term": "snover",
+        "english": "Snover",
+        "japanese": "Yukikaburi",
+        "kana": "\u30e6\u30ad\u30ab\u30d6\u30ea"
+    },
+    {
+        "term": "abomasnow",
+        "english": "Abomasnow",
+        "japanese": "Yukinooh",
+        "kana": "\u30e6\u30ad\u30ce\u30aa\u30fc"
+    },
+    {
+        "term": "mega abomasnow",
+        "english": "Mega Abomasnow",
+        "japanese": "Yukinooh",
+        "kana": "\u30e6\u30ad\u30ce\u30aa\u30fc"
+    },
+    {
+        "term": "weavile",
+        "english": "Weavile",
+        "japanese": "Manyula",
+        "kana": "\u30de\u30cb\u30e5\u30fc\u30e9"
+    },
+    {
+        "term": "magnezone",
+        "english": "Magnezone",
+        "japanese": "Jibacoil",
+        "kana": "\u30b8\u30d0\u30b3\u30a4\u30eb"
+    },
+    {
+        "term": "lickilicky",
+        "english": "Lickilicky",
+        "japanese": "Beruberuto",
+        "kana": "\u30d9\u30ed\u30d9\u30eb\u30c8"
+    },
+    {
+        "term": "rhyperior",
+        "english": "Rhyperior",
+        "japanese": "Dosaidon",
+        "kana": "\u30c9\u30b5\u30a4\u30c9\u30f3"
+    },
+    {
+        "term": "tangrowth",
+        "english": "Tangrowth",
+        "japanese": "Mojanbo",
+        "kana": "\u30e2\u30b8\u30e3\u30f3\u30dc"
+    },
+    {
+        "term": "electivire",
+        "english": "Electivire",
+        "japanese": "Elekible",
+        "kana": "\u30a8\u30ec\u30ad\u30d6\u30eb"
+    },
+    {
+        "term": "magmortar",
+        "english": "Magmortar",
+        "japanese": "Buuburn",
+        "kana": "\u30d6\u30fc\u30d0\u30fc\u30f3"
+    },
+    {
+        "term": "togekiss",
+        "english": "Togekiss",
+        "japanese": "Togekiss",
+        "kana": "\u30c8\u30b2\u30ad\u30c3\u30b9"
+    },
+    {
+        "term": "yanmega",
+        "english": "Yanmega",
+        "japanese": "Megayanma",
+        "kana": "\u30e1\u30ac\u30e4\u30f3\u30de"
+    },
+    {
+        "term": "leafeon",
+        "english": "Leafeon",
+        "japanese": "Leafia",
+        "kana": "\u30ea\u30fc\u30d5\u30a3\u30a2"
+    },
+    {
+        "term": "glaceon",
+        "english": "Glaceon",
+        "japanese": "Glacia",
+        "kana": "\u30b0\u30ec\u30a4\u30b7\u30a2"
+    },
+    {
+        "term": "gliscor",
+        "english": "Gliscor",
+        "japanese": "Glion",
+        "kana": "\u30b0\u30e9\u30a4\u30aa\u30f3"
+    },
+    {
+        "term": "mamoswine",
+        "english": "Mamoswine",
+        "japanese": "Manmuu",
+        "kana": "\u30de\u30f3\u30e0\u30fc"
+    },
+    {
+        "term": "porygon z",
+        "english": "Porygon-Z",
+        "japanese": "PorygonZ",
+        "kana": "\u30dd\u30ea\u30b4\u30f3\uff3a"
+    },
+    {
+        "term": "gallade",
+        "english": "Gallade",
+        "japanese": "Erureido",
+        "kana": "\u30a8\u30eb\u30ec\u30a4\u30c9"
+    },
+    {
+        "term": "mega gallade",
+        "english": "Mega Gallade",
+        "japanese": "Erureido",
+        "kana": "\u30a8\u30eb\u30ec\u30a4\u30c9"
+    },
+    {
+        "term": "probopass",
+        "english": "Probopass",
+        "japanese": "Dainoosu",
+        "kana": "\u30c0\u30a4\u30ce\u30fc\u30ba"
+    },
+    {
+        "term": "dusknoir",
+        "english": "Dusknoir",
+        "japanese": "Yonoir",
+        "kana": "\u30e8\u30ce\u30ef\u30fc\u30eb"
+    },
+    {
+        "term": "froslass",
+        "english": "Froslass",
+        "japanese": "Yukimenoko",
+        "kana": "\u30e6\u30ad\u30e1\u30ce\u30b3"
+    },
+    {
+        "term": "rotom",
+        "english": "Rotom",
+        "japanese": "Rotomu",
+        "kana": "\u30ed\u30c8\u30e0"
+    },
+    {
+        "term": "rotom heat",
+        "english": "Rotom Heat",
+        "japanese": "Rotomu",
+        "kana": "\u30ed\u30c8\u30e0"
+    },
+    {
+        "term": "rotom wash",
+        "english": "Rotom Wash",
+        "japanese": "Rotomu",
+        "kana": "\u30ed\u30c8\u30e0"
+    },
+    {
+        "term": "rotom frost",
+        "english": "Rotom Frost",
+        "japanese": "Rotomu",
+        "kana": "\u30ed\u30c8\u30e0"
+    },
+    {
+        "term": "rotom fan",
+        "english": "Rotom Fan",
+        "japanese": "Rotomu",
+        "kana": "\u30ed\u30c8\u30e0"
+    },
+    {
+        "term": "rotom mow",
+        "english": "Rotom Mow",
+        "japanese": "Rotomu",
+        "kana": "\u30ed\u30c8\u30e0"
+    },
+    {
+        "term": "uxie",
+        "english": "Uxie",
+        "japanese": "Yukishii",
+        "kana": "\u30e6\u30af\u30b7\u30fc"
+    },
+    {
+        "term": "mesprit",
+        "english": "Mesprit",
+        "japanese": "Emuritto",
+        "kana": "\u30a8\u30e0\u30ea\u30c3\u30c8"
+    },
+    {
+        "term": "azelf",
+        "english": "Azelf",
+        "japanese": "Agunomuu",
+        "kana": "\u30a2\u30b0\u30ce\u30e0"
+    },
+    {
+        "term": "dialga",
+        "english": "Dialga",
+        "japanese": "Dialga",
+        "kana": "\u30c7\u30a3\u30a2\u30eb\u30ac"
+    },
+    {
+        "term": "palkia",
+        "english": "Palkia",
+        "japanese": "Palkia",
+        "kana": "\u30d1\u30eb\u30ad\u30a2"
+    },
+    {
+        "term": "heatran",
+        "english": "Heatran",
+        "japanese": "Hiidoran",
+        "kana": "\u30d2\u30fc\u30c9\u30e9\u30f3"
+    },
+    {
+        "term": "regigigas",
+        "english": "Regigigas",
+        "japanese": "Regigigas",
+        "kana": "\u30ec\u30b8\u30ae\u30ac\u30b9"
+    },
+    {
+        "term": "giratina altered",
+        "english": "Giratina Altered",
+        "japanese": "Giratina",
+        "kana": "\u30ae\u30e9\u30c6\u30a3\u30ca"
+    },
+    {
+        "term": "giratina origin",
+        "english": "Giratina Origin",
+        "japanese": "Giratina",
+        "kana": "\u30ae\u30e9\u30c6\u30a3\u30ca"
+    },
+    {
+        "term": "cresselia",
+        "english": "Cresselia",
+        "japanese": "Kureseria",
+        "kana": "\u30af\u30ec\u30bb\u30ea\u30a2"
+    },
+    {
+        "term": "phione",
+        "english": "Phione",
+        "japanese": "Fione",
+        "kana": "\u30d5\u30a3\u30aa\u30cd"
+    },
+    {
+        "term": "manaphy",
+        "english": "Manaphy",
+        "japanese": "Manaphy",
+        "kana": "\u30de\u30ca\u30d5\u30a3"
+    },
+    {
+        "term": "darkrai",
+        "english": "Darkrai",
+        "japanese": "Darkrai",
+        "kana": "\u30c0\u30fc\u30af\u30e9\u30a4"
+    },
+    {
+        "term": "shaymin land",
+        "english": "Shaymin",
+        "japanese": "Sheimi",
+        "kana": "\u30b7\u30a7\u30a4\u30df"
+    },
+    {
+        "term": "shaymin sky",
+        "english": "Shaymin Sky Forme",
+        "japanese": "Sheimi",
+        "kana": "\u30b7\u30a7\u30a4\u30df"
+    },
+    {
+        "term": "arceus",
+        "english": "Arceus",
+        "japanese": "Arceus",
+        "kana": "\u30a2\u30eb\u30bb\u30a6\u30b9"
+    },
+    {
+        "term": "victini",
+        "english": "Victini",
+        "japanese": "Victini",
+        "kana": "\u30d3\u30af\u30c6\u30a3\u30cb"
+    },
+    {
+        "term": "snivy",
+        "english": "Snivy",
+        "japanese": "Tsutarja",
+        "kana": "\u30c4\u30bf\u30fc\u30b8\u30e3"
+    },
+    {
+        "term": "servine",
+        "english": "Servine",
+        "japanese": "Janovy",
+        "kana": "\u30b8\u30e3\u30ce\u30d3\u30fc"
+    },
+    {
+        "term": "serperior",
+        "english": "Serperior",
+        "japanese": "Jalorda",
+        "kana": "\u30b8\u30e3\u30ed\u30fc\u30c0"
+    },
+    {
+        "term": "tepig",
+        "english": "Tepig",
+        "japanese": "Pokabu",
+        "kana": "\u30dd\u30ab\u30d6"
+    },
+    {
+        "term": "pignite",
+        "english": "Pignite",
+        "japanese": "Chaoboo",
+        "kana": "\u30c1\u30e3\u30aa\u30d6\u30fc"
+    },
+    {
+        "term": "emboar",
+        "english": "Emboar",
+        "japanese": "Enbuoh",
+        "kana": "\u30a8\u30f3\u30d6\u30aa\u30fc"
+    },
+    {
+        "term": "oshawott",
+        "english": "Oshawott",
+        "japanese": "Mijumaru",
+        "kana": "\u30df\u30b8\u30e5\u30de\u30eb"
+    },
+    {
+        "term": "dewott",
+        "english": "Dewott",
+        "japanese": "Futachimaru",
+        "kana": "\u30d5\u30bf\u30c1\u30de\u30eb"
+    },
+    {
+        "term": "samurott",
+        "english": "Samurott",
+        "japanese": "Daikenki",
+        "kana": "\u30c0\u30a4\u30b1\u30f3\u30ad"
+    },
+    {
+        "term": "patrat",
+        "english": "Patrat",
+        "japanese": "Minezumi",
+        "kana": "\u30df\u30cd\u30ba\u30df"
+    },
+    {
+        "term": "watchog",
+        "english": "Watchog",
+        "japanese": "Miruhog",
+        "kana": "\u30df\u30eb\u30db\u30c3\u30b0"
+    },
+    {
+        "term": "lillipup",
+        "english": "Lillipup",
+        "japanese": "Yorterrie",
+        "kana": "\u30e8\u30fc\u30c6\u30ea\u30fc"
+    },
+    {
+        "term": "herdier",
+        "english": "Herdier",
+        "japanese": "Herderrie",
+        "kana": "\u30cf\u30fc\u30c7\u30ea\u30a2"
+    },
+    {
+        "term": "stoutland",
+        "english": "Stoutland",
+        "japanese": "Mooland",
+        "kana": "\u30e0\u30fc\u30e9\u30f3\u30c9"
+    },
+    {
+        "term": "purrloin",
+        "english": "Purrloin",
+        "japanese": "Choroneko",
+        "kana": "\u30c1\u30e7\u30ed\u30cd\u30b3"
+    },
+    {
+        "term": "liepard",
+        "english": "Liepard",
+        "japanese": "Lepardas",
+        "kana": "\u30ec\u30d1\u30eb\u30c0\u30b9"
+    },
+    {
+        "term": "pansage",
+        "english": "Pansage",
+        "japanese": "Yanappu",
+        "kana": "\u30e4\u30ca\u30c3\u30d7"
+    },
+    {
+        "term": "simisage",
+        "english": "Simisage",
+        "japanese": "Yanakkie",
+        "kana": "\u30e4\u30ca\u30c3\u30ad\u30fc"
+    },
+    {
+        "term": "pansear",
+        "english": "Pansear",
+        "japanese": "Baoppu",
+        "kana": "\u30d0\u30aa\u30c3\u30d7"
+    },
+    {
+        "term": "simisear",
+        "english": "Simisear",
+        "japanese": "Baokkie",
+        "kana": "\u30d0\u30aa\u30c3\u30ad\u30fc"
+    },
+    {
+        "term": "panpour",
+        "english": "Panpour",
+        "japanese": "Hiyappu",
+        "kana": "\u30d2\u30e4\u30c3\u30d7"
+    },
+    {
+        "term": "simipour",
+        "english": "Simipour",
+        "japanese": "Hiyakkie",
+        "kana": "\u30d2\u30e4\u30c3\u30ad\u30fc"
+    },
+    {
+        "term": "munna",
+        "english": "Munna",
+        "japanese": "Munna",
+        "kana": "\u30e0\u30f3\u30ca"
+    },
+    {
+        "term": "musharna",
+        "english": "Musharna",
+        "japanese": "Musharna",
+        "kana": "\u30e0\u30b7\u30e3\u30fc\u30ca"
+    },
+    {
+        "term": "pidove",
+        "english": "Pidove",
+        "japanese": "Mamepato",
+        "kana": "\u30de\u30e1\u30d1\u30c8"
+    },
+    {
+        "term": "tranquill",
+        "english": "Tranquill",
+        "japanese": "Hatoboh",
+        "kana": "\u30cf\u30c8\u30fc\u30dc\u30fc"
+    },
+    {
+        "term": "unfezant",
+        "english": "Unfezant",
+        "japanese": "Kenhallow",
+        "kana": "\u30b1\u30f3\u30db\u30ed\u30a6"
+    },
+    {
+        "term": "blitzle",
+        "english": "Blitzle",
+        "japanese": "Shimama",
+        "kana": "\u30b7\u30de\u30de"
+    },
+    {
+        "term": "zebstrika",
+        "english": "Zebstrika",
+        "japanese": "Zebraika",
+        "kana": "\u30bc\u30d6\u30e9\u30a4\u30ab"
+    },
+    {
+        "term": "roggenrola",
+        "english": "Roggenrola",
+        "japanese": "Dangoro",
+        "kana": "\u30c0\u30f3\u30b4\u30ed"
+    },
+    {
+        "term": "boldore",
+        "english": "Boldore",
+        "japanese": "Gantle",
+        "kana": "\u30ac\u30f3\u30c8\u30eb"
+    },
+    {
+        "term": "gigalith",
+        "english": "Gigalith",
+        "japanese": "Gigaiath",
+        "kana": "\u30ae\u30ac\u30a4\u30a2\u30b9"
+    },
+    {
+        "term": "woobat",
+        "english": "Woobat",
+        "japanese": "Koromori",
+        "kana": "\u30b3\u30ed\u30e2\u30ea"
+    },
+    {
+        "term": "swoobat",
+        "english": "Swoobat",
+        "japanese": "Kokoromori",
+        "kana": "\u30b3\u30b3\u30ed\u30e2\u30ea"
+    },
+    {
+        "term": "drilbur",
+        "english": "Drilbur",
+        "japanese": "Mogurew",
+        "kana": "\u30e2\u30b0\u30ea\u30e5\u30fc"
+    },
+    {
+        "term": "excadrill",
+        "english": "Excadrill",
+        "japanese": "Doryuzu",
+        "kana": "\u30c9\u30ea\u30e5\u30a6\u30ba"
+    },
+    {
+        "term": "audino",
+        "english": "Audino",
+        "japanese": "Tabunne",
+        "kana": "\u30bf\u30d6\u30f3\u30cd"
+    },
+    {
+        "term": "mega audino",
+        "english": "Mega Audino",
+        "japanese": "Tabunne",
+        "kana": "\u30bf\u30d6\u30f3\u30cd"
+    },
+    {
+        "term": "timburr",
+        "english": "Timburr",
+        "japanese": "Dokkorer",
+        "kana": "\u30c9\u30c3\u30b3\u30e9\u30fc"
+    },
+    {
+        "term": "gurdurr",
+        "english": "Gurdurr",
+        "japanese": "Dotekkotsu",
+        "kana": "\u30c9\u30c6\u30c3\u30b3\u30c4"
+    },
+    {
+        "term": "conkeldurr",
+        "english": "Conkeldurr",
+        "japanese": "Roubushin",
+        "kana": "\u30ed\u30fc\u30d6\u30b7\u30f3"
+    },
+    {
+        "term": "tympole",
+        "english": "Tympole",
+        "japanese": "Otamaro",
+        "kana": "\u30aa\u30bf\u30de\u30ed"
+    },
+    {
+        "term": "palpitoad",
+        "english": "Palpitoad",
+        "japanese": "Gamagaru",
+        "kana": "\u30ac\u30de\u30ac\u30eb"
+    },
+    {
+        "term": "seismitoad",
+        "english": "Seismitoad",
+        "japanese": "Gamageroge",
+        "kana": "\u30ac\u30de\u30b2\u30ed\u30b2"
+    },
+    {
+        "term": "throh",
+        "english": "Throh",
+        "japanese": "Nageki",
+        "kana": "\u30ca\u30b2\u30ad"
+    },
+    {
+        "term": "sawk",
+        "english": "Sawk",
+        "japanese": "Dageki",
+        "kana": "\u30c0\u30b2\u30ad"
+    },
+    {
+        "term": "sewaddle",
+        "english": "Sewaddle",
+        "japanese": "Kurumiru",
+        "kana": "\u30af\u30eb\u30df\u30eb"
+    },
+    {
+        "term": "swadloon",
+        "english": "Swadloon",
+        "japanese": "Kurumayu",
+        "kana": "\u30af\u30eb\u30de\u30e6"
+    },
+    {
+        "term": "leavanny",
+        "english": "Leavanny",
+        "japanese": "Hahakomori",
+        "kana": "\u30cf\u30cf\u30b3\u30e2\u30ea"
+    },
+    {
+        "term": "venipede",
+        "english": "Venipede",
+        "japanese": "Fushide",
+        "kana": "\u30d5\u30b7\u30c7"
+    },
+    {
+        "term": "whirlipede",
+        "english": "Whirlipede",
+        "japanese": "Wheega",
+        "kana": "\u30db\u30a4\u30fc\u30ac"
+    },
+    {
+        "term": "scolipede",
+        "english": "Scolipede",
+        "japanese": "Pendror",
+        "kana": "\u30da\u30f3\u30c9\u30e9\u30fc"
+    },
+    {
+        "term": "cottonee",
+        "english": "Cottonee",
+        "japanese": "Monmen",
+        "kana": "\u30e2\u30f3\u30e1\u30f3"
+    },
+    {
+        "term": "whimsicott",
+        "english": "Whimsicott",
+        "japanese": "Elfuun",
+        "kana": "\u30a8\u30eb\u30d5\u30fc\u30f3"
+    },
+    {
+        "term": "petilil",
+        "english": "Petilil",
+        "japanese": "Churine",
+        "kana": "\u30c1\u30e5\u30ea\u30cd"
+    },
+    {
+        "term": "lilligant",
+        "english": "Lilligant",
+        "japanese": "Dredear",
+        "kana": "\u30c9\u30ec\u30c7\u30a3\u30a2"
+    },
+    {
+        "term": "basculin red striped",
+        "english": "Red-Striped Basculin",
+        "japanese": "Bassrao",
+        "kana": "\u30d0\u30b9\u30e9\u30aa"
+    },
+    {
+        "term": "basculin blue striped",
+        "english": "Blue-Striped Basculin",
+        "japanese": "Bassrao",
+        "kana": "\u30d0\u30b9\u30e9\u30aa"
+    },
+    {
+        "term": "sandile",
+        "english": "Sandile",
+        "japanese": "Meguroco",
+        "kana": "\u30e1\u30b0\u30ed\u30b3"
+    },
+    {
+        "term": "krokorok",
+        "english": "Krokorok",
+        "japanese": "Waruvile",
+        "kana": "\u30ef\u30eb\u30d3\u30eb"
+    },
+    {
+        "term": "krookodile",
+        "english": "Krookodile",
+        "japanese": "Waruvial",
+        "kana": "\u30ef\u30eb\u30d3\u30a2\u30eb"
+    },
+    {
+        "term": "darumaka",
+        "english": "Darumaka",
+        "japanese": "Darumakka",
+        "kana": "\u30c0\u30eb\u30de\u30c3\u30ab"
+    },
+    {
+        "term": "darmanitan",
+        "english": "Darmanitan",
+        "japanese": "Hihidaruma",
+        "kana": "\u30d2\u30d2\u30c0\u30eb\u30de"
+    },
+    {
+        "term": "darmanitan zen mode",
+        "english": "Zen Mode Darmanitan",
+        "japanese": "Hihidaruma",
+        "kana": "\u30d2\u30d2\u30c0\u30eb\u30de"
+    },
+    {
+        "term": "maractus",
+        "english": "Maractus",
+        "japanese": "Maracacchi",
+        "kana": "\u30de\u30e9\u30ab\u30c3\u30c1"
+    },
+    {
+        "term": "dwebble",
+        "english": "Dwebble",
+        "japanese": "Ishizumai",
+        "kana": "\u30a4\u30b7\u30ba\u30de\u30a4"
+    },
+    {
+        "term": "crustle",
+        "english": "Crustle",
+        "japanese": "Iwapalace",
+        "kana": "\u30a4\u30ef\u30d1\u30ec\u30b9"
+    },
+    {
+        "term": "scraggy",
+        "english": "Scraggy",
+        "japanese": "Zuruggu",
+        "kana": "\u30ba\u30eb\u30c3\u30b0"
+    },
+    {
+        "term": "scrafty",
+        "english": "Scrafty",
+        "japanese": "Zuruzukin",
+        "kana": "\u30ba\u30eb\u30ba\u30ad\u30f3"
+    },
+    {
+        "term": "sigilyph",
+        "english": "Sigilyph",
+        "japanese": "Symboler",
+        "kana": "\u30b7\u30f3\u30dc\u30e9\u30fc"
+    },
+    {
+        "term": "yamask",
+        "english": "Yamask",
+        "japanese": "Desumasu",
+        "kana": "\u30c7\u30b9\u30de\u30b9"
+    },
+    {
+        "term": "cofagrigus",
+        "english": "Cofagrigus",
+        "japanese": "Desukarn",
+        "kana": "\u30c7\u30b9\u30ab\u30fc\u30f3"
+    },
+    {
+        "term": "tirtouga",
+        "english": "Tirtouga",
+        "japanese": "Protoga",
+        "kana": "\u30d7\u30ed\u30c8\u30fc\u30ac"
+    },
+    {
+        "term": "carracosta",
+        "english": "Carracosta",
+        "japanese": "Abagoura",
+        "kana": "\u30a2\u30d0\u30b4\u30fc\u30e9"
+    },
+    {
+        "term": "archen",
+        "english": "Archen",
+        "japanese": "Archen",
+        "kana": "\u30a2\u30fc\u30b1\u30f3"
+    },
+    {
+        "term": "archeops",
+        "english": "Archeops",
+        "japanese": "Archeos",
+        "kana": "\u30a2\u30fc\u30b1\u30aa\u30b9"
+    },
+    {
+        "term": "trubbish",
+        "english": "Trubbish",
+        "japanese": "Yabukuron",
+        "kana": "\u30e4\u30d6\u30af\u30ed\u30f3"
+    },
+    {
+        "term": "garbodor",
+        "english": "Garbodor",
+        "japanese": "Dustdas",
+        "kana": "\u30c0\u30b9\u30c8\u30c0\u30b9"
+    },
+    {
+        "term": "zorua",
+        "english": "Zorua",
+        "japanese": "Zorua",
+        "kana": "\u30be\u30ed\u30a2"
+    },
+    {
+        "term": "zoroark",
+        "english": "Zoroark",
+        "japanese": "Zoroark",
+        "kana": "\u30be\u30ed\u30a2\u30fc\u30af"
+    },
+    {
+        "term": "minccino",
+        "english": "Minccino",
+        "japanese": "Chillarmy",
+        "kana": "\u30c1\u30e9\u30fc\u30df\u30a3"
+    },
+    {
+        "term": "cinccino",
+        "english": "Cinccino",
+        "japanese": "Chillaccino",
+        "kana": "\u30c1\u30e9\u30c1\u30fc\u30ce"
+    },
+    {
+        "term": "gothita",
+        "english": "Gothita",
+        "japanese": "Gothimu",
+        "kana": "\u30b4\u30c1\u30e0"
+    },
+    {
+        "term": "gothorita",
+        "english": "Gothorita",
+        "japanese": "Gothimiru",
+        "kana": "\u30b4\u30c1\u30df\u30eb"
+    },
+    {
+        "term": "gothitelle",
+        "english": "Gothitelle",
+        "japanese": "Gothiruselle",
+        "kana": "\u30b4\u30c1\u30eb\u30bc\u30eb"
+    },
+    {
+        "term": "solosis",
+        "english": "Solosis",
+        "japanese": "Uniran",
+        "kana": "\u30e6\u30cb\u30e9\u30f3"
+    },
+    {
+        "term": "duosion",
+        "english": "Duosion",
+        "japanese": "Doublan",
+        "kana": "\u30c0\u30d6\u30e9\u30f3"
+    },
+    {
+        "term": "reuniclus",
+        "english": "Reuniclus",
+        "japanese": "Lanculus",
+        "kana": "\u30e9\u30f3\u30af\u30eb\u30b9"
+    },
+    {
+        "term": "ducklett",
+        "english": "Ducklett",
+        "japanese": "Koaruhie",
+        "kana": "\u30b3\u30a2\u30eb\u30d2\u30fc"
+    },
+    {
+        "term": "swanna",
+        "english": "Swanna",
+        "japanese": "Swanna",
+        "kana": "\u30b9\u30ef\u30f3\u30ca"
+    },
+    {
+        "term": "vanillite",
+        "english": "Vanillite",
+        "japanese": "Vanipeti",
+        "kana": "\u30d0\u30cb\u30d7\u30c3\u30c1"
+    },
+    {
+        "term": "vanillish",
+        "english": "Vanillish",
+        "japanese": "Vanirich",
+        "kana": "\u30d0\u30cb\u30ea\u30c3\u30c1"
+    },
+    {
+        "term": "vanilluxe",
+        "english": "Vanilluxe",
+        "japanese": "Baivanilla",
+        "kana": "\u30d0\u30a4\u30d0\u30cb\u30e9"
+    },
+    {
+        "term": "deerling",
+        "english": "Deerling",
+        "japanese": "Shikijika",
+        "kana": "\u30b7\u30ad\u30b8\u30ab"
+    },
+    {
+        "term": "sawsbuck",
+        "english": "Sawsbuck",
+        "japanese": "Mebukijika",
+        "kana": "\u30e1\u30d6\u30ad\u30b8\u30ab"
+    },
+    {
+        "term": "emolga",
+        "english": "Emolga",
+        "japanese": "Emonga",
+        "kana": "\u30a8\u30e2\u30f3\u30ac"
+    },
+    {
+        "term": "karrablast",
+        "english": "Karrablast",
+        "japanese": "Kaburumo",
+        "kana": "\u30ab\u30d6\u30eb\u30e2"
+    },
+    {
+        "term": "escavalier",
+        "english": "Escavalier",
+        "japanese": "Chevargo",
+        "kana": "\u30b7\u30e5\u30d0\u30eb\u30b4"
+    },
+    {
+        "term": "foongus",
+        "english": "Foongus",
+        "japanese": "Tamagetake",
+        "kana": "\u30bf\u30de\u30b2\u30bf\u30b1"
+    },
+    {
+        "term": "amoonguss",
+        "english": "Amoonguss",
+        "japanese": "Morobareru",
+        "kana": "\u30e2\u30ed\u30d0\u30ec\u30eb"
+    },
+    {
+        "term": "frillish",
+        "english": "Frillish",
+        "japanese": "Pururill",
+        "kana": "\u30d7\u30eb\u30ea\u30eb"
+    },
+    {
+        "term": "jellicent",
+        "english": "Jellicent",
+        "japanese": "Burungel",
+        "kana": "\u30d6\u30eb\u30f3\u30b2\u30eb"
+    },
+    {
+        "term": "alomomola",
+        "english": "Alomomola",
+        "japanese": "Mamanbou",
+        "kana": "\u30de\u30de\u30f3\u30dc\u30a6"
+    },
+    {
+        "term": "joltik",
+        "english": "Joltik",
+        "japanese": "Bachuru",
+        "kana": "\u30d0\u30c1\u30e5\u30eb"
+    },
+    {
+        "term": "galvantula",
+        "english": "Galvantula",
+        "japanese": "Dentula",
+        "kana": "\u30c7\u30f3\u30c1\u30e5\u30e9"
+    },
+    {
+        "term": "ferroseed",
+        "english": "Ferroseed",
+        "japanese": "Tesseed",
+        "kana": "\u30c6\u30c3\u30b7\u30fc\u30c9"
+    },
+    {
+        "term": "ferrothorn",
+        "english": "Ferrothorn",
+        "japanese": "Nutrey",
+        "kana": "\u30ca\u30c3\u30c8\u30ec\u30a4"
+    },
+    {
+        "term": "klink",
+        "english": "Klink",
+        "japanese": "Giaru",
+        "kana": "\u30ae\u30a2\u30eb"
+    },
+    {
+        "term": "klang",
+        "english": "Klang",
+        "japanese": "Gigiaru",
+        "kana": "\u30ae\u30ae\u30a2\u30eb"
+    },
+    {
+        "term": "klinklang",
+        "english": "Klinklang",
+        "japanese": "Gigigiaru",
+        "kana": "\u30ae\u30ae\u30ae\u30a2\u30eb"
+    },
+    {
+        "term": "tynamo",
+        "english": "Tynamo",
+        "japanese": "Shibishirasu",
+        "kana": "\u30b7\u30d3\u30b7\u30e9\u30b9"
+    },
+    {
+        "term": "eelektrik",
+        "english": "Eelektrik",
+        "japanese": "Shibibeel",
+        "kana": "\u30b7\u30d3\u30d3\u30fc\u30eb"
+    },
+    {
+        "term": "eelektross",
+        "english": "Eelektross",
+        "japanese": "Shibirudon",
+        "kana": "\u30b7\u30d3\u30eb\u30c9\u30f3"
+    },
+    {
+        "term": "elgyem",
+        "english": "Elgyem",
+        "japanese": "Ligray",
+        "kana": "\u30ea\u30b0\u30ec\u30fc"
+    },
+    {
+        "term": "beheeyem",
+        "english": "Beheeyem",
+        "japanese": "Ohbem",
+        "kana": "\u30aa\u30fc\u30d9\u30e0"
+    },
+    {
+        "term": "litwick",
+        "english": "Litwick",
+        "japanese": "Hitomoshi",
+        "kana": "\u30d2\u30c8\u30e2\u30b7"
+    },
+    {
+        "term": "lampent",
+        "english": "Lampent",
+        "japanese": "Lampler",
+        "kana": "\u30e9\u30f3\u30d7\u30e9\u30fc"
+    },
+    {
+        "term": "chandelure",
+        "english": "Chandelure",
+        "japanese": "Chandela",
+        "kana": "\u30b7\u30e3\u30f3\u30c7\u30e9"
+    },
+    {
+        "term": "axew",
+        "english": "Axew",
+        "japanese": "Kibago",
+        "kana": "\u30ad\u30d0\u30b4"
+    },
+    {
+        "term": "fraxure",
+        "english": "Fraxure",
+        "japanese": "Onondo",
+        "kana": "\u30aa\u30ce\u30f3\u30c9"
+    },
+    {
+        "term": "haxorus",
+        "english": "Haxorus",
+        "japanese": "Ononokus",
+        "kana": "\u30aa\u30ce\u30ce\u30af\u30b9"
+    },
+    {
+        "term": "cubchoo",
+        "english": "Cubchoo",
+        "japanese": "Kumasyun",
+        "kana": "\u30af\u30de\u30b7\u30e5\u30f3"
+    },
+    {
+        "term": "beartic",
+        "english": "Beartic",
+        "japanese": "Tunbear",
+        "kana": "\u30c4\u30f3\u30d9\u30a2\u30fc"
+    },
+    {
+        "term": "cryogonal",
+        "english": "Cryogonal",
+        "japanese": "Freegeo",
+        "kana": "\u30d5\u30ea\u30fc\u30b8\u30aa"
+    },
+    {
+        "term": "shelmet",
+        "english": "Shelmet",
+        "japanese": "Chobomaki",
+        "kana": "\u30c1\u30e7\u30dc\u30de\u30ad"
+    },
+    {
+        "term": "accelgor",
+        "english": "Accelgor",
+        "japanese": "Agilder",
+        "kana": "\u30a2\u30ae\u30eb\u30c0\u30fc"
+    },
+    {
+        "term": "stunfisk",
+        "english": "Stunfisk",
+        "japanese": "Maggyo",
+        "kana": "\u30de\u30c3\u30ae\u30e7"
+    },
+    {
+        "term": "mienfoo",
+        "english": "Mienfoo",
+        "japanese": "Kojofu",
+        "kana": "\u30b3\u30b8\u30e7\u30d5\u30fc"
+    },
+    {
+        "term": "mienshao",
+        "english": "Mienshao",
+        "japanese": "Kojondo",
+        "kana": "\u30b3\u30b8\u30e7\u30f3\u30c9"
+    },
+    {
+        "term": "druddigon",
+        "english": "Druddigon",
+        "japanese": "Crimgan",
+        "kana": "\u30af\u30ea\u30e0\u30ac\u30f3"
+    },
+    {
+        "term": "golett",
+        "english": "Golett",
+        "japanese": "Gobit",
+        "kana": "\u30b4\u30d3\u30c3\u30c8"
+    },
+    {
+        "term": "golurk",
+        "english": "Golurk",
+        "japanese": "Goloog",
+        "kana": "\u30b4\u30eb\u30fc\u30b0"
+    },
+    {
+        "term": "pawniard",
+        "english": "Pawniard",
+        "japanese": "Komatana",
+        "kana": "\u30b3\u30de\u30bf\u30ca"
+    },
+    {
+        "term": "bisharp",
+        "english": "Bisharp",
+        "japanese": "Kirikizan",
+        "kana": "\u30ad\u30ea\u30ad\u30b6\u30f3"
+    },
+    {
+        "term": "bouffalant",
+        "english": "Bouffalant",
+        "japanese": "Buffron",
+        "kana": "\u30d0\u30c3\u30d5\u30ed\u30f3"
+    },
+    {
+        "term": "rufflet",
+        "english": "Rufflet",
+        "japanese": "Washibon",
+        "kana": "\u30ef\u30b7\u30dc\u30f3"
+    },
+    {
+        "term": "braviary",
+        "english": "Braviary",
+        "japanese": "Warrgle",
+        "kana": "\u30a6\u30a9\u30fc\u30b0\u30eb"
+    },
+    {
+        "term": "vullaby",
+        "english": "Vullaby",
+        "japanese": "Valchai",
+        "kana": "\u30d0\u30eb\u30c1\u30e3\u30a4"
+    },
+    {
+        "term": "mandibuzz",
+        "english": "Mandibuzz",
+        "japanese": "Vulgina",
+        "kana": "\u30d0\u30eb\u30b8\u30fc\u30ca"
+    },
+    {
+        "term": "heatmor",
+        "english": "Heatmor",
+        "japanese": "Kuitaran",
+        "kana": "\u30af\u30a4\u30bf\u30e9\u30f3"
+    },
+    {
+        "term": "durant",
+        "english": "Durant",
+        "japanese": "Aiant",
+        "kana": "\u30a2\u30a4\u30a2\u30f3\u30c8"
+    },
+    {
+        "term": "deino",
+        "english": "Deino",
+        "japanese": "Monozu",
+        "kana": "\u30e2\u30ce\u30ba"
+    },
+    {
+        "term": "zweilous",
+        "english": "Zweilous",
+        "japanese": "Dihead",
+        "kana": "\u30b8\u30d8\u30c3\u30c9"
+    },
+    {
+        "term": "hydreigon",
+        "english": "Hydreigon",
+        "japanese": "Sazandora",
+        "kana": "\u30b5\u30b6\u30f3\u30c9\u30e9"
+    },
+    {
+        "term": "larvesta",
+        "english": "Larvesta",
+        "japanese": "Merlarva",
+        "kana": "\u30e1\u30e9\u30eb\u30d0"
+    },
+    {
+        "term": "volcarona",
+        "english": "Volcarona",
+        "japanese": "Ulgamoth",
+        "kana": "\u30a6\u30eb\u30ac\u30e2\u30b9"
+    },
+    {
+        "term": "cobalion",
+        "english": "Cobalion",
+        "japanese": "Cobalon",
+        "kana": "\u30b3\u30d0\u30eb\u30aa\u30f3"
+    },
+    {
+        "term": "terrakion",
+        "english": "Terrakion",
+        "japanese": "Terrakion",
+        "kana": "\u30c6\u30e9\u30ad\u30aa\u30f3"
+    },
+    {
+        "term": "virizion",
+        "english": "Virizion",
+        "japanese": "Virizion",
+        "kana": "\u30d3\u30ea\u30b8\u30aa\u30f3"
+    },
+    {
+        "term": "tornadus incarnate",
+        "english": "Tornadus",
+        "japanese": "Tornelos",
+        "kana": "\u30c8\u30eb\u30cd\u30ed\u30b9"
+    },
+    {
+        "term": "tornadus therian",
+        "english": "Tornadus Therian",
+        "japanese": "Tornelos",
+        "kana": "\u30c8\u30eb\u30cd\u30ed\u30b9"
+    },
+    {
+        "term": "thundurus incarnate",
+        "english": "Thundurus",
+        "japanese": "Voltolos",
+        "kana": "\u30dc\u30eb\u30c8\u30ed\u30b9"
+    },
+    {
+        "term": "thundurus therian",
+        "english": "Thundurus Therian",
+        "japanese": "Voltolos",
+        "kana": "\u30dc\u30eb\u30c8\u30ed\u30b9"
+    },
+    {
+        "term": "reshiram",
+        "english": "Reshiram",
+        "japanese": "Reshiram",
+        "kana": "\u30ec\u30b7\u30e9\u30e0"
+    },
+    {
+        "term": "zekrom",
+        "english": "Zekrom",
+        "japanese": "Zekrom",
+        "kana": "\u30bc\u30af\u30ed\u30e0"
+    },
+    {
+        "term": "landorus incarnate",
+        "english": "Landorus",
+        "japanese": "Landlos",
+        "kana": "\u30e9\u30f3\u30c9\u30ed\u30b9"
+    },
+    {
+        "term": "landorus therian",
+        "english": "Landorus Therian",
+        "japanese": "Landlos",
+        "kana": "\u30e9\u30f3\u30c9\u30ed\u30b9"
+    },
+    {
+        "term": "kyurem",
+        "english": "Kyurem",
+        "japanese": "Kyurem",
+        "kana": "\u30ad\u30e5\u30ec\u30e0"
+    },
+    {
+        "term": "kyurem black",
+        "english": "Black Kyurem",
+        "japanese": "Kyurem",
+        "kana": "\u30ad\u30e5\u30ec\u30e0"
+    },
+    {
+        "term": "kyurem white",
+        "english": "White Kyurem",
+        "japanese": "Kyurem",
+        "kana": "\u30ad\u30e5\u30ec\u30e0"
+    },
+    {
+        "term": "keldeo",
+        "english": "Keldeo",
+        "japanese": "Keldeo",
+        "kana": "\u30b1\u30eb\u30c7\u30a3\u30aa"
+    },
+    {
+        "term": "meloetta aria",
+        "english": "Meloetta",
+        "japanese": "Meloetta",
+        "kana": "\u30e1\u30ed\u30a8\u30c3\u30bf"
+    },
+    {
+        "term": "meloetta pirouette",
+        "english": "Meloetta",
+        "japanese": "Meloetta",
+        "kana": "\u30e1\u30ed\u30a8\u30c3\u30bf"
+    },
+    {
+        "term": "genesect",
+        "english": "Genesect",
+        "japanese": "Genesect",
+        "kana": "\u30b2\u30ce\u30bb\u30af\u30c8"
+    },
+    {
+        "term": "chespin",
+        "english": "Chespin",
+        "japanese": "Harimaron",
+        "kana": "\u30cf\u30ea\u30de\u30ed\u30f3"
+    },
+    {
+        "term": "quilladin",
+        "english": "Quilladin",
+        "japanese": "Hariborg",
+        "kana": "\u30cf\u30ea\u30dc\u30fc\u30b0"
+    },
+    {
+        "term": "chesnaught",
+        "english": "Chesnaught",
+        "japanese": "Brigarron",
+        "kana": "\u30d6\u30ea\u30ac\u30ed\u30f3"
+    },
+    {
+        "term": "fennekin",
+        "english": "Fennekin",
+        "japanese": "Fokko",
+        "kana": "\u30d5\u30a9\u30c3\u30b3"
+    },
+    {
+        "term": "braixen",
+        "english": "Braixen",
+        "japanese": "Tairenar",
+        "kana": "\u30c6\u30fc\u30eb\u30ca\u30fc"
+    },
+    {
+        "term": "delphox",
+        "english": "Delphox",
+        "japanese": "Mahoxy",
+        "kana": "\u30de\u30d5\u30a9\u30af\u30b7\u30fc"
+    },
+    {
+        "term": "froakie",
+        "english": "Froakie",
+        "japanese": "Keromatsu",
+        "kana": "\u30b1\u30ed\u30de\u30c4"
+    },
+    {
+        "term": "frogadier",
+        "english": "Frogadier",
+        "japanese": "Gekogashira",
+        "kana": "\u30b2\u30b3\u30ac\u30b7\u30e9"
+    },
+    {
+        "term": "greninja",
+        "english": "Greninja",
+        "japanese": "Gekkouga",
+        "kana": "\u30b2\u30c3\u30b3\u30a6\u30ac"
+    },
+    {
+        "term": "greninja ash",
+        "english": "Ash Greninja",
+        "japanese": "Gekkouga",
+        "kana": "\u30b2\u30c3\u30b3\u30a6\u30ac"
+    },
+    {
+        "term": "bunnelby",
+        "english": "Bunnelby",
+        "japanese": "Horubee",
+        "kana": "\u30db\u30eb\u30d3\u30fc"
+    },
+    {
+        "term": "diggersby",
+        "english": "Diggersby",
+        "japanese": "Horudo",
+        "kana": "\u30db\u30eb\u30fc\u30c9"
+    },
+    {
+        "term": "fletchling",
+        "english": "Fletchling",
+        "japanese": "Yayakoma",
+        "kana": "\u30e4\u30e4\u30b3\u30de"
+    },
+    {
+        "term": "fletchinder",
+        "english": "Fletchinder",
+        "japanese": "Hinoyakoma",
+        "kana": "\u30d2\u30ce\u30e4\u30b3\u30de"
+    },
+    {
+        "term": "talonflame",
+        "english": "Talonflame",
+        "japanese": "Fiarrow",
+        "kana": "\u30d5\u30a1\u30a4\u30a2\u30ed\u30fc"
+    },
+    {
+        "term": "scatterbug",
+        "english": "Scatterbug",
+        "japanese": "Kofukimushi",
+        "kana": "\u30b3\u30d5\u30ad\u30e0\u30b7"
+    },
+    {
+        "term": "spewpa",
+        "english": "Spewpa",
+        "japanese": "Kofuurai",
+        "kana": "\u30b3\u30d5\u30fc\u30e9\u30a4"
+    },
+    {
+        "term": "vivillon",
+        "english": "Vivillon",
+        "japanese": "Viviyon",
+        "kana": "\u30d3\u30d3\u30e8\u30f3"
+    },
+    {
+        "term": "litleo",
+        "english": "Litleo",
+        "japanese": "Shishiko",
+        "kana": "\u30b7\u30b7\u30b3"
+    },
+    {
+        "term": "pyroar",
+        "english": "Pyroar",
+        "japanese": "Kaenjishi",
+        "kana": "\u30ab\u30a8\u30f3\u30b8\u30b7"
+    },
+    {
+        "term": "flabebe",
+        "english": "Flab\u00e9b\u00e9",
+        "japanese": "Flabebe",
+        "kana": "\u30d5\u30e9\u30d9\u30d9"
+    },
+    {
+        "term": "floette",
+        "english": "Floette",
+        "japanese": "Floette",
+        "kana": "\u30d5\u30e9\u30a8\u30c3\u30c6"
+    },
+    {
+        "term": "floette eternal",
+        "english": "Eternal Floette",
+        "japanese": "Floette",
+        "kana": "\u30d5\u30e9\u30a8\u30c3\u30c6"
+    },
+    {
+        "term": "florges",
+        "english": "Florges",
+        "japanese": "Florges",
+        "kana": "\u30d5\u30e9\u30fc\u30b8\u30a7\u30b9"
+    },
+    {
+        "term": "skiddo",
+        "english": "Skiddo",
+        "japanese": "Meecle",
+        "kana": "\u30e1\u30a7\u30fc\u30af\u30eb"
+    },
+    {
+        "term": "gogoat",
+        "english": "Gogoat",
+        "japanese": "Gogoat",
+        "kana": "\u30b4\u30fc\u30b4\u30fc\u30c8"
+    },
+    {
+        "term": "pancham",
+        "english": "Pancham",
+        "japanese": "Yancham",
+        "kana": "\u30e4\u30f3\u30c1\u30e3\u30e0"
+    },
+    {
+        "term": "pangoro",
+        "english": "Pangoro",
+        "japanese": "Goronda",
+        "kana": "\u30b4\u30ed\u30f3\u30c0"
+    },
+    {
+        "term": "furfrou",
+        "english": "Furfrou",
+        "japanese": "Trimmien",
+        "kana": "\u30c8\u30ea\u30df\u30a2\u30f3"
+    },
+    {
+        "term": "espurr",
+        "english": "Espurr",
+        "japanese": "Nyasper",
+        "kana": "\u30cb\u30e3\u30b9\u30d1\u30fc"
+    },
+    {
+        "term": "meowstic male",
+        "english": "Meowstic-Male",
+        "japanese": "Nyaonix",
+        "kana": "\u30cb\u30e3\u30aa\u30cb\u30af\u30b9"
+    },
+    {
+        "term": "meowstic female",
+        "english": "Meowstic-Female",
+        "japanese": "Nyaonix",
+        "kana": "\u30cb\u30e3\u30aa\u30cb\u30af\u30b9"
+    },
+    {
+        "term": "honedge",
+        "english": "Honedge",
+        "japanese": "Hitotsuki",
+        "kana": "\u30d2\u30c8\u30c4\u30ad"
+    },
+    {
+        "term": "doublade",
+        "english": "Doublade",
+        "japanese": "Nidangill",
+        "kana": "\u30cb\u30c0\u30f3\u30ae\u30eb"
+    },
+    {
+        "term": "aegislash shield",
+        "english": "Aegislash Shield",
+        "japanese": "Gillgard",
+        "kana": "\u30ae\u30eb\u30ac\u30eb\u30c9"
+    },
+    {
+        "term": "aegislash blade",
+        "english": "Aegislash Blade",
+        "japanese": "Gillgard",
+        "kana": "\u30ae\u30eb\u30ac\u30eb\u30c9"
+    },
+    {
+        "term": "spritzee",
+        "english": "Spritzee",
+        "japanese": "Shushupu",
+        "kana": "\u30b7\u30e5\u30b7\u30e5\u30d7"
+    },
+    {
+        "term": "aromatisse",
+        "english": "Aromatisse",
+        "japanese": "Frefuwan",
+        "kana": "\u30d5\u30ec\u30d5\u30ef\u30f3"
+    },
+    {
+        "term": "swirlix",
+        "english": "Swirlix",
+        "japanese": "Peroppafu",
+        "kana": "\u30da\u30ed\u30c3\u30d1\u30d5"
+    },
+    {
+        "term": "slurpuff",
+        "english": "Slurpuff",
+        "japanese": "Peroream",
+        "kana": "\u30da\u30ed\u30ea\u30fc\u30e0"
+    },
+    {
+        "term": "inkay",
+        "english": "Inkay",
+        "japanese": "Maaiika",
+        "kana": "\u30de\u30fc\u30a4\u30fc\u30ab"
+    },
+    {
+        "term": "malamar",
+        "english": "Malamar",
+        "japanese": "Calamanero",
+        "kana": "\u30ab\u30e9\u30de\u30cd\u30ed"
+    },
+    {
+        "term": "binacle",
+        "english": "Binacle",
+        "japanese": "Kametete",
+        "kana": "\u30ab\u30e1\u30c6\u30c6"
+    },
+    {
+        "term": "barbaracle",
+        "english": "Barbaracle",
+        "japanese": "Gamenodes",
+        "kana": "\u30ac\u30e1\u30ce\u30c7\u30b9"
+    },
+    {
+        "term": "skrelp",
+        "english": "Skrelp",
+        "japanese": "Kuzumo",
+        "kana": "\u30af\u30ba\u30e2\u30fc"
+    },
+    {
+        "term": "dragalge",
+        "english": "Dragalge",
+        "japanese": "Dramidoro",
+        "kana": "\u30c9\u30e9\u30df\u30c9\u30ed"
+    },
+    {
+        "term": "clauncher",
+        "english": "Clauncher",
+        "japanese": "Udeppou",
+        "kana": "\u30a6\u30c7\u30c3\u30dd\u30a6"
+    },
+    {
+        "term": "clawitzer",
+        "english": "Clawitzer",
+        "japanese": "Bloster",
+        "kana": "\u30d6\u30ed\u30b9\u30bf\u30fc"
+    },
+    {
+        "term": "helioptile",
+        "english": "Helioptile",
+        "japanese": "Erikiteru",
+        "kana": "\u30a8\u30ea\u30ad\u30c6\u30eb"
+    },
+    {
+        "term": "heliolisk",
+        "english": "Heliolisk",
+        "japanese": "Elezard",
+        "kana": "\u30a8\u30ec\u30b6\u30fc\u30c9"
+    },
+    {
+        "term": "tyrunt",
+        "english": "Tyrunt",
+        "japanese": "Chigoras",
+        "kana": "\u30c1\u30b4\u30e9\u30b9"
+    },
+    {
+        "term": "tyrantrum",
+        "english": "Tyrantrum",
+        "japanese": "Gachigoras",
+        "kana": "\u30ac\u30c1\u30b4\u30e9\u30b9"
+    },
+    {
+        "term": "amaura",
+        "english": "Amaura",
+        "japanese": "Amarus",
+        "kana": "\u30a2\u30de\u30eb\u30b9"
+    },
+    {
+        "term": "aurorus",
+        "english": "Aurorus",
+        "japanese": "Amaruruga",
+        "kana": "\u30a2\u30de\u30eb\u30eb\u30ac"
+    },
+    {
+        "term": "sylveon",
+        "english": "Sylveon",
+        "japanese": "Nymphia",
+        "kana": "\u30cb\u30f3\u30d5\u30a3\u30a2"
+    },
+    {
+        "term": "hawlucha",
+        "english": "Hawlucha",
+        "japanese": "Luchabull",
+        "kana": "\u30eb\u30c1\u30e3\u30d6\u30eb"
+    },
+    {
+        "term": "dedenne",
+        "english": "Dedenne",
+        "japanese": "Dedenne",
+        "kana": "\u30c7\u30c7\u30f3\u30cd"
+    },
+    {
+        "term": "carbink",
+        "english": "Carbink",
+        "japanese": "Melecie",
+        "kana": "\u30e1\u30ec\u30b7\u30fc"
+    },
+    {
+        "term": "goomy",
+        "english": "Goomy",
+        "japanese": "Numera",
+        "kana": "\u30cc\u30e1\u30e9"
+    },
+    {
+        "term": "sliggoo",
+        "english": "Sliggoo",
+        "japanese": "Numeil",
+        "kana": "\u30cc\u30e1\u30a4\u30eb"
+    },
+    {
+        "term": "goodra",
+        "english": "Goodra",
+        "japanese": "Numelgon",
+        "kana": "\u30cc\u30e1\u30eb\u30b4\u30f3"
+    },
+    {
+        "term": "klefki",
+        "english": "Klefki",
+        "japanese": "Cleffy",
+        "kana": "\u30af\u30ec\u30c3\u30d5\u30a3"
+    },
+    {
+        "term": "phantump",
+        "english": "Phantump",
+        "japanese": "Bokurei",
+        "kana": "\u30dc\u30af\u30ec\u30fc"
+    },
+    {
+        "term": "trevenant",
+        "english": "Trevenant",
+        "japanese": "Ohrot",
+        "kana": "\u30aa\u30fc\u30ed\u30c3\u30c8"
+    },
+    {
+        "term": "pumpkaboo small",
+        "english": "Pumpkaboo Small",
+        "japanese": "Bakeccha",
+        "kana": "\u30d0\u30b1\u30c3\u30c1\u30e3"
+    },
+    {
+        "term": "pumpkaboo average",
+        "english": "Pumpkaboo Average",
+        "japanese": "Bakeccha",
+        "kana": "\u30d0\u30b1\u30c3\u30c1\u30e3"
+    },
+    {
+        "term": "pumpkaboo large",
+        "english": "Pumpkaboo Large",
+        "japanese": "Bakeccha",
+        "kana": "\u30d0\u30b1\u30c3\u30c1\u30e3"
+    },
+    {
+        "term": "pumpkaboo super",
+        "english": "Pumpkaboo Super",
+        "japanese": "Bakeccha",
+        "kana": "\u30d0\u30b1\u30c3\u30c1\u30e3"
+    },
+    {
+        "term": "gourgeist small",
+        "english": "Gourgeist Small",
+        "japanese": "Pumpjin",
+        "kana": "\u30d1\u30f3\u30d7\u30b8\u30f3"
+    },
+    {
+        "term": "gourgeist average",
+        "english": "Gourgeist Average",
+        "japanese": "Pumpjin",
+        "kana": "\u30d1\u30f3\u30d7\u30b8\u30f3"
+    },
+    {
+        "term": "gourgeist large",
+        "english": "Gourgeist Large",
+        "japanese": "Pumpjin",
+        "kana": "\u30d1\u30f3\u30d7\u30b8\u30f3"
+    },
+    {
+        "term": "gourgeist super",
+        "english": "Gourgeist Super",
+        "japanese": "Pumpjin",
+        "kana": "\u30d1\u30f3\u30d7\u30b8\u30f3"
+    },
+    {
+        "term": "bergmite",
+        "english": "Bergmite",
+        "japanese": "Kachikohru",
+        "kana": "\u30ab\u30c1\u30b3\u30fc\u30eb"
+    },
+    {
+        "term": "avalugg",
+        "english": "Avalugg",
+        "japanese": "Crebase",
+        "kana": "\u30af\u30ec\u30d9\u30fc\u30b9"
+    },
+    {
+        "term": "noibat",
+        "english": "Noibat",
+        "japanese": "Onbat",
+        "kana": "\u30aa\u30f3\u30d0\u30c3\u30c8"
+    },
+    {
+        "term": "noivern",
+        "english": "Noivern",
+        "japanese": "Onvern",
+        "kana": "\u30aa\u30f3\u30d0\u30fc\u30f3"
+    },
+    {
+        "term": "xerneas",
+        "english": "Xerneas",
+        "japanese": "Xerneas",
+        "kana": "\u30bc\u30eb\u30cd\u30a2\u30b9"
+    },
+    {
+        "term": "yveltal",
+        "english": "Yveltal",
+        "japanese": "Yveltal",
+        "kana": "\u30a4\u30d9\u30eb\u30bf\u30eb"
+    },
+    {
+        "term": "zygarde 50% 50 normal",
+        "english": "Zygarde",
+        "japanese": "Zygarde",
+        "kana": "\u30b8\u30ac\u30eb\u30c7"
+    },
+    {
+        "term": "zygarde 10% 10 dog",
+        "english": "Zygarde 10%",
+        "japanese": "Zygarde",
+        "kana": "\u30b8\u30ac\u30eb\u30c7"
+    },
+    {
+        "term": "zygarde complete 100% 100",
+        "english": "Zygarde Complete",
+        "japanese": "Zygarde",
+        "kana": "\u30b8\u30ac\u30eb\u30c7"
+    },
+    {
+        "term": "diancie",
+        "english": "Diancie",
+        "japanese": "Diancie",
+        "kana": "\u30c7\u30a3\u30a2\u30f3\u30b7\u30fc"
+    },
+    {
+        "term": "mega diancie",
+        "english": "Mega Diancie",
+        "japanese": "Diancie",
+        "kana": "\u30c7\u30a3\u30a2\u30f3\u30b7\u30fc"
+    },
+    {
+        "term": "hoopa confined",
+        "english": "Hoopa Confined",
+        "japanese": "Hoopa",
+        "kana": "\u30d5\u30fc\u30d1"
+    },
+    {
+        "term": "hoopa unbound",
+        "english": "Hoopa Unbound",
+        "japanese": "Hoopa",
+        "kana": "\u30d5\u30fc\u30d1"
+    },
+    {
+        "term": "volcanion",
+        "english": "Volcanion",
+        "japanese": "Volcanion",
+        "kana": "\u30dc\u30eb\u30b1\u30cb\u30aa\u30f3"
+    },
+    {
+        "term": "rowlet",
+        "english": "Rowlet",
+        "japanese": "Mukuroh",
+        "kana": "\u30e2\u30af\u30ed\u30fc"
+    },
+    {
+        "term": "dartrix",
+        "english": "Dartrix",
+        "japanese": "Fukuthrow",
+        "kana": "\u30d5\u30af\u30b9\u30ed\u30fc"
+    },
+    {
+        "term": "decidueye",
+        "english": "Decidueye",
+        "japanese": "Junaiper",
+        "kana": "\u30b8\u30e5\u30ca\u30a4\u30d1\u30fc"
+    },
+    {
+        "term": "litten",
+        "english": "Litten",
+        "japanese": "Nyabby",
+        "kana": "\u30cb\u30e3\u30d3\u30fc"
+    },
+    {
+        "term": "torracat",
+        "english": "Torracat",
+        "japanese": "Nyaheat",
+        "kana": "\u30cb\u30e3\u30d2\u30fc\u30c8"
+    },
+    {
+        "term": "incineroar",
+        "english": "Incineroar",
+        "japanese": "Gaogen",
+        "kana": "\u30ac\u30aa\u30ac\u30a8\u30f3"
+    },
+    {
+        "term": "popplio",
+        "english": "Popplio",
+        "japanese": "Ashimari",
+        "kana": "\u30a2\u30b7\u30de\u30ea"
+    },
+    {
+        "term": "brionne",
+        "english": "Brionne",
+        "japanese": "Osyamari",
+        "kana": "\u30aa\u30b7\u30e3\u30de\u30ea"
+    },
+    {
+        "term": "primarina",
+        "english": "Primarina",
+        "japanese": "Ashirene",
+        "kana": "\u30a2\u30b7\u30ec\u30fc\u30cc"
+    },
+    {
+        "term": "pikipek",
+        "english": "Pikipek",
+        "japanese": "Tsutsukera",
+        "kana": "\u30c4\u30c4\u30b1\u30e9"
+    },
+    {
+        "term": "trumbeak",
+        "english": "Trumbeak",
+        "japanese": "Kerarappa",
+        "kana": "\u30b1\u30e9\u30e9\u30c3\u30d1"
+    },
+    {
+        "term": "toucannon",
+        "english": "Toucannon",
+        "japanese": "Dodekabashi",
+        "kana": "\u30c9\u30c7\u30ab\u30d0\u30b7"
+    },
+    {
+        "term": "yungoos",
+        "english": "Yungoos",
+        "japanese": "Yangoose",
+        "kana": "\u30e4\u30f3\u30b0\u30fc\u30b9"
+    },
+    {
+        "term": "gumshoos",
+        "english": "Gumshoos",
+        "japanese": "Dekagoose",
+        "kana": "\u30c7\u30ab\u30b0\u30fc\u30b9"
+    },
+    {
+        "term": "grubbin",
+        "english": "Grubbin",
+        "japanese": "Agojimushi",
+        "kana": "\u30a2\u30b4\u30b8\u30e0\u30b7"
+    },
+    {
+        "term": "charjabug",
+        "english": "Charjabug",
+        "japanese": "Dendjimushi",
+        "kana": "\u30c7\u30f3\u30c2\u30e0\u30b7"
+    },
+    {
+        "term": "vikavolt",
+        "english": "Vikavolt",
+        "japanese": "Kuwaganon",
+        "kana": "\u30af\u30ef\u30ac\u30ce\u30f3"
+    },
+    {
+        "term": "crabrawler",
+        "english": "Crabrawler",
+        "japanese": "Makenkani",
+        "kana": "\u30de\u30b1\u30f3\u30ab\u30cb"
+    },
+    {
+        "term": "crabominable",
+        "english": "Crabominable",
+        "japanese": "Kekenkani",
+        "kana": "\u30b1\u30b1\u30f3\u30ab\u30cb"
+    },
+    {
+        "term": "oricorio",
+        "english": "Oricorio",
+        "japanese": "Odoridori",
+        "kana": "\u30aa\u30c9\u30ea\u30c9\u30ea"
+    },
+    {
+        "term": "cutiefly",
+        "english": "Cutiefly",
+        "japanese": "Abuly",
+        "kana": "\u30a2\u30d6\u30ea\u30fc"
+    },
+    {
+        "term": "ribombee",
+        "english": "Ribombee",
+        "japanese": "Aburibon",
+        "kana": "\u30a2\u30d6\u30ea\u30dc\u30f3"
+    },
+    {
+        "term": "rockruff",
+        "english": "Rockruff",
+        "japanese": "Iwanko",
+        "kana": "\u30a4\u30ef\u30f3\u30b3"
+    },
+    {
+        "term": "lycanroc midday",
+        "english": "Lycanroc Midday",
+        "japanese": "Lugarugan",
+        "kana": "\u30eb\u30ac\u30eb\u30ac\u30f3"
+    },
+    {
+        "term": "lycanroc midnight",
+        "english": "Lycanroc Midnight",
+        "japanese": "Lugarugan",
+        "kana": "\u30eb\u30ac\u30eb\u30ac\u30f3"
+    },
+    {
+        "term": "lycanroc dusk",
+        "english": "Lycanroc Dusk",
+        "japanese": "Lugarugan",
+        "kana": "\u30eb\u30ac\u30eb\u30ac\u30f3"
+    },
+    {
+        "term": "wishiwashi solo",
+        "english": "Wishiwashi",
+        "japanese": "Yowashi",
+        "kana": "\u30e8\u30ef\u30b7"
+    },
+    {
+        "term": "wishiwashi school",
+        "english": "Wishiwashi School",
+        "japanese": "Yowashi",
+        "kana": "\u30e8\u30ef\u30b7"
+    },
+    {
+        "term": "mareanie",
+        "english": "Mareanie",
+        "japanese": "Hidoide",
+        "kana": "\u30d2\u30c9\u30a4\u30c7"
+    },
+    {
+        "term": "toxapex",
+        "english": "Toxapex",
+        "japanese": "Dohidoide",
+        "kana": "\u30c9\u30d2\u30c9\u30a4\u30c7"
+    },
+    {
+        "term": "mudbray",
+        "english": "Mudbray",
+        "japanese": "Dorobanko",
+        "kana": "\u30c9\u30ed\u30d0\u30f3\u30b3"
+    },
+    {
+        "term": "mudsdale",
+        "english": "Mudsdale",
+        "japanese": "Banbadoro",
+        "kana": "\u30d0\u30f3\u30d0\u30c9\u30ed"
+    },
+    {
+        "term": "dewpider",
+        "english": "Dewpider",
+        "japanese": "Shizukumo",
+        "kana": "\u30b7\u30ba\u30af\u30e2"
+    },
+    {
+        "term": "araquanid",
+        "english": "Araquanid",
+        "japanese": "Onishizukumo",
+        "kana": "\u30aa\u30cb\u30b7\u30ba\u30af\u30e2"
+    },
+    {
+        "term": "fomantis",
+        "english": "Fomantis",
+        "japanese": "Karikiri",
+        "kana": "\u30ab\u30ea\u30ad\u30ea"
+    },
+    {
+        "term": "lurantis",
+        "english": "Lurantis",
+        "japanese": "Rarantesu",
+        "kana": "\u30e9\u30e9\u30f3\u30c6\u30b9"
+    },
+    {
+        "term": "morelull",
+        "english": "Morelull",
+        "japanese": "Nemashu",
+        "kana": "\u30cd\u30de\u30b7\u30e5"
+    },
+    {
+        "term": "shiinotic",
+        "english": "Shiinotic",
+        "japanese": "Mash?do",
+        "kana": "\u30de\u30b7\u30a7\u30fc\u30c9"
+    },
+    {
+        "term": "salandit",
+        "english": "Salandit",
+        "japanese": "Yatoumori",
+        "kana": "\u30e4\u30c8\u30a6\u30e2\u30ea"
+    },
+    {
+        "term": "salazzle",
+        "english": "Salazzle",
+        "japanese": "Ennyuto",
+        "kana": "\u30a8\u30f3\u30cb\u30e5\u30fc\u30c8"
+    },
+    {
+        "term": "stufful",
+        "english": "Stufful",
+        "japanese": "Nuikoguma",
+        "kana": "\u30cc\u30a4\u30b3\u30b0\u30de"
+    },
+    {
+        "term": "bewear",
+        "english": "Bewear",
+        "japanese": "Kiteruguma",
+        "kana": "\u30ad\u30c6\u30eb\u30b0\u30de"
+    },
+    {
+        "term": "bounsweet",
+        "english": "Bounsweet",
+        "japanese": "Amakaji",
+        "kana": "\u30a2\u30de\u30ab\u30b8"
+    },
+    {
+        "term": "steenee",
+        "english": "Steenee",
+        "japanese": "Amamaiko",
+        "kana": "\u30a2\u30de\u30de\u30a4\u30b3"
+    },
+    {
+        "term": "tsareena",
+        "english": "Tsareena",
+        "japanese": "Amajo",
+        "kana": "\u30a2\u30de\u30fc\u30b8\u30e7"
+    },
+    {
+        "term": "comfey",
+        "english": "Comfey",
+        "japanese": "Cuwawa",
+        "kana": "\u30ad\u30e5\u30ef\u30ef\u30fc"
+    },
+    {
+        "term": "oranguru",
+        "english": "Oranguru",
+        "japanese": "Yarey?tan",
+        "kana": "\u30e4\u30ec\u30e6\u30fc\u30bf\u30f3"
+    },
+    {
+        "term": "passimian",
+        "english": "Passimian",
+        "japanese": "Nagetsukesaru",
+        "kana": "\u30ca\u30b2\u30c4\u30b1\u30b5\u30eb"
+    },
+    {
+        "term": "wimpod",
+        "english": "Wimpod",
+        "japanese": "Kosokumushi",
+        "kana": "\u30b3\u30bd\u30af\u30e0\u30b7"
+    },
+    {
+        "term": "golisopod",
+        "english": "Golisopod",
+        "japanese": "Gusokumusha",
+        "kana": "\u30b0\u30bd\u30af\u30e0\u30b7\u30e3"
+    },
+    {
+        "term": "sandygast",
+        "english": "Sandygast",
+        "japanese": "Sunabaa",
+        "kana": "\u30b9\u30ca\u30d0\u30a1"
+    },
+    {
+        "term": "palossand",
+        "english": "Palossand",
+        "japanese": "Shirodesuna",
+        "kana": "\u30b7\u30ed\u30c7\u30b9\u30ca"
+    },
+    {
+        "term": "pyukumuku",
+        "english": "Pyukumuku",
+        "japanese": "Namakobushi",
+        "kana": "\u30ca\u30de\u30b3\u30d6\u30b7"
+    },
+    {
+        "term": "type: null",
+        "english": "Type: Null",
+        "japanese": "Type: Null",
+        "kana": "\u30bf\u30a4\u30d7\uff1a\u30cc\u30eb"
+    },
+    {
+        "term": "silvally",
+        "english": "Silvally",
+        "japanese": "Silvaddy",
+        "kana": "\u30b7\u30eb\u30f4\u30a1\u30c7\u30a3"
+    },
+    {
+        "term": "minior meteor",
+        "english": "Minior Meteor",
+        "japanese": "Meteno",
+        "kana": "\u30e1\u30c6\u30ce"
+    },
+    {
+        "term": "minior core",
+        "english": "Minior Core",
+        "japanese": "Meteno",
+        "kana": "\u30e1\u30c6\u30ce"
+    },
+    {
+        "term": "komala",
+        "english": "Komala",
+        "japanese": "Nekkoara",
+        "kana": "\u30cd\u30c3\u30b3\u30a2\u30e9"
+    },
+    {
+        "term": "turtonator",
+        "english": "Turtonator",
+        "japanese": "Bakugames",
+        "kana": "\u30d0\u30af\u30ac\u30e1\u30b9"
+    },
+    {
+        "term": "togedemaru",
+        "english": "Togedemaru",
+        "japanese": "Togedemaru",
+        "kana": "\u30c8\u30b2\u30c7\u30de\u30eb"
+    },
+    {
+        "term": "mimikyu",
+        "english": "Mimikyu",
+        "japanese": "Mimikkyu",
+        "kana": "\u30df\u30df\u30c3\u30ad\u30e5"
+    },
+    {
+        "term": "bruxish",
+        "english": "Bruxish",
+        "japanese": "Hagigishiri",
+        "kana": "\u30cf\u30ae\u30ae\u30b7\u30ea"
+    },
+    {
+        "term": "drampa",
+        "english": "Drampa",
+        "japanese": "Jij?ron",
+        "kana": "\u30b8\u30b8\u30fc\u30ed\u30f3"
+    },
+    {
+        "term": "dhelmise",
+        "english": "Dhelmise",
+        "japanese": "Dadarin",
+        "kana": "\u30c0\u30c0\u30ea\u30f3"
+    },
+    {
+        "term": "jangmo o",
+        "english": "Jangmo-o",
+        "japanese": "Jarako",
+        "kana": "\u30b8\u30e3\u30e9\u30b3"
+    },
+    {
+        "term": "hakamo o",
+        "english": "Hakamo-o",
+        "japanese": "Jarango",
+        "kana": "\u30b8\u30e3\u30e9\u30f3\u30b4"
+    },
+    {
+        "term": "kommo o",
+        "english": "Kommo-o",
+        "japanese": "Jararanga",
+        "kana": "\u30b8\u30e3\u30e9\u30e9\u30f3\u30ac"
+    },
+    {
+        "term": "tapu koko",
+        "english": "Tapu Koko",
+        "japanese": "Kapu?kokeko",
+        "kana": "\u30ab\u30d7\u30fb\u30b3\u30b1\u30b3"
+    },
+    {
+        "term": "tapu lele",
+        "english": "Tapu Lele",
+        "japanese": "Kapu?tetefu",
+        "kana": "\u30ab\u30d7\u30fb\u30c6\u30c6\u30d5"
+    },
+    {
+        "term": "tapu bulu",
+        "english": "Tapu Bulu",
+        "japanese": "Kapu?bulul",
+        "kana": "\u30ab\u30d7\u30fb\u30d6\u30eb\u30eb"
+    },
+    {
+        "term": "tapu fini",
+        "english": "Tapu Fini",
+        "japanese": "Kapu?rehire",
+        "kana": "\u30ab\u30d7\u30fb\u30ec\u30d2\u30ec"
+    },
+    {
+        "term": "cosmog",
+        "english": "Cosmog",
+        "japanese": "Cosmog",
+        "kana": "\u30b3\u30b9\u30e2\u30c3\u30b0"
+    },
+    {
+        "term": "cosmoem",
+        "english": "Cosmoem",
+        "japanese": "Cosmoem",
+        "kana": "\u30b3\u30b9\u30e2\u30a6\u30e0"
+    },
+    {
+        "term": "solgaleo",
+        "english": "Solgaleo",
+        "japanese": "Solgaleo",
+        "kana": "\u30bd\u30eb\u30ac\u30ec\u30aa"
+    },
+    {
+        "term": "lunala",
+        "english": "Lunala",
+        "japanese": "Lunala",
+        "kana": "\u30eb\u30ca\u30a2\u30fc\u30e9"
+    },
+    {
+        "term": "nihilego",
+        "english": "Nihilego",
+        "japanese": "Utsuroido",
+        "kana": "\u30a6\u30c4\u30ed\u30a4\u30c9"
+    },
+    {
+        "term": "buzzwole",
+        "english": "Buzzwole",
+        "japanese": "Masshib?n",
+        "kana": "\u30de\u30c3\u30b7\u30d6\u30fc\u30f3"
+    },
+    {
+        "term": "pheromosa",
+        "english": "Pheromosa",
+        "japanese": "Fer?che",
+        "kana": "\u30d5\u30a7\u30ed\u30fc\u30c1\u30a7"
+    },
+    {
+        "term": "xurkitree",
+        "english": "Xurkitree",
+        "japanese": "Denjumoku",
+        "kana": "\u30c7\u30f3\u30b8\u30e5\u30e2\u30af"
+    },
+    {
+        "term": "celesteela",
+        "english": "Celesteela",
+        "japanese": "Tekkaguya",
+        "kana": "\u30c6\u30c3\u30ab\u30b0\u30e4"
+    },
+    {
+        "term": "kartana",
+        "english": "Kartana",
+        "japanese": "Kamitsurugi",
+        "kana": "\u30ab\u30df\u30c4\u30eb\u30ae"
+    },
+    {
+        "term": "guzzlord",
+        "english": "Guzzlord",
+        "japanese": "Akujiking",
+        "kana": "\u30a2\u30af\u30b8\u30ad\u30f3\u30b0"
+    },
+    {
+        "term": "necrozma",
+        "english": "Necrozma",
+        "japanese": "Necrozma",
+        "kana": "\u30cd\u30af\u30ed\u30ba\u30de"
+    },
+    {
+        "term": "dusk mane necrozma",
+        "english": "Dusk Mane Necrozma",
+        "japanese": "Necrozma",
+        "kana": "\u30cd\u30af\u30ed\u30ba\u30de"
+    },
+    {
+        "term": "dawn wings necrozma",
+        "english": "Dawn Wings Necrozma",
+        "japanese": "Necrozma",
+        "kana": "\u30cd\u30af\u30ed\u30ba\u30de"
+    },
+    {
+        "term": "ultra necrozma",
+        "english": "Ultra Necrozma",
+        "japanese": "Necrozma",
+        "kana": "\u30cd\u30af\u30ed\u30ba\u30de"
+    },
+    {
+        "term": "magearna",
+        "english": "Magearna",
+        "japanese": "Magearna",
+        "kana": "\u30de\u30ae\u30a2\u30ca"
+    },
+    {
+        "term": "marshadow",
+        "english": "Marshadow",
+        "japanese": "Marshadow",
+        "kana": "\u30de\u30fc\u30b7\u30e3\u30c9\u30fc"
+    },
+    {
+        "term": "poipole",
+        "english": "Poipole",
+        "japanese": "Vevenom",
+        "kana": "\u30d9\u30d9\u30ce\u30e0"
+    },
+    {
+        "term": "naganadel",
+        "english": "Naganadel",
+        "japanese": "Agoyon",
+        "kana": "\u30a2\u30fc\u30b4\u30e8\u30f3"
+    },
+    {
+        "term": "stakataka",
+        "english": "Stakataka",
+        "japanese": "Tsundetsunde",
+        "kana": "\u30c4\u30f3\u30c7\u30c4\u30f3\u30c7"
+    },
+    {
+        "term": "blacephalon",
+        "english": "Blacephalon",
+        "japanese": "Zugadon",
+        "kana": "\u30ba\u30ac\u30c9\u30fc\u30f3"
+    },
+    {
+        "term": "zeraora",
+        "english": "Zeraora",
+        "japanese": "Zeraora",
+        "kana": "\u30bc\u30e9\u30aa\u30e9"
+    }
+]
