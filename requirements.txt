@@ -1,2 +1,2 @@
 asyncpg>=0.18.3
-git+git://github.com/bijij/donphan@master
+e- git+http://github.com/bijij/Ampharos.git#egg=ampharos
