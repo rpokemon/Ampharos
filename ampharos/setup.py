@@ -11,7 +11,7 @@ async def setup():
     This method should always be called on startup"""
     # Populate the tables if required
     for table in tables.tables:
-        if (await table.fetchone()) is None:
+        if (await table.fetchrow()) is None:
             try:
 
                 with open(f'{DATA_DIRECTORY}/{table.__table_name__}.json') as f:
