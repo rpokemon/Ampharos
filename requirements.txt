@@ -1,2 +1,2 @@
 asyncpg>=0.18.3
-e- git+http://github.com/bijij/Ampharos.git#egg=ampharos
+-e git+git://github.com/bijij/Ampharos.git#egg=ampharos
