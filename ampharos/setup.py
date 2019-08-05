@@ -14,7 +14,7 @@ async def setup():
         if (await table.fetchrow()) is None:
             try:
 
-                with open(f'{DATA_DIRECTORY}/{table.__table_name__}.json') as f:
+                with open(f'{DATA_DIRECTORY}/{table.__name__}.json') as f:
                     for item in json.load(f):
 
                         try:
@@ -24,4 +24,4 @@ async def setup():
 
             except FileNotFoundError:
                 print(
-                    f"Could not find Pokemon data file {table.__table_name__}.json")
+                    f"Could not find Pokemon data file {table.__name__}.json")
