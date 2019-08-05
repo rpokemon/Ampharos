@@ -79,7 +79,7 @@ async def move(search_term: str) -> types.Move:
 
     # Substitue terms for related objects
     dct = dict(record.items())
-    dct['type'] = types.Typing(dct['type'])
+    dct['type'] = await _fetch(tables.Types, dct['type'], types.Typing)
     dct['category'] = types.Category(dct['category'])
 
     return types.Move(*dct.values())
@@ -115,7 +115,7 @@ async def pokemon(search_term: str) -> types.Pokemon:
     for key in typing_dct:
         if key == 'term' or typing_dct[key] is None:
             continue
-        typing_dct[key] = types.Typing(typing_dct[key])
+        typing_dct[key] = await _fetch(tables.Types, typing_dct[key], types.Typing)
     dct['typing'] = types.PokemonTypings(*typing_dct.values())
 
     abilities_dct = dict((await tables.PokemonAbilities.fetchrow(term=term)).items())
