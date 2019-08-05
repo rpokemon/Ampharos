@@ -33,11 +33,11 @@ async def _search(table: Table, search_term: str) -> asyncpg.Record:
     if not matches:
         return None
 
-    return await table.fetchone(term=matches[0])
+    return await table.fetchrow(term=matches[0])
 
 
 async def _fetch(table, search_term, new):
-    record = await table.fetchone(term=search_term)
+    record = await table.fetchrow(term=search_term)
     return new(*record.values())
 
 
@@ -92,7 +92,7 @@ async def pokemon(search_term: str) -> types.Pokemon:
         search_term (str): The term to search for
     """
     try:
-        record = await tables.Pokemon.fetchone(dex_no=int(search_term))
+        record = await tables.Pokemon.fetchrow(dex_no=int(search_term))
     except ValueError:
         record = await _search(tables.Pokemon, search_term)
 
@@ -111,14 +111,14 @@ async def pokemon(search_term: str) -> types.Pokemon:
 
     dct['base_stats'] = await _fetch(tables.PokemonBaseStats, term, types.PokemonBaseStats)
 
-    typing_dct = dict((await tables.PokemonTypes.fetchone(term=term)).items())
+    typing_dct = dict((await tables.PokemonTypes.fetchrow(term=term)).items())
     for key in typing_dct:
         if key == 'term' or typing_dct[key] is None:
             continue
         typing_dct[key] = types.Typing(typing_dct[key])
     dct['typing'] = types.PokemonTypings(*typing_dct.values())
 
-    abilities_dct = dict((await tables.PokemonAbilities.fetchone(term=term)).items())
+    abilities_dct = dict((await tables.PokemonAbilities.fetchrow(term=term)).items())
     for key in abilities_dct:
         if key == 'term' or abilities_dct[key] is None:
             continue
