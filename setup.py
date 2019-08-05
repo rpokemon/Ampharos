@@ -32,6 +32,7 @@ setup(
     long_description=readme,
     long_description_content_type="text/x-rst",
     include_package_data=True,
+    dependency_links=['http://github.com/bijij/donphan/master#egg=donphan'],
     install_requires=requirements,
     python_requires='>=3.6.0',
 )
