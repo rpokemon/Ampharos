@@ -13,7 +13,7 @@ async def setup():
         if (await table.fetchrow()) is None:
             try:
                 _basedir = os.path.dirname(os.path.abspath(__file__))
-                with open(f'{_basedir}/data/{table.__name__}.json') as f:
+                with open(f'{_basedir}/data/{table.__name__.lower()}.json') as f:
                     for item in json.load(f):
 
                         try:
@@ -23,4 +23,4 @@ async def setup():
 
             except FileNotFoundError:
                 print(
-                    f"Could not find Pokemon data file {table.__name__}.json")
+                    f"Could not find Pokemon data file {table.__name__.lower()}.json")
