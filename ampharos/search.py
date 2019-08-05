@@ -27,7 +27,7 @@ __all__ = (
 
 
 async def _search(table: Table, search_term: str) -> asyncpg.Record:
-    async with MaybeAcquire(None, pool=table._pool) as connection:
+    async with MaybeAcquire() as connection:
         matches = difflib.get_close_matches(search_term, (record['term'] for record in (await connection.fetch(f"SELECT term from {table.table_name}"))))
 
     if not matches:
@@ -145,7 +145,7 @@ async def all_abilities() -> AsyncGenerator[types.Ability, str]:
     """Returns an :class:`AsyncGenerator` of all :class:`types.Ability` in the database.
 
     """
-    async with MaybeAcquire(None, pool=tables.Abilities._pool) as connection:
+    async with MaybeAcquire() as connection:
         terms = await connection.fetch(f"SELECT term from {tables.Abilities.table_name}")
 
     for term in terms:
@@ -156,7 +156,7 @@ async def all_items() -> AsyncGenerator[types.Item, str]:
     """Returns an :class:`AsyncGenerator` of all :class:`types.Item` in the database.
 
     """
-    async with MaybeAcquire(None, pool=tables.Items._pool) as connection:
+    async with MaybeAcquire() as connection:
         terms = await connection.fetch(f"SELECT term from {tables.Items.table_name}")
 
     for term in terms:
@@ -167,7 +167,7 @@ async def all_moves() -> AsyncGenerator[types.Move, str]:
     """Returns an :class:`AsyncGenerator` of all :class:`types.Move` in the database.
 
     """
-    async with MaybeAcquire(None, pool=tables.Moves._pool) as connection:
+    async with MaybeAcquire() as connection:
         terms = await connection.fetch(f"SELECT term from {tables.Moves.table_name}")
 
     for term in terms:
@@ -178,7 +178,7 @@ async def all_pokemon() -> AsyncGenerator[types.Pokemon, str]:
     """Returns an :class:`AsyncGenerator` of all :class:`types.Pokemon` in the database.
 
     """
-    async with MaybeAcquire(None, pool=tables.Pokemon._pool) as connection:
+    async with MaybeAcquire() as connection:
         terms = await connection.fetch(f"SELECT term from {tables.Pokemon.table_name}")
 
     for term in terms:
@@ -189,7 +189,7 @@ async def random_ability() -> types.Ability:
     """Returns a random :class:`types.Ability`.
 
     """
-    async with MaybeAcquire(None, pool=tables.Abilities._pool) as connection:
+    async with MaybeAcquire() as connection:
         terms = await connection.fetch(f"SELECT term from {tables.Abilities.table_name}")
 
     return await ability(random.choice(terms)['term'])
@@ -199,7 +199,7 @@ async def random_item() -> types.Item:
     """Returns a random :class:`types.Item`.
 
     """
-    async with MaybeAcquire(None, pool=tables.Items._pool) as connection:
+    async with MaybeAcquire() as connection:
         terms = await connection.fetch(f"SELECT term from {tables.Items.table_name}")
 
     return await item(random.choice(terms)['term'])
@@ -209,7 +209,7 @@ async def random_move() -> types.Move:
     """Returns a random :class:`types.Move`.
 
     """
-    async with MaybeAcquire(None, pool=tables.Moves._pool) as connection:
+    async with MaybeAcquire() as connection:
         terms = await connection.fetch(f"SELECT term from {tables.Moves.table_name}")
 
     return await move(random.choice(terms)['term'])
@@ -219,7 +219,7 @@ async def random_pokemon() -> types.Pokemon:
     """Returns a random :class:`types.Pokemon`.
 
     """
-    async with MaybeAcquire(None, pool=tables.Pokemon._pool) as connection:
+    async with MaybeAcquire() as connection:
         terms = await connection.fetch(f"SELECT term from {tables.Pokemon.table_name}")
 
     return await pokemon(random.choice(terms)['term'])
