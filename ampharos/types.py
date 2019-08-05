@@ -21,8 +21,8 @@ class Ability(_BasePokemonObject):
     """Represents an ability.
 
     Attributes:
-        name (str): The Ability's name
-        description (str): A description of the Ability
+        name (str): The ability's name
+        description (str): A description of the ability
         introduced (int): The generation the ability was introduced
     """
     name: str
@@ -35,8 +35,8 @@ class Item(_BasePokemonObject):
     """Represents an item.
 
     Attributes:
-        name (str): The Item's name
-        description (str): A description of the Ability
+        name (str): The item's name
+        description (str): A description of the item
     """
     name: str
     description: str
@@ -47,7 +47,7 @@ class Typing(_BasePokemonObject):
     """Represents a Typing.
 
     Attributes:
-        name (str): The Typing's name
+        name (str): The typing's name
     """
     name: str
 
@@ -57,12 +57,12 @@ class Move(_BasePokemonObject):
     """Represents a move.
 
     Attributes:
-        type (types.Typing): The Move's typing
-        name (str): The Move's name
-        description (str): A description of the Move
-        pp (int): The Move's PP
-        power (int): The Move's power (`None` if status move or varies)
-        accuracy (int): The Move's accuracy (`None` if move cannot miss)
+        type (types.Typing): The move's typing
+        name (str): The move's name
+        description (str): A description of the move
+        pp (int): The move's PP
+        power (int): The move's power (`None` if status move or varies)
+        accuracy (int): The move's accuracy (`None` if move cannot miss)
         category (types.Category): The moves category
     """
     type: Typing

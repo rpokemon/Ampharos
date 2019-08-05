@@ -46,6 +46,8 @@ async def ability(search_term: str) -> types.Ability:
 
     Args:
         search_term (str): The term to search for
+    Returns:
+        types.Ability: The best matching ability.
 
     """
     record = await _search(tables.Abilities, search_term)
@@ -60,6 +62,8 @@ async def item(search_term: str) -> types.Item:
 
     Args:
         search_term (str): The term to search for
+    Returns:
+        types.Item: The best matching item.
     """
     record = await _search(tables.Items, search_term)
     if record is None:
@@ -72,7 +76,10 @@ async def move(search_term: str) -> types.Move:
     """Searches for a :class:`types.Move`.
 
     Args:
-        search_term (str): The term to search for"""
+        search_term (str): The term to search for
+    Returns:
+        types.Move: The best matching move.
+    """
     record = await _search(tables.Moves, search_term)
     if record is None:
         return None
@@ -90,6 +97,8 @@ async def pokemon(search_term: str) -> types.Pokemon:
 
     Args:
         search_term (str): The term to search for
+    Returns:
+        types.Pokemon: The best matching Pokemon.
     """
     try:
         record = await tables.Pokemon.fetchrow(dex_no=int(search_term))
