@@ -1,8 +1,7 @@
 import json
+import os.path
 
 from . import types, tables
-
-DATA_DIRECTORY = 'data'
 
 
 async def setup():
@@ -13,8 +12,8 @@ async def setup():
     for table in tables.tables:
         if (await table.fetchrow()) is None:
             try:
-
-                with open(f'{DATA_DIRECTORY}/{table.__name__}.json') as f:
+                _basedir = os.path.dirname(os.path.abspath(__file__))
+                with open(f'{_basedir}/data/{table.__name__}.json') as f:
                     for item in json.load(f):
 
                         try:
