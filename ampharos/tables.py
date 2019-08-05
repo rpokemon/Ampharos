@@ -4,25 +4,25 @@ from typing import Dict, List, Union
 from donphan import Table, Column
 
 
-class Abilities(Table, schema="pokemon"):
+class Abilities(Table, schema="ampharos"):
     term: str = Column(primary_key=True)
     name: str
     description: str
     introduced: int
 
 
-class Items(Table, schema="pokemon"):
+class Items(Table, schema="ampharos"):
     term: str = Column(primary_key=True)
     name: str
     description: str
 
 
-class Types(Table, schema="pokemon"):
+class Types(Table, schema="ampharos"):
     term: str = Column(primary_key=True)
     name: str
 
 
-class Moves(Table, schema="pokemon"):
+class Moves(Table, schema="ampharos"):
     term: str = Column(primary_key=True)
     type: str = Column(references=Types.term)
     name: str
@@ -33,44 +33,44 @@ class Moves(Table, schema="pokemon"):
     category: int
 
 
-class Pokemon(Table, schema="pokemon"):
+class Pokemon(Table, schema="ampharos"):
     term: str = Column(primary_key=True)
     dex_no: int
     classification: str
 
 
-class PokemonNames(Table, schema="pokemon"):
+class PokemonNames(Table, schema="ampharos"):
     term: str = Column(primary_key=True, references=Pokemon.term)
     english: str
     japanese: str
     kana: str
 
 
-class PokemonEvolutions(Table, schema="pokemon"):
+class PokemonEvolutions(Table, schema="ampharos"):
     term: str = Column(primary_key=True, references=Pokemon.term)
     evolution: str = Column(primary_key=True, references=Pokemon.term)
 
 
-class PokemonDexEntries(Table, schema="pokemon"):
+class PokemonDexEntries(Table, schema="ampharos"):
     term: str = Column(primary_key=True, references=Pokemon.term)
     sun: str
     moon: str
 
 
-class PokemonTypes(Table, schema="pokemon"):
+class PokemonTypes(Table, schema="ampharos"):
     term: str = Column(primary_key=True, references=Pokemon.term)
     first: str = Column(references=Types.term)
     second: str = Column(references=Types.term)
 
 
-class PokemonAbilities(Table, schema="pokemon"):
+class PokemonAbilities(Table, schema="ampharos"):
     term: str = Column(primary_key=True, references=Pokemon.term)
     first: str = Column(references=Abilities.term)
     second: str = Column(references=Abilities.term)
     hidden: str = Column(references=Abilities.term)
 
 
-class PokemonBaseStats(Table, schema="pokemon"):
+class PokemonBaseStats(Table, schema="ampharos"):
     term: str = Column(primary_key=True, references=Pokemon.term)
     hp: int
     attack: int
