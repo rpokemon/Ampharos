@@ -2658,5 +2658,470 @@
         "description": "A mysterious ring that enables Pok\u00e9mon to use Z-Power. It requires both the willpower and the physical power of the Trainer wearing it.",
         "name": "Z-Power Ring",
         "term": "z-power ring"
+    },
+    {
+        "name": "?And15",
+        "description": "An item that causes Larvitar to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+        "term": "?and15"
+    },
+    {
+        "name": "?And458",
+        "description": "An item that causes Jangmo-o to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+        "term": "?and458"
+    },
+    {
+        "name": "Adamant Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly.",
+        "term": "adamant mint"
+    },
+    {
+        "name": "Bach's Food Tin",
+        "description": "One of the many ingredients that can be used for cooking at your camp. The tinned food that Bach sells is curiously popular in Galar.",
+        "term": "bach's food tin"
+    },
+    {
+        "name": "Band Autograph",
+        "description": "It's signed by all members of the Galar region's most charismatic band, the Maximizers.",
+        "term": "band autograph"
+    },
+    {
+        "name": "Berry Sweet",
+        "description": "A berry-shaped sweet. When a Milcery holds this, it spins around happily.",
+        "term": "berry sweet"
+    },
+    {
+        "name": "Blunder Policy",
+        "description": "Raises Speed sharply when a Pok\u00c3\u00a9mon misses with a move because of accuracy.",
+        "term": "blunder policy"
+    },
+    {
+        "name": "Bob's Food Tin",
+        "description": "One of the many ingredients that can be used for cooking at your camp. The tinned food that Bob sells is curiously popular in Galar.",
+        "term": "bob's food tin"
+    },
+    {
+        "name": "Boiled Egg",
+        "description": "One of the many ingredients that can be used for cooking at your camp. Even just one boiled egg can really enhance a dish.",
+        "term": "boiled egg"
+    },
+    {
+        "name": "Bold Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Defense will grow more easily, but its Attack will grow more slowly.",
+        "term": "bold mint"
+    },
+    {
+        "name": "Brave Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Attack will grow more easily, but its Speed will grow more slowly.",
+        "term": "brave mint"
+    },
+    {
+        "name": "Bread",
+        "description": "One of the many ingredients that can be used for cooking at your camp. An indispensable tool for mopping up that extra curry left on your plate.",
+        "term": "bread"
+    },
+    {
+        "name": "Brittle Bones",
+        "description": "One of the many ingredients that can be used for cooking at your camp. The taste boiled off from the bones is sure to give a dish a light umami taste.",
+        "term": "brittle bones"
+    },
+    {
+        "name": "Calm Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Sp. Def will grow more easily, but its Attack will grow more slowly.",
+        "term": "calm mint"
+    },
+    {
+        "name": "Camping Gear",
+        "description": "Everything you need to set up a tent and get cooking in a Wild Area or at a camping spot.",
+        "term": "camping gear"
+    },
+    {
+        "name": "Careful Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Sp. Def will grow more easily, but its Sp. Atk will grow more slowly.",
+        "term": "careful mint"
+    },
+    {
+        "name": "Catching Charm",
+        "description": "Holding it is said to increase the chance of getting a critical catch. Curiously, the charm doesn't shake much.",
+        "term": "catching charm"
+    },
+    {
+        "name": "Chipped Pot",
+        "description": "A peculiar teapot that can make a certain species of Pok\u00c3\u00a9mon evolve. It may be chipped, but tea poured from it is delicious.",
+        "term": "chipped pot"
+    },
+    {
+        "name": "Clover Sweet",
+        "description": "A clover-shaped sweet. When a Milcery holds this, it spins around happily.",
+        "term": "clover sweet"
+    },
+    {
+        "name": "Coconut Milk",
+        "description": "One of the many ingredients that can be used for cooking at your camp. The refined sweetness of this coconut milk makes it quite popular.",
+        "term": "coconut milk"
+    },
+    {
+        "name": "Cracked Pot",
+        "description": "A peculiar teapot that can make a certain species of Pok\u00c3\u00a9mon evolve. It may be cracked, but tea poured from it is delicious.",
+        "term": "cracked pot"
+    },
+    {
+        "name": "Dynamax Band",
+        "description": "A Wishing Star has been affixed to it. It lets out a light that allows Pok\u00c3\u00a9mon to Dynamax when at a Power Spot.",
+        "term": "dynamax band"
+    },
+    {
+        "name": "Dynamax Candy",
+        "description": "A candy that is packed with energy. When consumed, it will raise the Dynamax Level of a single Pok\u00c3\u00a9mon by one. A higher level means higher HP when Dynamaxed.",
+        "term": "dynamax candy"
+    },
+    {
+        "name": "Eject Pack",
+        "description": "An item to be held by a Pok\u00c3\u00a9mon. When the holder's stats are lowered, it will be switched out of battle.",
+        "term": "eject pack"
+    },
+    {
+        "name": "Endorsement",
+        "description": "A letter of recommendation that you'll need in order to participate in the Gym Challenge.",
+        "term": "endorsement"
+    },
+    {
+        "name": "Exp. Candy L",
+        "description": "A candy that is packed with energy. When consumed, it will grant a single Pok\u00c3\u00a9mon a large amount of Exp. Points.",
+        "term": "exp. candy l"
+    },
+    {
+        "name": "Exp. Candy M",
+        "description": "A candy that is packed with energy. When consumed, it will grant a single Pok\u00c3\u00a9mon a moderate amount of Exp. Points.",
+        "term": "exp. candy m"
+    },
+    {
+        "name": "Exp. Candy S",
+        "description": "A candy that is packed with energy. When consumed, it will grant a single Pok\u00c3\u00a9mon a small amount of Exp. Points.",
+        "term": "exp. candy s"
+    },
+    {
+        "name": "Exp. Candy XL",
+        "description": "A candy that is packed with energy. When consumed, it will grant a single Pok\u00c3\u00a9mon a very large amount of Exp. Points.",
+        "term": "exp. candy xl"
+    },
+    {
+        "name": "Exp. Candy XS",
+        "description": "A candy that is packed with energy. When consumed, it will grant a single Pok\u00c3\u00a9mon a very small amount of Exp. Points.",
+        "term": "exp. candy xs"
+    },
+    {
+        "name": "Fancy Apple",
+        "description": "One of the many ingredients that can be used for cooking at your camp. An apple chosen above others. It has spectacular form and a brilliant sheen.",
+        "term": "fancy apple"
+    },
+    {
+        "name": "Fishing Rod",
+        "description": "Use it by the water to fish up various kinds of Pok\u00c3\u00a9mon.",
+        "term": "fishing rod"
+    },
+    {
+        "name": "Flower Sweet",
+        "description": "A flower-shaped sweet. When a Milcery holds this, it spins around happily.",
+        "term": "flower sweet"
+    },
+    {
+        "name": "Fossilized Bird",
+        "description": "The fossil of an ancient Pok\u00c3\u00a9mon that once soared through the sky. What it looked like is a mystery.",
+        "term": "fossilized bird"
+    },
+    {
+        "name": "Fossilized Dino",
+        "description": "The fossil of an ancient Pok\u00c3\u00a9mon that once lived in the sea. What it looked like is a mystery.",
+        "term": "fossilized dino"
+    },
+    {
+        "name": "Fossilized Drake",
+        "description": "The fossil of an ancient Pok\u00c3\u00a9mon that once roamed the land. What it looked like is a mystery.",
+        "term": "fossilized drake"
+    },
+    {
+        "name": "Fossilized Fish",
+        "description": "The fossil of an ancient Pok\u00c3\u00a9mon that once lived in the sea. What it looked like is a mystery.",
+        "term": "fossilized fish"
+    },
+    {
+        "name": "Fresh Cream",
+        "description": "One of the many ingredients that can be used for cooking at your camp. Add some whipped cream to a spicy curry to give it some sweetness.",
+        "term": "fresh cream"
+    },
+    {
+        "name": "Fried Food",
+        "description": "One of the many ingredients that can be used for cooking at your camp. It's been a while since it was fried, so it's gotten greasy.",
+        "term": "fried food"
+    },
+    {
+        "name": "Fruit Bunch",
+        "description": "One of the many ingredients that can be used for cooking at your camp. The syrupy fruits give off a strong tropical feel.",
+        "term": "fruit bunch"
+    },
+    {
+        "name": "Gentle Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Sp. Def will grow more easily, but its Defense will grow more slowly.",
+        "term": "gentle mint"
+    },
+    {
+        "name": "Gigantamix",
+        "description": "One of the many ingredients that can be used for cooking at your camp. A mysterious spice. Even a tiny sprinkle is sure to make a curry gigantic.",
+        "term": "gigantamix"
+    },
+    {
+        "name": "Hasty Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Speed will grow more easily, but its Defense will grow more slowly.",
+        "term": "hasty mint"
+    },
+    {
+        "name": "Heavy-Duty Boots",
+        "description": "These boots prevent the effects of traps set on the battlefield.",
+        "term": "heavy-duty boots"
+    },
+    {
+        "name": "Hi-tech Earbuds",
+        "description": "Strange earbuds that allow you to freely control the volume of various sounds.",
+        "term": "hi-tech earbuds"
+    },
+    {
+        "name": "Impish Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Defense will grow more easily, but its Sp. Atk will grow more slowly.",
+        "term": "impish mint"
+    },
+    {
+        "name": "Instant Noodles",
+        "description": "One of the many ingredients that can be used for cooking at your camp. It has a junk-food sort of taste, but it goes well with curry.",
+        "term": "instant noodles"
+    },
+    {
+        "name": "Jolly Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Speed will grow more easily, but its Sp. Atk will grow more slowly.",
+        "term": "jolly mint"
+    },
+    {
+        "name": "Large Leek",
+        "description": "One of the many ingredients that can be used for cooking at your camp. Whether this is the kind of vegetable stalk that Farfetch'd like is unknown.",
+        "term": "large leek"
+    },
+    {
+        "name": "Lax Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Defense will grow more easily, but its Sp. Def will grow more slowly.",
+        "term": "lax mint"
+    },
+    {
+        "name": "Lonely Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly.",
+        "term": "lonely mint"
+    },
+    {
+        "name": "Love Sweet",
+        "description": "A heart-shaped sweet. When a Milcery holds this, it spins around happily.",
+        "term": "love sweet"
+    },
+    {
+        "name": "Mild Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Sp. Atk will grow more easily, but its Defense will grow more slowly.",
+        "term": "mild mint"
+    },
+    {
+        "name": "Mixed Mushrooms",
+        "description": "One of the many ingredients that can be used for cooking at your camp. The chewy texture of the mushrooms transforms any dish they're added to.",
+        "term": "mixed mushrooms"
+    },
+    {
+        "name": "Modest Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Sp. Atk will grow more easily, but its Attack will grow more slowly.",
+        "term": "modest mint"
+    },
+    {
+        "name": "Moomoo Cheese",
+        "description": "One of the many ingredients that can be used for cooking at your camp. Melted cheese can really give a curry some richness.",
+        "term": "moomoo cheese"
+    },
+    {
+        "name": "Naive Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Speed will grow more easily, but its Sp. Def will grow more slowly.",
+        "term": "naive mint"
+    },
+    {
+        "name": "Naughty Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Attack will grow more easily, but its Sp. Def will grow more slowly.",
+        "term": "naughty mint"
+    },
+    {
+        "name": "Old Letter",
+        "description": "A letter entrusted to you by a girl, to be delivered to a boy. Strangely, it looks old to you.",
+        "term": "old letter"
+    },
+    {
+        "name": "Pack of Potatoes",
+        "description": "One of the many ingredients that can be used for cooking at your camp. Potatoes help mellow out a spicy taste, to make a dish more mild.",
+        "term": "pack of potatoes"
+    },
+    {
+        "name": "Packaged Curry",
+        "description": "One of the many ingredients that can be used for cooking at your camp. Using packaged curry helps make sure there are no slipups when cooking.",
+        "term": "packaged curry"
+    },
+    {
+        "name": "Pasta",
+        "description": "One of the many ingredients that can be used for cooking at your camp. These flour noodles make for a surprisingly good match with curry.",
+        "term": "pasta"
+    },
+    {
+        "name": "Pok\u00c3\u00a9mon Box Link",
+        "description": "A device that allows you to access the Pok\u00c3\u00a9mon storage system. There are some places where it won't work.",
+        "term": "pok\u00e3\u00a9mon box link"
+    },
+    {
+        "name": "Precooked Burger",
+        "description": "One of the many ingredients that can be used for cooking at your camp. If you're unsure about what to cook, you can't go wrong with some burger.",
+        "term": "precooked burger"
+    },
+    {
+        "name": "Pungent Root",
+        "description": "One of the many ingredients that can be used for cooking at your camp. Though carelessly picked, these herbs can add a fragrant accent to a dish.",
+        "term": "pungent root"
+    },
+    {
+        "name": "Quiet Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Sp. Atk will grow more easily, but its Speed will grow more slowly.",
+        "term": "quiet mint"
+    },
+    {
+        "name": "Rash Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Sp. Atk will grow more easily, but its Sp. Def will grow more slowly.",
+        "term": "rash mint"
+    },
+    {
+        "name": "Relaxed Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Defense will grow more easily, but its Speed will grow more slowly.",
+        "term": "relaxed mint"
+    },
+    {
+        "name": "Ribbon Sweet",
+        "description": "A ribbon-shaped sweet. When a Milcery holds this, it spins around happily.",
+        "term": "ribbon sweet"
+    },
+    {
+        "name": "Room Service",
+        "description": "An item to be held by a Pok\u00c3\u00a9mon. Lowers Speed when Trick Room takes effect.",
+        "term": "room service"
+    },
+    {
+        "name": "Rotom Bike",
+        "description": "This bike can be combined with the Pok\u00c3\u00a9mon Rotom to use a turbo boost.",
+        "term": "rotom bike"
+    },
+    {
+        "name": "Rotom Bike",
+        "description": "This bike can be combined with the Pok\u00c3\u00a9mon Rotom to not only do a turbo boost but also run on the water.",
+        "term": "rotom bike"
+    },
+    {
+        "name": "Rotom Catalog",
+        "description": "A catalog of devices that Rotom like. Use the catalog to have Rotom hop in and out of the various devices listed within.",
+        "term": "rotom catalog"
+    },
+    {
+        "name": "Rusted Shield",
+        "description": "It is said that a hero used this shield to halt a terrible disaster in ancient times. But it's grown rusty and worn.",
+        "term": "rusted shield"
+    },
+    {
+        "name": "Rusted Sword",
+        "description": "It is said that a hero used this sword to halt a terrible disaster in ancient times. But it's grown rusty and worn.",
+        "term": "rusted sword"
+    },
+    {
+        "name": "Salad Mix",
+        "description": "One of the many ingredients that can be used for cooking at your camp. The assortment of vegetables looks quite appealing and healthy.",
+        "term": "salad mix"
+    },
+    {
+        "name": "Sassy Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Sp. Def will grow more easily, but its Speed will grow more slowly.",
+        "term": "sassy mint"
+    },
+    {
+        "name": "Sausages",
+        "description": "One of the many ingredients that can be used for cooking at your camp. These sausages should be boiled before eating.",
+        "term": "sausages"
+    },
+    {
+        "name": "Serious Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, all of its stats will grow at an equal rate.",
+        "term": "serious mint"
+    },
+    {
+        "name": "Smoke-Poke Tail",
+        "description": "One of the many ingredients that can be used for cooking at your camp. When a Slowpoke's tail falls off, it grows back quickly.",
+        "term": "smoke-poke tail"
+    },
+    {
+        "name": "Sonia's Book",
+        "description": "Professor Sonia's published writings. Her new discoveries about the Galar region's legends are recorded in this enjoyable read.",
+        "term": "sonia's book"
+    },
+    {
+        "name": "Spice Mix",
+        "description": "One of the many ingredients that can be used for cooking at your camp. There are over fifty spices contained within this ingredient's hot flavor.",
+        "term": "spice mix"
+    },
+    {
+        "name": "Star Sweet",
+        "description": "A star-shaped sweet. When a Milcery holds this, it spins around happily.",
+        "term": "star sweet"
+    },
+    {
+        "name": "Strawberry Sweet",
+        "description": "A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily.",
+        "term": "strawberry sweet"
+    },
+    {
+        "name": "Sweet Apple",
+        "description": "A peculiar apple that can make a certain species of Pok\u00c3\u00a9mon evolve. It's exceptionally sweet.",
+        "term": "sweet apple"
+    },
+    {
+        "name": "Tart Apple",
+        "description": "A peculiar apple that can make a certain species of Pok\u00c3\u00a9mon evolve. It's exceptionally tart.",
+        "term": "tart apple"
+    },
+    {
+        "name": "Throat Spray",
+        "description": "Raises Sp. Atk when a Pok\u00c3\u00a9mon uses a sound-based move.",
+        "term": "throat spray"
+    },
+    {
+        "name": "Timid Mint",
+        "description": "When a Pok\u00c3\u00a9mon smells this mint, its Speed will grow more easily, but its Attack will grow more slowly.",
+        "term": "timid mint"
+    },
+    {
+        "name": "Tin of Beans",
+        "description": "One of the many ingredients that can be used for cooking at your camp. When simmered, the beans suffuse a dish with their mild flavor.",
+        "term": "tin of beans"
+    },
+    {
+        "name": "Utility Umbrella",
+        "description": "An item to be held by a Pok\u00c3\u00a9mon. This sturdy umbrella protects the holder from the effects of weather.",
+        "term": "utility umbrella"
+    },
+    {
+        "name": "Wishing Chip",
+        "description": "Toss a number of them into a Pok\u00c3\u00a9mon Den for the chance to attract a wild Dynamax Pok\u00c3\u00a9mon.",
+        "term": "wishing chip"
+    },
+    {
+        "name": "Wishing Piece",
+        "description": "Throw one into a Pok\u00c3\u00a9mon Den to attract a wild Dynamax Pok\u00c3\u00a9mon.",
+        "term": "wishing piece"
+    },
+    {
+        "name": "Wishing Star",
+        "description": "A stone found in the Galar region with a mysterious power. It's said that your dreams come true if you find one.",
+        "term": "wishing star"
     }
 ]

@@ -1,7 +1,7 @@
 import json
 import os.path
 
-from . import types, tables
+from . import tables
 
 
 async def setup():

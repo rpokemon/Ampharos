@@ -1402,5 +1402,155 @@
         "description": "Changes the Pok\u00e9mon's shape when HP is half or less.",
         "introduced": 5,
         "term": "zen mode"
+    },
+    {
+        "name": "Ball Fetch",
+        "description": "If the Pok\u00c3\u00a9mon is not holding an item, it will fetch the Pok\u00c3\u00a9 Ball from the first failed throw of the battle.",
+        "introduced": 8,
+        "term": "ball fetch"
+    },
+    {
+        "name": "Cotton Down",
+        "description": "When the Pok\u00c3\u00a9mon is hit by an attack, it scatters cotton fluff around and lowers the Speed stat of all Pok\u00c3\u00a9mon except itself.",
+        "introduced": 8,
+        "term": "cotton down"
+    },
+    {
+        "name": "Dauntless Shield",
+        "description": "Boosts the Pok\u00c3\u00a9mon's Defense stat when the Pok\u00c3\u00a9mon enters a battle.",
+        "introduced": 8,
+        "term": "dauntless shield"
+    },
+    {
+        "name": "Gorilla Tactics",
+        "description": "Boosts the Pok\u00c3\u00a9mon's Attack stat but only allows the use of the first selected move.",
+        "introduced": 8,
+        "term": "gorilla tactics"
+    },
+    {
+        "name": "Gulp Missile",
+        "description": "When the Pok\u00c3\u00a9mon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack.",
+        "introduced": 8,
+        "term": "gulp missile"
+    },
+    {
+        "name": "Hunger Switch",
+        "description": "The Pok\u00c3\u00a9mon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn.",
+        "introduced": 8,
+        "term": "hunger switch"
+    },
+    {
+        "name": "Ice Face",
+        "description": "The Pok\u00c3\u00a9mon's ice head can take a physical attack as a substitute, but the attack also changes the Pok\u00c3\u00a9mon's appearance. The ice will be restored when it hails.",
+        "introduced": 8,
+        "term": "ice face"
+    },
+    {
+        "name": "Ice Scales",
+        "description": "The Pok\u00c3\u00a9mon is protected by ice scales, which halve the damage taken from special moves.",
+        "introduced": 8,
+        "term": "ice scales"
+    },
+    {
+        "name": "Intrepid Sword",
+        "description": "Boosts the Pok\u00c3\u00a9mon's Attack stat when the Pok\u00c3\u00a9mon enters a battle.",
+        "introduced": 8,
+        "term": "intrepid sword"
+    },
+    {
+        "name": "Libero",
+        "description": "Changes the Pok\u00c3\u00a9mon's type to the type of the move it's about to use.",
+        "introduced": 8,
+        "term": "libero"
+    },
+    {
+        "name": "Mimicry",
+        "description": "Changes the Pok\u00c3\u00a9mon's type depending on the terrain.",
+        "introduced": 8,
+        "term": "mimicry"
+    },
+    {
+        "name": "Mirror Armor",
+        "description": "Bounces back only the stat-lowering effects that the Pok\u00c3\u00a9mon receives.",
+        "introduced": 8,
+        "term": "mirror armor"
+    },
+    {
+        "name": "Neutralizing Gas",
+        "description": "If the Pok\u00c3\u00a9mon with Neutralizing Gas is in the battle, the effects of all Pok\u00c3\u00a9mon's Abilities will be nullified or will not be triggered.",
+        "introduced": 8,
+        "term": "neutralizing gas"
+    },
+    {
+        "name": "Pastel Veil",
+        "description": "Protects the Pok\u00c3\u00a9mon and its ally Pok\u00c3\u00a9mon from being poisoned.",
+        "introduced": 8,
+        "term": "pastel veil"
+    },
+    {
+        "name": "Perish Body",
+        "description": "When hit by a move that makes direct contact, the Pok\u00c3\u00a9mon and the attacker will faint after three turns unless they switch out of battle.",
+        "introduced": 8,
+        "term": "perish body"
+    },
+    {
+        "name": "Power Spot",
+        "description": "Just being next to the Pok\u00c3\u00a9mon powers up moves.",
+        "introduced": 8,
+        "term": "power spot"
+    },
+    {
+        "name": "Propeller Tail",
+        "description": "Ignores the effects of opposing Pok\u00c3\u00a9mon's Abilities and moves that draw in moves.",
+        "introduced": 8,
+        "term": "propeller tail"
+    },
+    {
+        "name": "Punk Rock",
+        "description": "Boosts the power of sound-based moves. The Pok\u00c3\u00a9mon also takes half the damage from these kinds of moves.",
+        "introduced": 8,
+        "term": "punk rock"
+    },
+    {
+        "name": "Ripen",
+        "description": "Ripens Berries and doubles their effect.",
+        "introduced": 8,
+        "term": "ripen"
+    },
+    {
+        "name": "Sand Spit",
+        "description": "The Pok\u00c3\u00a9mon creates a sandstorm when it's hit by an attack.",
+        "introduced": 8,
+        "term": "sand spit"
+    },
+    {
+        "name": "Screen Cleaner",
+        "description": "When the Pok\u00c3\u00a9mon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pok\u00c3\u00a9mon.",
+        "introduced": 8,
+        "term": "screen cleaner"
+    },
+    {
+        "name": "Stalwart",
+        "description": "Ignores the effects of opposing Pok\u00c3\u00a9mon's Abilities and moves that draw in moves.",
+        "introduced": 8,
+        "term": "stalwart"
+    },
+    {
+        "name": "Steam Engine",
+        "description": "Boosts the Pok\u00c3\u00a9mon's Speed stat drastically if hit by a Fire- or Water-type move.",
+        "introduced": 8,
+        "term": "steam engine"
+    },
+    {
+        "name": "Steely Spirit",
+        "description": "Powers up ally Pok\u00c3\u00a9mon's Steel-type moves.",
+        "introduced": 8,
+        "term": "steely spirit"
+    },
+    {
+        "name": "Wandering Spirit",
+        "description": "The Pok\u00c3\u00a9mon exchanges Abilities with a Pok\u00c3\u00a9mon that hits it with a move that makes direct contact.",
+        "introduced": 8,
+        "term": "wandering spirit"
     }
 ]

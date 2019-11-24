@@ -5650,5 +5650,533 @@
         "first": "volt absorb",
         "second": null,
         "hidden": null
+    },
+    {
+        "term": "meltan",
+        "first": "magnet pull",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "melmetal",
+        "first": "iron fist",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "grookey",
+        "first": "Overgrow",
+        "second": null,
+        "hidden": "Grassy Surge"
+    },
+    {
+        "term": "thwackey",
+        "first": "Overgrow",
+        "second": null,
+        "hidden": "Grassy Surge"
+    },
+    {
+        "term": "rillaboom",
+        "first": "Overgrow",
+        "second": null,
+        "hidden": "Grassy Surge"
+    },
+    {
+        "term": "scorbunny",
+        "first": "Blaze",
+        "second": null,
+        "hidden": "Libero"
+    },
+    {
+        "term": "raboot",
+        "first": "Blaze",
+        "second": null,
+        "hidden": "Libero"
+    },
+    {
+        "term": "cinderace",
+        "first": "Blaze",
+        "second": null,
+        "hidden": "Libero"
+    },
+    {
+        "term": "sobble",
+        "first": "Torrent",
+        "second": null,
+        "hidden": "Sniper"
+    },
+    {
+        "term": "drizzile",
+        "first": "Torrent",
+        "second": null,
+        "hidden": "Sniper"
+    },
+    {
+        "term": "inteleon",
+        "first": "Torrent",
+        "second": null,
+        "hidden": "Sniper"
+    },
+    {
+        "term": "skwovet",
+        "first": "Cheek Pouch",
+        "second": null,
+        "hidden": "Gluttony"
+    },
+    {
+        "term": "greedent",
+        "first": "Cheek Pouch",
+        "second": null,
+        "hidden": "Gluttony"
+    },
+    {
+        "term": "rookidee",
+        "first": "Keen Eye",
+        "second": "Unnerve",
+        "hidden": "Big Pecks"
+    },
+    {
+        "term": "corvisquire",
+        "first": "Keen Eye",
+        "second": "Unnerve",
+        "hidden": "Big Pecks"
+    },
+    {
+        "term": "corviknight",
+        "first": "Pressure",
+        "second": "Unnerve",
+        "hidden": "Mirror Armor"
+    },
+    {
+        "term": "blipbug",
+        "first": "Swarm",
+        "second": "Compoundeyes",
+        "hidden": "Telepathy"
+    },
+    {
+        "term": "dottler",
+        "first": "Swarm",
+        "second": "Compoundeyes",
+        "hidden": "Telepathy"
+    },
+    {
+        "term": "orbeetle",
+        "first": "Swarm",
+        "second": "Frisk",
+        "hidden": "Telepathy"
+    },
+    {
+        "term": "nickit",
+        "first": "Run Away",
+        "second": "Unburden",
+        "hidden": "Stakeout"
+    },
+    {
+        "term": "thievul",
+        "first": "Run Away",
+        "second": "Unburden",
+        "hidden": "Stakeout"
+    },
+    {
+        "term": "gossifleur",
+        "first": "Cotton Down",
+        "second": "Regenerator",
+        "hidden": "Effect Spore"
+    },
+    {
+        "term": "eldegoss",
+        "first": "Cotton Down",
+        "second": "Regenerator",
+        "hidden": "Effect Spore"
+    },
+    {
+        "term": "wooloo",
+        "first": "Fluffy",
+        "second": "Run Away",
+        "hidden": "Bulletproof"
+    },
+    {
+        "term": "dubwool",
+        "first": "Fluffy",
+        "second": "Steadfast",
+        "hidden": "Bulletproof"
+    },
+    {
+        "term": "chewtle",
+        "first": "Strong Jaw",
+        "second": "Shell Armor",
+        "hidden": "Swift Swim"
+    },
+    {
+        "term": "drednaw",
+        "first": "Strong Jaw",
+        "second": "Shell Armor",
+        "hidden": "Swift Swim"
+    },
+    {
+        "term": "yamper",
+        "first": "Ball Fetch",
+        "second": null,
+        "hidden": "Rattled"
+    },
+    {
+        "term": "boltund",
+        "first": "Strong Jaw",
+        "second": null,
+        "hidden": "Competitive"
+    },
+    {
+        "term": "rolycoly",
+        "first": "Steam Engine",
+        "second": "Heatproof",
+        "hidden": "Flash Fire"
+    },
+    {
+        "term": "carkol",
+        "first": "Steam Engine",
+        "second": "Flame Body",
+        "hidden": "Flash Fire"
+    },
+    {
+        "term": "coalossal",
+        "first": "Steam Engine",
+        "second": "Flame Body",
+        "hidden": "Flash Fire"
+    },
+    {
+        "term": "applin",
+        "first": "Ripen",
+        "second": "Gluttony",
+        "hidden": "Bulletproof"
+    },
+    {
+        "term": "flapple",
+        "first": "Ripen",
+        "second": "Gluttony",
+        "hidden": "Hustle"
+    },
+    {
+        "term": "appletun",
+        "first": "Ripen",
+        "second": "Gluttony",
+        "hidden": "Thick Fat"
+    },
+    {
+        "term": "silicobra",
+        "first": "Sand Spit",
+        "second": "Shed Skin",
+        "hidden": "Sand Veil"
+    },
+    {
+        "term": "sandaconda",
+        "first": "Sand Spit",
+        "second": "Shed Skin",
+        "hidden": "Sand Veil"
+    },
+    {
+        "term": "cramorant",
+        "first": "Gulp Missile",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "arrokuda",
+        "first": "Swift Swim",
+        "second": null,
+        "hidden": "Propeller Tail"
+    },
+    {
+        "term": "barraskewda",
+        "first": "Swift Swim",
+        "second": null,
+        "hidden": "Propeller Tail"
+    },
+    {
+        "term": "toxel",
+        "first": "Rattled",
+        "second": "Static",
+        "hidden": "Klutz"
+    },
+    {
+        "term": "toxtricity",
+        "first": "Punk Rock",
+        "second": "Plus",
+        "hidden": "Technician"
+    },
+    {
+        "term": "toxtricity",
+        "first": "Punk Rock",
+        "second": "Minus",
+        "hidden": "Technician"
+    },
+    {
+        "term": "sizzlipede",
+        "first": "Flash Fire",
+        "second": "White Smoke",
+        "hidden": "Flame Body"
+    },
+    {
+        "term": "centiskorch",
+        "first": "Flash Fire",
+        "second": "White Smoke",
+        "hidden": "Flame Body"
+    },
+    {
+        "term": "clobbopus",
+        "first": "Limber",
+        "second": null,
+        "hidden": "Technician"
+    },
+    {
+        "term": "grapploct",
+        "first": "Limber",
+        "second": null,
+        "hidden": "Technician"
+    },
+    {
+        "term": "sinistea",
+        "first": "Weak Armor",
+        "second": null,
+        "hidden": "Cursed Body"
+    },
+    {
+        "term": "polteageist",
+        "first": "Weak Armor",
+        "second": null,
+        "hidden": "Cursed Body"
+    },
+    {
+        "term": "hatenna",
+        "first": "Healer",
+        "second": "Anticipation",
+        "hidden": "Magic Bounce"
+    },
+    {
+        "term": "hattrem",
+        "first": "Healer",
+        "second": "Anticipation",
+        "hidden": "Magic Bounce"
+    },
+    {
+        "term": "hatterene",
+        "first": "Healer",
+        "second": "Anticipation",
+        "hidden": "Magic Bounce"
+    },
+    {
+        "term": "impidimp",
+        "first": "Prankster",
+        "second": "Frisk",
+        "hidden": "Pickpocket"
+    },
+    {
+        "term": "morgrem",
+        "first": "Prankster",
+        "second": "Frisk",
+        "hidden": "Pickpocket"
+    },
+    {
+        "term": "grimmsnarl",
+        "first": "Prankster",
+        "second": "Frisk",
+        "hidden": "Pickpocket"
+    },
+    {
+        "term": "obstagoon",
+        "first": "Reckless",
+        "second": "Guts",
+        "hidden": "Defiant"
+    },
+    {
+        "term": "perrserker",
+        "first": "Battle Armor",
+        "second": "Tough Claws",
+        "hidden": "Steely Spirit"
+    },
+    {
+        "term": "cursola",
+        "first": "Weak Armor",
+        "second": null,
+        "hidden": "Perish Body"
+    },
+    {
+        "term": "sirfetch'd",
+        "first": "Steadfast",
+        "second": null,
+        "hidden": "Scrappy"
+    },
+    {
+        "term": "mr. rime",
+        "first": "Tangled Feet",
+        "second": "Screen Cleaner",
+        "hidden": "Ice Body"
+    },
+    {
+        "term": "runerigus",
+        "first": "Wandering Spirit",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "milcery",
+        "first": "Sweet Veil",
+        "second": null,
+        "hidden": "Aroma Veil"
+    },
+    {
+        "term": "alcremie",
+        "first": "Sweet Veil",
+        "second": null,
+        "hidden": "Aroma Veil"
+    },
+    {
+        "term": "falinks",
+        "first": "Battle Armor",
+        "second": null,
+        "hidden": "Defiant"
+    },
+    {
+        "term": "pincurchin",
+        "first": "Lightningrod",
+        "second": null,
+        "hidden": "Electric Surge"
+    },
+    {
+        "term": "snom",
+        "first": "Shield Dust",
+        "second": null,
+        "hidden": "Ice Scales"
+    },
+    {
+        "term": "frosmoth",
+        "first": "Shield Dust",
+        "second": null,
+        "hidden": "Ice Scales"
+    },
+    {
+        "term": "stonjourner",
+        "first": "Power Spot",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "eiscue",
+        "first": "Ice Face",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "eiscue",
+        "first": "Ice Face",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "indeedee",
+        "first": "Inner Focus",
+        "second": "Synchronize",
+        "hidden": "Psychic Surge"
+    },
+    {
+        "term": "indeedee",
+        "first": "Own Tempo",
+        "second": "Synchronize",
+        "hidden": "Psychic Surge"
+    },
+    {
+        "term": "morpeko",
+        "first": "Hunger Switch",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "cufant",
+        "first": "Sheer Force",
+        "second": null,
+        "hidden": "Heavy Metal"
+    },
+    {
+        "term": "copperajah",
+        "first": "Sheer Force",
+        "second": null,
+        "hidden": "Heavy Metal"
+    },
+    {
+        "term": "dracozolt",
+        "first": "Volt Absorb",
+        "second": "Hustle",
+        "hidden": "Sand Rush"
+    },
+    {
+        "term": "arctozolt",
+        "first": "Volt Absorb",
+        "second": "Static",
+        "hidden": "Slush Rush"
+    },
+    {
+        "term": "dracovish",
+        "first": "Water Absorb",
+        "second": "Strong Jaw",
+        "hidden": "Sand Rush"
+    },
+    {
+        "term": "arctovish",
+        "first": "Water Absorb",
+        "second": "Ice Body",
+        "hidden": "Slush Rush"
+    },
+    {
+        "term": "duraludon",
+        "first": "Light Metal",
+        "second": "Heavy Metal",
+        "hidden": "Stalwart"
+    },
+    {
+        "term": "dreepy",
+        "first": "Clear Body",
+        "second": "Infiltrator",
+        "hidden": "Cursed Body"
+    },
+    {
+        "term": "drakloak",
+        "first": "Clear Body",
+        "second": "Infiltrator",
+        "hidden": "Cursed Body"
+    },
+    {
+        "term": "dragapult",
+        "first": "Clear Body",
+        "second": "Infiltrator",
+        "hidden": "Cursed Body"
+    },
+    {
+        "term": "zacian",
+        "first": "Intrepid Sword",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "zacian",
+        "first": "Intrepid Sword",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "zamazenta",
+        "first": "Dauntless Shield",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "zamazenta",
+        "first": "Dauntless Shield",
+        "second": null,
+        "hidden": null
+    },
+    {
+        "term": "eternatus",
+        "first": "Pressure",
+        "second": null,
+        "hidden": null
     }
 ]

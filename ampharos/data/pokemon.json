@@ -4708,5 +4708,445 @@
         "dex_no": 807,
         "classification": "Thunderclap Pok\u00e9mon",
         "term": "zeraora"
+    },
+    {
+        "dex_no": 808,
+        "classification": "Hex Nut Pok\u00e9mon",
+        "term": "meltan"
+    },
+    {
+        "dex_no": 809,
+        "classification": "Hex Nut Pok\u00e9mon",
+        "term": "melmetal"
+    },
+    {
+        "dex_no": 810,
+        "classification": null,
+        "term": "grookey"
+    },
+    {
+        "dex_no": 811,
+        "classification": null,
+        "term": "thwackey"
+    },
+    {
+        "dex_no": 812,
+        "classification": null,
+        "term": "rillaboom"
+    },
+    {
+        "dex_no": 813,
+        "classification": null,
+        "term": "scorbunny"
+    },
+    {
+        "dex_no": 814,
+        "classification": null,
+        "term": "raboot"
+    },
+    {
+        "dex_no": 815,
+        "classification": null,
+        "term": "cinderace"
+    },
+    {
+        "dex_no": 816,
+        "classification": null,
+        "term": "sobble"
+    },
+    {
+        "dex_no": 817,
+        "classification": null,
+        "term": "drizzile"
+    },
+    {
+        "dex_no": 818,
+        "classification": null,
+        "term": "inteleon"
+    },
+    {
+        "dex_no": 819,
+        "classification": null,
+        "term": "skwovet"
+    },
+    {
+        "dex_no": 820,
+        "classification": null,
+        "term": "greedent"
+    },
+    {
+        "dex_no": 821,
+        "classification": null,
+        "term": "rookidee"
+    },
+    {
+        "dex_no": 822,
+        "classification": null,
+        "term": "corvisquire"
+    },
+    {
+        "dex_no": 823,
+        "classification": null,
+        "term": "corviknight"
+    },
+    {
+        "dex_no": 824,
+        "classification": null,
+        "term": "blipbug"
+    },
+    {
+        "dex_no": 825,
+        "classification": null,
+        "term": "dottler"
+    },
+    {
+        "dex_no": 826,
+        "classification": null,
+        "term": "orbeetle"
+    },
+    {
+        "dex_no": 827,
+        "classification": null,
+        "term": "nickit"
+    },
+    {
+        "dex_no": 828,
+        "classification": null,
+        "term": "thievul"
+    },
+    {
+        "dex_no": 829,
+        "classification": null,
+        "term": "gossifleur"
+    },
+    {
+        "dex_no": 830,
+        "classification": null,
+        "term": "eldegoss"
+    },
+    {
+        "dex_no": 831,
+        "classification": null,
+        "term": "wooloo"
+    },
+    {
+        "dex_no": 832,
+        "classification": null,
+        "term": "dubwool"
+    },
+    {
+        "dex_no": 833,
+        "classification": null,
+        "term": "chewtle"
+    },
+    {
+        "dex_no": 834,
+        "classification": null,
+        "term": "drednaw"
+    },
+    {
+        "dex_no": 835,
+        "classification": null,
+        "term": "yamper"
+    },
+    {
+        "dex_no": 836,
+        "classification": null,
+        "term": "boltund"
+    },
+    {
+        "dex_no": 837,
+        "classification": null,
+        "term": "rolycoly"
+    },
+    {
+        "dex_no": 838,
+        "classification": null,
+        "term": "carkol"
+    },
+    {
+        "dex_no": 839,
+        "classification": null,
+        "term": "coalossal"
+    },
+    {
+        "dex_no": 840,
+        "classification": null,
+        "term": "applin"
+    },
+    {
+        "dex_no": 841,
+        "classification": null,
+        "term": "flapple"
+    },
+    {
+        "dex_no": 842,
+        "classification": null,
+        "term": "appletun"
+    },
+    {
+        "dex_no": 843,
+        "classification": null,
+        "term": "silicobra"
+    },
+    {
+        "dex_no": 844,
+        "classification": null,
+        "term": "sandaconda"
+    },
+    {
+        "dex_no": 845,
+        "classification": null,
+        "term": "cramorant"
+    },
+    {
+        "dex_no": 846,
+        "classification": null,
+        "term": "arrokuda"
+    },
+    {
+        "dex_no": 847,
+        "classification": null,
+        "term": "barraskewda"
+    },
+    {
+        "dex_no": 848,
+        "classification": null,
+        "term": "toxel"
+    },
+    {
+        "dex_no": 849,
+        "classification": null,
+        "term": "toxtricity"
+    },
+    {
+        "dex_no": 849,
+        "classification": null,
+        "term": "toxtricity"
+    },
+    {
+        "dex_no": 850,
+        "classification": null,
+        "term": "sizzlipede"
+    },
+    {
+        "dex_no": 851,
+        "classification": null,
+        "term": "centiskorch"
+    },
+    {
+        "dex_no": 852,
+        "classification": null,
+        "term": "clobbopus"
+    },
+    {
+        "dex_no": 853,
+        "classification": null,
+        "term": "grapploct"
+    },
+    {
+        "dex_no": 854,
+        "classification": null,
+        "term": "sinistea"
+    },
+    {
+        "dex_no": 855,
+        "classification": null,
+        "term": "polteageist"
+    },
+    {
+        "dex_no": 856,
+        "classification": null,
+        "term": "hatenna"
+    },
+    {
+        "dex_no": 857,
+        "classification": null,
+        "term": "hattrem"
+    },
+    {
+        "dex_no": 858,
+        "classification": null,
+        "term": "hatterene"
+    },
+    {
+        "dex_no": 859,
+        "classification": null,
+        "term": "impidimp"
+    },
+    {
+        "dex_no": 860,
+        "classification": null,
+        "term": "morgrem"
+    },
+    {
+        "dex_no": 861,
+        "classification": null,
+        "term": "grimmsnarl"
+    },
+    {
+        "dex_no": 862,
+        "classification": null,
+        "term": "obstagoon"
+    },
+    {
+        "dex_no": 863,
+        "classification": null,
+        "term": "perrserker"
+    },
+    {
+        "dex_no": 864,
+        "classification": null,
+        "term": "cursola"
+    },
+    {
+        "dex_no": 865,
+        "classification": null,
+        "term": "sirfetch'd"
+    },
+    {
+        "dex_no": 866,
+        "classification": null,
+        "term": "mr. rime"
+    },
+    {
+        "dex_no": 867,
+        "classification": null,
+        "term": "runerigus"
+    },
+    {
+        "dex_no": 868,
+        "classification": null,
+        "term": "milcery"
+    },
+    {
+        "dex_no": 869,
+        "classification": null,
+        "term": "alcremie"
+    },
+    {
+        "dex_no": 870,
+        "classification": null,
+        "term": "falinks"
+    },
+    {
+        "dex_no": 871,
+        "classification": null,
+        "term": "pincurchin"
+    },
+    {
+        "dex_no": 872,
+        "classification": null,
+        "term": "snom"
+    },
+    {
+        "dex_no": 873,
+        "classification": null,
+        "term": "frosmoth"
+    },
+    {
+        "dex_no": 874,
+        "classification": null,
+        "term": "stonjourner"
+    },
+    {
+        "dex_no": 875,
+        "classification": null,
+        "term": "eiscue"
+    },
+    {
+        "dex_no": 875,
+        "classification": null,
+        "term": "eiscue"
+    },
+    {
+        "dex_no": 876,
+        "classification": null,
+        "term": "indeedee"
+    },
+    {
+        "dex_no": 876,
+        "classification": null,
+        "term": "indeedee"
+    },
+    {
+        "dex_no": 877,
+        "classification": null,
+        "term": "morpeko"
+    },
+    {
+        "dex_no": 878,
+        "classification": null,
+        "term": "cufant"
+    },
+    {
+        "dex_no": 879,
+        "classification": null,
+        "term": "copperajah"
+    },
+    {
+        "dex_no": 880,
+        "classification": null,
+        "term": "dracozolt"
+    },
+    {
+        "dex_no": 881,
+        "classification": null,
+        "term": "arctozolt"
+    },
+    {
+        "dex_no": 882,
+        "classification": null,
+        "term": "dracovish"
+    },
+    {
+        "dex_no": 883,
+        "classification": null,
+        "term": "arctovish"
+    },
+    {
+        "dex_no": 884,
+        "classification": null,
+        "term": "duraludon"
+    },
+    {
+        "dex_no": 885,
+        "classification": null,
+        "term": "dreepy"
+    },
+    {
+        "dex_no": 886,
+        "classification": null,
+        "term": "drakloak"
+    },
+    {
+        "dex_no": 887,
+        "classification": null,
+        "term": "dragapult"
+    },
+    {
+        "dex_no": 888,
+        "classification": null,
+        "term": "zacian"
+    },
+    {
+        "dex_no": 888,
+        "classification": null,
+        "term": "zacian"
+    },
+    {
+        "dex_no": 889,
+        "classification": null,
+        "term": "zamazenta"
+    },
+    {
+        "dex_no": 889,
+        "classification": null,
+        "term": "zamazenta"
+    },
+    {
+        "dex_no": 890,
+        "classification": null,
+        "term": "eternatus"
     }
 ]

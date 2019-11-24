@@ -7098,5 +7098,355 @@
         "accuracy": 50,
         "description": "The user fires an electric blast like a cannon to inflict damage and cause paralysis.",
         "term": "zap cannon"
+    },
+    {
+        "name": "Dynamax Cannon",
+        "type": null,
+        "category": null,
+        "pp": 5,
+        "power": 100,
+        "accuracy": 100,
+        "description": "The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed.",
+        "term": "dynamax cannon"
+    },
+    {
+        "name": "Snipe Shot",
+        "type": null,
+        "category": null,
+        "pp": 15,
+        "power": 80,
+        "accuracy": 100,
+        "description": "The user ignores the effects of opposing Pok\u00c3\u00a9mon's moves and Abilities that draw in moves, allowing this move to hit the chosen target.",
+        "term": "snipe shot"
+    },
+    {
+        "name": "Jaw Lock",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 80,
+        "accuracy": 100,
+        "description": "This move prevents the user and the target from switching out until either of them faints. The effect goes away if either of the Pok\u00c3\u00a9mon leaves the field.",
+        "term": "jaw lock"
+    },
+    {
+        "name": "Stuff Cheeks",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": null,
+        "accuracy": 101,
+        "description": "The user eats its held Berry, then sharply raises its Defense stat.",
+        "term": "stuff cheeks"
+    },
+    {
+        "name": "No Retreat",
+        "type": null,
+        "category": null,
+        "pp": 5,
+        "power": null,
+        "accuracy": 101,
+        "description": "This move raises all the user's stats but prevents the user from switching out or fleeing.",
+        "term": "no retreat"
+    },
+    {
+        "name": "Tar Shot",
+        "type": null,
+        "category": null,
+        "pp": 15,
+        "power": null,
+        "accuracy": 100,
+        "description": "The user pours sticky tar over the target, lowering the target's Speed stat. The target becomes weaker to Fire-type moves.",
+        "term": "tar shot"
+    },
+    {
+        "name": "Magic Powder",
+        "type": null,
+        "category": null,
+        "pp": 20,
+        "power": null,
+        "accuracy": 100,
+        "description": "The user scatters a cloud of magic powder that changes the target to Psychic type.",
+        "term": "magic powder"
+    },
+    {
+        "name": "Dragon Darts",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 50,
+        "accuracy": 100,
+        "description": "The user attacks twice using Dreepy. If there are two targets, this move hits each target once.",
+        "term": "dragon darts"
+    },
+    {
+        "name": "Teatime",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": null,
+        "accuracy": 101,
+        "description": "The user has teatime with all the Pok\u00c3\u00a9mon in the battle. Each Pok\u00c3\u00a9mon eats its held Berry.",
+        "term": "teatime"
+    },
+    {
+        "name": "Octolock",
+        "type": null,
+        "category": null,
+        "pp": 15,
+        "power": null,
+        "accuracy": 100,
+        "description": "The user locks the target in and prevents it from fleeing. This move also lowers the target's Defense and Sp. Def every turn.",
+        "term": "octolock"
+    },
+    {
+        "name": "Bolt Beak",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 85,
+        "accuracy": 100,
+        "description": "The user stabs the target with its electrified beak. If the user attacks before the target, the power of this move is doubled.",
+        "term": "bolt beak"
+    },
+    {
+        "name": "Fishious Rend",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 85,
+        "accuracy": 100,
+        "description": "The user rends the target with its hard gills. If the user attacks before the target, the power of this move is doubled.",
+        "term": "fishious rend"
+    },
+    {
+        "name": "Court Change",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": null,
+        "accuracy": 100,
+        "description": "With its mysterious power, the user swaps the effects on either side of the field.",
+        "term": "court change"
+    },
+    {
+        "name": "Clangorous Soul",
+        "type": null,
+        "category": null,
+        "pp": 5,
+        "power": null,
+        "accuracy": 100,
+        "description": "The user raises all its stats by using some of its HP.",
+        "term": "clangorous soul"
+    },
+    {
+        "name": "Body Press",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 80,
+        "accuracy": 100,
+        "description": "The user attacks by slamming its body into the target. The higher the user's Defense, the more damage it can inflict on the target.",
+        "term": "body press"
+    },
+    {
+        "name": "Decorate",
+        "type": null,
+        "category": null,
+        "pp": 15,
+        "power": null,
+        "accuracy": 101,
+        "description": "The user sharply raises the target's Attack and Sp. Atk stats by decorating the target.",
+        "term": "decorate"
+    },
+    {
+        "name": "Drum Beating",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 80,
+        "accuracy": 100,
+        "description": "The user plays its drum, controlling the drum's roots to attack the target. This also lowers the target's Speed stat.",
+        "term": "drum beating"
+    },
+    {
+        "name": "Snap Trap",
+        "type": null,
+        "category": null,
+        "pp": 15,
+        "power": 35,
+        "accuracy": 100,
+        "description": "The user snares the target in a snap trap for four to five turns.",
+        "term": "snap trap"
+    },
+    {
+        "name": "Pyro Ball",
+        "type": null,
+        "category": null,
+        "pp": 5,
+        "power": 120,
+        "accuracy": 90,
+        "description": "The user attacks by igniting a small stone and launching it as a fiery ball at the target. This may also leave the target with a burn.",
+        "term": "pyro ball"
+    },
+    {
+        "name": "Behemoth Blade",
+        "type": null,
+        "category": null,
+        "pp": 5,
+        "power": 100,
+        "accuracy": 100,
+        "description": "The user becomes a gigantic sword and cuts the target. This move deals twice the damage if the target is Dynamaxed.",
+        "term": "behemoth blade"
+    },
+    {
+        "name": "Behemoth Bash",
+        "type": null,
+        "category": null,
+        "pp": 5,
+        "power": 100,
+        "accuracy": 100,
+        "description": "The user becomes a gigantic shield and slams into the target. This move deals twice the damage if the target is Dynamaxed.",
+        "term": "behemoth bash"
+    },
+    {
+        "name": "Aura Wheel",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 110,
+        "accuracy": 100,
+        "description": "Morpeko attacks and raises its Speed with the energy stored in its cheeks. This move's type changes depending on the user's form.",
+        "term": "aura wheel"
+    },
+    {
+        "name": "Breaking Swipe",
+        "type": null,
+        "category": null,
+        "pp": 15,
+        "power": 60,
+        "accuracy": 100,
+        "description": "The user swings its tough tail wildly and attacks opposing Pok\u00c3\u00a9mon. This also lowers their Attack stats.",
+        "term": "breaking swipe"
+    },
+    {
+        "name": "Branch Poke",
+        "type": null,
+        "category": null,
+        "pp": 40,
+        "power": 40,
+        "accuracy": 100,
+        "description": "The user attacks the target by poking it with a sharply pointed branch.",
+        "term": "branch poke"
+    },
+    {
+        "name": "Overdrive",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 80,
+        "accuracy": 100,
+        "description": "The user attacks opposing Pok\u00c3\u00a9mon by twanging a guitar or bass guitar, causing a huge echo and strong vibration.",
+        "term": "overdrive"
+    },
+    {
+        "name": "Apple Acid",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 80,
+        "accuracy": 100,
+        "description": "The user attacks the target with an acidic liquid created from tart apples. This also lowers the target's Sp. Def stat.",
+        "term": "apple acid"
+    },
+    {
+        "name": "Grav Apple",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 80,
+        "accuracy": 100,
+        "description": "The user inflicts damage by dropping an apple from high above. This also lowers the target's Defense stat.",
+        "term": "grav apple"
+    },
+    {
+        "name": "Spirit Break",
+        "type": null,
+        "category": null,
+        "pp": 15,
+        "power": 75,
+        "accuracy": 100,
+        "description": "The user attacks the target with so much force that it could break the target's spirit. This also lowers the target's Sp. Atk stat.",
+        "term": "spirit break"
+    },
+    {
+        "name": "Strange Steam",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 90,
+        "accuracy": 95,
+        "description": "The user attacks the target by emitting steam. This may also confuse the target.",
+        "term": "strange steam"
+    },
+    {
+        "name": "Life Dew",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": null,
+        "accuracy": 101,
+        "description": "The user scatters mysterious water around and restores the HP of itself and its ally Pok\u00c3\u00a9mon in the battle.",
+        "term": "life dew"
+    },
+    {
+        "name": "Obstruct",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": null,
+        "accuracy": 100,
+        "description": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. Direct contact harshly lowers the attacker's Defense stat.",
+        "term": "obstruct"
+    },
+    {
+        "name": "False Surrender",
+        "type": null,
+        "category": null,
+        "pp": 10,
+        "power": 80,
+        "accuracy": 101,
+        "description": "The user pretends to bow its head, but then it stabs the target with its disheveled hair. This attack never misses.",
+        "term": "false surrender"
+    },
+    {
+        "name": "Meteor Assault",
+        "type": null,
+        "category": null,
+        "pp": 5,
+        "power": 150,
+        "accuracy": 100,
+        "description": "The user attacks wildly with its thick leek. The user can't move on the next turn, because the force of this move makes it stagger.",
+        "term": "meteor assault"
+    },
+    {
+        "name": "Eternabeam",
+        "type": null,
+        "category": null,
+        "pp": 5,
+        "power": 160,
+        "accuracy": 90,
+        "description": "This is Eternatus's most powerful attack in its original form. The user can't move on the next turn.",
+        "term": "eternabeam"
+    },
+    {
+        "name": "Steel Beam",
+        "type": null,
+        "category": null,
+        "pp": 5,
+        "power": 140,
+        "accuracy": 95,
+        "description": "The user fires a beam of steel that it collected from its entire body. This also damages the user.",
+        "term": "steel beam"
     }
 ]

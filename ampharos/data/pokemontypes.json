@@ -4708,5 +4708,445 @@
         "term": "zeraora",
         "first": "electric",
         "second": null
+    },
+    {
+        "term": "meltan",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "melmetal",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "grookey",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "thwackey",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "rillaboom",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "scorbunny",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "raboot",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "cinderace",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "sobble",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "drizzile",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "inteleon",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "skwovet",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "greedent",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "rookidee",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "corvisquire",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "corviknight",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "blipbug",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "dottler",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "orbeetle",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "nickit",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "thievul",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "gossifleur",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "eldegoss",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "wooloo",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "dubwool",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "chewtle",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "drednaw",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "yamper",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "boltund",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "rolycoly",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "carkol",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "coalossal",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "applin",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "flapple",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "appletun",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "silicobra",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "sandaconda",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "cramorant",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "arrokuda",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "barraskewda",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "toxel",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "toxtricity",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "toxtricity",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "sizzlipede",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "centiskorch",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "clobbopus",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "grapploct",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "sinistea",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "polteageist",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "hatenna",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "hattrem",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "hatterene",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "impidimp",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "morgrem",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "grimmsnarl",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "obstagoon",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "perrserker",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "cursola",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "sirfetch'd",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "mr. rime",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "runerigus",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "milcery",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "alcremie",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "falinks",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "pincurchin",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "snom",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "frosmoth",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "stonjourner",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "eiscue",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "eiscue",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "indeedee",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "indeedee",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "morpeko",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "cufant",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "copperajah",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "dracozolt",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "arctozolt",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "dracovish",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "arctovish",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "duraludon",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "dreepy",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "drakloak",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "dragapult",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "zacian",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "zacian",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "zamazenta",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "zamazenta",
+        "first": null,
+        "second": null
+    },
+    {
+        "term": "eternatus",
+        "first": null,
+        "second": null
     }
 ]
