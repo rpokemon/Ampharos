@@ -2817,7 +2817,7 @@
     {
         "name": "Fishing Rod",
         "description": "Use it by the water to fish up various kinds of Pok\u00c3\u00a9mon.",
-        "term": "fishing rod"
+        "term": "fishing rod 2"
     },
     {
         "name": "Flower Sweet",
@@ -3017,7 +3017,7 @@
     {
         "name": "Rotom Bike",
         "description": "This bike can be combined with the Pok\u00c3\u00a9mon Rotom to not only do a turbo boost but also run on the water.",
-        "term": "rotom bike"
+        "term": "rotom bike 2"
     },
     {
         "name": "Rotom Catalog",

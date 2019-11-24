@@ -5898,13 +5898,13 @@
         "hidden": "Klutz"
     },
     {
-        "term": "toxtricity",
+        "term": "toxtricity amped",
         "first": "Punk Rock",
         "second": "Plus",
         "hidden": "Technician"
     },
     {
-        "term": "toxtricity",
+        "term": "toxtricity low key",
         "first": "Punk Rock",
         "second": "Minus",
         "hidden": "Technician"
@@ -6060,25 +6060,25 @@
         "hidden": null
     },
     {
-        "term": "eiscue",
+        "term": "eiscue ice face",
         "first": "Ice Face",
         "second": null,
         "hidden": null
     },
     {
-        "term": "eiscue",
+        "term": "eiscue noiceface",
         "first": "Ice Face",
         "second": null,
         "hidden": null
     },
     {
-        "term": "indeedee",
+        "term": "indeedee male",
         "first": "Inner Focus",
         "second": "Synchronize",
         "hidden": "Psychic Surge"
     },
     {
-        "term": "indeedee",
+        "term": "indeedee female",
         "first": "Own Tempo",
         "second": "Synchronize",
         "hidden": "Psychic Surge"
@@ -6156,7 +6156,7 @@
         "hidden": null
     },
     {
-        "term": "zacian",
+        "term": "zacian crowned sword",
         "first": "Intrepid Sword",
         "second": null,
         "hidden": null
@@ -6168,7 +6168,7 @@
         "hidden": null
     },
     {
-        "term": "zamazenta",
+        "term": "zamazenta crowned shield",
         "first": "Dauntless Shield",
         "second": null,
         "hidden": null

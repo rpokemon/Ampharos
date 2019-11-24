@@ -8847,7 +8847,7 @@
         "speed": 40
     },
     {
-        "term": "toxtricity",
+        "term": "toxtricity amped",
         "hp": 75,
         "attack": 98,
         "defense": 70,
@@ -8856,7 +8856,7 @@
         "speed": 75
     },
     {
-        "term": "toxtricity",
+        "term": "toxtricity low key",
         "hp": 75,
         "attack": 98,
         "defense": 70,
@@ -9090,7 +9090,7 @@
         "speed": 70
     },
     {
-        "term": "eiscue",
+        "term": "eiscue ice face",
         "hp": 75,
         "attack": 80,
         "defense": 110,
@@ -9099,7 +9099,7 @@
         "speed": 50
     },
     {
-        "term": "eiscue",
+        "term": "eiscue noice face",
         "hp": 75,
         "attack": 80,
         "defense": 70,
@@ -9108,7 +9108,7 @@
         "speed": 130
     },
     {
-        "term": "indeedee",
+        "term": "indeedee male",
         "hp": 60,
         "attack": 65,
         "defense": 55,
@@ -9117,7 +9117,7 @@
         "speed": 95
     },
     {
-        "term": "indeedee",
+        "term": "indeedee female",
         "hp": 70,
         "attack": 55,
         "defense": 65,
@@ -9234,7 +9234,7 @@
         "speed": 138
     },
     {
-        "term": "zacian",
+        "term": "zacian crowned sword",
         "hp": 92,
         "attack": 170,
         "defense": 115,
@@ -9252,7 +9252,7 @@
         "speed": 138
     },
     {
-        "term": "zamazenta",
+        "term": "zamazenta crowned shield",
         "hp": 92,
         "attack": 130,
         "defense": 145,
