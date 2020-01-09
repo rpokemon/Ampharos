@@ -14,7 +14,7 @@ async def setup():
 
         # Populate the tables if required
         for table in tables.tables:
-            if (await table.fetchrow(connection)) is None:
+            if (await table.fetchrow(connection=connection)) is None:
                 try:
                     _basedir = os.path.dirname(os.path.abspath(__file__))
                     with open(f'{_basedir}/data/{table.__name__.lower()}.json') as f:
