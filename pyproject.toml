@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Ampharos"
-version = "2.0.0"
+version = "2.0.1"
 description = "A Pokemon Database for Donphan"
 authors = ["bijij <josh@josh-is.gay>"]
 license = "MIT"

@@ -35,7 +35,7 @@ async def _search(
     connection: Optional[asyncpg.Connection] = None,
 ) -> Optional[asyncpg.Record]:
     async with MaybeAcquire(connection) as connection:
-        records = await table.fetch_where(f"SELECT term FROM {table._name}", connection=connection)
+        records = await connection.fetch(f"SELECT term FROM {table._name}")
         matches = difflib.get_close_matches(search_term, (record["term"] for record in records))
 
         if not matches:
