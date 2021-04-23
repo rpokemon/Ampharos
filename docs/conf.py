@@ -13,14 +13,14 @@
 import os
 import sys
 
-sys.path.insert(0, os.path.abspath('..'))
-sys.path.append(os.path.abspath('extensions'))
+sys.path.insert(0, os.path.abspath(".."))
+sys.path.append(os.path.abspath("extensions"))
 
 
 # -- Project information -----------------------------------------------------
 
-project = 'Ampharos'
-copyright = '2019, Bijij'
+project = "Ampharos"
+copyright = "2019, Bijij"
 
 
 # -- General configuration ---------------------------------------------------
@@ -28,33 +28,33 @@ copyright = '2019, Bijij'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-master_doc = 'index'
+master_doc = "index"
 
 extensions = [
-    'builder',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.extlinks',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.napoleon',
-    'details',
+    "builder",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.extlinks",
+    "sphinx.ext.intersphinx",
+    "sphinx.ext.napoleon",
+    "details",
 ]
 
-autodoc_member_order = 'bysource'
+autodoc_member_order = "bysource"
 
 intersphinx_mapping = {
-    'asyncpg': ('https://magicstack.github.io/asyncpg/current/', None),
-    'donphan': ('https://donphan.readthedocs.io/en/latest/', None),
-    'https://docs.python.org/': None
+    "asyncpg": ("https://magicstack.github.io/asyncpg/current/", None),
+    "donphan": ("https://donphan.readthedocs.io/en/latest/", None),
+    "https://docs.python.org/": None,
 }
 
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ["_templates"]
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -63,9 +63,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 html_experimental_html5_writer = True
-html_theme = 'alabaster'
+html_theme = "alabaster"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ["_static"]

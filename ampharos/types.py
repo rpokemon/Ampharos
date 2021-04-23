@@ -5,6 +5,7 @@ from typing import List
 
 class Category(Enum):
     """An enumeration of Pokemon :class:`types.Move` categories."""
+
     PHYSICAL = 1
     SPECIAL = 2
     STATUS = 3
@@ -25,6 +26,7 @@ class Ability(_BasePokemonObject):
         description (str): A description of the ability
         introduced (int): The generation the ability was introduced
     """
+
     name: str
     description: str
     introduced: int
@@ -38,6 +40,7 @@ class Item(_BasePokemonObject):
         name (str): The item's name
         description (str): A description of the item
     """
+
     name: str
     description: str
 
@@ -49,6 +52,7 @@ class Typing(_BasePokemonObject):
     Attributes:
         name (str): The typing's name
     """
+
     name: str
 
 
@@ -65,6 +69,7 @@ class Move(_BasePokemonObject):
         accuracy (int): The move's accuracy (`None` if move cannot miss)
         category (types.Category): The moves category
     """
+
     type: Typing
     name: str
     description: str
@@ -83,6 +88,7 @@ class PokemonName(_BasePokemonObject):
         japanese (str): The name in Romanji
         kana (str): The name in Kana
     """
+
     english: str
     japanese: str
     kana: str
@@ -101,6 +107,7 @@ class PokemonBaseStats(_BasePokemonObject):
         speed (int)
         total (int)
     """
+
     hp: int
     attack: int
     defense: int
@@ -110,14 +117,7 @@ class PokemonBaseStats(_BasePokemonObject):
 
     @property
     def total(self):
-        return sum([
-            self.hp,
-            self.attack,
-            self.defense,
-            self.special_attack,
-            self.special_defense,
-            self.speed
-        ])
+        return sum([self.hp, self.attack, self.defense, self.special_attack, self.special_defense, self.speed])
 
 
 @dataclass
@@ -128,6 +128,7 @@ class PokemonTypings(_BasePokemonObject):
         primary (types.Typing)
         secondary (types.Typing)
     """
+
     primary: Typing
     secondary: Typing
 
@@ -140,6 +141,7 @@ class PokemonPokedexEntries(_BasePokemonObject):
         sun (str): Pokedex entry in Pokemon Sun.
         moon (str): Pokedex entry in Pokemon Moon.
     """
+
     sun: str
     moon: str
 
@@ -153,6 +155,7 @@ class PokemonAbilities(_BasePokemonObject):
         secondary (types.Ability)
         hidden (types.Ability)
     """
+
     primary: Ability
     secondary: Ability
     hidden: Ability
@@ -173,6 +176,7 @@ class Pokemon(_BasePokemonObject):
         abilities: (types.PokemonAbilities): The Pokemon's Abilities
 
     """
+
     pokedex_number: int
     classification: str
     name: PokemonName

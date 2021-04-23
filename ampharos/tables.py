@@ -1,83 +1,85 @@
-from donphan import Table, Column
+from typing import List, Type
+
+from donphan import Table, SQLType, Column
 
 
-class Abilities(Table, schema="ampharos"):
-    term: str = Column(primary_key=True)
-    name: str
-    description: str
-    introduced: int
+class Abilities(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True)
+    name: SQLType.Text
+    description: SQLType.Text
+    introduced: SQLType.Integer
 
 
-class Items(Table, schema="ampharos"):
-    term: str = Column(primary_key=True)
-    name: str
-    description: str
+class Items(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True)
+    name: SQLType.Text
+    description: SQLType.Text
 
 
-class Types(Table, schema="ampharos"):
-    term: str = Column(primary_key=True)
-    name: str
+class Types(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True)
+    name: SQLType.Text
 
 
-class Moves(Table, schema="ampharos"):
-    term: str = Column(primary_key=True)
-    type: str = Column(references=Types.term)
-    name: str
-    description: str
-    pp: int
-    power: int
-    accuracy: int
-    category: int
+class Moves(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True)
+    type: SQLType.Text = Column(references=Types.term)
+    name: SQLType.Text
+    description: SQLType.Text
+    pp: SQLType.SmallInt
+    power: SQLType.SmallInt
+    accuracy: SQLType.SmallInt
+    category: SQLType.SmallInt
 
 
-class Pokemon(Table, schema="ampharos"):
-    term: str = Column(primary_key=True)
-    dex_no: int
-    classification: str
+class Pokemon(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True)
+    dex_no: SQLType.SmallInt
+    classification: SQLType.Text
 
 
-class PokemonNames(Table, schema="ampharos"):
-    term: str = Column(primary_key=True, references=Pokemon.term)
-    english: str
-    japanese: str
-    kana: str
+class PokemonNames(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True, references=Pokemon.term)
+    english: SQLType.Text
+    japanese: SQLType.Text
+    kana: SQLType.Text
 
 
-class PokemonEvolutions(Table, schema="ampharos"):
-    term: str = Column(primary_key=True, references=Pokemon.term)
-    evolution: str = Column(primary_key=True, references=Pokemon.term)
+class PokemonEvolutions(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True, references=Pokemon.term)
+    evolution: SQLType.Text = Column(primary_key=True, references=Pokemon.term)
 
 
-class PokemonDexEntries(Table, schema="ampharos"):
-    term: str = Column(primary_key=True, references=Pokemon.term)
-    sun: str
-    moon: str
+class PokemonDexEntries(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True, references=Pokemon.term)
+    sun: SQLType.Text
+    moon: SQLType.Text
 
 
-class PokemonTypes(Table, schema="ampharos"):
-    term: str = Column(primary_key=True, references=Pokemon.term)
-    first: str = Column(references=Types.term)
-    second: str = Column(references=Types.term)
+class PokemonTypes(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True, references=Pokemon.term)
+    first: SQLType.Text = Column(references=Types.term)
+    second: SQLType.Text = Column(references=Types.term)
 
 
-class PokemonAbilities(Table, schema="ampharos"):
-    term: str = Column(primary_key=True, references=Pokemon.term)
-    first: str = Column(references=Abilities.term)
-    second: str = Column(references=Abilities.term)
-    hidden: str = Column(references=Abilities.term)
+class PokemonAbilities(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True, references=Pokemon.term)
+    first: SQLType.Text = Column(references=Abilities.term)
+    second: SQLType.Text = Column(references=Abilities.term)
+    hidden: SQLType.Text = Column(references=Abilities.term)
 
 
-class PokemonBaseStats(Table, schema="ampharos"):
-    term: str = Column(primary_key=True, references=Pokemon.term)
-    hp: int
-    attack: int
-    defense: int
-    special_attack: int
-    special_defense: int
-    speed: int
+class PokemonBaseStats(Table, schema="ampharos"):  # type: ignore[call-arg]
+    term: SQLType.Text = Column(primary_key=True, references=Pokemon.term)
+    hp: SQLType.SmallInt
+    attack: SQLType.SmallInt
+    defense: SQLType.SmallInt
+    special_attack: SQLType.SmallInt
+    special_defense: SQLType.SmallInt
+    speed: SQLType.SmallInt
 
 
-tables = [
+ALL_TABLES: List[Type[Table]] = [
     Abilities,
     Items,
     Types,
@@ -88,5 +90,5 @@ tables = [
     PokemonNames,
     PokemonTypes,
     PokemonAbilities,
-    PokemonBaseStats
+    PokemonBaseStats,
 ]

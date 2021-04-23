@@ -1,9 +1,9 @@
-__title__ = 'ampharos'
-__author__ = 'Bijij'
-__license__ = 'MIT'
-__copyright__ = 'Copyright 2019 Bijij'
-__version__ = '1.1.3a'
+__title__ = "ampharos"
+__author__ = "Bijij"
+__license__ = "MIT"
+__copyright__ = "Copyright 2019-present Bijij"
+__version__ = "2.0.0"
 
-from . import tables
+from . import tables as tables
 from .search import *
-from .setup import setup
+from .setup import setup_ampharos as setup_ampharos

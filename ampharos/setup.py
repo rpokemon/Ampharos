@@ -1,30 +1,40 @@
 import json
-import os.path
+
+from collections import namedtuple
+from typing import Any, List, Tuple
 
 from donphan import MaybeAcquire
 
-from . import tables
+from .tables import ALL_TABLES
+from .utils import get_base_dir
 
 
-async def setup():
-    """Populates the Pokemon database. 
+BASE_DIR = get_base_dir()
+
+
+async def setup_ampharos():
+    """Populates the Pokemon database.
 
     This method should always be called on startup"""
     async with MaybeAcquire() as connection:
 
         # Populate the tables if required
-        for table in tables.tables:
+        for table in ALL_TABLES:
+
+            # If Table is empty
             if (await table.fetchrow(connection=connection)) is None:
+
+                record = namedtuple("record", (column.name for column in table._columns))
+                data: List[Tuple[Any, ...]] = []
+
                 try:
-                    _basedir = os.path.dirname(os.path.abspath(__file__))
-                    with open(f'{_basedir}/data/{table.__name__.lower()}.json') as f:
+                    with open(BASE_DIR / f"data/{table.__name__.lower()}.json") as f:
                         for item in json.load(f):
-
-                            try:
-                                await table.insert(connection, **item)
-                            except Exception as e:
-                                print(e)
-
+                            data.append(record(**item))
                 except FileNotFoundError:
-                    print(
-                        f"Could not find Pokemon data file {table.__name__.lower()}.json")
+                    print(f"Could not find Pokemon data file {table.__name__.lower()}.json")
+                else:
+                    try:
+                        await table.insert_many(table._columns, *data, connection=connection)
+                    except Exception as e:
+                        print(e)
