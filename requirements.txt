@@ -1,2 +1,0 @@
-asyncpg>=0.18.3
-donphan>=1.0.2a
