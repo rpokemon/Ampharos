@@ -24,8 +24,8 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.7.2"
-donphan = ">=3.4"
+python = "^3.9"
+donphan = "^4.5.0"
 
 [tool.poetry.dev-dependencies]
 black = ">=20.8b1"

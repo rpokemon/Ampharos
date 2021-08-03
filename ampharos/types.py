@@ -117,7 +117,16 @@ class PokemonBaseStats(_BasePokemonObject):
 
     @property
     def total(self):
-        return sum([self.hp, self.attack, self.defense, self.special_attack, self.special_defense, self.speed])
+        return sum(
+            [
+                self.hp,
+                self.attack,
+                self.defense,
+                self.special_attack,
+                self.special_defense,
+                self.speed,
+            ]
+        )
 
 
 @dataclass

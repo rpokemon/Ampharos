@@ -22,7 +22,7 @@ async def setup_ampharos():
         for table in ALL_TABLES:
 
             # If Table is empty
-            if (await table.fetchrow(connection=connection)) is None:
+            if (await table.fetch_row(connection)) is None:
 
                 record = namedtuple("record", (column.name for column in table._columns))
                 data: List[Tuple[Any, ...]] = []
@@ -35,6 +35,6 @@ async def setup_ampharos():
                     print(f"Could not find Pokemon data file {table.__name__.lower()}.json")
                 else:
                     try:
-                        await table.insert_many(table._columns, *data, connection=connection)
+                        await table.insert_many(connection, table._columns, *data)
                     except Exception as e:
                         print(e)

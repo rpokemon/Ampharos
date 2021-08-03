@@ -29,10 +29,10 @@ T = TypeVar("T")
 
 
 async def _search(
+    connection: asyncpg.Connection,
+    /,
     table: Type[Table],
     search_term: str,
-    *,
-    connection: Optional[asyncpg.Connection] = None,
 ) -> Optional[asyncpg.Record]:
     async with MaybeAcquire(connection) as connection:
         records = await connection.fetch(f"SELECT term FROM {table._name}")
@@ -41,24 +41,26 @@ async def _search(
         if not matches:
             return None
 
-        return await table.fetchrow(term=matches[0], connection=connection)
+        return await table.fetch_row(connection, term=matches[0])
 
 
 async def _fetch(
+    connection: asyncpg.Connection,
+    /,
     table: Type[Table],
     term: str,
     type: Type[T],
-    *,
-    connection: Optional[asyncpg.Connection] = None,
 ) -> Optional[T]:
-    record = await table.fetchrow(connection=connection, term=term)
+    record = await table.fetch_row(connection, term=term)
+    if record is None:
+        raise RuntimeError("Term not found")
     return type(*record.values())
 
 
 async def _ability(
+    connection: asyncpg.Connection,
+    /,
     record: asyncpg.Record,
-    *,
-    connection: Optional[asyncpg.Connection] = None,
 ) -> types.Ability:
     return types.Ability(*record.values())
 
@@ -66,7 +68,7 @@ async def _ability(
 async def ability(
     search_term: str,
     *,
-    connection: Optional[asyncpg.Connection] = None,
+    connection: asyncpg.Connection,
 ) -> Optional[types.Ability]:
     """Searches for a :class:`types.Ability`.
 
@@ -77,25 +79,25 @@ async def ability(
 
     """
     async with MaybeAcquire(connection) as connection:
-        record = await _search(tables.Abilities, search_term, connection=connection)
+        record = await _search(connection, tables.Abilities, search_term)
         if record is None:
             return None
 
-        return await _ability(record, connection=connection)
+        return await _ability(connection, record)
 
 
 async def _item(
+    connection: asyncpg.Connection,
+    /,
     record: asyncpg.Record,
-    *,
-    connection: Optional[asyncpg.Connection] = None,
 ) -> types.Item:
     return types.Item(*record.values())
 
 
 async def item(
+    connection: asyncpg.Connection,
+    /,
     search_term: str,
-    *,
-    connection: Optional[asyncpg.Connection] = None,
 ) -> Optional[types.Item]:
     """Searches for a :class:`types.Item`.
 
@@ -105,29 +107,29 @@ async def item(
         types.Item: The best matching item.
     """
     async with MaybeAcquire(connection) as connection:
-        record = await _search(tables.Items, search_term, connection=connection)
+        record = await _search(connection, tables.Items, search_term)
         if record is None:
             return None
 
-        return await _item(record, connection=connection)
+        return await _item(connection, record)
 
 
 async def _move(
+    connection: asyncpg.Connection,
+    /,
     record: asyncpg.Record,
-    *,
-    connection: Optional[asyncpg.Connection] = None,
 ) -> types.Move:
     dct = dict(record.items())
-    dct["type"] = await _fetch(tables.Types, dct["type"], types.Typing, connection=connection)
+    dct["type"] = await _fetch(connection, tables.Types, dct["type"], types.Typing)
     dct["category"] = types.Category(dct["category"])
 
     return types.Move(*dct.values())
 
 
 async def move(
+    connection: asyncpg.Connection,
+    /,
     search_term: str,
-    *,
-    connection: Optional[asyncpg.Connection] = None,
 ) -> Optional[types.Move]:
     """Searches for a :class:`types.Move`.
 
@@ -137,41 +139,44 @@ async def move(
         types.Move: The best matching move.
     """
     async with MaybeAcquire(connection) as connection:
-        record = await _search(tables.Moves, search_term, connection=connection)
+        record = await _search(connection, tables.Moves, search_term)
         if record is None:
             return None
 
-        return await _move(record, connection=connection)
+        return await _move(connection, record)
 
 
 async def _pokemon(
+    connection: asyncpg.Connection,
+    /,
     record: asyncpg.Record,
-    *,
-    connection: Optional[asyncpg.Connection] = None,
 ) -> types.Pokemon:
     async with MaybeAcquire(connection) as connection:
         dct = dict(record.items())
         term = dct["term"]
 
         # Retrieve additional objects
-        dct["name"] = await _fetch(tables.PokemonNames, term, types.PokemonName, connection=connection)
+        dct["name"] = await _fetch(connection, tables.PokemonNames, term, types.PokemonName)
         dct["pokedex_entries"] = await _fetch(
-            tables.PokemonDexEntries, term, types.PokemonPokedexEntries, connection=connection
+            connection,
+            tables.PokemonDexEntries,
+            term,
+            types.PokemonPokedexEntries,
         )
 
-        evolutions = await tables.PokemonEvolutions.fetch(connection=connection, term=term)
-        dct["evolutions"] = [await pokemon(record["evolution"], connection=connection) for record in evolutions]
+        evolutions = await tables.PokemonEvolutions.fetch(connection, term=term)
+        dct["evolutions"] = [await pokemon(connection, record["evolution"]) for record in evolutions]
 
-        dct["base_stats"] = await _fetch(tables.PokemonBaseStats, term, types.PokemonBaseStats, connection=connection)
+        dct["base_stats"] = await _fetch(connection, tables.PokemonBaseStats, term, types.PokemonBaseStats)
 
-        typing_dct = dict((await tables.PokemonTypes.fetchrow(connection=connection, term=term)).items())
+        typing_dct = dict((await tables.PokemonTypes.fetch_row(connection, term=term)).items())
         for key, value in typing_dct.items():
             if key == "term" or value is None:
                 continue
-            typing_dct[key] = await _fetch(tables.Types, typing_dct[key], types.Typing, connection=connection)
+            typing_dct[key] = await _fetch(connection, tables.Types, typing_dct[key], types.Typing)
         dct["typing"] = types.PokemonTypings(*typing_dct.values())
 
-        abilities_dct = dict((await tables.PokemonAbilities.fetchrow(connection=connection, term=term)).items())
+        abilities_dct = dict((await tables.PokemonAbilities.fetch_row(connection, term=term)).items())
         for key, value in abilities_dct.items():
             if key == "term" or value is None:
                 continue
@@ -181,11 +186,7 @@ async def _pokemon(
         return types.Pokemon(*dct.values())
 
 
-async def pokemon(
-    search_term: str,
-    *,
-    connection: Optional[asyncpg.Connection] = None,
-) -> Optional[types.Pokemon]:
+async def pokemon(connection: asyncpg.Connection, /, search_term: str) -> Optional[types.Pokemon]:
     """Searches for a :class:`types.Pokemon`.
 
     Args:
@@ -195,93 +196,80 @@ async def pokemon(
     """
     async with MaybeAcquire(connection) as connection:
         if search_term.isdigit():
-            record = await tables.Pokemon.fetchrow(connection=connection, dex_no=int(search_term))
+            record = await tables.Pokemon.fetch_row(connection, dex_no=int(search_term))
         else:
-            record = await _search(tables.Pokemon, search_term, connection=connection)
+            record = await _search(connection, tables.Pokemon, search_term)
 
         if record is None:
             return None
 
-        return await _pokemon(record, connection=connection)
+        return await _pokemon(connection, record)
 
 
-async def _typing(
-    record: asyncpg.Record,
-    *,
-    connection: Optional[asyncpg.Connection] = None,
-) -> types.Typing:
+async def _typing(connection: asyncpg.Connection, /, record: asyncpg.Record) -> types.Typing:
     return types.Typing(*record.values())
 
 
-async def typing(search_term: str, *, connection: Optional[asyncpg.Connection] = None) -> Optional[types.Typing]:
+async def typing(connection: asyncpg.Connection, /, search_term: str) -> Optional[types.Typing]:
     """Searches for a :class:`types.Typing`.
 
     Args:
         search_term (str): The term to search for
     """
-    async with MaybeAcquire(connection) as connection:
-        record = await _search(tables.Types, search_term, connection=connection)
-        if record is None:
-            return None
+    record = await _search(connection, tables.Types, search_term)
+    if record is None:
+        return None
 
-        return await _typing(record, connection=connection)
+    return await _typing(connection, record)
 
 
-async def all_abilities(*, connection: Optional[asyncpg.Connection] = None) -> AsyncIterator[types.Ability]:
+async def all_abilities(connection: asyncpg.Connection, /) -> AsyncIterator[types.Ability]:
     """Returns an :class:`AsyncGenerator` of all :class:`types.Ability` in the database."""
-    async with MaybeAcquire(connection) as connection:
-        for record in await tables.Abilities.fetchall(connection=connection):
-            yield await _ability(record, connection=connection)
+    for record in await tables.Abilities.fetch(connection):
+        yield await _ability(connection, record)
 
 
-async def all_items(*, connection: Optional[asyncpg.Connection] = None) -> AsyncIterator[types.Item]:
+async def all_items(connection: asyncpg.Connection, /) -> AsyncIterator[types.Item]:
     """Returns an :class:`AsyncGenerator` of all :class:`types.Item` in the database."""
-    async with MaybeAcquire(connection) as connection:
-        for record in await tables.Items.fetchall(connection=connection):
-            yield await _item(record, connection=connection)
+    for record in await tables.Items.fetch(connection):
+        yield await _item(connection, record)
 
 
-async def all_moves(*, connection: Optional[asyncpg.Connection] = None) -> AsyncIterator[types.Move]:
+async def all_moves(connection: asyncpg.Connection, /) -> AsyncIterator[types.Move]:
     """Returns an :class:`AsyncGenerator` of all :class:`types.Move` in the database."""
-    async with MaybeAcquire() as connection:
-        for record in await tables.Moves.fetchall(connection=connection):
-            yield await _move(record, connection=connection)
+    for record in await tables.Moves.fetch(connection):
+        yield await _move(connection, record)
 
 
-async def all_pokemon(*, connection: Optional[asyncpg.Connection] = None) -> AsyncIterator[types.Pokemon]:
+async def all_pokemon(connection: asyncpg.Connection, /) -> AsyncIterator[types.Pokemon]:
     """Returns an :class:`AsyncGenerator` of all :class:`types.Pokemon` in the database."""
-    async with MaybeAcquire() as connection:
-        for record in await tables.Pokemon.fetchall(connection=connection):
-            yield await _pokemon(record, connection=connection)
+    for record in await tables.Pokemon.fetch(connection):
+        yield await _pokemon(connection, record)
 
 
-async def random_ability(*, connection: Optional[asyncpg.Connection] = None) -> types.Ability:
+async def random_ability(connection: asyncpg.Connection, /) -> types.Ability:
     """Returns a random :class:`types.Ability`."""
-    async with MaybeAcquire(connection) as connection:
-        records = await tables.Abilities.fetchall(connection=connection)
+    records = await tables.Abilities.fetch(connection)
 
-        return await _ability(random.choice(records), connection=connection)
+    return await _ability(connection, random.choice(records))
 
 
-async def random_item(*, connection: Optional[asyncpg.Connection] = None) -> types.Item:
+async def random_item(connection: asyncpg.Connection, /) -> types.Item:
     """Returns a random :class:`types.Item`."""
-    async with MaybeAcquire(connection) as connection:
-        records = await tables.Items.fetchall(connection=connection)
+    records = await tables.Items.fetch(connection)
 
-        return await _item(random.choice(records), connection=connection)
+    return await _item(connection, random.choice(records))
 
 
-async def random_move(*, connection: Optional[asyncpg.Connection] = None) -> types.Move:
+async def random_move(connection: asyncpg.Connection, /) -> types.Move:
     """Returns a random :class:`types.Move`."""
-    async with MaybeAcquire(connection) as connection:
-        records = await tables.Moves.fetchall(connection=connection)
+    records = await tables.Moves.fetch(connection)
 
-        return await _move(random.choice(records), connection=connection)
+    return await _move(connection, random.choice(records))
 
 
-async def random_pokemon(*, connection: Optional[asyncpg.Connection] = None) -> types.Pokemon:
+async def random_pokemon(connection: asyncpg.Connection, /) -> types.Pokemon:
     """Returns a random :class:`types.Pokemon`."""
-    async with MaybeAcquire(connection) as connection:
-        records = await tables.Pokemon.fetchall(connection=connection)
+    records = await tables.Pokemon.fetch(connection)
 
-        return await _pokemon(random.choice(records), connection=connection)
+    return await _pokemon(connection, random.choice(records))
