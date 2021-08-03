@@ -66,9 +66,9 @@ async def _ability(
 
 
 async def ability(
-    search_term: str,
-    *,
     connection: asyncpg.Connection,
+    /,
+    search_term: str,
 ) -> Optional[types.Ability]:
     """Searches for a :class:`types.Ability`.
 
@@ -180,7 +180,7 @@ async def _pokemon(
         for key, value in abilities_dct.items():
             if key == "term" or value is None:
                 continue
-            abilities_dct[key] = await ability(abilities_dct[key], connection=connection)
+            abilities_dct[key] = await ability(connection, abilities_dct[key])
         dct["abilities"] = types.PokemonAbilities(*abilities_dct.values())
 
         return types.Pokemon(*dct.values())
