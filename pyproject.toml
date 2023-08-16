@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "Ampharos"
-version = "2.0.1"
+version = "3.0.0"
 description = "A Pokemon Database for Donphan"
-authors = ["bijij <josh@josh-is.gay>"]
+authors = [""]
 license = "MIT"
 readme = "README.rst"
 include = ["ampharos/data/*"]
@@ -15,33 +15,51 @@ classifiers = [
   "Intended Audience :: Developers",
   "Natural Language :: English",
   "Operating System :: OS Independent",
-  "Programming Language :: Python :: 3.7",
-  "Programming Language :: Python :: 3.8",
   "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
   "Topic :: Software Development :: Libraries",
   "Topic :: Software Development :: Libraries :: Python Modules",
   "Topic :: Utilities"
 ]
 
 [tool.poetry.dependencies]
-python = "^3.9"
-donphan = "^4.5.0"
+python = "^3.10"
+donphan = "^4.10.0"
 
 [tool.poetry.dev-dependencies]
 black = ">=20.8b1"
-mypy = ">=0.800"
+isort = "^5.10.1"
+pytest = "^6.2.3"
 
 [tool.black]
-line-length = 119
-target-version = ["py37", "py38"]
+line-length = 125
 include = '\.pyi?$'
 exclude = '''
 /(
     \.git
   | \.mypy_cache
+  | \.pytest_cache
   | \.venv
+  | res
 )/
 '''
+
+[tool.isort]
+profile = "black"
+combine_as_imports = true
+combine_star = true
+line_length = 125
+
+[tool.pyright]
+reportUnnecessaryTypeIgnoreComment = "warning"
+pythonVersion = "3.10"
+typeCheckingMode = "basic"
+
+[tool.pytest]
+addopts = "--capture=no --assert=plain --strict-markers --tb native"
+testpaths = "tests"
+filterwarnings = "default"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

@@ -6178,5 +6178,791 @@
         "english": "Eternatus",
         "japanese": null,
         "kana": "\u30e0\u30b2\u30f3\u30c0\u30a4\u30ca"
+    },
+    {
+        "term": "kubfu",
+        "english": "Kubfu",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "urshifu single",
+        "english": "Single strike style Urshifu",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "urshifu rapid",
+        "english": "Rapid strike style Urshifu",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "zarude",
+        "english": "Zarude",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "regieleki",
+        "english": "Regieleki",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "regidrago",
+        "english": "Regidrago",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "glastrier",
+        "english": "Glastrier",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "spectrier",
+        "english": "Spectrier",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "calyrex",
+        "english": "Calyrex",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "calyrex ice rider",
+        "english": "Ice Rider Calyrex",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "calyrex shadow rider",
+        "english": "Shadow Rider Calyrex",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "wyrdeer",
+        "english": "Wyrdeer",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "kleavor",
+        "english": "Kleavor",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "ursaluna",
+        "english": "Ursaluna",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "basculegion male",
+        "english": "Basculegion",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "basculegion female",
+        "english": "Basculegion",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "sneasler",
+        "english": "Sneasler",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "overqwil",
+        "english": "Overqwil",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "enamorus incarnate",
+        "english": "Enamorus",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "enamorus therian",
+        "english": "Enamorus",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "sprigatito",
+        "english": "Sprigatito",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "floragato",
+        "english": "Floragato",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "meowscarada",
+        "english": "Meowscarada",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "fuecoco",
+        "english": "Fuecoco",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "crocalor",
+        "english": "Crocalor",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "skeledirge",
+        "english": "Skeledirge",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "quaxly",
+        "english": "Quaxly",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "quaxwell",
+        "english": "Quaxwell",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "quaquaval",
+        "english": "Quaquaval",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "lechonk",
+        "english": "Lechonk",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "oinkologne",
+        "english": "Oinkologne",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "tarountula",
+        "english": "Tarountula",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "spidops",
+        "english": "Spidops",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "nymble",
+        "english": "Nymble",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "lokix",
+        "english": "Lokix",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "pawmi",
+        "english": "Pawmi",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "pawmo",
+        "english": "Pawmo",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "pawmot",
+        "english": "Pawmot",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "tandemaus",
+        "english": "Tandemaus",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "maushold family of three",
+        "english": "Maushold",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "maushold family of four",
+        "english": "Maushold",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "fidough",
+        "english": "Fidough",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "dachsbun",
+        "english": "Dachsbun",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "smoliv",
+        "english": "Smoliv",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "dolliv",
+        "english": "Dolliv",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "arboliva",
+        "english": "Arboliva",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "squawkabilly green plumage",
+        "english": "Squawkabilly",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "squawkabilly blue plumage",
+        "english": "Squawkabilly",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "squawkabilly white plumage",
+        "english": "Squawkabilly",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "squawkabilly yellow plumage",
+        "english": "Squawkabilly",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "nacli",
+        "english": "Nacli",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "naclstack",
+        "english": "Naclstack",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "garganacl",
+        "english": "Garganacl",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "charcadet",
+        "english": "Charcadet",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "armarouge",
+        "english": "Armarouge",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "ceruledge",
+        "english": "Ceruledge",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "tadbulb",
+        "english": "Tadbulb",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "bellibolt",
+        "english": "Bellibolt",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "wattrel",
+        "english": "Wattrel",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "kilowattrel",
+        "english": "Kilowattrel",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "maschiff",
+        "english": "Maschiff",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "mabosstiff",
+        "english": "Mabosstiff",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "shroodle",
+        "english": "Shroodle",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "grafaiai",
+        "english": "Grafaiai",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "bramblin",
+        "english": "Bramblin",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "brambleghast",
+        "english": "Brambleghast",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "toedscool",
+        "english": "Toedscool",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "toedscruel",
+        "english": "Toedscruel",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "klawf",
+        "english": "Klawf",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "capsakid",
+        "english": "Capsakid",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "scovillain",
+        "english": "Scovillain",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "rellor",
+        "english": "Rellor",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "rabsca",
+        "english": "Rabsca",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "flittle",
+        "english": "Flittle",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "espathra",
+        "english": "Espathra",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "tinkatink",
+        "english": "Tinkatink",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "tinkatuff",
+        "english": "Tinkatuff",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "tinkaton",
+        "english": "Tinkaton",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "wiglett",
+        "english": "Wiglett",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "wugtrio",
+        "english": "Wugtrio",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "bombirdier",
+        "english": "Bombirdier",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "finizen",
+        "english": "Finizen",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "palafin zero",
+        "english": "Palafin",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "palafin hero",
+        "english": "Palafin",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "varoom",
+        "english": "Varoom",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "revavroom",
+        "english": "Revavroom",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "cyclizar",
+        "english": "Cyclizar",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "orthworm",
+        "english": "Orthworm",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "glimmet",
+        "english": "Glimmet",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "glimmora",
+        "english": "Glimmora",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "greavard",
+        "english": "Greavard",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "houndstone",
+        "english": "Houndstone",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "flamigo",
+        "english": "Flamigo",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "cetoddle",
+        "english": "Cetoddle",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "cetitan",
+        "english": "Cetitan",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "veluza",
+        "english": "Veluza",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "dondozo",
+        "english": "Dondozo",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "tatsugiri",
+        "english": "Tatsugiri",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "annihilape",
+        "english": "Annihilape",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "clodsire",
+        "english": "Clodsire",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "farigiraf",
+        "english": "Farigiraf",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "dudunsparce two-segment",
+        "english": "Dudunsparce",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "dudunsparce three-segment",
+        "english": "Dudunsparce",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "kingambit",
+        "english": "Kingambit",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "great tusk",
+        "english": "Great tusk",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "scream tail",
+        "english": "Scream tail",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "brute bonnet",
+        "english": "Brute bonnet",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "flutter mane",
+        "english": "Flutter mane",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "slither wing",
+        "english": "Slither wing",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "sandy shocks",
+        "english": "Sandy shocks",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "iron treads",
+        "english": "Iron treads",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "iron bundle",
+        "english": "Iron bundle",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "iron hands",
+        "english": "Iron hands",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "iron jugulis",
+        "english": "Iron jugulis",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "iron moth",
+        "english": "Iron moth",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "iron thorns",
+        "english": "Iron thorns",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "frigibax",
+        "english": "Frigibax",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "arctibax",
+        "english": "Arctibax",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "baxcalibur",
+        "english": "Baxcalibur",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "gimmighoul",
+        "english": "Gimmighoul",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "gholdengo",
+        "english": "Gholdengo",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "wo-chien",
+        "english": "Wo-chien",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "chien-pao",
+        "english": "Chien-pao",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "ting-lu",
+        "english": "Ting-lu",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "chi-yu",
+        "english": "Chi-yu",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "roaring moon",
+        "english": "Roaring moon",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "iron valiant",
+        "english": "Iron valiant",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "koraidon",
+        "english": "Koraidon",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "miraidon",
+        "english": "Miraidon",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "walking wake",
+        "english": "Walking wake",
+        "japanese": null,
+        "kana": null
+    },
+    {
+        "term": "iron leaves",
+        "english": "Iron leaves",
+        "japanese": null,
+        "kana": null
     }
 ]

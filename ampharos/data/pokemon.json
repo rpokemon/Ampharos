@@ -20,6 +20,11 @@
         "term": "mega venusaur"
     },
     {
+        "dex_no": 3,
+        "classification": "Seed Pok\u00e9mon",
+        "term": "gigantamax venusaur"
+    },
+    {
         "dex_no": 4,
         "classification": "Lizard Pok\u00e9mon",
         "term": "charmander"
@@ -45,6 +50,11 @@
         "term": "mega charizard y"
     },
     {
+        "dex_no": 6,
+        "classification": "Flame Pok\u00e9mon",
+        "term": "gigantamax charizard"
+    },
+    {
         "dex_no": 7,
         "classification": "Tiny Turtle Pok\u00e9mon",
         "term": "squirtle"
@@ -58,6 +68,11 @@
         "dex_no": 9,
         "classification": "Shellfish Pok\u00e9mon",
         "term": "blastoise"
+    },
+    {
+        "dex_no": 9,
+        "classification": "Shellfish Pok\u00e9mon",
+        "term": "gigantamax blastoise"
     },
     {
         "dex_no": 9,
@@ -78,6 +93,11 @@
         "dex_no": 12,
         "classification": "Butterfly Pok\u00e9mon",
         "term": "butterfree"
+    },
+    {
+        "dex_no": 12,
+        "classification": "Butterfly Pok\u00e9mon",
+        "term": "giganatmax butterfree"
     },
     {
         "dex_no": 13,
@@ -163,6 +183,11 @@
         "dex_no": 25,
         "classification": "Mouse Pok\u00e9mon",
         "term": "pikachu"
+    },
+    {
+        "dex_no": 25,
+        "classification": "Mouse Pok\u00e9mon",
+        "term": "gigantamax pikachu"
     },
     {
         "dex_no": 26,
@@ -340,6 +365,16 @@
         "term": "alolan meowth"
     },
     {
+        "dex_no": 52,
+        "classification": "Scratch Cat Pok\u00e9mon",
+        "term": "galarian meowth"
+    },
+    {
+        "dex_no": 52,
+        "classification": "Scratch Cat Pok\u00e9mon",
+        "term": "gigantamax meowth"
+    },
+    {
         "dex_no": 53,
         "classification": "Classy Cat Pok\u00e9mon",
         "term": "persian"
@@ -375,9 +410,19 @@
         "term": "growlithe"
     },
     {
+        "dex_no": 58,
+        "classification": "Puppy Pok\u00e9mon",
+        "term": "hisuian growlithe"
+    },
+    {
         "dex_no": 59,
         "classification": "Legendary Pok\u00e9mon",
         "term": "arcanine"
+    },
+    {
+        "dex_no": 59,
+        "classification": "Legendary Pok\u00e9mon",
+        "term": "hisuian arcanine"
     },
     {
         "dex_no": 60,
@@ -428,6 +473,11 @@
         "dex_no": 68,
         "classification": "Superpower Pok\u00e9mon",
         "term": "machamp"
+    },
+    {
+        "dex_no": 68,
+        "classification": "Superpower Pok\u00e9mon",
+        "term": "gigantamax machamp"
     },
     {
         "dex_no": 69,
@@ -490,9 +540,19 @@
         "term": "ponyta"
     },
     {
+        "dex_no": 77,
+        "classification": "Unique Horse Pok\u00e9mon",
+        "term": "galarian ponyta"
+    },
+    {
         "dex_no": 78,
         "classification": "Fire Horse Pok\u00e9mon",
         "term": "rapidash"
+    },
+    {
+        "dex_no": 78,
+        "classification": "Unique Horse Pok\u00e9mon",
+        "term": "galarian rapidash"
     },
     {
         "dex_no": 79,
@@ -500,9 +560,19 @@
         "term": "slowpoke"
     },
     {
+        "dex_no": 79,
+        "classification": "Dopey Pok\u00e9mon",
+        "term": "galarian slowpoke"
+    },
+    {
         "dex_no": 80,
         "classification": "Hermit Crab Pok\u00e9mon",
         "term": "slowbro"
+    },
+    {
+        "dex_no": 80,
+        "classification": "Hermit Crab Pok\u00e9mon",
+        "term": "galarian slowbro"
     },
     {
         "dex_no": 80,
@@ -523,6 +593,11 @@
         "dex_no": 83,
         "classification": "Wild Duck Pok\u00e9mon",
         "term": "farfetch'd"
+    },
+    {
+        "dex_no": 83,
+        "classification": "Wild Duck Pok\u00e9mon",
+        "term": "galarian farfetch'd"
     },
     {
         "dex_no": 84,
@@ -595,6 +670,11 @@
         "term": "mega gengar"
     },
     {
+        "dex_no": 94,
+        "classification": "Shadow Pok\u00e9mon",
+        "term": "gigantamax gengar"
+    },
+    {
         "dex_no": 95,
         "classification": "Rock Snake Pok\u00e9mon",
         "term": "onix"
@@ -620,14 +700,29 @@
         "term": "kingler"
     },
     {
+        "dex_no": 99,
+        "classification": "Pincer Pok\u00e9mon",
+        "term": "gigantamax kingler"
+    },
+    {
         "dex_no": 100,
         "classification": "Ball Pok\u00e9mon",
         "term": "voltorb"
     },
     {
+        "dex_no": 100,
+        "classification": "Ball Pok\u00e9mon",
+        "term": "hisuian voltorb"
+    },
+    {
         "dex_no": 101,
         "classification": "Ball Pok\u00e9mon",
         "term": "electrode"
+    },
+    {
+        "dex_no": 101,
+        "classification": "Ball Pok\u00e9mon",
+        "term": "hisuian electrode"
     },
     {
         "dex_no": 102,
@@ -683,6 +778,11 @@
         "dex_no": 110,
         "classification": "Poison Gas Pok\u00e9mon",
         "term": "weezing"
+    },
+    {
+        "dex_no": 110,
+        "classification": "Poison Gas Pok\u00e9mon",
+        "term": "galarian weezing"
     },
     {
         "dex_no": 111,
@@ -750,6 +850,11 @@
         "term": "mr. mime"
     },
     {
+        "dex_no": 122,
+        "classification": "Barrier Pok\u00e9mon",
+        "term": "galarian mr. mime"
+    },
+    {
         "dex_no": 123,
         "classification": "Mantis Pok\u00e9mon",
         "term": "scyther"
@@ -785,6 +890,21 @@
         "term": "tauros"
     },
     {
+        "dex_no": 128,
+        "classification": "Wild Bull Pok\u00e9mon",
+        "term": "galarian tauros"
+    },
+    {
+        "dex_no": 128,
+        "classification": "Wild Bull Pok\u00e9mon",
+        "term": "galarian tauros blaze breed"
+    },
+    {
+        "dex_no": 128,
+        "classification": "Wild Bull Pok\u00e9mon",
+        "term": "galarian tauros aqua breed"
+    },
+    {
         "dex_no": 129,
         "classification": "Fish Pok\u00e9mon",
         "term": "magikarp"
@@ -805,6 +925,11 @@
         "term": "lapras"
     },
     {
+        "dex_no": 131,
+        "classification": "Transport Pok\u00e9mon",
+        "term": "gigantamax lapras"
+    },
+    {
         "dex_no": 132,
         "classification": "Transform Pok\u00e9mon",
         "term": "ditto"
@@ -813,6 +938,11 @@
         "dex_no": 133,
         "classification": "Evolution Pok\u00e9mon",
         "term": "eevee"
+    },
+    {
+        "dex_no": 133,
+        "classification": "Evolution Pok\u00e9mon",
+        "term": "gigantamax eevee"
     },
     {
         "dex_no": 134,
@@ -870,9 +1000,19 @@
         "term": "snorlax"
     },
     {
+        "dex_no": 143,
+        "classification": "Sleeping Pok\u00e9mon",
+        "term": "gigantamax snorlax"
+    },
+    {
         "dex_no": 144,
         "classification": "Freeze Pok\u00e9mon",
         "term": "articuno"
+    },
+    {
+        "dex_no": 144,
+        "classification": "Freeze Pok\u00e9mon",
+        "term": "galarian articuno"
     },
     {
         "dex_no": 145,
@@ -880,9 +1020,19 @@
         "term": "zapdos"
     },
     {
+        "dex_no": 145,
+        "classification": "Electric Pok\u00e9mon",
+        "term": "galarian zapdos"
+    },
+    {
         "dex_no": 146,
         "classification": "Flame Pok\u00e9mon",
         "term": "moltres"
+    },
+    {
+        "dex_no": 146,
+        "classification": "Flame Pok\u00e9mon",
+        "term": "galarian moltres"
     },
     {
         "dex_no": 147,
@@ -948,6 +1098,11 @@
         "dex_no": 157,
         "classification": "Volcano Pok\u00e9mon",
         "term": "typhlosion"
+    },
+    {
+        "dex_no": 157,
+        "classification": "Volcano Pok\u00e9mon",
+        "term": "hisuian typhlosion"
     },
     {
         "dex_no": 158,
@@ -1140,6 +1295,11 @@
         "term": "wooper"
     },
     {
+        "dex_no": 194,
+        "classification": "Water Fish Pok\u00e9mon",
+        "term": "galarian wooper"
+    },
+    {
         "dex_no": 195,
         "classification": "Water Fish Pok\u00e9mon",
         "term": "quagsire"
@@ -1163,6 +1323,11 @@
         "dex_no": 199,
         "classification": "Royal Pok\u00e9mon",
         "term": "slowking"
+    },
+    {
+        "dex_no": 199,
+        "classification": "Royal Pok\u00e9mon",
+        "term": "galarian slowking"
     },
     {
         "dex_no": 200,
@@ -1365,6 +1530,11 @@
         "term": "qwilfish"
     },
     {
+        "dex_no": 211,
+        "classification": "Balloon Pok\u00e9mon",
+        "term": "hisuian qwilfish"
+    },
+    {
         "dex_no": 212,
         "classification": "Pincer Pok\u00e9mon",
         "term": "scizor"
@@ -1393,6 +1563,11 @@
         "dex_no": 215,
         "classification": "Sharp Claw Pok\u00e9mon",
         "term": "sneasel"
+    },
+    {
+        "dex_no": 215,
+        "classification": "Sharp Claw Pok\u00e9mon",
+        "term": "hisuian sneasel"
     },
     {
         "dex_no": 216,
@@ -1428,6 +1603,11 @@
         "dex_no": 222,
         "classification": "Coral Pok\u00e9mon",
         "term": "corsola"
+    },
+    {
+        "dex_no": 222,
+        "classification": "Coral Pok\u00e9mon",
+        "term": "galarian corsola"
     },
     {
         "dex_no": 223,
@@ -1660,9 +1840,19 @@
         "term": "zigzagoon"
     },
     {
+        "dex_no": 263,
+        "classification": "Tiny Racoon Pok\u00e9mon",
+        "term": "galarian zigzagoon"
+    },
+    {
         "dex_no": 264,
         "classification": "Rush Pok\u00e9mon",
         "term": "linoone"
+    },
+    {
+        "dex_no": 264,
+        "classification": "Rush Pok\u00e9mon",
+        "term": "galarian linoone"
     },
     {
         "dex_no": 265,
@@ -3040,6 +3230,11 @@
         "term": "samurott"
     },
     {
+        "dex_no": 503,
+        "classification": "Formidable Pok\u00e9mon",
+        "term": "hisuian samurott"
+    },
+    {
         "dex_no": 504,
         "classification": "Scout Pok\u00e9mon",
         "term": "patrat"
@@ -3275,6 +3470,11 @@
         "term": "lilligant"
     },
     {
+        "dex_no": 549,
+        "classification": "Flowering Pok\u00e9mon",
+        "term": "hisuian lilligant"
+    },
+    {
         "dex_no": 550,
         "classification": "Hostile Pok\u00e9mon",
         "term": "basculin red striped"
@@ -3305,6 +3505,11 @@
         "term": "darumaka"
     },
     {
+        "dex_no": 554,
+        "classification": "Zen Charm Pok\u00e9mon",
+        "term": "galarian darumaka"
+    },
+    {
         "dex_no": 555,
         "classification": "Blazing Pok\u00e9mon",
         "term": "darmanitan"
@@ -3312,7 +3517,17 @@
     {
         "dex_no": 555,
         "classification": "Blazing Pok\u00e9mon",
+        "term": "galarian darmanitan"
+    },
+    {
+        "dex_no": 555,
+        "classification": "Blazing Pok\u00e9mon",
         "term": "darmanitan zen mode"
+    },
+    {
+        "dex_no": 555,
+        "classification": "Blazing Pok\u00e9mon",
+        "term": "galarian darmanitan zen mode"
     },
     {
         "dex_no": 556,
@@ -3350,6 +3565,11 @@
         "term": "yamask"
     },
     {
+        "dex_no": 562,
+        "classification": "Spirit Pok\u00e9mon",
+        "term": "galarian yamask"
+    },
+    {
         "dex_no": 563,
         "classification": "Coffin Pok\u00e9mon",
         "term": "cofagrigus"
@@ -3385,14 +3605,29 @@
         "term": "garbodor"
     },
     {
+        "dex_no": 569,
+        "classification": "Trash Heap Pok\u00e9mon",
+        "term": "gigantamax garbodor"
+    },
+    {
         "dex_no": 570,
         "classification": "Tricky Fox Pok\u00e9mon",
         "term": "zorua"
     },
     {
+        "dex_no": 570,
+        "classification": "Tricky Fox Pok\u00e9mon",
+        "term": "hisuian zorua"
+    },
+    {
         "dex_no": 571,
         "classification": "Illusion Fox Pok\u00e9mon",
         "term": "zoroark"
+    },
+    {
+        "dex_no": 571,
+        "classification": "Illusion Fox Pok\u00e9mon",
+        "term": "hisuian zoroark"
     },
     {
         "dex_no": 572,
@@ -3630,6 +3865,11 @@
         "term": "stunfisk"
     },
     {
+        "dex_no": 618,
+        "classification": "Trap Pok\u00e9mon",
+        "term": "galarian stunfisk"
+    },
+    {
         "dex_no": 619,
         "classification": "Martial Arts Pok\u00e9mon",
         "term": "mienfoo"
@@ -3678,6 +3918,11 @@
         "dex_no": 628,
         "classification": "Valiant Pok\u00e9mon",
         "term": "braviary"
+    },
+    {
+        "dex_no": 628,
+        "classification": "Valiant Pok\u00e9mon",
+        "term": "hisuian braviary"
     },
     {
         "dex_no": 629,
@@ -4115,9 +4360,19 @@
         "term": "sliggoo"
     },
     {
+        "dex_no": 705,
+        "classification": "Soft Tissue Pok\u00e9mon",
+        "term": "hisuian sliggoo"
+    },
+    {
         "dex_no": 706,
         "classification": "Dragon Pok\u00e9mon",
         "term": "goodra"
+    },
+    {
+        "dex_no": 706,
+        "classification": "Dragon Pok\u00e9mon",
+        "term": "hisuian goodra"
     },
     {
         "dex_no": 707,
@@ -4183,6 +4438,11 @@
         "dex_no": 713,
         "classification": "Iceberg Pok\u00e9mon",
         "term": "avalugg"
+    },
+    {
+        "dex_no": 713,
+        "classification": "Iceberg Pok\u00e9mon",
+        "term": "hisuian avalugg"
     },
     {
         "dex_no": 714,
@@ -4258,6 +4518,11 @@
         "dex_no": 724,
         "classification": "Arrow Quill Pok\u00e9mon",
         "term": "decidueye"
+    },
+    {
+        "dex_no": 724,
+        "classification": "Arrow Quill Pok\u00e9mon",
+        "term": "hisuian decidueye"
     },
     {
         "dex_no": 725,
@@ -4720,6 +4985,11 @@
         "term": "melmetal"
     },
     {
+        "dex_no": 809,
+        "classification": "Hex Nut Pok\u00e9mon",
+        "term": "gigantamax melmetal"
+    },
+    {
         "dex_no": 810,
         "classification": null,
         "term": "grookey"
@@ -4733,6 +5003,11 @@
         "dex_no": 812,
         "classification": null,
         "term": "rillaboom"
+    },
+    {
+        "dex_no": 812,
+        "classification": null,
+        "term": "gigantamax rillaboom"
     },
     {
         "dex_no": 813,
@@ -4750,6 +5025,11 @@
         "term": "cinderace"
     },
     {
+        "dex_no": 815,
+        "classification": null,
+        "term": "gigantamax cinderace"
+    },
+    {
         "dex_no": 816,
         "classification": null,
         "term": "sobble"
@@ -4763,6 +5043,11 @@
         "dex_no": 818,
         "classification": null,
         "term": "inteleon"
+    },
+    {
+        "dex_no": 818,
+        "classification": null,
+        "term": "gigantamax inteleon"
     },
     {
         "dex_no": 819,
@@ -4790,6 +5075,11 @@
         "term": "corviknight"
     },
     {
+        "dex_no": 823,
+        "classification": null,
+        "term": "gigantamax corviknight"
+    },
+    {
         "dex_no": 824,
         "classification": null,
         "term": "blipbug"
@@ -4803,6 +5093,11 @@
         "dex_no": 826,
         "classification": null,
         "term": "orbeetle"
+    },
+    {
+        "dex_no": 826,
+        "classification": null,
+        "term": "gigantamax orbeetle"
     },
     {
         "dex_no": 827,
@@ -4845,6 +5140,11 @@
         "term": "drednaw"
     },
     {
+        "dex_no": 834,
+        "classification": null,
+        "term": "gigantamax drednaw"
+    },
+    {
         "dex_no": 835,
         "classification": null,
         "term": "yamper"
@@ -4870,6 +5170,11 @@
         "term": "coalossal"
     },
     {
+        "dex_no": 839,
+        "classification": null,
+        "term": "gigantamax coalossal"
+    },
+    {
         "dex_no": 840,
         "classification": null,
         "term": "applin"
@@ -4880,9 +5185,19 @@
         "term": "flapple"
     },
     {
+        "dex_no": 841,
+        "classification": null,
+        "term": "gigantamax flapple"
+    },
+    {
         "dex_no": 842,
         "classification": null,
         "term": "appletun"
+    },
+    {
+        "dex_no": 842,
+        "classification": null,
+        "term": "gigantamax appletun"
     },
     {
         "dex_no": 843,
@@ -4893,6 +5208,11 @@
         "dex_no": 844,
         "classification": null,
         "term": "sandaconda"
+    },
+    {
+        "dex_no": 844,
+        "classification": null,
+        "term": "gigantamax sandaconda"
     },
     {
         "dex_no": 845,
@@ -4925,6 +5245,11 @@
         "term": "toxtricity low key"
     },
     {
+        "dex_no": 849,
+        "classification": null,
+        "term": "gigantamax toxtricity"
+    },
+    {
         "dex_no": 850,
         "classification": null,
         "term": "sizzlipede"
@@ -4933,6 +5258,11 @@
         "dex_no": 851,
         "classification": null,
         "term": "centiskorch"
+    },
+    {
+        "dex_no": 851,
+        "classification": null,
+        "term": "gigantamax centiskorch"
     },
     {
         "dex_no": 852,
@@ -4970,6 +5300,11 @@
         "term": "hatterene"
     },
     {
+        "dex_no": 858,
+        "classification": null,
+        "term": "gigantamax hatterene"
+    },
+    {
         "dex_no": 859,
         "classification": null,
         "term": "impidimp"
@@ -4983,6 +5318,11 @@
         "dex_no": 861,
         "classification": null,
         "term": "grimmsnarl"
+    },
+    {
+        "dex_no": 861,
+        "classification": null,
+        "term": "gigantamax grimmsnarl"
     },
     {
         "dex_no": 862,
@@ -5023,6 +5363,11 @@
         "dex_no": 869,
         "classification": null,
         "term": "alcremie"
+    },
+    {
+        "dex_no": 869,
+        "classification": null,
+        "term": "gigantamax alcremie"
     },
     {
         "dex_no": 870,
@@ -5085,6 +5430,11 @@
         "term": "copperajah"
     },
     {
+        "dex_no": 879,
+        "classification": null,
+        "term": "gigantamax copperajah"
+    },
+    {
         "dex_no": 880,
         "classification": null,
         "term": "dracozolt"
@@ -5108,6 +5458,11 @@
         "dex_no": 884,
         "classification": null,
         "term": "duraludon"
+    },
+    {
+        "dex_no": 884,
+        "classification": null,
+        "term": "gigantamax duraludon"
     },
     {
         "dex_no": 885,
@@ -5148,5 +5503,670 @@
         "dex_no": 890,
         "classification": null,
         "term": "eternatus"
+    },
+    {
+        "dex_no": 891,
+        "classification": null,
+        "term": "kubfu"
+    },
+    {
+        "dex_no": 892,
+        "classification": null,
+        "term": "urshifu single"
+    },
+    {
+        "dex_no": 892,
+        "classification": null,
+        "term": "gigantamax urshifu single"
+    },
+    {
+        "dex_no": 892,
+        "classification": null,
+        "term": "urshifu rapid"
+    },
+    {
+        "dex_no": 892,
+        "classification": null,
+        "term": "gigantamax urshifu rapid"
+    },
+    {
+        "dex_no": 893,
+        "classification": null,
+        "term": "zarude"
+    },
+    {
+        "dex_no": 894,
+        "classification": null,
+        "term": "regieleki"
+    },
+    {
+        "dex_no": 895,
+        "classification": null,
+        "term": "regidrago"
+    },
+    {
+        "dex_no": 896,
+        "classification": null,
+        "term": "glastrier"
+    },
+    {
+        "dex_no": 897,
+        "classification": null,
+        "term": "spectrier"
+    },
+    {
+        "dex_no": 898,
+        "classification": null,
+        "term": "calyrex"
+    },
+    {
+        "dex_no": 898,
+        "classification": null,
+        "term": "calyrex ice rider"
+    },
+    {
+        "dex_no": 898,
+        "classification": null,
+        "term": "calyrex shadow rider"
+    },
+    {
+        "dex_no": 899,
+        "classification": null,
+        "term": "wyrdeer"
+    },
+    {
+        "dex_no": 900,
+        "classification": null,
+        "term": "kleavor"
+    },
+    {
+        "dex_no": 901,
+        "classification": null,
+        "term": "ursaluna"
+    },
+    {
+        "dex_no": 902,
+        "classification": null,
+        "term": "basculegion male"
+    },
+    {
+        "dex_no": 902,
+        "classification": null,
+        "term": "basculegion female"
+    },
+    {
+        "dex_no": 903,
+        "classification": null,
+        "term": "sneasler"
+    },
+    {
+        "dex_no": 904,
+        "classification": null,
+        "term": "overqwil"
+    },
+    {
+        "dex_no": 905,
+        "classification": null,
+        "term": "enamorus incarnate"
+    },
+    {
+        "dex_no": 905,
+        "classification": null,
+        "term": "enamorus therian"
+    },
+    {
+        "dex_no": 906,
+        "classification": null,
+        "term": "sprigatito"
+    },
+    {
+        "dex_no": 907,
+        "classification": null,
+        "term": "floragato"
+    },
+    {
+        "dex_no": 908,
+        "classification": null,
+        "term": "meowscarada"
+    },
+    {
+        "dex_no": 909,
+        "classification": null,
+        "term": "fuecoco"
+    },
+    {
+        "dex_no": 910,
+        "classification": null,
+        "term": "crocalor"
+    },
+    {
+        "dex_no": 911,
+        "classification": null,
+        "term": "skeledirge"
+    },
+    {
+        "dex_no": 912,
+        "classification": null,
+        "term": "quaxly"
+    },
+    {
+        "dex_no": 913,
+        "classification": null,
+        "term": "quaxwell"
+    },
+    {
+        "dex_no": 914,
+        "classification": null,
+        "term": "quaquaval"
+    },
+    {
+        "dex_no": 915,
+        "classification": null,
+        "term": "lechonk"
+    },
+    {
+        "dex_no": 916,
+        "classification": null,
+        "term": "oinkologne"
+    },
+    {
+        "dex_no": 917,
+        "classification": null,
+        "term": "tarountula"
+    },
+    {
+        "dex_no": 918,
+        "classification": null,
+        "term": "spidops"
+    },
+    {
+        "dex_no": 919,
+        "classification": null,
+        "term": "nymble"
+    },
+    {
+        "dex_no": 920,
+        "classification": null,
+        "term": "lokix"
+    },
+    {
+        "dex_no": 921,
+        "classification": null,
+        "term": "pawmi"
+    },
+    {
+        "dex_no": 922,
+        "classification": null,
+        "term": "pawmo"
+    },
+    {
+        "dex_no": 923,
+        "classification": null,
+        "term": "pawmot"
+    },
+    {
+        "dex_no": 924,
+        "classification": null,
+        "term": "tandemaus"
+    },
+    {
+        "dex_no": 925,
+        "classification": null,
+        "term": "maushold family of three"
+    },
+    {
+        "dex_no": 925,
+        "classification": null,
+        "term": "maushold family of four"
+    },
+    {
+        "dex_no": 926,
+        "classification": null,
+        "term": "fidough"
+    },
+    {
+        "dex_no": 927,
+        "classification": null,
+        "term": "dachsbun"
+    },
+    {
+        "dex_no": 928,
+        "classification": null,
+        "term": "smoliv"
+    },
+    {
+        "dex_no": 929,
+        "classification": null,
+        "term": "dolliv"
+    },
+    {
+        "dex_no": 930,
+        "classification": null,
+        "term": "arboliva"
+    },
+    {
+        "dex_no": 931,
+        "classification": null,
+        "term": "squawkabilly green plumage"
+    },
+    {
+        "dex_no": 931,
+        "classification": null,
+        "term": "squawkabilly blue plumage"
+    },
+    {
+        "dex_no": 931,
+        "classification": null,
+        "term": "squawkabilly white plumage"
+    },
+    {
+        "dex_no": 931,
+        "classification": null,
+        "term": "squawkabilly yellow plumage"
+    },
+    {
+        "dex_no": 932,
+        "classification": null,
+        "term": "nacli"
+    },
+    {
+        "dex_no": 933,
+        "classification": null,
+        "term": "naclstack"
+    },
+    {
+        "dex_no": 934,
+        "classification": null,
+        "term": "garganacl"
+    },
+    {
+        "dex_no": 935,
+        "classification": null,
+        "term": "charcadet"
+    },
+    {
+        "dex_no": 936,
+        "classification": null,
+        "term": "armarouge"
+    },
+    {
+        "dex_no": 937,
+        "classification": null,
+        "term": "ceruledge"
+    },
+    {
+        "dex_no": 938,
+        "classification": null,
+        "term": "tadbulb"
+    },
+    {
+        "dex_no": 939,
+        "classification": null,
+        "term": "bellibolt"
+    },
+    {
+        "dex_no": 940,
+        "classification": null,
+        "term": "wattrel"
+    },
+    {
+        "dex_no": 941,
+        "classification": null,
+        "term": "kilowattrel"
+    },
+    {
+        "dex_no": 942,
+        "classification": null,
+        "term": "maschiff"
+    },
+    {
+        "dex_no": 943,
+        "classification": null,
+        "term": "mabosstiff"
+    },
+    {
+        "dex_no": 944,
+        "classification": null,
+        "term": "shroodle"
+    },
+    {
+        "dex_no": 945,
+        "classification": null,
+        "term": "grafaiai"
+    },
+    {
+        "dex_no": 946,
+        "classification": null,
+        "term": "bramblin"
+    },
+    {
+        "dex_no": 947,
+        "classification": null,
+        "term": "brambleghast"
+    },
+    {
+        "dex_no": 948,
+        "classification": null,
+        "term": "toedscool"
+    },
+    {
+        "dex_no": 949,
+        "classification": null,
+        "term": "toedscruel"
+    },
+    {
+        "dex_no": 950,
+        "classification": null,
+        "term": "klawf"
+    },
+    {
+        "dex_no": 951,
+        "classification": null,
+        "term": "capsakid"
+    },
+    {
+        "dex_no": 952,
+        "classification": null,
+        "term": "scovillain"
+    },
+    {
+        "dex_no": 953,
+        "classification": null,
+        "term": "rellor"
+    },
+    {
+        "dex_no": 954,
+        "classification": null,
+        "term": "rabsca"
+    },
+    {
+        "dex_no": 955,
+        "classification": null,
+        "term": "flittle"
+    },
+    {
+        "dex_no": 956,
+        "classification": null,
+        "term": "espathra"
+    },
+    {
+        "dex_no": 957,
+        "classification": null,
+        "term": "tinkatink"
+    },
+    {
+        "dex_no": 958,
+        "classification": null,
+        "term": "tinkatuff"
+    },
+    {
+        "dex_no": 959,
+        "classification": null,
+        "term": "tinkaton"
+    },
+    {
+        "dex_no": 960,
+        "classification": null,
+        "term": "wiglett"
+    },
+    {
+        "dex_no": 961,
+        "classification": null,
+        "term": "wugtrio"
+    },
+    {
+        "dex_no": 962,
+        "classification": null,
+        "term": "bombirdier"
+    },
+    {
+        "dex_no": 963,
+        "classification": null,
+        "term": "finizen"
+    },
+    {
+        "dex_no": 964,
+        "classification": null,
+        "term": "palafin zero"
+    },
+    {
+        "dex_no": 964,
+        "classification": null,
+        "term": "palafin hero"
+    },
+    {
+        "dex_no": 965,
+        "classification": null,
+        "term": "varoom"
+    },
+    {
+        "dex_no": 966,
+        "classification": null,
+        "term": "revavroom"
+    },
+    {
+        "dex_no": 967,
+        "classification": null,
+        "term": "cyclizar"
+    },
+    {
+        "dex_no": 968,
+        "classification": null,
+        "term": "orthworm"
+    },
+    {
+        "dex_no": 969,
+        "classification": null,
+        "term": "glimmet"
+    },
+    {
+        "dex_no": 970,
+        "classification": null,
+        "term": "glimmora"
+    },
+    {
+        "dex_no": 971,
+        "classification": null,
+        "term": "greavard"
+    },
+    {
+        "dex_no": 972,
+        "classification": null,
+        "term": "houndstone"
+    },
+    {
+        "dex_no": 973,
+        "classification": null,
+        "term": "flamigo"
+    },
+    {
+        "dex_no": 974,
+        "classification": null,
+        "term": "cetoddle"
+    },
+    {
+        "dex_no": 975,
+        "classification": null,
+        "term": "cetitan"
+    },
+    {
+        "dex_no": 976,
+        "classification": null,
+        "term": "veluza"
+    },
+    {
+        "dex_no": 977,
+        "classification": null,
+        "term": "dondozo"
+    },
+    {
+        "dex_no": 978,
+        "classification": null,
+        "term": "tatsugiri"
+    },
+    {
+        "dex_no": 979,
+        "classification": null,
+        "term": "annihilape"
+    },
+    {
+        "dex_no": 980,
+        "classification": null,
+        "term": "clodsire"
+    },
+    {
+        "dex_no": 981,
+        "classification": null,
+        "term": "farigiraf"
+    },
+    {
+        "dex_no": 982,
+        "classification": null,
+        "term": "dudunsparce two-segment"
+    },
+    {
+        "dex_no": 982,
+        "classification": null,
+        "term": "dudunsparce three-segment"
+    },
+    {
+        "dex_no": 983,
+        "classification": null,
+        "term": "kingambit"
+    },
+    {
+        "dex_no": 984,
+        "classification": null,
+        "term": "great tusk"
+    },
+    {
+        "dex_no": 985,
+        "classification": null,
+        "term": "scream tail"
+    },
+    {
+        "dex_no": 986,
+        "classification": null,
+        "term": "brute bonnet"
+    },
+    {
+        "dex_no": 987,
+        "classification": null,
+        "term": "flutter mane"
+    },
+    {
+        "dex_no": 988,
+        "classification": null,
+        "term": "slither wing"
+    },
+    {
+        "dex_no": 989,
+        "classification": null,
+        "term": "sandy shocks"
+    },
+    {
+        "dex_no": 990,
+        "classification": null,
+        "term": "iron treads"
+    },
+    {
+        "dex_no": 991,
+        "classification": null,
+        "term": "iron bundle"
+    },
+    {
+        "dex_no": 992,
+        "classification": null,
+        "term": "iron hands"
+    },
+    {
+        "dex_no": 993,
+        "classification": null,
+        "term": "iron jugulis"
+    },
+    {
+        "dex_no": 994,
+        "classification": null,
+        "term": "iron moth"
+    },
+    {
+        "dex_no": 995,
+        "classification": null,
+        "term": "iron thorns"
+    },
+    {
+        "dex_no": 996,
+        "classification": null,
+        "term": "frigibax"
+    },
+    {
+        "dex_no": 997,
+        "classification": null,
+        "term": "arctibax"
+    },
+    {
+        "dex_no": 998,
+        "classification": null,
+        "term": "baxcalibur"
+    },
+    {
+        "dex_no": 999,
+        "classification": null,
+        "term": "gimmighoul"
+    },
+    {
+        "dex_no": 1000,
+        "classification": null,
+        "term": "gholdengo"
+    },
+    {
+        "dex_no": 1001,
+        "classification": null,
+        "term": "wo-chien"
+    },
+    {
+        "dex_no": 1002,
+        "classification": null,
+        "term": "chien-pao"
+    },
+    {
+        "dex_no": 1003,
+        "classification": null,
+        "term": "ting-lu"
+    },
+    {
+        "dex_no": 1004,
+        "classification": null,
+        "term": "chi-yu"
+    },
+    {
+        "dex_no": 1005,
+        "classification": null,
+        "term": "roaring moon"
+    },
+    {
+        "dex_no": 1006,
+        "classification": null,
+        "term": "iron valiant"
+    },
+    {
+        "dex_no": 1007,
+        "classification": null,
+        "term": "koraidon"
+    },
+    {
+        "dex_no": 1008,
+        "classification": null,
+        "term": "miraidon"
+    },
+    {
+        "dex_no": 1009,
+        "classification": null,
+        "term": "walking wake"
+    },
+    {
+        "dex_no": 1010,
+        "classification": null,
+        "term": "iron leaves"
     }
 ]

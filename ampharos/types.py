@@ -1,15 +1,17 @@
+from __future__ import annotations
+
 from dataclasses import dataclass
-from enum import Enum
-from typing import List
+from typing import TYPE_CHECKING
 
+from .tables import Category, Typing
 
-class Category(Enum):
-    """An enumeration of Pokemon :class:`types.Move` categories."""
+if TYPE_CHECKING:
+    from _typeshed import SupportsRead
 
-    PHYSICAL = 1
-    SPECIAL = 2
-    STATUS = 3
-    VARIES = 4
+try:
+    from ampharos_images import IMAGES_AVAILABLE, get_image  # type: ignore
+except ImportError:
+    IMAGES_AVAILABLE = False
 
 
 @dataclass
@@ -43,17 +45,6 @@ class Item(_BasePokemonObject):
 
     name: str
     description: str
-
-
-@dataclass
-class Typing(_BasePokemonObject):
-    """Represents a Typing.
-
-    Attributes:
-        name (str): The typing's name
-    """
-
-    name: str
 
 
 @dataclass
@@ -190,7 +181,13 @@ class Pokemon(_BasePokemonObject):
     classification: str
     name: PokemonName
     pokedex_entries: PokemonPokedexEntries
-    evolutions: List["Pokemon"]
+    evolutions: list[Pokemon]
     base_stats: PokemonBaseStats
     typing: PokemonTypings
     abilities: PokemonAbilities
+
+    @property
+    def image(self) -> SupportsRead[bytes] | None:
+        if not IMAGES_AVAILABLE:
+            raise ImportError("ampharos_images is not installed")
+        return get_image(self._term)

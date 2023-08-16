@@ -1,2 +1,0 @@
-asyncpg>=0.18.3
--e git://github.com/bijij/donphan.git#egg=donphan

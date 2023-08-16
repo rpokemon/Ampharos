@@ -3123,5 +3123,1405 @@
         "name": "Wishing Star",
         "description": "A stone found in the Galar region with a mysterious power. It's said that your dreams come true if you find one.",
         "term": "wishing star"
+    },
+    {
+        "name": "Rotom Phone",
+        "description": "The latest model of smartphone. A Pokémon called Rotom lives within it, and it can be used to run all sorts of handy apps.",
+        "term": "rotom phone"
+    },
+    {
+        "name": "Sandwich",
+        "description": "A dish made by sandwiching vegetables, meat, or other ingredients between two pieces of bread. It makes a fantastic meal when out on a picnic.",
+        "term": "sandwich"
+    },
+    {
+        "name": "Koraidon's Poké Ball",
+        "description": "A Poké Ball that can hold the mysterious Pokémon known as Koraidon. A boy named Arven gave it to you.",
+        "term": "koraidon's poké ball"
+    },
+    {
+        "name": "Miraidon's Poké Ball",
+        "description": "A Poké Ball that can hold the mysterious Pokémon known as Miraidon. A boy named Arven gave it to you.",
+        "term": "miraidon's poké ball"
+    },
+    {
+        "name": "Tera Orb",
+        "description": "An orb that holds within it the power to crystallize. When it is charged with energy, it can be used to cause Pokémon to Terastallize.",
+        "term": "tera orb"
+    },
+    {
+        "name": "Scarlet Book",
+        "description": "A record of the expedition that the author, Heath, went on within the Great Crater of Paldea. The book has the name \"Sada\" written on it in clumsy handwriting.",
+        "term": "scarlet book"
+    },
+    {
+        "name": "Violet Book",
+        "description": "A record of the expedition that the author, Heath, went on within the Great Crater of Paldea. The book has the name \"Turo\" written on it in clumsy handwriting.",
+        "term": "violet book"
+    },
+    {
+        "name": "Kofu's Wallet",
+        "description": "A wallet that was left behind by Kofu, the Gym Leader at the Cascarrafa Gym. You're to deliver it to him at the market in Porto Marinada.",
+        "term": "kofu's wallet"
+    },
+    {
+        "name": "Tiny Bamboo Shoot",
+        "description": "A small and rare bamboo shoot. It's quite popular with a certain class of gourmands.",
+        "term": "tiny bamboo shoot"
+    },
+    {
+        "name": "Big Bamboo Shoot",
+        "description": "A large and rare bamboo shoot. It's extremely popular with a certain class of gourmands.",
+        "term": "big bamboo shoot"
+    },
+    {
+        "name": "Scroll of Darkness",
+        "description": "A peculiar scroll that can make a certain species of Pokémon evolve. Written upon it are the true secrets of the path of darkness.",
+        "term": "scroll of darkness"
+    },
+    {
+        "name": "Scroll of Waters",
+        "description": "A peculiar scroll that can make a certain species of Pokémon evolve. Written upon it are the true secrets of the path of water.",
+        "term": "scroll of waters"
+    },
+    {
+        "name": "Auspicious Armor",
+        "description": "A peculiar set of armor that can make a certain species of Pokémon evolve. Auspicious wishes live within it.",
+        "term": "auspicious armor"
+    },
+    {
+        "name": "Leader's Crest",
+        "description": "A shard of what appears to be an old blade of some sort. It is held only by Bisharp that head up a group of Pawniard.",
+        "term": "leader's crest"
+    },
+    {
+        "name": "Malicious Armor",
+        "description": "A peculiar set of armor that can make a certain species of Pokémon evolve. Malicious will lurks within it.",
+        "term": "malicious armor"
+    },
+    {
+        "name": "Normal Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "normal tera shard"
+    },
+    {
+        "name": "Fire Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "fire tera shard"
+    },
+    {
+        "name": "Water Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "water tera shard"
+    },
+    {
+        "name": "Electric Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "electric tera shard"
+    },
+    {
+        "name": "Grass Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "grass tera shard"
+    },
+    {
+        "name": "Ice Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "ice tera shard"
+    },
+    {
+        "name": "Fighting Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "fighting tera shard"
+    },
+    {
+        "name": "Poison Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "poison tera shard"
+    },
+    {
+        "name": "Ground Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "ground tera shard"
+    },
+    {
+        "name": "Flying Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "flying tera shard"
+    },
+    {
+        "name": "Psychic Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "psychic tera shard"
+    },
+    {
+        "name": "Bug Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "bug tera shard"
+    },
+    {
+        "name": "Rock Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "rock tera shard"
+    },
+    {
+        "name": "Ghost Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "ghost tera shard"
+    },
+    {
+        "name": "Dragon Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "dragon tera shard"
+    },
+    {
+        "name": "Dark Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "dark tera shard"
+    },
+    {
+        "name": "Steel Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "steel tera shard"
+    },
+    {
+        "name": "Fairy Tera Shard",
+        "description": "On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.",
+        "term": "fairy tera shard"
+    },
+    {
+        "name": "Booster Energy",
+        "description": "An item to be held by Pokémon with certain Abilities. The energy that fills this capsule boosts the strength of the Pokémon.",
+        "term": "booster energy"
+    },
+    {
+        "name": "Ability Shield",
+        "description": "An item to be held by a Pokémon. This cute and rather unique-looking shield protects the holder from having its Ability changed by others.",
+        "term": "ability shield"
+    },
+    {
+        "name": "Clear Amulet",
+        "description": "An item to be held by a Pokémon. This clear, sparkling amulet protects the holder from having its stats lowered by moves used against it or by other Pokémon's Abilities.",
+        "term": "clear amulet"
+    },
+    {
+        "name": "Mirror Herb",
+        "description": "An item to be held by a Pokémon. This herb will allow the holder to mirror an opponent's stat increases to boost its own stats—but only once.",
+        "term": "mirror herb"
+    },
+    {
+        "name": "Punching Glove",
+        "description": "An item to be held by a Pokémon. This protective glove boosts the power of the holder's punching moves and prevents direct contact with targets.",
+        "term": "punching glove"
+    },
+    {
+        "name": "Covert Cloak",
+        "description": "An item to be held by a Pokémon. This hooded cloak conceals the holder, tricking the eyes of its enemies and protecting it from the additional effects of moves.",
+        "term": "covert cloak"
+    },
+    {
+        "name": "Loaded Dice",
+        "description": "An item to be held by a Pokémon. This loaded dice always rolls a good number, and holding one can ensure that the holder's multistrike moves hit more times.",
+        "term": "loaded dice"
+    },
+    {
+        "name": "Baguette",
+        "description": "A long loaf sliced into top and bottom halves. Its aroma of wheat and its straightforward, salty flavor make it pair well with all kinds of sandwich ingredients.",
+        "term": "baguette"
+    },
+    {
+        "name": "Mayonnaise",
+        "description": "A condiment that packs a very tart punch yet pairs well with various ingredients.",
+        "term": "mayonnaise"
+    },
+    {
+        "name": "Ketchup",
+        "description": "A condiment with very salty and tart flavor. While a number of other ingredients go into its signature flavor, the noble tomato is its heart and soul.",
+        "term": "ketchup"
+    },
+    {
+        "name": "Mustard",
+        "description": "A very spicy condiment that's indispensable when bread is on the table. It pairs tremendously with ketchup.",
+        "term": "mustard"
+    },
+    {
+        "name": "Butter",
+        "description": "A condiment that unites salty and sweet and also packs a richness that makes bread a delight to eat. The finest butter products are made of 100 percent Moomoo Milk.",
+        "term": "butter"
+    },
+    {
+        "name": "Peanut Butter",
+        "description": "A very sweet condiment. People in Paldea seem to favor the sweet varieties over the unsweetened.",
+        "term": "peanut butter"
+    },
+    {
+        "name": "Chili Sauce",
+        "description": "A condiment with a very spicy kick. It's thanks to Scovillain that this sauce gets its signature mouth- tingling burn.",
+        "term": "chili sauce"
+    },
+    {
+        "name": "Salt",
+        "description": "A very salty seasoning, unsurprisingly. People quite like the grains of salt that can be gathered from the footprints of particularly jagged Naclstack.",
+        "term": "salt"
+    },
+    {
+        "name": "Pepper",
+        "description": "A seasoning packing very spicy flavor. It goes nicely with oilier foods and works especially well when you add just a pinch for a hint of flavor.",
+        "term": "pepper"
+    },
+    {
+        "name": "Yogurt",
+        "description": "A condiment that's very sweet and very sour. It goes especially well with fruit and is easy to incorporate into a sandwich.",
+        "term": "yogurt"
+    },
+    {
+        "name": "Whipped Cream",
+        "description": "A very sweet condiment. Folks in Paldea seem to love the varieties that really let the sweetness sing.",
+        "term": "whipped cream"
+    },
+    {
+        "name": "Cream Cheese",
+        "description": "A condiment offering very sweet and very tart flavor. It goes well with more ingredients than you'd expect, making it a convenient go-to.",
+        "term": "cream cheese"
+    },
+    {
+        "name": "Jam",
+        "description": "A condiment that's very sweet and likewise very sour. Take care when adding it to sandwiches, as the sweet side can overwhelm.",
+        "term": "jam"
+    },
+    {
+        "name": "Marmalade",
+        "description": "A condiment with sour and bitter notes. It's surprisingly useful, as it makes a nice counterpoint to oilier foods.",
+        "term": "marmalade"
+    },
+    {
+        "name": "Olive Oil",
+        "description": "A condiment offering faint notes of sour and bitter flavors. The most prized varieties are the ones Smoliv love the smell of—such oils' quality is assured.",
+        "term": "olive oil"
+    },
+    {
+        "name": "Vinegar",
+        "description": "A very sour condiment. Vinegars derived from grapes are popular in Paldea. Highly effective when used to add just a light note of flavor.",
+        "term": "vinegar"
+    },
+    {
+        "name": "Sweet Herba Mystica",
+        "description": "A legendary condiment told of only in books. Word has it that one taste of its sweet flavor stimulates the digestive system and cures a lack of appetite.",
+        "term": "sweet herba mystica"
+    },
+    {
+        "name": "Salty Herba Mystica",
+        "description": "One of the condiments spoken of as legends. Its mellow saltiness is said to be tremendously effective when it comes to promoting health.",
+        "term": "salty herba mystica"
+    },
+    {
+        "name": "Sour Herba Mystica",
+        "description": "This surpassingly sour condiment is said to be super effective in helping the eater recover from exhaustion. Only a scant few people know it exists.",
+        "term": "sour herba mystica"
+    },
+    {
+        "name": "Bitter Herba Mystica",
+        "description": "A legendary condiment with a deeply bitter taste. It's said to dramatically bolster a body's immune defenses, though that hasn't been proven.",
+        "term": "bitter herba mystica"
+    },
+    {
+        "name": "Spicy Herba Mystica",
+        "description": "The legendary condiment said to have the mightiest of all spicy flavors. It's said that a single bite will kick the metabolism into high gear immediately.",
+        "term": "spicy herba mystica"
+    },
+    {
+        "name": "Lettuce",
+        "description": "This bitter-tasting ingredient is simple and straightforward—just add it to all kinds of other ingredients for a delightfully crunchy time.",
+        "term": "lettuce"
+    },
+    {
+        "name": "Tomato",
+        "description": "This very tart ingredient has a lot of savory elements to it, making it popular with many Pokémon.",
+        "term": "tomato"
+    },
+    {
+        "name": "Cherry Tomatoes",
+        "description": "A very tart ingredient. Some varieties are also very sweet, and these are prized above all others by the people of Paldea.",
+        "term": "cherry tomatoes"
+    },
+    {
+        "name": "Cucumber",
+        "description": "A tart and bitter ingredient. Using it together with rich- tasting ingredients in a sandwich will really make the most of a cucumber's fresh-veggie aroma.",
+        "term": "cucumber"
+    },
+    {
+        "name": "Pickle",
+        "description": "This very sour ingredient is made by pickling veggies in a flavorful brine made from spices and vinegar.",
+        "term": "pickle"
+    },
+    {
+        "name": "Onion",
+        "description": "This spicy veggie is indispensable to many sandwiches. It goes well with rich ingredients.",
+        "term": "onion"
+    },
+    {
+        "name": "Red Onion",
+        "description": "An ingredient with some sweetness to it. Its spiciness and fragrance are milder than those of other onions, making it a pleasant bite.",
+        "term": "red onion"
+    },
+    {
+        "name": "Green Bell Pepper",
+        "description": "An ingredient with some bitterness. When sliced, it adds a nice accent to a sandwich.",
+        "term": "green bell pepper"
+    },
+    {
+        "name": "Red Bell Pepper",
+        "description": "An ingredient with some bitterness—but its bitter notes and overall flavor are pleasantly mild compared to its green cousin.",
+        "term": "red bell pepper"
+    },
+    {
+        "name": "Yellow Bell Pepper",
+        "description": "An ingredient with some bitterness. It's not much different from its red counterpart in flavor, but mixing the colors makes a feast for the eyes.",
+        "term": "yellow bell pepper"
+    },
+    {
+        "name": "Avocado",
+        "description": "An ingredient with sweet notes—though its flavor is very mild. The avocado's richness, however, makes it satisfying to eat.",
+        "term": "avocado"
+    },
+    {
+        "name": "Bacon",
+        "description": "This very salty ingredient has been cooked just shy of charred, making it burst with fragrance and tasty flavor.",
+        "term": "bacon"
+    },
+    {
+        "name": "Ham",
+        "description": "A very salty ingredient—and that very saltiness is what makes it such a nice companion to veggies.",
+        "term": "ham"
+    },
+    {
+        "name": "Prosciutto",
+        "description": "This ingredient is very salty like regular ham, but the difference is prosciutto is not cooked after it is cured, giving it a fun freshness.",
+        "term": "prosciutto"
+    },
+    {
+        "name": "Chorizo",
+        "description": "A very salty and spicy ingredient. This type of sausage has particularly robust salty flavor, and the spicier varieties are extra popular.",
+        "term": "chorizo"
+    },
+    {
+        "name": "Herbed Sausage",
+        "description": "A very salty and bitter ingredient. The balance between the potent saltiness and the herbs' bitterness make this sausage a pleasure.",
+        "term": "herbed sausage"
+    },
+    {
+        "name": "Hamburger",
+        "description": "This very salty ingredient is the thing to add if you want to make your sandwich truly filling.",
+        "term": "hamburger"
+    },
+    {
+        "name": "Klawf Stick",
+        "description": "A very sweet and salty ingredient. It's a nutritious processed food made with a concentrate derived from shed Klawf shells.",
+        "term": "klawf stick"
+    },
+    {
+        "name": "Smoked Fillet",
+        "description": "A very salty and bitter ingredient with that unmistakable smoky flavor. It pairs exceptionally well with veggies.",
+        "term": "smoked fillet"
+    },
+    {
+        "name": "Fried Fillet",
+        "description": "When used in a sandwich, this very salty and bitter ingredient is at its best paired with sour seasonings.",
+        "term": "fried fillet"
+    },
+    {
+        "name": "Egg",
+        "description": "An ingredient with a touch of saltiness. It's full of nutrients and can be enjoyed with all sorts of seasonings.",
+        "term": "egg"
+    },
+    {
+        "name": "Potato Tortilla",
+        "description": "A very salty ingredient and a popular dish in Paldea. It's undeniably filling.",
+        "term": "potato tortilla"
+    },
+    {
+        "name": "Tofu",
+        "description": "An ingredient with a touch of sweetness. It's unclear how well this raw block of tofu will serve as a sandwich filling.",
+        "term": "tofu"
+    },
+    {
+        "name": "Rice",
+        "description": "An ingredient with a touch of sweetness. It's unclear how well this cooked rice will serve as a sandwich filling.",
+        "term": "rice"
+    },
+    {
+        "name": "Noodles",
+        "description": "A nice salty ingredient. It's unclear how well these boiled noodles will serve as a sandwich filling.",
+        "term": "noodles"
+    },
+    {
+        "name": "Potato Salad",
+        "description": "This very tart ingredient—a soft salad that's all about potatoes—pairs tremendously well with bread.",
+        "term": "potato salad"
+    },
+    {
+        "name": "Cheese",
+        "description": "A very salty ingredient. This thinly sliced cheese is perfect for adding to a sandwich.",
+        "term": "cheese"
+    },
+    {
+        "name": "Banana",
+        "description": "A very sweet ingredient. This go-to fruit is sweet and rich, and it's beloved by many Pokémon.",
+        "term": "banana"
+    },
+    {
+        "name": "Strawberry",
+        "description": "A very tart and sweet ingredient, popular for its ability to make a sandwich visually striking.",
+        "term": "strawberry"
+    },
+    {
+        "name": "Apple",
+        "description": "This very sweet ingredient is sliced thin to make it easy to add into a sandwich.",
+        "term": "apple"
+    },
+    {
+        "name": "Kiwi",
+        "description": "A very tart ingredient that has a light touch of sweetness as well. It goes well with rich ingredients.",
+        "term": "kiwi"
+    },
+    {
+        "name": "Pineapple",
+        "description": "This very tart ingredient is a fruit of southern lands, and its color and texture are a thrill. It's been cut into chunks to be easily manageable.",
+        "term": "pineapple"
+    },
+    {
+        "name": "Jalapeno",
+        "description": "A very spicy ingredient—so spicy as to leave no room for ambivalence about it. You either like it or you don't.",
+        "term": "jalapeno"
+    },
+    {
+        "name": "Horseradish",
+        "description": "A very spicy condiment. Its distinctive sharp sizzle in your sinuses makes it a good match for rich fillings.",
+        "term": "horseradish"
+    },
+    {
+        "name": "Curry Powder",
+        "description": "A very spicy condiment. Just watch out—use too much of this potent seasoning, and it'll cancel out the other flavors.",
+        "term": "curry powder"
+    },
+    {
+        "name": "Wasabi",
+        "description": "This very spicy condiment seems close to horseradish at first, but you'll find that it has a superb flavor all its own.",
+        "term": "wasabi"
+    },
+    {
+        "name": "Watercress",
+        "description": "A very bitter ingredient that stands out among veggies for its quirky flavor. People tend to either like it or not like it—they rarely sit on the fence.",
+        "term": "watercress"
+    },
+    {
+        "name": "Basil",
+        "description": "A very bitter ingredient that's quite versatile, as herbs go. It's fragrant and goes well with tomatoes.",
+        "term": "basil"
+    },
+    {
+        "name": "Venonat Fang",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "venonat fang"
+    },
+    {
+        "name": "Diglett Dirt",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "diglett dirt"
+    },
+    {
+        "name": "Meowth Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "meowth fur"
+    },
+    {
+        "name": "Psyduck Down",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "psyduck down"
+    },
+    {
+        "name": "Mankey Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "mankey fur"
+    },
+    {
+        "name": "Growlithe Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "growlithe fur"
+    },
+    {
+        "name": "Slowpoke Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "slowpoke claw"
+    },
+    {
+        "name": "Magnemite Screw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "magnemite screw"
+    },
+    {
+        "name": "Grimer Toxin",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "grimer toxin"
+    },
+    {
+        "name": "Shellder Pearl",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "shellder pearl"
+    },
+    {
+        "name": "Gastly Gas",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "gastly gas"
+    },
+    {
+        "name": "Drowzee Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "drowzee fur"
+    },
+    {
+        "name": "Voltorb Sparks",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "voltorb sparks"
+    },
+    {
+        "name": "Scyther Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "scyther claw"
+    },
+    {
+        "name": "Tauros Hair",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "tauros hair"
+    },
+    {
+        "name": "Magikarp Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "magikarp scales"
+    },
+    {
+        "name": "Ditto Goo",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "ditto goo"
+    },
+    {
+        "name": "Eevee Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "eevee fur"
+    },
+    {
+        "name": "Dratini Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "dratini scales"
+    },
+    {
+        "name": "Pichu Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "pichu fur"
+    },
+    {
+        "name": "Igglybuff Fluff",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "igglybuff fluff"
+    },
+    {
+        "name": "Mareep Wool",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "mareep wool"
+    },
+    {
+        "name": "Hoppip Leaf",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "hoppip leaf"
+    },
+    {
+        "name": "Sunkern Leaf",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "sunkern leaf"
+    },
+    {
+        "name": "Murkrow Bauble",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "murkrow bauble"
+    },
+    {
+        "name": "Misdreavus Tears",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "misdreavus tears"
+    },
+    {
+        "name": "Girafarig Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "girafarig fur"
+    },
+    {
+        "name": "Pineco Husk",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "pineco husk"
+    },
+    {
+        "name": "Dunsparce Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "dunsparce scales"
+    },
+    {
+        "name": "Qwilfish Spines",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "qwilfish spines"
+    },
+    {
+        "name": "Heracross Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "heracross claw"
+    },
+    {
+        "name": "Sneasel Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "sneasel claw"
+    },
+    {
+        "name": "Teddiursa Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "teddiursa claw"
+    },
+    {
+        "name": "Delibird Parcel",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "delibird parcel"
+    },
+    {
+        "name": "Houndour Fang",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "houndour fang"
+    },
+    {
+        "name": "Phanpy Nail",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "phanpy nail"
+    },
+    {
+        "name": "Stantler Hair",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "stantler hair"
+    },
+    {
+        "name": "Larvitar Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "larvitar claw"
+    },
+    {
+        "name": "Wingull Feather",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "wingull feather"
+    },
+    {
+        "name": "Ralts Dust",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "ralts dust"
+    },
+    {
+        "name": "Surskit Syrup",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "surskit syrup"
+    },
+    {
+        "name": "Shroomish Spores",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "shroomish spores"
+    },
+    {
+        "name": "Slakoth Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "slakoth fur"
+    },
+    {
+        "name": "Makuhita Sweat",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "makuhita sweat"
+    },
+    {
+        "name": "Azurill Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "azurill fur"
+    },
+    {
+        "name": "Sableye Gem",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "sableye gem"
+    },
+    {
+        "name": "Meditite Sweat",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "meditite sweat"
+    },
+    {
+        "name": "Gulpin Mucus",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "gulpin mucus"
+    },
+    {
+        "name": "Numel Lava",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "numel lava"
+    },
+    {
+        "name": "Torkoal Coal",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "torkoal coal"
+    },
+    {
+        "name": "Spoink Pearl",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "spoink pearl"
+    },
+    {
+        "name": "Cacnea Needle",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "cacnea needle"
+    },
+    {
+        "name": "Swablu Fluff",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "swablu fluff"
+    },
+    {
+        "name": "Zangoose Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "zangoose claw"
+    },
+    {
+        "name": "Seviper Fang",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "seviper fang"
+    },
+    {
+        "name": "Barboach Slime",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "barboach slime"
+    },
+    {
+        "name": "Shuppet Scrap",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "shuppet scrap"
+    },
+    {
+        "name": "Tropius Leaf",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "tropius leaf"
+    },
+    {
+        "name": "Snorunt Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "snorunt fur"
+    },
+    {
+        "name": "Luvdisc Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "luvdisc scales"
+    },
+    {
+        "name": "Bagon Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "bagon scales"
+    },
+    {
+        "name": "Starly Feather",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "starly feather"
+    },
+    {
+        "name": "Kricketot Shell",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "kricketot shell"
+    },
+    {
+        "name": "Shinx Fang",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "shinx fang"
+    },
+    {
+        "name": "Combee Honey",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "combee honey"
+    },
+    {
+        "name": "Pachirisu Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "pachirisu fur"
+    },
+    {
+        "name": "Buizel Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "buizel fur"
+    },
+    {
+        "name": "Shellos Mucus",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "shellos mucus"
+    },
+    {
+        "name": "Drifloon Gas",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "drifloon gas"
+    },
+    {
+        "name": "Stunky Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "stunky fur"
+    },
+    {
+        "name": "Bronzor Fragment",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "bronzor fragment"
+    },
+    {
+        "name": "Bonsly Tears",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "bonsly tears"
+    },
+    {
+        "name": "Happiny Dust",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "happiny dust"
+    },
+    {
+        "name": "Spiritomb Fragment",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "spiritomb fragment"
+    },
+    {
+        "name": "Gible Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "gible scales"
+    },
+    {
+        "name": "Riolu Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "riolu fur"
+    },
+    {
+        "name": "Hippopotas Sand",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "hippopotas sand"
+    },
+    {
+        "name": "Croagunk Poison",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "croagunk poison"
+    },
+    {
+        "name": "Finneon Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "finneon scales"
+    },
+    {
+        "name": "Snover Berries",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "snover berries"
+    },
+    {
+        "name": "Rotom Sparks",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "rotom sparks"
+    },
+    {
+        "name": "Petilil Leaf",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "petilil leaf"
+    },
+    {
+        "name": "Basculin Fang",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "basculin fang"
+    },
+    {
+        "name": "Sandile Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "sandile claw"
+    },
+    {
+        "name": "Zorua Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "zorua fur"
+    },
+    {
+        "name": "Gothita Eyelash",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "gothita eyelash"
+    },
+    {
+        "name": "Deerling Hair",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "deerling hair"
+    },
+    {
+        "name": "Foongus Spores",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "foongus spores"
+    },
+    {
+        "name": "Alomomola Mucus",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "alomomola mucus"
+    },
+    {
+        "name": "Tynamo Slime",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "tynamo slime"
+    },
+    {
+        "name": "Axew Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "axew scales"
+    },
+    {
+        "name": "Cubchoo Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "cubchoo fur"
+    },
+    {
+        "name": "Cryogonal Ice",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "cryogonal ice"
+    },
+    {
+        "name": "Pawniard Blade",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "pawniard blade"
+    },
+    {
+        "name": "Rufflet Feather",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "rufflet feather"
+    },
+    {
+        "name": "Deino Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "deino scales"
+    },
+    {
+        "name": "Larvesta Fuzz",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "larvesta fuzz"
+    },
+    {
+        "name": "Fletchling Feather",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "fletchling feather"
+    },
+    {
+        "name": "Scatterbug Powder",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "scatterbug powder"
+    },
+    {
+        "name": "Litleo Tuft",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "litleo tuft"
+    },
+    {
+        "name": "Flabébé Pollen",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "flabébé pollen"
+    },
+    {
+        "name": "Skiddo Leaf",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "skiddo leaf"
+    },
+    {
+        "name": "Skrelp Kelp",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "skrelp kelp"
+    },
+    {
+        "name": "Clauncher Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "clauncher claw"
+    },
+    {
+        "name": "Hawlucha Down",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "hawlucha down"
+    },
+    {
+        "name": "Dedenne Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "dedenne fur"
+    },
+    {
+        "name": "Goomy Goo",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "goomy goo"
+    },
+    {
+        "name": "Klefki Key",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "klefki key"
+    },
+    {
+        "name": "Bergmite Ice",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "bergmite ice"
+    },
+    {
+        "name": "Noibat Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "noibat fur"
+    },
+    {
+        "name": "Yungoos Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "yungoos fur"
+    },
+    {
+        "name": "Crabrawler Shell",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "crabrawler shell"
+    },
+    {
+        "name": "Oricorio Feather",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "oricorio feather"
+    },
+    {
+        "name": "Rockruff Rock",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "rockruff rock"
+    },
+    {
+        "name": "Mareanie Spike",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "mareanie spike"
+    },
+    {
+        "name": "Mudbray Mud",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "mudbray mud"
+    },
+    {
+        "name": "Fomantis Leaf",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "fomantis leaf"
+    },
+    {
+        "name": "Salandit Gas",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "salandit gas"
+    },
+    {
+        "name": "Bounsweet Sweat",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "bounsweet sweat"
+    },
+    {
+        "name": "Oranguru Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "oranguru fur"
+    },
+    {
+        "name": "Passimian Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "passimian fur"
+    },
+    {
+        "name": "Sandygast Sand",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "sandygast sand"
+    },
+    {
+        "name": "Komala Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "komala claw"
+    },
+    {
+        "name": "Mimikyu Scrap",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "mimikyu scrap"
+    },
+    {
+        "name": "Bruxish Tooth",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "bruxish tooth"
+    },
+    {
+        "name": "Chewtle Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "chewtle claw"
+    },
+    {
+        "name": "Skwovet Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "skwovet fur"
+    },
+    {
+        "name": "Arrokuda Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "arrokuda scales"
+    },
+    {
+        "name": "Rookidee Feather",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "rookidee feather"
+    },
+    {
+        "name": "Toxel Sparks",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "toxel sparks"
+    },
+    {
+        "name": "Falinks Sweat",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "falinks sweat"
+    },
+    {
+        "name": "Cufant Tarnish",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "cufant tarnish"
+    },
+    {
+        "name": "Rolycoly Coal",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "rolycoly coal"
+    },
+    {
+        "name": "Silicobra Sand",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "silicobra sand"
+    },
+    {
+        "name": "Indeedee Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "indeedee fur"
+    },
+    {
+        "name": "Pincurchin Spines",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "pincurchin spines"
+    },
+    {
+        "name": "Snom Thread",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "snom thread"
+    },
+    {
+        "name": "Impidimp Hair",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "impidimp hair"
+    },
+    {
+        "name": "Applin Juice",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "applin juice"
+    },
+    {
+        "name": "Sinistea Chip",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "sinistea chip"
+    },
+    {
+        "name": "Hatenna Dust",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "hatenna dust"
+    },
+    {
+        "name": "Stonjourner Stone",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "stonjourner stone"
+    },
+    {
+        "name": "Eiscue Down",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "eiscue down"
+    },
+    {
+        "name": "Dreepy Powder",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "dreepy powder"
+    },
+    {
+        "name": "Lechonk Hair",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "lechonk hair"
+    },
+    {
+        "name": "Tarountula Thread",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "tarountula thread"
+    },
+    {
+        "name": "Nymble Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "nymble claw"
+    },
+    {
+        "name": "Rellor Mud",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "rellor mud"
+    },
+    {
+        "name": "Greavard Wax",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "greavard wax"
+    },
+    {
+        "name": "Flittle Down",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "flittle down"
+    },
+    {
+        "name": "Wiglett Sand",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "wiglett sand"
+    },
+    {
+        "name": "Dondozo Whisker",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "dondozo whisker"
+    },
+    {
+        "name": "Veluza Fillet",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "veluza fillet"
+    },
+    {
+        "name": "Finizen Mucus",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "finizen mucus"
+    },
+    {
+        "name": "Smoliv Oil",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "smoliv oil"
+    },
+    {
+        "name": "Capsakid Seed",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "capsakid seed"
+    },
+    {
+        "name": "Tadbulb Mucus",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "tadbulb mucus"
+    },
+    {
+        "name": "Varoom Fume",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "varoom fume"
+    },
+    {
+        "name": "Orthworm Tarnish",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "orthworm tarnish"
+    },
+    {
+        "name": "Tandemaus Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "tandemaus fur"
+    },
+    {
+        "name": "Cetoddle Grease",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "cetoddle grease"
+    },
+    {
+        "name": "Frigibax Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "frigibax scales"
+    },
+    {
+        "name": "Tatsugiri Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "tatsugiri scales"
+    },
+    {
+        "name": "Cyclizar Scales",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "cyclizar scales"
+    },
+    {
+        "name": "Pawmi Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "pawmi fur"
+    },
+    {
+        "name": "Wattrel Feather",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "wattrel feather"
+    },
+    {
+        "name": "Bombirdier Feather",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "bombirdier feather"
+    },
+    {
+        "name": "Squawkabilly Feather",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "squawkabilly feather"
+    },
+    {
+        "name": "Flamigo Down",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "flamigo down"
+    },
+    {
+        "name": "Klawf Claw",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "klawf claw"
+    },
+    {
+        "name": "Nacli Salt",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "nacli salt"
+    },
+    {
+        "name": "Glimmet Crystal",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "glimmet crystal"
+    },
+    {
+        "name": "Shroodle Ink",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "shroodle ink"
+    },
+    {
+        "name": "Fidough Fur",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "fidough fur"
+    },
+    {
+        "name": "Maschiff Fang",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "maschiff fang"
+    },
+    {
+        "name": "Bramblin Twig",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "bramblin twig"
+    },
+    {
+        "name": "Gimmighoul Coin",
+        "description": "Material accidentally dropped by a Pokémon. It seems that Gimmighoul treasure and hoard these.",
+        "term": "gimmighoul coin"
+    },
+    {
+        "name": "Tinkatink Hair",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "tinkatink hair"
+    },
+    {
+        "name": "Charcadet Soot",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "charcadet soot"
+    },
+    {
+        "name": "Toedscool Flaps",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "toedscool flaps"
+    },
+    {
+        "name": "Wooper Slime",
+        "description": "Material accidentally dropped by a Pokémon. It can be used to make TMs.",
+        "term": "wooper slime"
     }
 ]

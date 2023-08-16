@@ -1,5152 +1,4722 @@
 [
     {
         "term": "bulbasaur",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "ivysaur",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "venusaur",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "mega venusaur",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "charmander",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "charmeleon",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "charizard",
-        "first": "fire",
-        "second": "flying"
+        "first": "FIRE",
+        "second": "FLYING"
     },
     {
         "term": "mega charizard x",
-        "first": "fire",
-        "second": "flying"
+        "first": "FIRE",
+        "second": "FLYING"
     },
     {
         "term": "mega charizard y",
-        "first": "fire",
-        "second": "flying"
+        "first": "FIRE",
+        "second": "FLYING"
     },
     {
         "term": "squirtle",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "wartortle",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "blastoise",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "mega blastoise",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "caterpie",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "metapod",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "butterfree",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "weedle",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "kakuna",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "beedrill",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "mega beedrill",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "pidgey",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "pidgeotto",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "pidgeot",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "mega pidgeot",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "rattata",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "alolan rattata",
-        "first": "dark",
-        "second": "normal"
+        "first": "DARK",
+        "second": "NORMAL"
     },
     {
         "term": "raticate",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "alolan raticate",
-        "first": "dark",
-        "second": "normal"
+        "first": "DARK",
+        "second": "NORMAL"
     },
     {
         "term": "spearow",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "fearow",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "ekans",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "arbok",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "pikachu",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "raichu",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "alolan raichu",
-        "first": "electric",
-        "second": "psychic"
+        "first": "ELECTRIC",
+        "second": "PSYCHIC"
     },
     {
         "term": "sandshrew",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "alolan sandshrew",
-        "first": "ice",
-        "second": "steel"
+        "first": "ICE",
+        "second": "STEEL"
     },
     {
         "term": "sandslash",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "alolan sandslash",
-        "first": "ice",
-        "second": "steel"
+        "first": "ICE",
+        "second": "STEEL"
     },
     {
         "term": "nidoran female",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "nidorina",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "nidoqueen",
-        "first": "poison",
-        "second": "ground"
+        "first": "POISON",
+        "second": "GROUND"
     },
     {
         "term": "nidoran male",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "nidorino",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "nidoking",
-        "first": "poison",
-        "second": "ground"
+        "first": "POISON",
+        "second": "GROUND"
     },
     {
         "term": "clefairy",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "clefable",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "vulpix",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "alolan vulpix",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "ninetales",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "alolan ninetales",
-        "first": "ice",
-        "second": "fairy"
+        "first": "ICE",
+        "second": "FAIRY"
     },
     {
         "term": "jigglypuff",
-        "first": "normal",
-        "second": "fairy"
+        "first": "NORMAL",
+        "second": "FAIRY"
     },
     {
         "term": "wigglytuff",
-        "first": "normal",
-        "second": "fairy"
+        "first": "NORMAL",
+        "second": "FAIRY"
     },
     {
         "term": "zubat",
-        "first": "poison",
-        "second": "flying"
+        "first": "POISON",
+        "second": "FLYING"
     },
     {
         "term": "golbat",
-        "first": "poison",
-        "second": "flying"
+        "first": "POISON",
+        "second": "FLYING"
     },
     {
         "term": "oddish",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "gloom",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "vileplume",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "paras",
-        "first": "bug",
-        "second": "grass"
+        "first": "BUG",
+        "second": "GRASS"
     },
     {
         "term": "parasect",
-        "first": "bug",
-        "second": "grass"
+        "first": "BUG",
+        "second": "GRASS"
     },
     {
         "term": "venonat",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "venomoth",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "diglett",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "alolan diglett",
-        "first": "ground",
-        "second": "steel"
+        "first": "GROUND",
+        "second": "STEEL"
     },
     {
         "term": "dugtrio",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "alolan dugtrio",
-        "first": "ground",
-        "second": "steel"
+        "first": "GROUND",
+        "second": "STEEL"
     },
     {
         "term": "meowth",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "alolan meowth",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "persian",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "alolan persian",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "psyduck",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "golduck",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "mankey",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "primeape",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "growlithe",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "arcanine",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "poliwag",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "poliwhirl",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "poliwrath",
-        "first": "water",
-        "second": "fighting"
+        "first": "WATER",
+        "second": "FIGHTING"
     },
     {
         "term": "abra",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "kadabra",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "alakazam",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "mega alakazam",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "machop",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "machoke",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "machamp",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "bellsprout",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "weepinbell",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "victreebel",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "tentacool",
-        "first": "water",
-        "second": "poison"
+        "first": "WATER",
+        "second": "POISON"
     },
     {
         "term": "tentacruel",
-        "first": "water",
-        "second": "poison"
+        "first": "WATER",
+        "second": "POISON"
     },
     {
         "term": "geodude",
-        "first": "rock",
-        "second": "ground"
+        "first": "ROCK",
+        "second": "GROUND"
     },
     {
         "term": "alolan geodude",
-        "first": "rock",
-        "second": "electric"
+        "first": "ROCK",
+        "second": "ELECTRIC"
     },
     {
         "term": "graveler",
-        "first": "rock",
-        "second": "ground"
+        "first": "ROCK",
+        "second": "GROUND"
     },
     {
         "term": "alolan graveler",
-        "first": "rock",
-        "second": "electric"
+        "first": "ROCK",
+        "second": "ELECTRIC"
     },
     {
         "term": "golem",
-        "first": "rock",
-        "second": "ground"
+        "first": "ROCK",
+        "second": "GROUND"
     },
     {
         "term": "alolan golem",
-        "first": "rock",
-        "second": "electric"
+        "first": "ROCK",
+        "second": "ELECTRIC"
     },
     {
         "term": "ponyta",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "rapidash",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "slowpoke",
-        "first": "water",
-        "second": "psychic"
+        "first": "WATER",
+        "second": "PSYCHIC"
     },
     {
         "term": "slowbro",
-        "first": "water",
-        "second": "psychic"
+        "first": "WATER",
+        "second": "PSYCHIC"
     },
     {
         "term": "mega slowbro",
-        "first": "water",
-        "second": "psychic"
+        "first": "WATER",
+        "second": "PSYCHIC"
     },
     {
         "term": "magnemite",
-        "first": "electric",
-        "second": "steel"
+        "first": "ELECTRIC",
+        "second": "STEEL"
     },
     {
         "term": "magneton",
-        "first": "electric",
-        "second": "steel"
+        "first": "ELECTRIC",
+        "second": "STEEL"
     },
     {
         "term": "farfetch'd",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "doduo",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "dodrio",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "seel",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "dewgong",
-        "first": "water",
-        "second": "ice"
+        "first": "WATER",
+        "second": "ICE"
     },
     {
         "term": "grimer",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "alolan grimer",
-        "first": "poison",
-        "second": "dark"
+        "first": "POISON",
+        "second": "DARK"
     },
     {
         "term": "muk",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "alolan muk",
-        "first": "poison",
-        "second": "dark"
+        "first": "POISON",
+        "second": "DARK"
     },
     {
         "term": "shellder",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "cloyster",
-        "first": "water",
-        "second": "ice"
+        "first": "WATER",
+        "second": "ICE"
     },
     {
         "term": "gastly",
-        "first": "ghost",
-        "second": "poison"
+        "first": "GHOST",
+        "second": "POISON"
     },
     {
         "term": "haunter",
-        "first": "ghost",
-        "second": "poison"
+        "first": "GHOST",
+        "second": "POISON"
     },
     {
         "term": "gengar",
-        "first": "ghost",
-        "second": "poison"
+        "first": "GHOST",
+        "second": "POISON"
     },
     {
         "term": "mega gengar",
-        "first": "ghost",
-        "second": "poison"
+        "first": "GHOST",
+        "second": "POISON"
     },
     {
         "term": "onix",
-        "first": "rock",
-        "second": "ground"
+        "first": "ROCK",
+        "second": "GROUND"
     },
     {
         "term": "drowzee",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "hypno",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "krabby",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "kingler",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "voltorb",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "electrode",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "exeggcute",
-        "first": "grass",
-        "second": "psychic"
+        "first": "GRASS",
+        "second": "PSYCHIC"
     },
     {
         "term": "exeggutor",
-        "first": "grass",
-        "second": "psychic"
+        "first": "GRASS",
+        "second": "PSYCHIC"
     },
     {
         "term": "alolan exeggutor",
-        "first": "grass",
-        "second": "dragon"
+        "first": "GRASS",
+        "second": "DRAGON"
     },
     {
         "term": "cubone",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "marowak",
-        "first": "fire",
-        "second": "ghost"
+        "first": "FIRE",
+        "second": "GHOST"
     },
     {
         "term": "alolan marowak",
-        "first": "fire",
-        "second": "ghost"
+        "first": "FIRE",
+        "second": "GHOST"
     },
     {
         "term": "hitmonlee",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "hitmonchan",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "lickitung",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "koffing",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "weezing",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "rhyhorn",
-        "first": "ground",
-        "second": "rock"
+        "first": "GROUND",
+        "second": "ROCK"
     },
     {
         "term": "rhydon",
-        "first": "ground",
-        "second": "rock"
+        "first": "GROUND",
+        "second": "ROCK"
     },
     {
         "term": "chansey",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "tangela",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "kangaskhan",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "mega kangaskhan",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "horsea",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "seadra",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "goldeen",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "seaking",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "staryu",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "starmie",
-        "first": "water",
-        "second": "psychic"
+        "first": "WATER",
+        "second": "PSYCHIC"
     },
     {
         "term": "mr. mime",
-        "first": "psychic",
-        "second": "fairy"
+        "first": "PSYCHIC",
+        "second": "FAIRY"
     },
     {
         "term": "scyther",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "jynx",
-        "first": "ice",
-        "second": "psychic"
+        "first": "ICE",
+        "second": "PSYCHIC"
     },
     {
         "term": "electabuzz",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "magmar",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "pinsir",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "mega pinsir",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "tauros",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "magikarp",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "gyarados",
-        "first": "water",
-        "second": "flying"
+        "first": "WATER",
+        "second": "FLYING"
     },
     {
         "term": "mega gyarados",
-        "first": "water",
-        "second": "flying"
+        "first": "WATER",
+        "second": "FLYING"
     },
     {
         "term": "lapras",
-        "first": "water",
-        "second": "ice"
+        "first": "WATER",
+        "second": "ICE"
     },
     {
         "term": "ditto",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "eevee",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "vaporeon",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "jolteon",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "flareon",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "porygon",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "omanyte",
-        "first": "rock",
-        "second": "water"
+        "first": "ROCK",
+        "second": "WATER"
     },
     {
         "term": "omastar",
-        "first": "rock",
-        "second": "water"
+        "first": "ROCK",
+        "second": "WATER"
     },
     {
         "term": "kabuto",
-        "first": "rock",
-        "second": "water"
+        "first": "ROCK",
+        "second": "WATER"
     },
     {
         "term": "kabutops",
-        "first": "rock",
-        "second": "water"
+        "first": "ROCK",
+        "second": "WATER"
     },
     {
         "term": "aerodactyl",
-        "first": "rock",
-        "second": "flying"
+        "first": "ROCK",
+        "second": "FLYING"
     },
     {
         "term": "mega aerodactyl",
-        "first": "rock",
-        "second": "flying"
+        "first": "ROCK",
+        "second": "FLYING"
     },
     {
         "term": "snorlax",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "articuno",
-        "first": "ice",
-        "second": "flying"
+        "first": "ICE",
+        "second": "FLYING"
     },
     {
         "term": "zapdos",
-        "first": "electric",
-        "second": "flying"
+        "first": "ELECTRIC",
+        "second": "FLYING"
     },
     {
         "term": "moltres",
-        "first": "fire",
-        "second": "flying"
+        "first": "FIRE",
+        "second": "FLYING"
     },
     {
         "term": "dratini",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "dragonair",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "dragonite",
-        "first": "dragon",
-        "second": "flying"
+        "first": "DRAGON",
+        "second": "FLYING"
     },
     {
         "term": "mewtwo",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "mega mewtwo x",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "mega mewtwo y",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "mew",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "chikorita",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "bayleef",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "meganium",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "cyndaquil",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "quilava",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "typhlosion",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "totodile",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "croconaw",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "feraligatr",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "sentret",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "furret",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "hoothoot",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "noctowl",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "ledyba",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "ledian",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "spinarak",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "ariados",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "crobat",
-        "first": "poison",
-        "second": "flying"
+        "first": "POISON",
+        "second": "FLYING"
     },
     {
         "term": "chinchou",
-        "first": "water",
-        "second": "electric"
+        "first": "WATER",
+        "second": "ELECTRIC"
     },
     {
         "term": "lanturn",
-        "first": "water",
-        "second": "electric"
+        "first": "WATER",
+        "second": "ELECTRIC"
     },
     {
         "term": "pichu",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "cleffa",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "igglybuff",
-        "first": "normal",
-        "second": "fairy"
+        "first": "NORMAL",
+        "second": "FAIRY"
     },
     {
         "term": "togepi",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "togetic",
-        "first": "fairy",
-        "second": "flying"
+        "first": "FAIRY",
+        "second": "FLYING"
     },
     {
         "term": "natu",
-        "first": "psychic",
-        "second": "flying"
+        "first": "PSYCHIC",
+        "second": "FLYING"
     },
     {
         "term": "xatu",
-        "first": "psychic",
-        "second": "flying"
+        "first": "PSYCHIC",
+        "second": "FLYING"
     },
     {
         "term": "mareep",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "flaaffy",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "ampharos",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "mega ampharos",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "bellossom",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "marill",
-        "first": "water",
-        "second": "fairy"
+        "first": "WATER",
+        "second": "FAIRY"
     },
     {
         "term": "azumarill",
-        "first": "water",
-        "second": "fairy"
+        "first": "WATER",
+        "second": "FAIRY"
     },
     {
         "term": "sudowoodo",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "politoed",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "hoppip",
-        "first": "grass",
-        "second": "flying"
+        "first": "GRASS",
+        "second": "FLYING"
     },
     {
         "term": "skiploom",
-        "first": "grass",
-        "second": "flying"
+        "first": "GRASS",
+        "second": "FLYING"
     },
     {
         "term": "jumpluff",
-        "first": "grass",
-        "second": "flying"
+        "first": "GRASS",
+        "second": "FLYING"
     },
     {
         "term": "aipom",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "sunkern",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "sunflora",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "yanma",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "wooper",
-        "first": "water",
-        "second": "ground"
+        "first": "WATER",
+        "second": "GROUND"
     },
     {
         "term": "quagsire",
-        "first": "water",
-        "second": "ground"
+        "first": "WATER",
+        "second": "GROUND"
     },
     {
         "term": "espeon",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "umbreon",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "murkrow",
-        "first": "dark",
-        "second": "flying"
+        "first": "DARK",
+        "second": "FLYING"
     },
     {
         "term": "slowking",
-        "first": "water",
-        "second": "psychic"
+        "first": "WATER",
+        "second": "PSYCHIC"
     },
     {
         "term": "misdreavus",
-        "first": "ghost",
+        "first": "GHOST",
         "second": null
     },
     {
         "term": "unown a",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown b",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown c",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown d",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown e",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown f",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown g",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown h",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown i",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown j",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown k",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown l",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown m",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown n",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown o",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown p",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown q",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown r",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown s",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown t",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown u",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown v",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown w",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown x",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown y",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown z",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown !",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "unown ?",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "wobbuffet",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "girafarig",
-        "first": "normal",
-        "second": "psychic"
+        "first": "NORMAL",
+        "second": "PSYCHIC"
     },
     {
         "term": "pineco",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "forretress",
-        "first": "bug",
-        "second": "steel"
+        "first": "BUG",
+        "second": "STEEL"
     },
     {
         "term": "dunsparce",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "gligar",
-        "first": "ground",
-        "second": "flying"
+        "first": "GROUND",
+        "second": "FLYING"
     },
     {
         "term": "steelix",
-        "first": "steel",
-        "second": "ground"
+        "first": "STEEL",
+        "second": "GROUND"
     },
     {
         "term": "mega steelix",
-        "first": "steel",
-        "second": "ground"
+        "first": "STEEL",
+        "second": "GROUND"
     },
     {
         "term": "snubbull",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "granbull",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "qwilfish",
-        "first": "water",
-        "second": "poison"
+        "first": "WATER",
+        "second": "POISON"
     },
     {
         "term": "scizor",
-        "first": "bug",
-        "second": "steel"
+        "first": "BUG",
+        "second": "STEEL"
     },
     {
         "term": "mega scizor",
-        "first": "bug",
-        "second": "steel"
+        "first": "BUG",
+        "second": "STEEL"
     },
     {
         "term": "shuckle",
-        "first": "bug",
-        "second": "rock"
+        "first": "BUG",
+        "second": "ROCK"
     },
     {
         "term": "heracross",
-        "first": "bug",
-        "second": "fighting"
+        "first": "BUG",
+        "second": "FIGHTING"
     },
     {
         "term": "mega heracross",
-        "first": "bug",
-        "second": "fighting"
+        "first": "BUG",
+        "second": "FIGHTING"
     },
     {
         "term": "sneasel",
-        "first": "dark",
-        "second": "ice"
+        "first": "DARK",
+        "second": "ICE"
     },
     {
         "term": "teddiursa",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "ursaring",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "slugma",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "magcargo",
-        "first": "fire",
-        "second": "rock"
+        "first": "FIRE",
+        "second": "ROCK"
     },
     {
         "term": "swinub",
-        "first": "ice",
-        "second": "ground"
+        "first": "ICE",
+        "second": "GROUND"
     },
     {
         "term": "piloswine",
-        "first": "ice",
-        "second": "ground"
+        "first": "ICE",
+        "second": "GROUND"
     },
     {
         "term": "corsola",
-        "first": "water",
-        "second": "rock"
+        "first": "WATER",
+        "second": "ROCK"
     },
     {
         "term": "remoraid",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "octillery",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "delibird",
-        "first": "ice",
-        "second": "flying"
+        "first": "ICE",
+        "second": "FLYING"
     },
     {
         "term": "mantine",
-        "first": "water",
-        "second": "flying"
+        "first": "WATER",
+        "second": "FLYING"
     },
     {
         "term": "skarmory",
-        "first": "steel",
-        "second": "flying"
+        "first": "STEEL",
+        "second": "FLYING"
     },
     {
         "term": "houndour",
-        "first": "dark",
-        "second": "fire"
+        "first": "DARK",
+        "second": "FIRE"
     },
     {
         "term": "houndoom",
-        "first": "dark",
-        "second": "fire"
+        "first": "DARK",
+        "second": "FIRE"
     },
     {
         "term": "mega houndoom",
-        "first": "dark",
-        "second": "fire"
+        "first": "DARK",
+        "second": "FIRE"
     },
     {
         "term": "kingdra",
-        "first": "water",
-        "second": "dragon"
+        "first": "WATER",
+        "second": "DRAGON"
     },
     {
         "term": "phanpy",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "donphan",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "porygon 2",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "stantler",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "smeargle",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "tyrogue",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "hitmontop",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "smoochum",
-        "first": "ice",
-        "second": "psychic"
+        "first": "ICE",
+        "second": "PSYCHIC"
     },
     {
         "term": "elekid",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "magby",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "miltank",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "blissey",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "raikou",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "entei",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "suicune",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "larvitar",
-        "first": "rock",
-        "second": "ground"
+        "first": "ROCK",
+        "second": "GROUND"
     },
     {
         "term": "pupitar",
-        "first": "rock",
-        "second": "ground"
+        "first": "ROCK",
+        "second": "GROUND"
     },
     {
         "term": "tyranitar",
-        "first": "rock",
-        "second": "dark"
+        "first": "ROCK",
+        "second": "DARK"
     },
     {
         "term": "mega tyranitar",
-        "first": "rock",
-        "second": "dark"
+        "first": "ROCK",
+        "second": "DARK"
     },
     {
         "term": "lugia",
-        "first": "psychic",
-        "second": "flying"
+        "first": "PSYCHIC",
+        "second": "FLYING"
     },
     {
         "term": "ho-oh",
-        "first": "fire",
-        "second": "flying"
+        "first": "FIRE",
+        "second": "FLYING"
     },
     {
         "term": "celebi",
-        "first": "psychic",
-        "second": "grass"
+        "first": "PSYCHIC",
+        "second": "GRASS"
     },
     {
         "term": "treecko",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "grovyle",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "sceptile",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "mega sceptile",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "torchic",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "combusken",
-        "first": "fire",
-        "second": "fighting"
+        "first": "FIRE",
+        "second": "FIGHTING"
     },
     {
         "term": "blaziken",
-        "first": "fire",
-        "second": "fighting"
+        "first": "FIRE",
+        "second": "FIGHTING"
     },
     {
         "term": "mega blaziken",
-        "first": "fire",
-        "second": "fighting"
+        "first": "FIRE",
+        "second": "FIGHTING"
     },
     {
         "term": "mudkip",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "marshtomp",
-        "first": "water",
-        "second": "ground"
+        "first": "WATER",
+        "second": "GROUND"
     },
     {
         "term": "swampert",
-        "first": "water",
-        "second": "ground"
+        "first": "WATER",
+        "second": "GROUND"
     },
     {
         "term": "mega swampert",
-        "first": "water",
-        "second": "ground"
+        "first": "WATER",
+        "second": "GROUND"
     },
     {
         "term": "poochyena",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "mightyena",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "zigzagoon",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "linoone",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "wurmple",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "silcoon",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "beautifly",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "cascoon",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "dustox",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "lotad",
-        "first": "water",
-        "second": "grass"
+        "first": "WATER",
+        "second": "GRASS"
     },
     {
         "term": "lombre",
-        "first": "water",
-        "second": "grass"
+        "first": "WATER",
+        "second": "GRASS"
     },
     {
         "term": "ludicolo",
-        "first": "water",
-        "second": "grass"
+        "first": "WATER",
+        "second": "GRASS"
     },
     {
         "term": "seedot",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "nuzleaf",
-        "first": "grass",
-        "second": "dark"
+        "first": "GRASS",
+        "second": "DARK"
     },
     {
         "term": "shiftry",
-        "first": "grass",
-        "second": "dark"
+        "first": "GRASS",
+        "second": "DARK"
     },
     {
         "term": "taillow",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "swellow",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "wingull",
-        "first": "water",
-        "second": "flying"
+        "first": "WATER",
+        "second": "FLYING"
     },
     {
         "term": "pelipper",
-        "first": "water",
-        "second": "flying"
+        "first": "WATER",
+        "second": "FLYING"
     },
     {
         "term": "ralts",
-        "first": "psychic",
-        "second": "fairy"
+        "first": "PSYCHIC",
+        "second": "FAIRY"
     },
     {
         "term": "kirlia",
-        "first": "psychic",
-        "second": "fairy"
+        "first": "PSYCHIC",
+        "second": "FAIRY"
     },
     {
         "term": "gardevoir",
-        "first": "psychic",
-        "second": "fairy"
+        "first": "PSYCHIC",
+        "second": "FAIRY"
     },
     {
         "term": "mega gardevoir",
-        "first": "psychic",
-        "second": "fairy"
+        "first": "PSYCHIC",
+        "second": "FAIRY"
     },
     {
         "term": "surskit",
-        "first": "bug",
-        "second": "water"
+        "first": "BUG",
+        "second": "WATER"
     },
     {
         "term": "masquerain",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "shroomish",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "breloom",
-        "first": "grass",
-        "second": "fighting"
+        "first": "GRASS",
+        "second": "FIGHTING"
     },
     {
         "term": "slakoth",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "vigoroth",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "slaking",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "nincada",
-        "first": "bug",
-        "second": "ground"
+        "first": "BUG",
+        "second": "GROUND"
     },
     {
         "term": "ninjask",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "shedinja",
-        "first": "bug",
-        "second": "ghost"
+        "first": "BUG",
+        "second": "GHOST"
     },
     {
         "term": "whismur",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "loudred",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "exploud",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "makuhita",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "hariyama",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "azurill",
-        "first": "normal",
-        "second": "fairy"
+        "first": "NORMAL",
+        "second": "FAIRY"
     },
     {
         "term": "nosepass",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "skitty",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "delcatty",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "sableye",
-        "first": "dark",
-        "second": "ghost"
+        "first": "DARK",
+        "second": "GHOST"
     },
     {
         "term": "mega sableye",
-        "first": "dark",
-        "second": "ghost"
+        "first": "DARK",
+        "second": "GHOST"
     },
     {
         "term": "mawile",
-        "first": "steel",
-        "second": "fairy"
+        "first": "STEEL",
+        "second": "FAIRY"
     },
     {
         "term": "mega mawile",
-        "first": "steel",
-        "second": "fairy"
+        "first": "STEEL",
+        "second": "FAIRY"
     },
     {
         "term": "aron",
-        "first": "steel",
-        "second": "rock"
+        "first": "STEEL",
+        "second": "ROCK"
     },
     {
         "term": "lairon",
-        "first": "steel",
-        "second": "rock"
+        "first": "STEEL",
+        "second": "ROCK"
     },
     {
         "term": "aggron",
-        "first": "steel",
-        "second": "rock"
+        "first": "STEEL",
+        "second": "ROCK"
     },
     {
         "term": "mega aggron",
-        "first": "steel",
-        "second": "rock"
+        "first": "STEEL",
+        "second": "ROCK"
     },
     {
         "term": "meditite",
-        "first": "fighting",
-        "second": "psychic"
+        "first": "FIGHTING",
+        "second": "PSYCHIC"
     },
     {
         "term": "medicham",
-        "first": "fighting",
-        "second": "psychic"
+        "first": "FIGHTING",
+        "second": "PSYCHIC"
     },
     {
         "term": "mega medicham",
-        "first": "fighting",
-        "second": "psychic"
+        "first": "FIGHTING",
+        "second": "PSYCHIC"
     },
     {
         "term": "electrike",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "manectric",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "mega manectric",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "plusle",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "minun",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "volbeat",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "illumise",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "roselia",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "gulpin",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "swalot",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "carvanha",
-        "first": "water",
-        "second": "dark"
+        "first": "WATER",
+        "second": "DARK"
     },
     {
         "term": "sharpedo",
-        "first": "water",
-        "second": "dark"
+        "first": "WATER",
+        "second": "DARK"
     },
     {
         "term": "mega sharpedo",
-        "first": "water",
-        "second": "dark"
+        "first": "WATER",
+        "second": "DARK"
     },
     {
         "term": "wailmer",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "wailord",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "numel",
-        "first": "fire",
-        "second": "ground"
+        "first": "FIRE",
+        "second": "GROUND"
     },
     {
         "term": "camerupt",
-        "first": "fire",
-        "second": "ground"
+        "first": "FIRE",
+        "second": "GROUND"
     },
     {
         "term": "mega camerupt",
-        "first": "fire",
-        "second": "ground"
+        "first": "FIRE",
+        "second": "GROUND"
     },
     {
         "term": "torkoal",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "spoink",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "grumpig",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "spinda",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "trapinch",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "vibrava",
-        "first": "ground",
-        "second": "dragon"
+        "first": "GROUND",
+        "second": "DRAGON"
     },
     {
         "term": "flygon",
-        "first": "ground",
-        "second": "dragon"
+        "first": "GROUND",
+        "second": "DRAGON"
     },
     {
         "term": "cacnea",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "cacturne",
-        "first": "grass",
-        "second": "dark"
+        "first": "GRASS",
+        "second": "DARK"
     },
     {
         "term": "swablu",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "altaria",
-        "first": "dragon",
-        "second": "flying"
+        "first": "DRAGON",
+        "second": "FLYING"
     },
     {
         "term": "mega altaria",
-        "first": "dragon",
-        "second": "flying"
+        "first": "DRAGON",
+        "second": "FLYING"
     },
     {
         "term": "zangoose",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "seviper",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "lunatone",
-        "first": "rock",
-        "second": "psychic"
+        "first": "ROCK",
+        "second": "PSYCHIC"
     },
     {
         "term": "solrock",
-        "first": "rock",
-        "second": "psychic"
+        "first": "ROCK",
+        "second": "PSYCHIC"
     },
     {
         "term": "barboach",
-        "first": "water",
-        "second": "ground"
+        "first": "WATER",
+        "second": "GROUND"
     },
     {
         "term": "whiscash",
-        "first": "water",
-        "second": "ground"
+        "first": "WATER",
+        "second": "GROUND"
     },
     {
         "term": "corphish",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "crawdaunt",
-        "first": "water",
-        "second": "dark"
+        "first": "WATER",
+        "second": "DARK"
     },
     {
         "term": "baltoy",
-        "first": "ground",
-        "second": "psychic"
+        "first": "GROUND",
+        "second": "PSYCHIC"
     },
     {
         "term": "claydol",
-        "first": "ground",
-        "second": "psychic"
+        "first": "GROUND",
+        "second": "PSYCHIC"
     },
     {
         "term": "lileep",
-        "first": "rock",
-        "second": "grass"
+        "first": "ROCK",
+        "second": "GRASS"
     },
     {
         "term": "cradily",
-        "first": "rock",
-        "second": "grass"
+        "first": "ROCK",
+        "second": "GRASS"
     },
     {
         "term": "anorith",
-        "first": "rock",
-        "second": "bug"
+        "first": "ROCK",
+        "second": "BUG"
     },
     {
         "term": "armaldo",
-        "first": "rock",
-        "second": "bug"
+        "first": "ROCK",
+        "second": "BUG"
     },
     {
         "term": "feebas",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "milotic",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "castform",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "kecleon",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "shuppet",
-        "first": "ghost",
+        "first": "GHOST",
         "second": null
     },
     {
         "term": "banette",
-        "first": "ghost",
+        "first": "GHOST",
         "second": null
     },
     {
         "term": "mega banette",
-        "first": "ghost",
+        "first": "GHOST",
         "second": null
     },
     {
         "term": "duskull",
-        "first": "ghost",
+        "first": "GHOST",
         "second": null
     },
     {
         "term": "dusclops",
-        "first": "ghost",
+        "first": "GHOST",
         "second": null
     },
     {
         "term": "tropius",
-        "first": "grass",
-        "second": "flying"
+        "first": "GRASS",
+        "second": "FLYING"
     },
     {
         "term": "chimecho",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "absol",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "mega absol",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "wynaut",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "snorunt",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "glalie",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "mega glalie",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "spheal",
-        "first": "ice",
-        "second": "water"
+        "first": "ICE",
+        "second": "WATER"
     },
     {
         "term": "sealeo",
-        "first": "ice",
-        "second": "water"
+        "first": "ICE",
+        "second": "WATER"
     },
     {
         "term": "walrein",
-        "first": "ice",
-        "second": "water"
+        "first": "ICE",
+        "second": "WATER"
     },
     {
         "term": "clamperl",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "huntail",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "gorebyss",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "relicanth",
-        "first": "water",
-        "second": "rock"
+        "first": "WATER",
+        "second": "ROCK"
     },
     {
         "term": "luvdisc",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "bagon",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "shelgon",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "salamence",
-        "first": "dragon",
-        "second": "flying"
+        "first": "DRAGON",
+        "second": "FLYING"
     },
     {
         "term": "mega salamence",
-        "first": "dragon",
-        "second": "flying"
+        "first": "DRAGON",
+        "second": "FLYING"
     },
     {
         "term": "beldum",
-        "first": "steel",
-        "second": "psychic"
+        "first": "STEEL",
+        "second": "PSYCHIC"
     },
     {
         "term": "metang",
-        "first": "steel",
-        "second": "psychic"
+        "first": "STEEL",
+        "second": "PSYCHIC"
     },
     {
         "term": "metagross",
-        "first": "steel",
-        "second": "psychic"
+        "first": "STEEL",
+        "second": "PSYCHIC"
     },
     {
         "term": "mega metagross",
-        "first": "steel",
-        "second": "psychic"
+        "first": "STEEL",
+        "second": "PSYCHIC"
     },
     {
         "term": "regirock",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "regice",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "registeel",
-        "first": "steel",
+        "first": "STEEL",
         "second": null
     },
     {
         "term": "latias",
-        "first": "dragon",
-        "second": "psychic"
+        "first": "DRAGON",
+        "second": "PSYCHIC"
     },
     {
         "term": "mega latias",
-        "first": "dragon",
-        "second": "psychic"
+        "first": "DRAGON",
+        "second": "PSYCHIC"
     },
     {
         "term": "latios",
-        "first": "dragon",
-        "second": "psychic"
+        "first": "DRAGON",
+        "second": "PSYCHIC"
     },
     {
         "term": "mega latios",
-        "first": "dragon",
-        "second": "psychic"
+        "first": "DRAGON",
+        "second": "PSYCHIC"
     },
     {
         "term": "kyogre",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "primal kyogre",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "groudon",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "primal groudon",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "rayquaza",
-        "first": "dragon",
-        "second": "flying"
+        "first": "DRAGON",
+        "second": "FLYING"
     },
     {
         "term": "mega rayquaza",
-        "first": "dragon",
-        "second": "flying"
+        "first": "DRAGON",
+        "second": "FLYING"
     },
     {
         "term": "jirachi",
-        "first": "steel",
-        "second": "psychic"
+        "first": "STEEL",
+        "second": "PSYCHIC"
     },
     {
         "term": "deoxys normal",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "deoxys attack",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "deoxys defense",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "deoxys speed",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "turtwig",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "grotle",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "torterra",
-        "first": "grass",
-        "second": "ground"
+        "first": "GRASS",
+        "second": "GROUND"
     },
     {
         "term": "chimchar",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "monferno",
-        "first": "fire",
-        "second": "fighting"
+        "first": "FIRE",
+        "second": "FIGHTING"
     },
     {
         "term": "infernape",
-        "first": "fire",
-        "second": "fighting"
+        "first": "FIRE",
+        "second": "FIGHTING"
     },
     {
         "term": "piplup",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "prinplup",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "empoleon",
-        "first": "water",
-        "second": "steel"
+        "first": "WATER",
+        "second": "STEEL"
     },
     {
         "term": "starly",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "staravia",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "staraptor",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "bidoof",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "bibarel",
-        "first": "normal",
-        "second": "water"
+        "first": "NORMAL",
+        "second": "WATER"
     },
     {
         "term": "kricketot",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "kricketune",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "shinx",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "luxio",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "luxray",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "budew",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "roserade",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "cranidos",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "rampardos",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "shieldon",
-        "first": "rock",
-        "second": "steel"
+        "first": "ROCK",
+        "second": "STEEL"
     },
     {
         "term": "bastiodon",
-        "first": "rock",
-        "second": "steel"
+        "first": "ROCK",
+        "second": "STEEL"
     },
     {
         "term": "burmy",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "wormadam plant cloak",
-        "first": "bug",
-        "second": "grass"
+        "first": "BUG",
+        "second": "GRASS"
     },
     {
         "term": "wormadam sandy cloak",
-        "first": "bug",
-        "second": "ground"
+        "first": "BUG",
+        "second": "GROUND"
     },
     {
         "term": "wormadam trash cloak",
-        "first": "bug",
-        "second": "steel"
+        "first": "BUG",
+        "second": "STEEL"
     },
     {
         "term": "mothim",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "combee",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "vespiquen",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "pachirisu",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "buizel",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "floatzel",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "cherubi",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "cherrim",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "shellos",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "gastrodon",
-        "first": "water",
-        "second": "ground"
+        "first": "WATER",
+        "second": "GROUND"
     },
     {
         "term": "ambipom",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "drifloon",
-        "first": "ghost",
-        "second": "flying"
+        "first": "GHOST",
+        "second": "FLYING"
     },
     {
         "term": "drifblim",
-        "first": "ghost",
-        "second": "flying"
+        "first": "GHOST",
+        "second": "FLYING"
     },
     {
         "term": "buneary",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "lopunny",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "mega lopunny",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "mismagius",
-        "first": "ghost",
+        "first": "GHOST",
         "second": null
     },
     {
         "term": "honchkrow",
-        "first": "dark",
-        "second": "flying"
+        "first": "DARK",
+        "second": "FLYING"
     },
     {
         "term": "glameow",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "purugly",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "chingling",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "stunky",
-        "first": "poison",
-        "second": "dark"
+        "first": "POISON",
+        "second": "DARK"
     },
     {
         "term": "skuntank",
-        "first": "poison",
-        "second": "dark"
+        "first": "POISON",
+        "second": "DARK"
     },
     {
         "term": "bronzor",
-        "first": "steel",
-        "second": "psychic"
+        "first": "STEEL",
+        "second": "PSYCHIC"
     },
     {
         "term": "bronzong",
-        "first": "steel",
-        "second": "psychic"
+        "first": "STEEL",
+        "second": "PSYCHIC"
     },
     {
         "term": "bonsly",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "mime jr.",
-        "first": "psychic",
-        "second": "fairy"
+        "first": "PSYCHIC",
+        "second": "FAIRY"
     },
     {
         "term": "happiny",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "chatot",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "spiritomb",
-        "first": "ghost",
-        "second": "dark"
+        "first": "GHOST",
+        "second": "DARK"
     },
     {
         "term": "gible",
-        "first": "dragon",
-        "second": "ground"
+        "first": "DRAGON",
+        "second": "GROUND"
     },
     {
         "term": "gabite",
-        "first": "dragon",
-        "second": "ground"
+        "first": "DRAGON",
+        "second": "GROUND"
     },
     {
         "term": "garchomp",
-        "first": "dragon",
-        "second": "ground"
+        "first": "DRAGON",
+        "second": "GROUND"
     },
     {
         "term": "mega garchomp",
-        "first": "dragon",
-        "second": "ground"
+        "first": "DRAGON",
+        "second": "GROUND"
     },
     {
         "term": "munchlax",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "riolu",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "lucario",
-        "first": "fighting",
-        "second": "steel"
+        "first": "FIGHTING",
+        "second": "STEEL"
     },
     {
         "term": "mega lucario",
-        "first": "fighting",
-        "second": "steel"
+        "first": "FIGHTING",
+        "second": "STEEL"
     },
     {
         "term": "hippopotas",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "hippowdon",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "skorupi",
-        "first": "poison",
-        "second": "bug"
+        "first": "POISON",
+        "second": "BUG"
     },
     {
         "term": "drapion",
-        "first": "poison",
-        "second": "dark"
+        "first": "POISON",
+        "second": "DARK"
     },
     {
         "term": "croagunk",
-        "first": "poison",
-        "second": "fighting"
+        "first": "POISON",
+        "second": "FIGHTING"
     },
     {
         "term": "toxicroak",
-        "first": "poison",
-        "second": "fighting"
+        "first": "POISON",
+        "second": "FIGHTING"
     },
     {
         "term": "carnivine",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "finneon",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "lumineon",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "mantyke",
-        "first": "water",
-        "second": "flying"
+        "first": "WATER",
+        "second": "FLYING"
     },
     {
         "term": "snover",
-        "first": "grass",
-        "second": "ice"
+        "first": "GRASS",
+        "second": "ICE"
     },
     {
         "term": "abomasnow",
-        "first": "grass",
-        "second": "ice"
+        "first": "GRASS",
+        "second": "ICE"
     },
     {
         "term": "mega abomasnow",
-        "first": "grass",
-        "second": "ice"
+        "first": "GRASS",
+        "second": "ICE"
     },
     {
         "term": "weavile",
-        "first": "dark",
-        "second": "ice"
+        "first": "DARK",
+        "second": "ICE"
     },
     {
         "term": "magnezone",
-        "first": "electric",
-        "second": "steel"
+        "first": "ELECTRIC",
+        "second": "STEEL"
     },
     {
         "term": "lickilicky",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "rhyperior",
-        "first": "ground",
-        "second": "rock"
+        "first": "GROUND",
+        "second": "ROCK"
     },
     {
         "term": "tangrowth",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "electivire",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "magmortar",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "togekiss",
-        "first": "fairy",
-        "second": "flying"
+        "first": "FAIRY",
+        "second": "FLYING"
     },
     {
         "term": "yanmega",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "leafeon",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "glaceon",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "gliscor",
-        "first": "ground",
-        "second": "flying"
+        "first": "GROUND",
+        "second": "FLYING"
     },
     {
         "term": "mamoswine",
-        "first": "ice",
-        "second": "ground"
+        "first": "ICE",
+        "second": "GROUND"
     },
     {
         "term": "porygon z",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "gallade",
-        "first": "psychic",
-        "second": "fighting"
+        "first": "PSYCHIC",
+        "second": "FIGHTING"
     },
     {
         "term": "mega gallade",
-        "first": "psychic",
-        "second": "fighting"
+        "first": "PSYCHIC",
+        "second": "FIGHTING"
     },
     {
         "term": "probopass",
-        "first": "rock",
-        "second": "steel"
+        "first": "ROCK",
+        "second": "STEEL"
     },
     {
         "term": "dusknoir",
-        "first": "ghost",
+        "first": "GHOST",
         "second": null
     },
     {
         "term": "froslass",
-        "first": "ice",
-        "second": "ghost"
+        "first": "ICE",
+        "second": "GHOST"
     },
     {
         "term": "rotom",
-        "first": "electric",
-        "second": "ghost"
+        "first": "ELECTRIC",
+        "second": "GHOST"
     },
     {
         "term": "rotom heat",
-        "first": "electric",
-        "second": "fire"
+        "first": "ELECTRIC",
+        "second": "FIRE"
     },
     {
         "term": "rotom wash",
-        "first": "electric",
-        "second": "water"
+        "first": "ELECTRIC",
+        "second": "WATER"
     },
     {
         "term": "rotom frost",
-        "first": "electric",
-        "second": "ice"
+        "first": "ELECTRIC",
+        "second": "ICE"
     },
     {
         "term": "rotom fan",
-        "first": "electric",
-        "second": "flying"
+        "first": "ELECTRIC",
+        "second": "FLYING"
     },
     {
         "term": "rotom mow",
-        "first": "electric",
-        "second": "grass"
+        "first": "ELECTRIC",
+        "second": "GRASS"
     },
     {
         "term": "uxie",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "mesprit",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "azelf",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "dialga",
-        "first": "steel",
-        "second": "dragon"
+        "first": "STEEL",
+        "second": "DRAGON"
     },
     {
         "term": "palkia",
-        "first": "water",
-        "second": "dragon"
+        "first": "WATER",
+        "second": "DRAGON"
     },
     {
         "term": "heatran",
-        "first": "fire",
-        "second": "steel"
+        "first": "FIRE",
+        "second": "STEEL"
     },
     {
         "term": "regigigas",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "giratina altered",
-        "first": "ghost",
-        "second": "dragon"
+        "first": "GHOST",
+        "second": "DRAGON"
     },
     {
         "term": "giratina origin",
-        "first": "ghost",
-        "second": "dragon"
+        "first": "GHOST",
+        "second": "DRAGON"
     },
     {
         "term": "cresselia",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "phione",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "manaphy",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "darkrai",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "shaymin land",
-        "first": "grass",
-        "second": "flying"
+        "first": "GRASS",
+        "second": "FLYING"
     },
     {
         "term": "shaymin sky",
-        "first": "grass",
-        "second": "flying"
+        "first": "GRASS",
+        "second": "FLYING"
     },
     {
         "term": "arceus",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "victini",
-        "first": "psychic",
-        "second": "fire"
+        "first": "PSYCHIC",
+        "second": "FIRE"
     },
     {
         "term": "snivy",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "servine",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "serperior",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "tepig",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "pignite",
-        "first": "fire",
-        "second": "fighting"
+        "first": "FIRE",
+        "second": "FIGHTING"
     },
     {
         "term": "emboar",
-        "first": "fire",
-        "second": "fighting"
+        "first": "FIRE",
+        "second": "FIGHTING"
     },
     {
         "term": "oshawott",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "dewott",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "samurott",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "patrat",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "watchog",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "lillipup",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "herdier",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "stoutland",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "purrloin",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "liepard",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "pansage",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "simisage",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "pansear",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "simisear",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "panpour",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "simipour",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "munna",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "musharna",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "pidove",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "tranquill",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "unfezant",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "blitzle",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "zebstrika",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "roggenrola",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "boldore",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "gigalith",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "woobat",
-        "first": "psychic",
-        "second": "flying"
+        "first": "PSYCHIC",
+        "second": "FLYING"
     },
     {
         "term": "swoobat",
-        "first": "psychic",
-        "second": "flying"
+        "first": "PSYCHIC",
+        "second": "FLYING"
     },
     {
         "term": "drilbur",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "excadrill",
-        "first": "ground",
-        "second": "steel"
+        "first": "GROUND",
+        "second": "STEEL"
     },
     {
         "term": "audino",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "mega audino",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "timburr",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "gurdurr",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "conkeldurr",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "tympole",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "palpitoad",
-        "first": "water",
-        "second": "ground"
+        "first": "WATER",
+        "second": "GROUND"
     },
     {
         "term": "seismitoad",
-        "first": "water",
-        "second": "ground"
+        "first": "WATER",
+        "second": "GROUND"
     },
     {
         "term": "throh",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "sawk",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "sewaddle",
-        "first": "bug",
-        "second": "grass"
+        "first": "BUG",
+        "second": "GRASS"
     },
     {
         "term": "swadloon",
-        "first": "bug",
-        "second": "grass"
+        "first": "BUG",
+        "second": "GRASS"
     },
     {
         "term": "leavanny",
-        "first": "bug",
-        "second": "grass"
+        "first": "BUG",
+        "second": "GRASS"
     },
     {
         "term": "venipede",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "whirlipede",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "scolipede",
-        "first": "bug",
-        "second": "poison"
+        "first": "BUG",
+        "second": "POISON"
     },
     {
         "term": "cottonee",
-        "first": "grass",
-        "second": "fairy"
+        "first": "GRASS",
+        "second": "FAIRY"
     },
     {
         "term": "whimsicott",
-        "first": "grass",
-        "second": "fairy"
+        "first": "GRASS",
+        "second": "FAIRY"
     },
     {
         "term": "petilil",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "lilligant",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "basculin red striped",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "basculin blue striped",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "sandile",
-        "first": "ground",
-        "second": "dark"
+        "first": "GROUND",
+        "second": "DARK"
     },
     {
         "term": "krokorok",
-        "first": "ground",
-        "second": "dark"
+        "first": "GROUND",
+        "second": "DARK"
     },
     {
         "term": "krookodile",
-        "first": "ground",
-        "second": "dark"
+        "first": "GROUND",
+        "second": "DARK"
     },
     {
         "term": "darumaka",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "darmanitan",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "darmanitan zen mode",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "maractus",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "dwebble",
-        "first": "bug",
-        "second": "rock"
+        "first": "BUG",
+        "second": "ROCK"
     },
     {
         "term": "crustle",
-        "first": "bug",
-        "second": "rock"
+        "first": "BUG",
+        "second": "ROCK"
     },
     {
         "term": "scraggy",
-        "first": "dark",
-        "second": "fighting"
+        "first": "DARK",
+        "second": "FIGHTING"
     },
     {
         "term": "scrafty",
-        "first": "dark",
-        "second": "fighting"
+        "first": "DARK",
+        "second": "FIGHTING"
     },
     {
         "term": "sigilyph",
-        "first": "psychic",
-        "second": "flying"
+        "first": "PSYCHIC",
+        "second": "FLYING"
     },
     {
         "term": "yamask",
-        "first": "ghost",
+        "first": "GHOST",
         "second": null
     },
     {
         "term": "cofagrigus",
-        "first": "ghost",
+        "first": "GHOST",
         "second": null
     },
     {
         "term": "tirtouga",
-        "first": "water",
-        "second": "rock"
+        "first": "WATER",
+        "second": "ROCK"
     },
     {
         "term": "carracosta",
-        "first": "water",
-        "second": "rock"
+        "first": "WATER",
+        "second": "ROCK"
     },
     {
         "term": "archen",
-        "first": "rock",
-        "second": "flying"
+        "first": "ROCK",
+        "second": "FLYING"
     },
     {
         "term": "archeops",
-        "first": "rock",
-        "second": "flying"
+        "first": "ROCK",
+        "second": "FLYING"
     },
     {
         "term": "trubbish",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "garbodor",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "zorua",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "zoroark",
-        "first": "dark",
+        "first": "DARK",
         "second": null
     },
     {
         "term": "minccino",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "cinccino",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "gothita",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "gothorita",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "gothitelle",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "solosis",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "duosion",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "reuniclus",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "ducklett",
-        "first": "water",
-        "second": "flying"
+        "first": "WATER",
+        "second": "FLYING"
     },
     {
         "term": "swanna",
-        "first": "water",
-        "second": "flying"
+        "first": "WATER",
+        "second": "FLYING"
     },
     {
         "term": "vanillite",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "vanillish",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "vanilluxe",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "deerling",
-        "first": "normal",
-        "second": "grass"
+        "first": "NORMAL",
+        "second": "GRASS"
     },
     {
         "term": "sawsbuck",
-        "first": "normal",
-        "second": "grass"
+        "first": "NORMAL",
+        "second": "GRASS"
     },
     {
         "term": "emolga",
-        "first": "electric",
-        "second": "flying"
+        "first": "ELECTRIC",
+        "second": "FLYING"
     },
     {
         "term": "karrablast",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "escavalier",
-        "first": "bug",
-        "second": "steel"
+        "first": "BUG",
+        "second": "STEEL"
     },
     {
         "term": "foongus",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "amoonguss",
-        "first": "grass",
-        "second": "poison"
+        "first": "GRASS",
+        "second": "POISON"
     },
     {
         "term": "frillish",
-        "first": "water",
-        "second": "ghost"
+        "first": "WATER",
+        "second": "GHOST"
     },
     {
         "term": "jellicent",
-        "first": "water",
-        "second": "ghost"
+        "first": "WATER",
+        "second": "GHOST"
     },
     {
         "term": "alomomola",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "joltik",
-        "first": "bug",
-        "second": "electric"
+        "first": "BUG",
+        "second": "ELECTRIC"
     },
     {
         "term": "galvantula",
-        "first": "bug",
-        "second": "electric"
+        "first": "BUG",
+        "second": "ELECTRIC"
     },
     {
         "term": "ferroseed",
-        "first": "grass",
-        "second": "steel"
+        "first": "GRASS",
+        "second": "STEEL"
     },
     {
         "term": "ferrothorn",
-        "first": "grass",
-        "second": "steel"
+        "first": "GRASS",
+        "second": "STEEL"
     },
     {
         "term": "klink",
-        "first": "steel",
+        "first": "STEEL",
         "second": null
     },
     {
         "term": "klang",
-        "first": "steel",
+        "first": "STEEL",
         "second": null
     },
     {
         "term": "klinklang",
-        "first": "steel",
+        "first": "STEEL",
         "second": null
     },
     {
         "term": "tynamo",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "eelektrik",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "eelektross",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "elgyem",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "beheeyem",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "litwick",
-        "first": "ghost",
-        "second": "fire"
+        "first": "GHOST",
+        "second": "FIRE"
     },
     {
         "term": "lampent",
-        "first": "ghost",
-        "second": "fire"
+        "first": "GHOST",
+        "second": "FIRE"
     },
     {
         "term": "chandelure",
-        "first": "ghost",
-        "second": "fire"
+        "first": "GHOST",
+        "second": "FIRE"
     },
     {
         "term": "axew",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "fraxure",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "haxorus",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "cubchoo",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "beartic",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "cryogonal",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "shelmet",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "accelgor",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "stunfisk",
-        "first": "ground",
-        "second": "electric"
+        "first": "GROUND",
+        "second": "ELECTRIC"
     },
     {
         "term": "mienfoo",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "mienshao",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "druddigon",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "golett",
-        "first": "ground",
-        "second": "ghost"
+        "first": "GROUND",
+        "second": "GHOST"
     },
     {
         "term": "golurk",
-        "first": "ground",
-        "second": "ghost"
+        "first": "GROUND",
+        "second": "GHOST"
     },
     {
         "term": "pawniard",
-        "first": "dark",
-        "second": "steel"
+        "first": "DARK",
+        "second": "STEEL"
     },
     {
         "term": "bisharp",
-        "first": "dark",
-        "second": "steel"
+        "first": "DARK",
+        "second": "STEEL"
     },
     {
         "term": "bouffalant",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "rufflet",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "braviary",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "vullaby",
-        "first": "dark",
-        "second": "flying"
+        "first": "DARK",
+        "second": "FLYING"
     },
     {
         "term": "mandibuzz",
-        "first": "dark",
-        "second": "flying"
+        "first": "DARK",
+        "second": "FLYING"
     },
     {
         "term": "heatmor",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "durant",
-        "first": "bug",
-        "second": "steel"
+        "first": "BUG",
+        "second": "STEEL"
     },
     {
         "term": "deino",
-        "first": "dark",
-        "second": "dragon"
+        "first": "DARK",
+        "second": "DRAGON"
     },
     {
         "term": "zweilous",
-        "first": "dark",
-        "second": "dragon"
+        "first": "DARK",
+        "second": "DRAGON"
     },
     {
         "term": "hydreigon",
-        "first": "dark",
-        "second": "dragon"
+        "first": "DARK",
+        "second": "DRAGON"
     },
     {
         "term": "larvesta",
-        "first": "bug",
-        "second": "fire"
+        "first": "BUG",
+        "second": "FIRE"
     },
     {
         "term": "volcarona",
-        "first": "bug",
-        "second": "fire"
+        "first": "BUG",
+        "second": "FIRE"
     },
     {
         "term": "cobalion",
-        "first": "steel",
-        "second": "fighting"
+        "first": "STEEL",
+        "second": "FIGHTING"
     },
     {
         "term": "terrakion",
-        "first": "rock",
-        "second": "fighting"
+        "first": "ROCK",
+        "second": "FIGHTING"
     },
     {
         "term": "virizion",
-        "first": "grass",
-        "second": "fighting"
+        "first": "GRASS",
+        "second": "FIGHTING"
     },
     {
         "term": "tornadus incarnate",
-        "first": "flying",
+        "first": "FLYING",
         "second": null
     },
     {
         "term": "tornadus therian",
-        "first": "flying",
+        "first": "FLYING",
         "second": null
     },
     {
         "term": "thundurus incarnate",
-        "first": "electric",
-        "second": "flying"
+        "first": "ELECTRIC",
+        "second": "FLYING"
     },
     {
         "term": "thundurus therian",
-        "first": "electric",
-        "second": "flying"
+        "first": "ELECTRIC",
+        "second": "FLYING"
     },
     {
         "term": "reshiram",
-        "first": "dragon",
-        "second": "fire"
+        "first": "DRAGON",
+        "second": "FIRE"
     },
     {
         "term": "zekrom",
-        "first": "dragon",
-        "second": "electric"
+        "first": "DRAGON",
+        "second": "ELECTRIC"
     },
     {
         "term": "landorus incarnate",
-        "first": "ground",
-        "second": "flying"
+        "first": "GROUND",
+        "second": "FLYING"
     },
     {
         "term": "landorus therian",
-        "first": "ground",
-        "second": "flying"
+        "first": "GROUND",
+        "second": "FLYING"
     },
     {
         "term": "kyurem",
-        "first": "dragon",
-        "second": "ice"
+        "first": "DRAGON",
+        "second": "ICE"
     },
     {
         "term": "kyurem black",
-        "first": "dragon",
-        "second": "ice"
+        "first": "DRAGON",
+        "second": "ICE"
     },
     {
         "term": "kyurem white",
-        "first": "dragon",
-        "second": "ice"
+        "first": "DRAGON",
+        "second": "ICE"
     },
     {
         "term": "keldeo",
-        "first": "water",
-        "second": "fighting"
+        "first": "WATER",
+        "second": "FIGHTING"
     },
     {
         "term": "meloetta aria",
-        "first": "normal",
-        "second": "psychic"
+        "first": "NORMAL",
+        "second": "PSYCHIC"
     },
     {
         "term": "meloetta pirouette",
-        "first": "normal",
-        "second": "fighting"
+        "first": "NORMAL",
+        "second": "FIGHTING"
     },
     {
         "term": "genesect",
-        "first": "bug",
-        "second": "steel"
+        "first": "BUG",
+        "second": "STEEL"
     },
     {
         "term": "chespin",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "quilladin",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "chesnaught",
-        "first": "grass",
-        "second": "fighting"
+        "first": "GRASS",
+        "second": "FIGHTING"
     },
     {
         "term": "fennekin",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "braixen",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "delphox",
-        "first": "fire",
-        "second": "psychic"
+        "first": "FIRE",
+        "second": "PSYCHIC"
     },
     {
         "term": "froakie",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "frogadier",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "greninja",
-        "first": "water",
-        "second": "dark"
+        "first": "WATER",
+        "second": "DARK"
     },
     {
         "term": "greninja ash",
-        "first": "water",
-        "second": "dark"
+        "first": "WATER",
+        "second": "DARK"
     },
     {
         "term": "bunnelby",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "diggersby",
-        "first": "normal",
-        "second": "ground"
+        "first": "NORMAL",
+        "second": "GROUND"
     },
     {
         "term": "fletchling",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "fletchinder",
-        "first": "fire",
-        "second": "flying"
+        "first": "FIRE",
+        "second": "FLYING"
     },
     {
         "term": "talonflame",
-        "first": "fire",
-        "second": "flying"
+        "first": "FIRE",
+        "second": "FLYING"
     },
     {
         "term": "scatterbug",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "spewpa",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "vivillon",
-        "first": "bug",
-        "second": "flying"
+        "first": "BUG",
+        "second": "FLYING"
     },
     {
         "term": "litleo",
-        "first": "fire",
-        "second": "normal"
+        "first": "FIRE",
+        "second": "NORMAL"
     },
     {
         "term": "pyroar",
-        "first": "fire",
-        "second": "normal"
+        "first": "FIRE",
+        "second": "NORMAL"
     },
     {
         "term": "flabebe",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "floette",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "floette eternal",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "florges",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "skiddo",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "gogoat",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "pancham",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "pangoro",
-        "first": "fighting",
-        "second": "dark"
+        "first": "FIGHTING",
+        "second": "DARK"
     },
     {
         "term": "furfrou",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "espurr",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "meowstic male",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "meowstic female",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "honedge",
-        "first": "steel",
-        "second": "ghost"
+        "first": "STEEL",
+        "second": "GHOST"
     },
     {
         "term": "doublade",
-        "first": "steel",
-        "second": "ghost"
+        "first": "STEEL",
+        "second": "GHOST"
     },
     {
         "term": "aegislash shield",
-        "first": "steel",
-        "second": "ghost"
+        "first": "STEEL",
+        "second": "GHOST"
     },
     {
         "term": "aegislash blade",
-        "first": "steel",
-        "second": "ghost"
+        "first": "STEEL",
+        "second": "GHOST"
     },
     {
         "term": "spritzee",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "aromatisse",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "swirlix",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "slurpuff",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "inkay",
-        "first": "dark",
-        "second": "psychic"
+        "first": "DARK",
+        "second": "PSYCHIC"
     },
     {
         "term": "malamar",
-        "first": "dark",
-        "second": "psychic"
+        "first": "DARK",
+        "second": "PSYCHIC"
     },
     {
         "term": "binacle",
-        "first": "rock",
-        "second": "water"
+        "first": "ROCK",
+        "second": "WATER"
     },
     {
         "term": "barbaracle",
-        "first": "rock",
-        "second": "water"
+        "first": "ROCK",
+        "second": "WATER"
     },
     {
         "term": "skrelp",
-        "first": "poison",
-        "second": "water"
+        "first": "POISON",
+        "second": "WATER"
     },
     {
         "term": "dragalge",
-        "first": "poison",
-        "second": "dragon"
+        "first": "POISON",
+        "second": "DRAGON"
     },
     {
         "term": "clauncher",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "clawitzer",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "helioptile",
-        "first": "electric",
-        "second": "normal"
+        "first": "ELECTRIC",
+        "second": "NORMAL"
     },
     {
         "term": "heliolisk",
-        "first": "electric",
-        "second": "normal"
+        "first": "ELECTRIC",
+        "second": "NORMAL"
     },
     {
         "term": "tyrunt",
-        "first": "rock",
-        "second": "dragon"
+        "first": "ROCK",
+        "second": "DRAGON"
     },
     {
         "term": "tyrantrum",
-        "first": "rock",
-        "second": "dragon"
+        "first": "ROCK",
+        "second": "DRAGON"
     },
     {
         "term": "amaura",
-        "first": "rock",
-        "second": "ice"
+        "first": "ROCK",
+        "second": "ICE"
     },
     {
         "term": "aurorus",
-        "first": "rock",
-        "second": "ice"
+        "first": "ROCK",
+        "second": "ICE"
     },
     {
         "term": "sylveon",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "hawlucha",
-        "first": "fighting",
-        "second": "flying"
+        "first": "FIGHTING",
+        "second": "FLYING"
     },
     {
         "term": "dedenne",
-        "first": "electric",
-        "second": "fairy"
+        "first": "ELECTRIC",
+        "second": "FAIRY"
     },
     {
         "term": "carbink",
-        "first": "rock",
-        "second": "fairy"
+        "first": "ROCK",
+        "second": "FAIRY"
     },
     {
         "term": "goomy",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "sliggoo",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "goodra",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "klefki",
-        "first": "steel",
-        "second": "fairy"
+        "first": "STEEL",
+        "second": "FAIRY"
     },
     {
         "term": "phantump",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "trevenant",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "pumpkaboo small",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "pumpkaboo average",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "pumpkaboo large",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "pumpkaboo super",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "gourgeist small",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "gourgeist average",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "gourgeist large",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "gourgeist super",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "bergmite",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "avalugg",
-        "first": "ice",
+        "first": "ICE",
         "second": null
     },
     {
         "term": "noibat",
-        "first": "flying",
-        "second": "dragon"
+        "first": "FLYING",
+        "second": "DRAGON"
     },
     {
         "term": "noivern",
-        "first": "flying",
-        "second": "dragon"
+        "first": "FLYING",
+        "second": "DRAGON"
     },
     {
         "term": "xerneas",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "yveltal",
-        "first": "dark",
-        "second": "flying"
+        "first": "DARK",
+        "second": "FLYING"
     },
     {
         "term": "zygarde 50% 50 normal",
-        "first": "dragon",
-        "second": "ground"
+        "first": "DRAGON",
+        "second": "GROUND"
     },
     {
         "term": "zygarde 10% 10 dog",
-        "first": "dragon",
-        "second": "ground"
+        "first": "DRAGON",
+        "second": "GROUND"
     },
     {
         "term": "zygarde complete 100% 100",
-        "first": "dragon",
-        "second": "ground"
+        "first": "DRAGON",
+        "second": "GROUND"
     },
     {
         "term": "diancie",
-        "first": "rock",
-        "second": "fairy"
+        "first": "ROCK",
+        "second": "FAIRY"
     },
     {
         "term": "mega diancie",
-        "first": "rock",
-        "second": "fairy"
+        "first": "ROCK",
+        "second": "FAIRY"
     },
     {
         "term": "hoopa confined",
-        "first": "psychic",
-        "second": "dark"
+        "first": "PSYCHIC",
+        "second": "DARK"
     },
     {
         "term": "hoopa unbound",
-        "first": "psychic",
-        "second": "dark"
+        "first": "PSYCHIC",
+        "second": "DARK"
     },
     {
         "term": "volcanion",
-        "first": "fire",
-        "second": "water"
+        "first": "FIRE",
+        "second": "WATER"
     },
     {
         "term": "rowlet",
-        "first": "grass",
-        "second": "flying"
+        "first": "GRASS",
+        "second": "FLYING"
     },
     {
         "term": "dartrix",
-        "first": "grass",
-        "second": "flying"
+        "first": "GRASS",
+        "second": "FLYING"
     },
     {
         "term": "decidueye",
-        "first": "grass",
-        "second": "ghost"
+        "first": "GRASS",
+        "second": "GHOST"
     },
     {
         "term": "litten",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "torracat",
-        "first": "fire",
+        "first": "FIRE",
         "second": null
     },
     {
         "term": "incineroar",
-        "first": "fire",
-        "second": "dark"
+        "first": "FIRE",
+        "second": "DARK"
     },
     {
         "term": "popplio",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "brionne",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "primarina",
-        "first": "water",
-        "second": "fairy"
+        "first": "WATER",
+        "second": "FAIRY"
     },
     {
         "term": "pikipek",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "trumbeak",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "toucannon",
-        "first": "normal",
-        "second": "flying"
+        "first": "NORMAL",
+        "second": "FLYING"
     },
     {
         "term": "yungoos",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "gumshoos",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "grubbin",
-        "first": "bug",
+        "first": "BUG",
         "second": null
     },
     {
         "term": "charjabug",
-        "first": "bug",
-        "second": "electric"
+        "first": "BUG",
+        "second": "ELECTRIC"
     },
     {
         "term": "vikavolt",
-        "first": "bug",
-        "second": "electric"
+        "first": "BUG",
+        "second": "ELECTRIC"
     },
     {
         "term": "crabrawler",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "crabominable",
-        "first": "fighting",
-        "second": "ice"
+        "first": "FIGHTING",
+        "second": "ICE"
     },
     {
         "term": "oricorio",
-        "first": "fire",
-        "second": "flying"
+        "first": "FIRE",
+        "second": "FLYING"
     },
     {
         "term": "cutiefly",
-        "first": "bug",
-        "second": "fairy"
+        "first": "BUG",
+        "second": "FAIRY"
     },
     {
         "term": "ribombee",
-        "first": "bug",
-        "second": "fairy"
+        "first": "BUG",
+        "second": "FAIRY"
     },
     {
         "term": "rockruff",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "lycanroc midday",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "lycanroc midnight",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "lycanroc dusk",
-        "first": "rock",
+        "first": "ROCK",
         "second": null
     },
     {
         "term": "wishiwashi solo",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "wishiwashi school",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "mareanie",
-        "first": "poison",
-        "second": "water"
+        "first": "POISON",
+        "second": "WATER"
     },
     {
         "term": "toxapex",
-        "first": "poison",
-        "second": "water"
+        "first": "POISON",
+        "second": "WATER"
     },
     {
         "term": "mudbray",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "mudsdale",
-        "first": "ground",
+        "first": "GROUND",
         "second": null
     },
     {
         "term": "dewpider",
-        "first": "water",
-        "second": "bug"
+        "first": "WATER",
+        "second": "BUG"
     },
     {
         "term": "araquanid",
-        "first": "water",
-        "second": "bug"
+        "first": "WATER",
+        "second": "BUG"
     },
     {
         "term": "fomantis",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "lurantis",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "morelull",
-        "first": "grass",
-        "second": "fairy"
+        "first": "GRASS",
+        "second": "FAIRY"
     },
     {
         "term": "shiinotic",
-        "first": "grass",
-        "second": "fairy"
+        "first": "GRASS",
+        "second": "FAIRY"
     },
     {
         "term": "salandit",
-        "first": "poison",
-        "second": "fire"
+        "first": "POISON",
+        "second": "FIRE"
     },
     {
         "term": "salazzle",
-        "first": "poison",
-        "second": "fire"
+        "first": "POISON",
+        "second": "FIRE"
     },
     {
         "term": "stufful",
-        "first": "normal",
-        "second": "fighting"
+        "first": "NORMAL",
+        "second": "FIGHTING"
     },
     {
         "term": "bewear",
-        "first": "normal",
-        "second": "fighting"
+        "first": "NORMAL",
+        "second": "FIGHTING"
     },
     {
         "term": "bounsweet",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "steenee",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "tsareena",
-        "first": "grass",
+        "first": "GRASS",
         "second": null
     },
     {
         "term": "comfey",
-        "first": "fairy",
+        "first": "FAIRY",
         "second": null
     },
     {
         "term": "oranguru",
-        "first": "normal",
-        "second": "psychic"
+        "first": "NORMAL",
+        "second": "PSYCHIC"
     },
     {
         "term": "passimian",
-        "first": "fighting",
+        "first": "FIGHTING",
         "second": null
     },
     {
         "term": "wimpod",
-        "first": "bug",
-        "second": "water"
+        "first": "BUG",
+        "second": "WATER"
     },
     {
         "term": "golisopod",
-        "first": "bug",
-        "second": "water"
+        "first": "BUG",
+        "second": "WATER"
     },
     {
         "term": "sandygast",
-        "first": "ghost",
-        "second": "ground"
+        "first": "GHOST",
+        "second": "GROUND"
     },
     {
         "term": "palossand",
-        "first": "ghost",
-        "second": "ground"
+        "first": "GHOST",
+        "second": "GROUND"
     },
     {
         "term": "pyukumuku",
-        "first": "water",
+        "first": "WATER",
         "second": null
     },
     {
         "term": "type: null",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "silvally",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "minior meteor",
-        "first": "rock",
-        "second": "flying"
+        "first": "ROCK",
+        "second": "FLYING"
     },
     {
         "term": "minior core",
-        "first": "rock",
-        "second": "flying"
+        "first": "ROCK",
+        "second": "FLYING"
     },
     {
         "term": "komala",
-        "first": "normal",
+        "first": "NORMAL",
         "second": null
     },
     {
         "term": "turtonator",
-        "first": "fire",
-        "second": "dragon"
+        "first": "FIRE",
+        "second": "DRAGON"
     },
     {
         "term": "togedemaru",
-        "first": "electric",
-        "second": "steel"
+        "first": "ELECTRIC",
+        "second": "STEEL"
     },
     {
         "term": "mimikyu",
-        "first": "ghost",
-        "second": "fairy"
+        "first": "GHOST",
+        "second": "FAIRY"
     },
     {
         "term": "bruxish",
-        "first": "water",
-        "second": "psychic"
+        "first": "WATER",
+        "second": "PSYCHIC"
     },
     {
         "term": "drampa",
-        "first": "normal",
-        "second": "dragon"
+        "first": "NORMAL",
+        "second": "DRAGON"
     },
     {
         "term": "dhelmise",
-        "first": "ghost",
-        "second": "grass"
+        "first": "GHOST",
+        "second": "GRASS"
     },
     {
         "term": "jangmo o",
-        "first": "dragon",
+        "first": "DRAGON",
         "second": null
     },
     {
         "term": "hakamo o",
-        "first": "dragon",
-        "second": "fighting"
+        "first": "DRAGON",
+        "second": "FIGHTING"
     },
     {
         "term": "kommo o",
-        "first": "dragon",
-        "second": "fighting"
+        "first": "DRAGON",
+        "second": "FIGHTING"
     },
     {
         "term": "tapu koko",
-        "first": "electric",
-        "second": "fairy"
+        "first": "ELECTRIC",
+        "second": "FAIRY"
     },
     {
         "term": "tapu lele",
-        "first": "psychic",
-        "second": "fairy"
+        "first": "PSYCHIC",
+        "second": "FAIRY"
     },
     {
         "term": "tapu bulu",
-        "first": "grass",
-        "second": "fairy"
+        "first": "GRASS",
+        "second": "FAIRY"
     },
     {
         "term": "tapu fini",
-        "first": "water",
-        "second": "fairy"
+        "first": "WATER",
+        "second": "FAIRY"
     },
     {
         "term": "cosmog",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "cosmoem",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "solgaleo",
-        "first": "psychic",
-        "second": "steel"
+        "first": "PSYCHIC",
+        "second": "STEEL"
     },
     {
         "term": "lunala",
-        "first": "psychic",
-        "second": "ghost"
+        "first": "PSYCHIC",
+        "second": "GHOST"
     },
     {
         "term": "nihilego",
-        "first": "rock",
-        "second": "poison"
+        "first": "ROCK",
+        "second": "POISON"
     },
     {
         "term": "buzzwole",
-        "first": "bug",
-        "second": "fighting"
+        "first": "BUG",
+        "second": "FIGHTING"
     },
     {
         "term": "pheromosa",
-        "first": "bug",
-        "second": "fighting"
+        "first": "BUG",
+        "second": "FIGHTING"
     },
     {
         "term": "xurkitree",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "celesteela",
-        "first": "steel",
-        "second": "flying"
+        "first": "STEEL",
+        "second": "FLYING"
     },
     {
         "term": "kartana",
-        "first": "grass",
-        "second": "steel"
+        "first": "GRASS",
+        "second": "STEEL"
     },
     {
         "term": "guzzlord",
-        "first": "dark",
-        "second": "dragon"
+        "first": "DARK",
+        "second": "DRAGON"
     },
     {
         "term": "necrozma",
-        "first": "psychic",
+        "first": "PSYCHIC",
         "second": null
     },
     {
         "term": "dusk mane necrozma",
-        "first": "psychic",
-        "second": "steel"
+        "first": "PSYCHIC",
+        "second": "STEEL"
     },
     {
         "term": "dawn wings necrozma",
-        "first": "psychic",
-        "second": "ghost"
+        "first": "PSYCHIC",
+        "second": "GHOST"
     },
     {
         "term": "ultra necrozma",
-        "first": "psychic",
-        "second": "dragon"
+        "first": "PSYCHIC",
+        "second": "DRAGON"
     },
     {
         "term": "magearna",
-        "first": "steel",
-        "second": "fairy"
+        "first": "STEEL",
+        "second": "FAIRY"
     },
     {
         "term": "marshadow",
-        "first": "fighting",
-        "second": "ghost"
+        "first": "FIGHTING",
+        "second": "GHOST"
     },
     {
         "term": "poipole",
-        "first": "poison",
+        "first": "POISON",
         "second": null
     },
     {
         "term": "naganadel",
-        "first": "poison",
-        "second": "dragon"
+        "first": "POISON",
+        "second": "DRAGON"
     },
     {
         "term": "stakataka",
-        "first": "rock",
-        "second": "steel"
+        "first": "ROCK",
+        "second": "STEEL"
     },
     {
         "term": "blacephalon",
-        "first": "fire",
-        "second": "ghost"
+        "first": "FIRE",
+        "second": "GHOST"
     },
     {
         "term": "zeraora",
-        "first": "electric",
+        "first": "ELECTRIC",
         "second": null
     },
     {
         "term": "meltan",
-        "first": null,
+        "first": "STEEL",
         "second": null
     },
     {
         "term": "melmetal",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "grookey",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "thwackey",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "rillaboom",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "scorbunny",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "raboot",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "cinderace",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "sobble",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "drizzile",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "inteleon",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "skwovet",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "greedent",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "rookidee",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "corvisquire",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "corviknight",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "blipbug",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "dottler",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "orbeetle",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "nickit",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "thievul",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "gossifleur",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "eldegoss",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "wooloo",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "dubwool",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "chewtle",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "drednaw",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "yamper",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "boltund",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "rolycoly",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "carkol",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "coalossal",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "applin",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "flapple",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "appletun",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "silicobra",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "sandaconda",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "cramorant",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "arrokuda",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "barraskewda",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "toxel",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "toxtricity amped",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "toxtricity low key",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "sizzlipede",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "centiskorch",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "clobbopus",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "grapploct",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "sinistea",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "polteageist",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "hatenna",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "hattrem",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "hatterene",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "impidimp",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "morgrem",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "grimmsnarl",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "obstagoon",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "perrserker",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "cursola",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "sirfetch'd",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "mr. rime",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "runerigus",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "milcery",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "alcremie",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "falinks",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "pincurchin",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "snom",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "frosmoth",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "stonjourner",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "eiscue ice face",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "eiscue noice face",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "indeedee male",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "indeedee female",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "morpeko",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "cufant",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "copperajah",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "dracozolt",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "arctozolt",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "dracovish",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "arctovish",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "duraludon",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "dreepy",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "drakloak",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "dragapult",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "zacian",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "zacian crowned sword",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "zamazenta",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "zamazenta crowned shield",
-        "first": null,
-        "second": null
-    },
-    {
-        "term": "eternatus",
-        "first": null,
+        "first": "STEEL",
         "second": null
     }
 ]
