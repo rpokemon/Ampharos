@@ -2,7 +2,7 @@
 name = "Ampharos"
 version = "3.0.0"
 description = "A Pokemon Database for Donphan"
-authors = [""]
+authors = ["bijij <josh@josh-is.gay>"]
 license = "MIT"
 readme = "README.rst"
 include = ["ampharos/data/*"]
