@@ -97,7 +97,7 @@
     {
         "dex_no": 12,
         "classification": "Butterfly Pok\u00e9mon",
-        "term": "giganatmax butterfree"
+        "term": "gigantamax butterfree"
     },
     {
         "dex_no": 13,
@@ -892,17 +892,17 @@
     {
         "dex_no": 128,
         "classification": "Wild Bull Pok\u00e9mon",
-        "term": "galarian tauros"
+        "term": "paldean tauros"
     },
     {
         "dex_no": 128,
         "classification": "Wild Bull Pok\u00e9mon",
-        "term": "galarian tauros blaze breed"
+        "term": "paldean tauros blaze"
     },
     {
         "dex_no": 128,
         "classification": "Wild Bull Pok\u00e9mon",
-        "term": "galarian tauros aqua breed"
+        "term": "paldean tauros aqua"
     },
     {
         "dex_no": 129,
@@ -1297,7 +1297,7 @@
     {
         "dex_no": 194,
         "classification": "Water Fish Pok\u00e9mon",
-        "term": "galarian wooper"
+        "term": "paldean wooper"
     },
     {
         "dex_no": 195,
@@ -3522,12 +3522,12 @@
     {
         "dex_no": 555,
         "classification": "Blazing Pok\u00e9mon",
-        "term": "darmanitan zen mode"
+        "term": "darmanitan zen"
     },
     {
         "dex_no": 555,
         "classification": "Blazing Pok\u00e9mon",
-        "term": "galarian darmanitan zen mode"
+        "term": "galarian darmanitan zen"
     },
     {
         "dex_no": 556,

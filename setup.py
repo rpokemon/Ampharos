@@ -20,10 +20,10 @@ with open("README.rst") as f:
 setup(
     name="ampharos",
     author="bijij",
-    url="https://github.com/bijij/ampharos",
+    url="https://github.com/rpokemon/ampharos",
     project_urls={
         "Documentation": "",
-        "Issue tracker": "https://github.com/bijij/ampharos/issues",
+        "Issue tracker": "https://github.com/rpokemon/ampharos/issues",
     },
     version=version,
     packages=["ampharos"],
@@ -32,7 +32,6 @@ setup(
     long_description=readme,
     long_description_content_type="text/x-rst",
     include_package_data=True,
-    dependency_links=["http://github.com/bijij/donphan/master#egg=donphan"],
     install_requires=requirements,
     python_requires=">=3.10.0",
 )

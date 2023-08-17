@@ -1,12 +1,8 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import TYPE_CHECKING
 
 from .tables import Category, Typing
-
-if TYPE_CHECKING:
-    from _typeshed import SupportsRead
 
 try:
     from ampharos_images import IMAGES_AVAILABLE, get_image  # type: ignore
@@ -81,8 +77,8 @@ class PokemonName(_BasePokemonObject):
     """
 
     english: str
-    japanese: str
-    kana: str
+    japanese: str | None
+    kana: str | None
 
 
 @dataclass
@@ -180,14 +176,14 @@ class Pokemon(_BasePokemonObject):
     pokedex_number: int
     classification: str
     name: PokemonName
-    pokedex_entries: PokemonPokedexEntries
+    pokedex_entries: PokemonPokedexEntries | None
     evolutions: list[Pokemon]
-    base_stats: PokemonBaseStats
-    typing: PokemonTypings
-    abilities: PokemonAbilities
+    base_stats: PokemonBaseStats | None
+    typing: PokemonTypings | None
+    abilities: PokemonAbilities | None
 
     @property
-    def image(self) -> SupportsRead[bytes] | None:
+    def image(self) -> bytes | None:
         if not IMAGES_AVAILABLE:
             raise ImportError("ampharos_images is not installed")
-        return get_image(self._term)
+        return get_image(self)

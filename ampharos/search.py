@@ -148,7 +148,7 @@ async def _pokemon(
     dct["pokedex_entries"] = await _fetch(connection, tables.PokemonDexEntries, term, types.PokemonPokedexEntries)
     dct["base_stats"] = await _fetch(connection, tables.PokemonBaseStats, term, types.PokemonBaseStats)
     dct["typing"] = await _fetch(connection, tables.PokemonTypes, term, types.PokemonTypings)
-    dct["abilities"] = _fetch(connection, tables.PokemonAbilities, term, types.PokemonAbilities)
+    dct["abilities"] = await _fetch(connection, tables.PokemonAbilities, term, types.PokemonAbilities)
 
     evolutions = await tables.PokemonEvolutions.fetch(connection, term=term)
     dct["evolutions"] = [await pokemon(connection, record["evolution"]) for record in evolutions]
