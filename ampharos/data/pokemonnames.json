@@ -3240,8 +3240,20 @@
         "kana": "\u30c8\u30ea\u30c7\u30d7\u30b9"
     },
     {
-        "term": "burmy",
-        "english": "Burmy",
+        "term": "burmy plant cloak",
+        "english": "Burmy Plant Cloak",
+        "japanese": "Minomucchi",
+        "kana": "\u30df\u30ce\u30e0\u30c3\u30c1"
+    },
+    {
+        "term": "burmy sandy cloak",
+        "english": "Burmy Sandy Cloak",
+        "japanese": "Minomucchi",
+        "kana": "\u30df\u30ce\u30e0\u30c3\u30c1"
+    },
+    {
+        "term": "burmy trash cloak",
+        "english": "Burmy Trash Cloak",
         "japanese": "Minomucchi",
         "kana": "\u30df\u30ce\u30e0\u30c3\u30c1"
     },
@@ -3312,14 +3324,26 @@
         "kana": "\u30c1\u30a7\u30ea\u30e0"
     },
     {
-        "term": "shellos",
-        "english": "Shellos",
+        "term": "shellos east",
+        "english": "Shellos East Sea",
         "japanese": "Karanakushi",
         "kana": "\u30ab\u30e9\u30ca\u30af\u30b7"
     },
     {
-        "term": "gastrodon",
-        "english": "Gastrodon",
+        "term": "shellos west",
+        "english": "Shellos West Sea",
+        "japanese": "Karanakushi",
+        "kana": "\u30ab\u30e9\u30ca\u30af\u30b7"
+    },
+    {
+        "term": "gastrodon east",
+        "english": "Gastrodon East Sea",
+        "japanese": "Toritoidon",
+        "kana": "\u30c8\u30ea\u30c8\u30c9\u30f3"
+    },
+    {
+        "term": "gastrodon west",
+        "english": "Gastrodon West Sea",
         "japanese": "Toritoidon",
         "kana": "\u30c8\u30ea\u30c8\u30c9\u30f3"
     },
@@ -4434,14 +4458,50 @@
         "kana": "\u30d0\u30a4\u30d0\u30cb\u30e9"
     },
     {
-        "term": "deerling",
-        "english": "Deerling",
+        "term": "deerling summer",
+        "english": "Deerling Summer",
         "japanese": "Shikijika",
         "kana": "\u30b7\u30ad\u30b8\u30ab"
     },
     {
-        "term": "sawsbuck",
-        "english": "Sawsbuck",
+        "term": "deerling autumn",
+        "english": "Deerling Autumn",
+        "japanese": "Shikijika",
+        "kana": "\u30b7\u30ad\u30b8\u30ab"
+    },
+    {
+        "term": "deerling winter",
+        "english": "Deerling  Winter",
+        "japanese": "Shikijika",
+        "kana": "\u30b7\u30ad\u30b8\u30ab"
+    },
+    {
+        "term": "deerling spring",
+        "english": "Deerling Spring",
+        "japanese": "Shikijika",
+        "kana": "\u30b7\u30ad\u30b8\u30ab"
+    },
+    {
+        "term": "sawsbuck summer",
+        "english": "Sawsbuck Summer",
+        "japanese": "Mebukijika",
+        "kana": "\u30e1\u30d6\u30ad\u30b8\u30ab"
+    },
+    {
+        "term": "sawsbuck autumn",
+        "english": "Sawsbuck Autumn",
+        "japanese": "Mebukijika",
+        "kana": "\u30e1\u30d6\u30ad\u30b8\u30ab"
+    },
+    {
+        "term": "sawsbuck winter",
+        "english": "Sawsbuck Winter",
+        "japanese": "Mebukijika",
+        "kana": "\u30e1\u30d6\u30ad\u30b8\u30ab"
+    },
+    {
+        "term": "sawsbuck spring",
+        "english": "Sawsbuck Spring",
         "japanese": "Mebukijika",
         "kana": "\u30e1\u30d6\u30ad\u30b8\u30ab"
     },
@@ -5268,50 +5328,14 @@
         "kana": "\u30aa\u30fc\u30ed\u30c3\u30c8"
     },
     {
-        "term": "pumpkaboo small",
-        "english": "Pumpkaboo Small",
+        "term": "pumpkaboo",
+        "english": "Pumpkaboo",
         "japanese": "Bakeccha",
         "kana": "\u30d0\u30b1\u30c3\u30c1\u30e3"
     },
     {
-        "term": "pumpkaboo average",
-        "english": "Pumpkaboo Average",
-        "japanese": "Bakeccha",
-        "kana": "\u30d0\u30b1\u30c3\u30c1\u30e3"
-    },
-    {
-        "term": "pumpkaboo large",
-        "english": "Pumpkaboo Large",
-        "japanese": "Bakeccha",
-        "kana": "\u30d0\u30b1\u30c3\u30c1\u30e3"
-    },
-    {
-        "term": "pumpkaboo super",
-        "english": "Pumpkaboo Super",
-        "japanese": "Bakeccha",
-        "kana": "\u30d0\u30b1\u30c3\u30c1\u30e3"
-    },
-    {
-        "term": "gourgeist small",
-        "english": "Gourgeist Small",
-        "japanese": "Pumpjin",
-        "kana": "\u30d1\u30f3\u30d7\u30b8\u30f3"
-    },
-    {
-        "term": "gourgeist average",
-        "english": "Gourgeist Average",
-        "japanese": "Pumpjin",
-        "kana": "\u30d1\u30f3\u30d7\u30b8\u30f3"
-    },
-    {
-        "term": "gourgeist large",
-        "english": "Gourgeist Large",
-        "japanese": "Pumpjin",
-        "kana": "\u30d1\u30f3\u30d7\u30b8\u30f3"
-    },
-    {
-        "term": "gourgeist super",
-        "english": "Gourgeist Super",
+        "term": "gourgeist",
+        "english": "Gourgeist",
         "japanese": "Pumpjin",
         "kana": "\u30d1\u30f3\u30d7\u30b8\u30f3"
     },
@@ -5372,6 +5396,18 @@
     {
         "term": "zygarde complete 100% 100",
         "english": "Zygarde Complete",
+        "japanese": "Zygarde",
+        "kana": "\u30b8\u30ac\u30eb\u30c7"
+    },
+    {
+        "term": "zygarde cell",
+        "english": "Zygarde Cell",
+        "japanese": "Zygarde",
+        "kana": "\u30b8\u30ac\u30eb\u30c7"
+    },
+    {
+        "term": "zygarde core",
+        "english": "Zygarde Core",
         "japanese": "Zygarde",
         "kana": "\u30b8\u30ac\u30eb\u30c7"
     },

@@ -2702,7 +2702,17 @@
     {
         "dex_no": 412,
         "classification": "Bagworm Pok\u00e9mon",
-        "term": "burmy"
+        "term": "burmy plant cloak"
+    },
+    {
+        "dex_no": 412,
+        "classification": "Bagworm Pok\u00e9mon",
+        "term": "burmy sandy cloak"
+    },
+    {
+        "dex_no": 412,
+        "classification": "Bagworm Pok\u00e9mon",
+        "term": "burmy trash cloak"
     },
     {
         "dex_no": 413,
@@ -2762,12 +2772,22 @@
     {
         "dex_no": 422,
         "classification": "Sea Slug Pok\u00e9mon",
-        "term": "shellos"
+        "term": "shellos east"
+    },
+    {
+        "dex_no": 422,
+        "classification": "Sea Slug Pok\u00e9mon",
+        "term": "shellos west"
     },
     {
         "dex_no": 423,
         "classification": "Sea Slug Pok\u00e9mon",
-        "term": "gastrodon"
+        "term": "gastrodon east"
+    },
+    {
+        "dex_no": 423,
+        "classification": "Sea Slug Pok\u00e9mon",
+        "term": "gastrodon west"
     },
     {
         "dex_no": 424,
@@ -3697,12 +3717,42 @@
     {
         "dex_no": 585,
         "classification": "Season Pok\u00e9mon",
-        "term": "deerling"
+        "term": "deerling summer"
+    },
+    {
+        "dex_no": 585,
+        "classification": "Season Pok\u00e9mon",
+        "term": "deerling autumn"
+    },
+    {
+        "dex_no": 585,
+        "classification": "Season Pok\u00e9mon",
+        "term": "deerling winter"
+    },
+    {
+        "dex_no": 585,
+        "classification": "Season Pok\u00e9mon",
+        "term": "deerling spring"
     },
     {
         "dex_no": 586,
         "classification": "Season Pok\u00e9mon",
-        "term": "sawsbuck"
+        "term": "sawsbuck summer"
+    },
+    {
+        "dex_no": 586,
+        "classification": "Season Pok\u00e9mon",
+        "term": "sawsbuck autumn"
+    },
+    {
+        "dex_no": 586,
+        "classification": "Season Pok\u00e9mon",
+        "term": "sawsbuck winter"
+    },
+    {
+        "dex_no": 586,
+        "classification": "Season Pok\u00e9mon",
+        "term": "sawsbuck spring"
     },
     {
         "dex_no": 587,
@@ -4395,39 +4445,9 @@
         "term": "pumpkaboo small"
     },
     {
-        "dex_no": 710,
-        "classification": "Pumpkin Pok\u00e9mon",
-        "term": "pumpkaboo average"
-    },
-    {
-        "dex_no": 710,
-        "classification": "Pumpkin Pok\u00e9mon",
-        "term": "pumpkaboo large"
-    },
-    {
-        "dex_no": 710,
-        "classification": "Pumpkin Pok\u00e9mon",
-        "term": "pumpkaboo super"
-    },
-    {
         "dex_no": 711,
         "classification": "Pumpkin Pok\u00e9mon",
-        "term": "gourgeist small"
-    },
-    {
-        "dex_no": 711,
-        "classification": "Pumpkin Pok\u00e9mon",
-        "term": "gourgeist average"
-    },
-    {
-        "dex_no": 711,
-        "classification": "Pumpkin Pok\u00e9mon",
-        "term": "gourgeist large"
-    },
-    {
-        "dex_no": 711,
-        "classification": "Pumpkin Pok\u00e9mon",
-        "term": "gourgeist super"
+        "term": "gourgeist"
     },
     {
         "dex_no": 712,
@@ -4478,6 +4498,16 @@
         "dex_no": 718,
         "classification": "Order Pok\u00e9mon",
         "term": "zygarde complete 100% 100"
+    },
+    {
+        "dex_no": 718,
+        "classification": "Order Pok\u00e9mon",
+        "term": "zygarde core"
+    },
+    {
+        "dex_no": 718,
+        "classification": "Order Pok\u00e9mon",
+        "term": "zygarde cell"
     },
     {
         "dex_no": 719,
